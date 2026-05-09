@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 121,
+  "original_image_tags": [
+    "Hand-drawn sketch of a circular \"saucer\" craft, showing internal components and mechanisms. The sketch is a cross-section or cutaway view."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A hand-drawn diagram of a circular 'saucer' craft. The sketch depicts a circular outer rim, a central vertical shaft labeled 'center stanchion of saucer', and two horizontal arms extending from the center. Attached to these arms are components labeled 'collars', 'spreaders to hold weights apart', and circular elements labeled 'weights revolving inside saucer'. Arrows point to the horizontal arms with the text 'slides horizontal to keep weights centered as they revolve'. Additional handwritten text annotates the components, including 'length 20 in.' and 'weights held apart'. The sketch is executed in black ink or pencil on aged paper with several handwritten annotations and punched holes at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the core visual category (hand-drawn sketch of a circular saucer craft), but Description B adds extensive specific component labels and textual annotations that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:58"
+}

@@ -1,0 +1,47 @@
+=== runner v3 start === 116 PDFs queued, concurrency=10, max_pages=None, model=mimo-v2.5, prompt=v3.0-uap-archive
+START 059uap00011.pdf (5 pages)
+START 059uap00012.pdf (5 pages)
+START 18_100754_general_1946-7_vol_2.pdf (28 pages)
+START 059uap00013.pdf (7 pages)
+START 2024-04-30-composite-sketch.pdf (1 pages)
+START 18_6369445_general_1948_vol_1.pdf (28 pages)
+START 255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf (94 pages)
+START 255_t_763_r1b_transcripts.pdf (4 pages)
+START 331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf (17 pages)
+START 341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf (7 pages)
+  VLM ERROR 059uap00011.pdf p1: TypeError: 'NoneType' object is not iterable
+  VLM ERROR 059uap00013.pdf p1: TypeError: 'NoneType' object is not iterable
+FAIL 059uap00011.pdf: TypeError: 'NoneType' object is not iterable
+START 341_110677_numerical_file_5-2500.pdf (10 pages)
+FAIL 059uap00013.pdf: TypeError: 'NoneType' object is not iterable
+START 342_hs1-416511228_box186_319.1-flying-discs-1949.pdf (143 pages)
+  VLM ERROR 059uap00012.pdf p1: TypeError: 'NoneType' object is not iterable
+FAIL 059uap00012.pdf: TypeError: 'NoneType' object is not iterable
+START 38_143685_box7_incident_summaries_1-100.pdf (209 pages)
+DONE  2024-04-30-composite-sketch.pdf 1 pages in 20.3s
+START 38_143685_box7_incident_summaries_101-172.pdf (178 pages)
+DONE  255_t_763_r1b_transcripts.pdf 4 pages in 44.5s
+START 38_143685_box7_incident_summaries_173-233.pdf (144 pages)
+DONE  341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf 7 pages in 86.3s
+START 59_214434_sp_16_19630718.pdf (6 pages)
+DONE  59_214434_sp_16_19630718.pdf 6 pages in 69.5s
+START 59_214434_sp_16_7.18.1963.pdf (6 pages)
+DONE  341_110677_numerical_file_5-2500.pdf 10 pages in 214.0s
+START 65_HS1-834228961_62-HQ-83894_Serial_153.pdf (9 pages)
+DONE  59_214434_sp_16_7.18.1963.pdf 6 pages in 66.3s
+START 65_hs1-101634279_100-de-18221_serial_844.pdf (1 pages)
+DONE  331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf 17 pages in 236.3s
+START 65_hs1-101634279_100-de-26505.pdf (15 pages)
+DONE  65_hs1-101634279_100-de-18221_serial_844.pdf 1 pages in 13.0s
+START 65_hs1-834228961_62-hq-83894_section_1.pdf (185 pages)
+DONE  65_HS1-834228961_62-HQ-83894_Serial_153.pdf 9 pages in 71.3s
+START 65_hs1-834228961_62-hq-83894_section_10.pdf (184 pages)
+DONE  18_6369445_general_1948_vol_1.pdf 28 pages in 335.6s
+START 65_hs1-834228961_62-hq-83894_section_2.pdf (194 pages)
+DONE  18_100754_general_1946-7_vol_2.pdf 28 pages in 349.2s
+START 65_hs1-834228961_62-hq-83894_section_3.pdf (190 pages)
+DONE  65_hs1-101634279_100-de-26505.pdf 15 pages in 144.5s
+START 65_hs1-834228961_62-hq-83894_section_4.pdf (214 pages)
+  VLM ERROR 65_hs1-834228961_62-hq-83894_section_3.pdf p13: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Request failed', 'param': 'Connection prematurely closed BEFORE response', 'type': ''}}
+FAIL 65_hs1-834228961_62-hq-83894_section_3.pdf: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Request failed', 'param': 'Connection prematurely closed BEFORE response', 'type': ''}}
+START 65_hs1-834228961_62-hq-83894_section_5.pdf (209 pages)

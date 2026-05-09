@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 65,
+  "original_image_tags": [
+    "A single, off-white index card or note card with handwritten text in blue ink. The top left corner of the card is torn and missing. A black punch hole is visible near the top center, and another black mark is at the top right edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A handwritten letter in cursive blue ink on aged paper. The top line is partially obscured by a black mark and reads 'flying Saucers (?) and shattered Windshie[lds]'. The body text discusses washing glass and passing along a thought. It is signed 'Respectfully yours (Mrs) Helen L. Sullivan'. A handwritten note in the lower left corner lists '2 Enc.', 'Rome Daily American', and the dates '9-28-54' and '10-17-54'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a torn index card with punch holes, while Description B describes a handwritten letter with specific quoted text and signatures, indicating they are describing fundamentally different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:03"
+}

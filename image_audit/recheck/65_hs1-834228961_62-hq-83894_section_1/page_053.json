@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 53,
+  "original_image_tags": [
+    "A yellowed, aged sheet of file paper with two punched holes at the top center. Centered on the page is a vertically oriented newspaper clipping, cut into two segments. The clipping discusses flying disk sightings in New Jersey."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A single, vertically oriented newspaper clipping. The clipping contains typed body text reporting on UFO sightings. Visible text includes the phrase 'flying disks' and mentions 'Palisades Park', 'Bergenfield', 'mysterious \"rockets\" seen over Sweden', 'Dr. J. S. Nassau', 'Warner & Swasey observatory', and 'Capt. Tom Brown, army air force'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual element (a vertically oriented newspaper clipping) and its general topic, but Description B adds extensive specific quoted text details that Description A does not mention, without direct contradiction.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:43"
+}

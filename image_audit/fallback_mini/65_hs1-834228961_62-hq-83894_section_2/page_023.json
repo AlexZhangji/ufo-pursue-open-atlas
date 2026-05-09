@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 23,
+  "categories": [
+    "map"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content: a 'World Aeronautical Chart Index' map with a 1:1,000,000 scale and a grid overlay, but Description B adds specific details about legends and a scale bar not mentioned by A, without contradicting A's claims.",
+  "original_image_tags": [
+    "large-scale aeronautical index map of the world, centered on the North Pole and Northern Hemisphere. Map is titled \"WORLD AERONAUTICAL CHART INDEX\". It shows a grid overlay of chart sectors across North America, Europe, Asia, and Northern Africa. The map indicates \"Scale of Series 1:1,000,000\". The map includes a grid with latitude and longitude markings. The map shows outlines of continents including \"UNION OF SOVIET SOCIALIST REPUBLICS\", \"GREENLAND\", \"NORTH AMERICA\", \"INDIA\", \"AUSTRALIA\". The map is printed on beige paper with a grid of numbered chart sectors. The map appears to be part of a larger folded document."
+  ],
+  "gpt_mini_desc": "*Image: A large folded world aeronautical chart/map with gridded latitude-longitude lines and country outlines, plus a left-side legend titled “Aeronautical Symbols” and bottom panels labeled “World Aeronautical Chart Index,” “Drainage Features,” “Relief Features,” and “Cultural Features.”*",
+  "gpt_mini_desc_len": 291,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 68,
+    "total_tokens": 54720,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:43"
+}

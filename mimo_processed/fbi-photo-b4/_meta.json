@@ -1,0 +1,22 @@
+{
+  "file": "fbi-photo-b4.pdf",
+  "stem": "fbi-photo-b4",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "d5dd840f008b10fcd88bcab731f07b56fb614aa16048ced9672c9b40a9c9bc69",
+  "size_bytes": 593683,
+  "total_pages": 1,
+  "pages_processed_in_run": 1,
+  "status": "complete",
+  "elapsed_sec": 0.1,
+  "completed_at": "2026-05-08 15:39:23",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    }
+  ]
+}

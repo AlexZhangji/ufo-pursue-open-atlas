@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 252,
+  "original_image_tags": [
+    "Handwritten letter in blue ink on off-white paper. The paper has two hole-punch marks at the top. An upside-down ink stamp from the Department of Justice / FBI is visible at the bottom center, reading \"U.S. DEPARTMENT OF JUSTICE / FEDERAL BUREAU OF INVESTIGATION / RECEIVED / JUN 31 1952 / MR. JONES\". A faint handwritten date \"JUN 8 1952\" is in the bottom left margin."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A handwritten letter on paper containing mostly cursive text, two black circular punch holes at the top, and a faint upside-down stamp in the lower right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on a handwritten letter with punch holes and a faint upside-down stamp, but Description A adds specific quoted stamp text and details that B omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:00:29"
+}

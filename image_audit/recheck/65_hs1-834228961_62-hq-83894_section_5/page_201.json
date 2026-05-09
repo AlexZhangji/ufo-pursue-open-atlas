@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 201,
+  "original_image_tags": [
+    "A photograph of two blank document pages or the backs of two photographs, placed side-by-side inside a clear plastic archival sleeve or binder. The pages are off-white/cream-colored paper, showing aging and some discoloration, particularly along the top edges. The left page has visible tape residue running vertically along its left edge. The right page has significant brownish staining/foxing along its top edge. The central crease of the binder sleeve is visible between them. The background is black."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "Two side-by-side rectangular document inserts or envelopes mounted on a dark background. The left insert has a translucent strip along its left edge; the right insert has discoloration along its top edge. Handwritten numbers '62-83894-242' are visible at the bottom of both inserts."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims the presence of specific handwritten numbers ('62-83894-242') visible at the bottom of both inserts, while Description A does not mention any handwritten numbers, indicating a direct factual contradiction on the visual content of the text within the images.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:57"
+}

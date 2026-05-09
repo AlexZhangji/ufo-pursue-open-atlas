@@ -1,0 +1,33 @@
+## CONFIDENTIAL
+*Image: A single, typewritten page on dark paper with two hole-punch marks at the top. The word "CONFIDENTIAL" is stamped at the top center and bottom center. The word "COPY" is stamped diagonally in the top right corner. The document is an affidavit.*
+
+## AFFIDAVIT
+
+STATE OF CALIFORNIA )
+COUNTY OF KERN )
+
+The following is a statement given by T/Sgt. Joseph Ruvolo, 4144th. AAFBU, Muroc Army Air Field, Muroc, California, statement given on 14 July 1947, to 1st Lt J. C. McHenry, Billeting Officer.
+
+This is my own written statement of what I saw on July 8, 1947.
+
+I am NCO in charge of the Billeting Office, this Field, and First Lieutenant Joseph C. McHenry, is Billeting Officer in Charge.
+
+About 09:45 he was returning from the Post Exchange when he called to me to come outside and asked me to look up to where he was pointing and to my surprise I saw two (2) flying objects which appeared to me like two (2) flying disc or saucer shaped silver colored objects, flying in a northwestern direction at speed approximately 350 or 400 miles per hour and at an altitude of about 7500 or 8000 feet. I could not hear a motor roar like one of our planes and it could not have been a balloon.
+
+I am of good health and sound mind and this was no hallucination.
+
+This statement has been given freely and voluntarily without any threats or promises under duress. This statement consists of one (1) page, and is the truth to the best of my knowledge and belief. I have initialed all corrections deemed necessary.
+
+&nbsp;
+
+s/s joseph ruvolo
+S/SGT JOSEPH RUVOLO
+
+**WITNESS:**
+
+s/s thomas a mc millan
+THOMAS A. MC MILLAN
+
+*[handwritten note in bottom left margin]:* *Illegible initials or symbol.*
+
+## CONFIDENTIAL

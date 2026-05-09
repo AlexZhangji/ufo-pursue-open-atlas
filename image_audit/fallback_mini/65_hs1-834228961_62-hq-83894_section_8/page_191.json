@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 191,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes two circular postage stamps, while Description B describes one circular postmark and one rectangular postage stamp, creating a direct contradiction in the number and shape of the visual stamp elements.",
+  "original_image_tags": [
+    "Two dark, circular US postage stamps affixed to the upper right corner. The left stamp is fully visible; the right stamp is partially obscured by the postmark and torn edge."
+  ],
+  "gpt_mini_desc": "*Image: A scanned envelope addressed to Mr. Leonard Stringfield, C.R.I.F.O. Orbit, 7017 Britton Avenue, Cincinnati 27, Ohio, with return address Eva Reich MD (Mrs. William S. Molse), Alexandria, Va.; it has an Alexandria, Va. postal stamp dated 1957, two postage stamps at the upper right, and the handwritten word “AIRMAIL.”*",
+  "gpt_mini_desc_len": 326,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 88,
+    "total_tokens": 14980,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:13"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 227,
+  "original_image_tags": [
+    "The image shows the back of a document page, which is pink in color. The page is covered in various blue and black ink stamps indicating the receipt of the document by different FBI offices and divisions on April 27, 1964. The stamps are in various orientations. There are two black binder holes at the top of the page. Faint text from the front of the page is visible through the paper, including the words \"TELETYPE\", \"COMMUNICATIONS SECTION\", and \"FEB 25 1964\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page contains multiple rubber stamps and faint reverse-side text bleed-through. No photographs, sketches, diagrams, or charts are present. Visible stamps include: 'RECEIVED - CONRAD' (Apr 27 12:05 PM '64), 'F B I LABORATORY DIVISION' (Apr 27 3:14 PM '64), 'PHYSICS & CHEMISTRY F B I LABORATORY' (Apr 27), 'REC'D HELMONT F B I - JUSTICE' (Apr 27 11:07 AM '64), 'RECEIVED-EVANS' (Apr 27 10:33 AM '64), 'F B I U.S. DEPT. OF JUSTICE' (Apr 25 7:55 PM '64), 'RECEIVED-TOLSON' (Apr 27 8:11 AM '64), and others. Faint, mostly illegible reverse-side text is visible in the upper half of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence of multiple FBI stamps and faint reverse-side text, with Description B providing more specific stamp details without contradicting Description A.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:12:07"
+}

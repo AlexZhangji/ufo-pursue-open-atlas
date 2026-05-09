@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 202,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A lists multiple specific visual elements (stamps, boxes) while Description B focuses on typed text and mentions stamps only generically, showing the descriptions are about different visual content or one is hallucinating details.",
+  "original_image_tags": [
+    "A red rectangular stamp in the center of the lower half of the page.",
+    "A large red numerical stamp with date on the lower left.",
+    "A faint blue stamp at the very bottom center.",
+    "A typed list of names on the lower left edge.",
+    "Small boxes for routing at the bottom."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typed FBI letter dated July 17, 1963, addressed to Mr. John L. Black in Sacramento, with handwritten red file number “429,” stamped date markings near the bottom, and marginal handwritten notations/signatures.*",
+  "gpt_mini_desc_len": 228,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 54,
+    "total_tokens": 14946,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:20"
+}

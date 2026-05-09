@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 64,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a form with visual elements like two black holes, a crossed-out 'SECRET' word, and an 'ACTION COPY' stamp, while Description B provides only typed text content with no mention of any of these specific visual features, indicating they are describing different content or one is hallucinating.",
+  "original_image_tags": [
+    "A pink-colored form with pre-printed headers and typed content. There are two large black holes at the top, likely from a binder or punch. The word \"SECRET\" is crossed out with a single line. A large stamp reads \"ACTION COPY\" with \"MATS\" above it. A handwritten note \"23 Feb MATS\" appears in the top right corner."
+  ],
+  "gpt_mini_desc": "*Image: A scanned pink typed military message form titled “INCOMING CLASSIFIED MESSAGE,” with multiple stamped markings including “MATS,” “ACTION COPY,” and handwritten “23 Feb.”*",
+  "gpt_mini_desc_len": 179,
+  "usage": {
+    "prompt_tokens": 15665,
+    "completion_tokens": 41,
+    "total_tokens": 15706,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:42"
+}

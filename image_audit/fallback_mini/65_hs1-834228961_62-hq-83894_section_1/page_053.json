@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 53,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual element (a vertically oriented newspaper clipping) and its general topic, but Description B adds extensive specific quoted text details that Description A does not mention, without direct contradiction.",
+  "original_image_tags": [
+    "A yellowed, aged sheet of file paper with two punched holes at the top center. Centered on the page is a vertically oriented newspaper clipping, cut into two segments. The clipping discusses flying disk sightings in New Jersey."
+  ],
+  "gpt_mini_desc": "*Image: A scanned beige document page with a small centered clipped newspaper article about “flying disks” and “mysterious ‘rockets’,” plus two black punch holes near the top edge.*",
+  "gpt_mini_desc_len": 181,
+  "usage": {
+    "prompt_tokens": 54659,
+    "completion_tokens": 44,
+    "total_tokens": 54703,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:22"
+}

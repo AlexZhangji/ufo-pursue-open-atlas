@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 105,
+  "original_image_tags": [
+    "A scanned, aged, off-white paper document, a memorandum from the FBI. The paper has two hole-punch marks at the top edge and shows some wear and creasing."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum from J. Edgar Hoover to the Director of Special Investigations, Department of the Air Force, dated February 11, 1953, regarding 'FLYING DISCS'. The document contains a block of typed text, several stamps (including 'RECORDED-84', 'EX-105', 'COMM - FBI FEB 11 1953 MAILED 30', '20 FEB 19 1953'), handwritten annotations in red ink and pencil, and a typed distribution list on the lower left."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree the document is a typed memorandum with stamps, but B provides specific quoted stamp text and layout details that A omits, without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:51:05"
+}

@@ -1,0 +1,13 @@
+I submit **for** your full consideration all I have said, my only motive being "human interest for human affairs" and my desire for the progress of humanity, for a good future full of dignity and cosmic evolution.
+
+Without further particulars, I remain
+
+Sincerely yours,
+
+S/ FRANCISCO TRONCOSO SILVA
+Casilla 1857.  Valparaiso
+Chile, South America
+
+P. S. Please acknowledge receipt of this letter.
+
+- 3 -

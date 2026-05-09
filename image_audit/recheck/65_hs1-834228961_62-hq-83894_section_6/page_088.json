@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 88,
+  "original_image_tags": [
+    "A single, aged, off-white paper sheet, likely the back of a document or a folder cover. The page has two hole-punch marks at the top. In the bottom-right corner, there is an inverted, circular \"RECEIVED\" stamp with faded blue ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A single faint, circular blue stamp containing several lines of text. Visible text includes 'RECEIVED', 'INTERNAL SECURITY', 'FBI', 'U.S. DEPT. OF JUSTICE', and 'NOV 17 3/8'. The stamp is partially legible and appears to be a receiving or filing stamp."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed text ('INTERNAL SECURITY', 'FBI', 'U.S. DEPT. OF JUSTICE', 'NOV 17 3/8') from the stamp that Description A does not mention at all, and Description A describes the stamp as simply a 'RECEIVED' stamp, creating a direct contradiction on the quoted content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:41"
+}

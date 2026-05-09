@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 181,
+  "original_image_tags": [
+    "Back of a document page, likely carbon copy or reverse side of a teletype message. Paper is aged, off-white/beige with two punch holes at the top. Blue ink stamps are visible at right and bottom left. Faint, reversed text from the front side bleeds through the paper.",
+    "Bottom left corner stamp, oriented upside down relative to the page orientation, reading:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page with two black hole-punch marks at the top, two visible rubber stamps, and faint reversed text from the opposite side of the page. One blue stamp reads 'RECEIVED TELETYPE UNIT JUL 4 3 32 PM '50 F.B.I. DEPT. OF JUSTICE'. A second blue stamp reads 'RECEIVED - DIRECTOR F B I U.S. DEPT. OF JUSTICE JUL 4 5 45 PM '50'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content: two punch holes at the top, two blue stamps, and faint reversed text bleed-through, but Description B adds specific quoted text for the stamps that Description A does not provide.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:20"
+}

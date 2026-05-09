@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 120,
+  "original_image_tags": [
+    "A grainy black-and-white photograph depicting a small, dark, disc-shaped object hovering against a twilight sky filled with streaky clouds. A white arrow has been drawn on the photo pointing to the object. The object is near the top left center of the frame."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black-and-white photograph showing a bright, white, circular, saucer-like object in the sky, with a faint trail behind it. The caption below the image reads 'I.N.P. Photo by U.S. Coast Guard' and is accompanied by a title 'Is It Saucer, Sorcery, or Just Plain Sausage?' and descriptive text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions appear to refer to different visual content, with A describing a small dark disc-shaped object with a drawn white arrow, while B describes a bright white circular saucer with a trail and includes specific quoted caption text not mentioned in A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:24"
+}

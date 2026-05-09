@@ -1,0 +1,38 @@
+## RESTRICTED
+
+CHECK-LIST - UNIDENTIFIED FLYING OBJECTS
+
+**Incident #** 33D
+
+| # | Field | Entry |
+| :--- | :--- | :--- |
+| 1. | Date | **7 Jan 48** |
+| 2. | Time | **After 1407** |
+| 3. | Location | **Godman Fld** |
+| 4. | Name of observer | **Capt Gary W. Carter** |
+| 5. | Occupation of observer | **Operations Officer** |
+| 6. | Address of observer | **Godman Fld., Ky** |
+| 7. | Place of observation | **Control Tower** |
+| 8. | Number of objects | **1** |
+| 9. | Distance of object from observer | **N/S** |
+| 10. | Time in sight | **3 to 4 minutes** |
+| 11. | Altitude | **Very high** |
+| 12. | Speed | **Approx 360 MPH - f/Flight Leader's reports** |
+| 13. | Direction of flight | **210° f/Godman Fld** |
+| 14. | Tactics | **None** |
+| 15. | Sound | **N/S** |
+| 16. | Size | **Could not be determined** |
+| 17. | Color | **white** |
+| 18. | Shape | **Round - at times cone shaped** |
+| 19. | Odor detected | **N/S** |
+| 20. | Apparent construction | **N/S** |
+| 21. | Exhaust trails | *~~Night: Unknown~~* **N/S** |
+| 22. | Weather conditions | **High scattered - ~~visibility unlimited~~** |
+| 23. | Effect on clouds | **Could be seen thru cirrus** |
+| 24. | Sketches or photographs | **None** |
+| 25. | Manner of disappearance | **N/S** |
+| 26. | Remarks: | **(over)** |
+
+## RESTRICTED
+
+72

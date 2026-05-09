@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 67,
+  "categories": [
+    "sketch",
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions contradict each other on the number and arrangement of sketches (A describes two distinct sketches with different content, while B describes two sketches with labels and arrows that A does not mention), and one side quotes specific text ('TOP' and 'BOTTOM' labels) that the other does not report, indicating a factual inconsistency in the visual content.",
+  "original_image_tags": [
+    "A scan of a page containing two black-and-white hand-drawn sketches, each within a rectangular border, mounted on a larger backing sheet. The paper appears aged with some speckling.",
+    "A hand-drawn sketch depicting a landscape with a cloudy sky. In the center, a large, disc-shaped or saucer-like object is shown tilted at an angle, appearing to either land on or take off from the ground. The object has a defined rim or edge. Below the object is a rough horizon line indicating terrain. Two distinct, solid black circular dots are drawn in the sky, one in the upper-left cloud area and one in the upper-right cloud area.",
+    "A hand-drawn sketch depicting a simpler, less detailed scene. It shows a dome-shaped or mushroom-shaped cloud or object rising from a flat horizon line. The form is rounded on top with a wider base. The interior of the form is filled with a light, textured shading."
+  ],
+  "gpt_mini_desc": "*Image: Two bordered black-and-white image panels on a document page: the top panel is a sketch-like scene with cloud bands and a large oval, ringed object over a landscape; the bottom panel is a faint sketch of a disk-like object with two rounded side lobes and a central vertical structure. Handwritten annotations on the right read “BOTTOM” with an arrow beside the top panel and “TOP” with an arrow beside the lower panel.*",
+  "gpt_mini_desc_len": 427,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 94,
+    "total_tokens": 56250,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:36"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 99,
+  "original_image_tags": [
+    "black-and-white photograph, labeled \"NACA photo\", of a saucer-shaped aircraft suspended in a hangar. The aircraft is elliptical, dark in color, and is shown with a large, lighter-colored upper section and a dark lower section. It has propellers visible. A person is standing beneath it for scale. The caption reads:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black and white photograph showing one early model flying saucer (labeled U.S. 'SAUCER'-1942 MODEL) inside a hangar. The saucer is circular, appears to be made of metal, and is supported by a large A-frame structure. A small silhouetted figure of a person stands to the right of the frame for scale. The text '-NACA photo' is visible in the bottom right corner of the image."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content (a black-and-white photograph of a saucer-shaped aircraft in a hangar with a person for scale and a 'NACA photo' label), but they differ on specific details like the label text ('U.S. 'SAUCER'-1942 MODEL' vs. not mentioned) and the supporting structure (A-frame vs. not mentioned), which are added details rather than direct contradictions.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:32:30"
+}

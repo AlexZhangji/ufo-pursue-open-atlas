@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 136,
+  "original_image_tags": [
+    "The page is a scan of a thin, aged document showing significant bleed-through text from the reverse side, making the primary faint text difficult to read. Two black punch holes are visible at the top. The bottom of the page features three stamped date markings in blue and red ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamped annotations on the page: blue stamp 'REC'D-ESIGNAGE FBI MAY 7 9:24 AM '56', red stamp 'INCONS JUN 25 1956', and black stamp 'OUTCONS JUN 26 1956'. The rest of the page contains faint, illegible typed text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific verbatim text for three distinct stamps while Description A describes the same three stamps as being only 'date markings' with no text content, creating a direct contradiction on the visual information present.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:35"
+}

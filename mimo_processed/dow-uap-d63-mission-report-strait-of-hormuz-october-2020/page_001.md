@@ -1,0 +1,37 @@
+Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 16 March 2026
+FOUO / Privacy Act applies
+
+# Misrep 4871281
+
+## Narrative
+
+*[Redacted]* AT 2249Z, 1.4a TOOK OFF FROM OKAS. AT 2300Z, 1.4a HANDED OVER FROM THE LRE. FROM 2338Z TO 0825Z, *[REDACTED — 1.4(a)]* FROM 1319Z TO 1855Z, *[REDACTED — 1.4(a)]* FROM 0117Z TO 1835Z, *[REDACTED — 1.4(a)]* SUPPORTED NAVCENT FOR OPERATION *[REDACTED — (b)(1)1.4a]* IVO ARABIAN GULF, STRAIT OF HORMUZ AND GULF OF OMAN. SEE ISR LINE 1. AT 0727Z, *[REDACTED — 1.4(a)]* RECEIVED A GUARDCALL. SEE GUARDCALL LINE 1. AT 0854Z, *[REDACTED — 1.4(a)]* RECEIVED A GUARD CALL. SEE GUARDCALL LINE 2. AT 1122Z, *[REDACTED — 1.4(a)]* RECEIVED A GUARD CALL. SEE GUARDCALL LINE 3. AT 1236Z, *[REDACTED — 1.4(a)]* RECEIVED A GUARD CALL. SEE GUARD CALL LINE 4. AT 1315Z, *[REDACTED — 1.4(a)]* RECEIVED GUARDCALL. SEE GUARD CALL LINE 5. AT 1829Z, *[REDACTED — 1.4(a)]* OBSERVED 1X UAP, SEE OBSERVATION LINE 1. AT 1835Z, *[REDACTED — 1.4(a)]* WAS CLEARED TO RTB. AT 1922Z, *[REDACTED — 1.4(a)]* HANDED BACK TO THE LRE. AT 1953Z, *[REDACTED — 1.4(a)]* LANDED AT OKAS. FMV WAS EXPLOITED BY DGS-1. 21 MISSION HOURS, 17.3 IMINT HOURS, 1 IMINT TASKING PROSECUTED, 15.3 *[REDACTED — 1.4(a)]* HOURS, 3 *[REDACTED — 1.4(a)]* TASKING PROSECUTED, 4 TOTAL TASKINGS PROSECUTED
+
+## Admin
+
+### CLASSIFICATION
+
+*   **Classification:** *[Redacted]*
+*   **Associated Caveats:** *[Redacted]*
+*   **Classification Source (MS or Classification Guide ID):** MULTIPLE SOURCES
+*   **Declassification Date (YYYYMMDD):** 20450301
+
+### OPERATION
+
+*   **Operation:** *[REDACTED — (b)(1)1.4a]*
+*   **Domain:** AIR
+*   **Operations Center:** 609th
+*   **Major Command (MAJCOM):** AFCENT
+*   **Combatant Command (COCOM):** USCENTCOM
+
+### MSGID
+
+*   **Report Type:** MISREP
+*   **Originator (Unit or Sqnadron):** 482ATKS
+*   **Submit Date (Auto-generated):**
+
+*[REDACTED — 3.5c. (b)(6)]*
+
+USCENTCOM MDR 26-0028 Approved for Release to AARO - FOUO /PA applies 03/16/26 000001

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 48,
+  "original_image_tags": [
+    "Faint circular stamp in lower right corner, partially illegible, appears to be a received or filed stamp."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Top of page: a rectangular stamp containing the text 'Classification of SECRET', with handwritten initials and the date '15-6-49' inside. A second, larger, faint circular stamp is partially visible at the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a circular stamp with illegible text in the lower right, while Description B claims a rectangular stamp with specific, quoted text ('Classification of SECRET', '15-6-49') at the top, which is a clear contradiction on the type, location, and content of the visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:24:50"
+}

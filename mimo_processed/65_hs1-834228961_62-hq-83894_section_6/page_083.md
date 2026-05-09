@@ -1,0 +1,46 @@
+## DOCUMENT HEADER
+
+*RECORDED - 19*
+
+*62-83894-260*
+
+*EX-16*
+
+*CONFIDENTIAL*
+
+*[handwritten in margin]:* Declassified [illegible] 8/31/77
+
+---
+
+**November 24, 1950**
+
+**To:** Director of Special Investigations
+The Inspector General
+Department of the Air Force
+The Pentagon
+Washington, D.C.
+
+**From:** J. Edgar Hoover, Director, Federal Bureau of Investigation
+
+**Subject:** FLYING DISCS
+
+---
+
+### REPORT TEXT
+
+> Mr. Aaron L. Hitchens, Chemical Engineer in charge of the Chemical and Physical Laboratories of the Winchester Repeating Arms Company, 275 Winchester Avenue, New Haven, advised the New Haven Office of this Bureau that on Friday, October 20, 1950, he, his wife, and daughter, who reside at 495 Edgewood Avenue, New Haven, went out of their home into the back yard at approximately 6:15 p.m. His young daughter called his attention to a star which was moving, and Mr. Hitchens noted a sphere-like object directly overhead that gave a steady golden-orange glow. He stated that this object was very high, being between ten to twenty thousand feet high, possibly higher. The glow given off was very steady, not blinking, and the whole sphere itself glowed in about the same consistency. He witnessed this object for approximately twenty seconds, during which time it traveled in a westerly direction toward New York City. It then veered in a southerly direction, as if crossing Long Island, or possibly in such a direction that it might have been traveling over Long Island. He lost sight of this object as it disappeared behind trees.
+>
+> He advised the size of the object was approximately ten times the diameter of Venus, which was shining very brightly that night. He stated it was a very clear night and that all the stars in the sky were twinkling, as compared to the steadiness of the glow given off by this object. He advised that the object did not appear to diminish in size as it traveled farther away, but appeared to maintain about the same size as when he first...
+
+### FOOTER & STAMPS
+
+**EHM:eas**
+
+*[Stamp:]* MAILED NOV 25 1950 COMM - FBI
+
+*[Handwritten signatures/initials at bottom right]:* [initials] [initials] EHM
+
+*[Stamp at bottom left:]* 238
+NOV 29 1950
+
+*[Handwritten note]:* 59

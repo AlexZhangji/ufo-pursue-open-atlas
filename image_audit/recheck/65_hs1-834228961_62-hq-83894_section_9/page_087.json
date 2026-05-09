@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 87,
+  "original_image_tags": [
+    "Aged, light yellowish-tan paper document. The page appears to be the back or reverse side of a thin sheet, with text from the opposite side bleeding through faintly. The page has three punch holes at the top, indicating it was stored in a binder. There is a small piece of yellowed adhesive tape in the upper left corner. The paper shows general wear, with minor stains and smudges. A few small black ink splatters are visible in the upper right.",
+    "A faint, rectangular purple ink stamp, partially legible.",
+    "A faint, handwritten \"X\" mark.",
+    "A large, rectangular, reddish-purple ink stamp.",
+    "A black ink stamp, oriented upside-down relative to the main page text.",
+    "A smaller, black ink stamp, oriented upside-down relative to the main page text, positioned near the \"RECEIVED - TOLSON\" stamp.",
+    "A red ink stamp, partially obscured."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamps and handwritten annotations on a faintly legible typed document, including 'FBI RECEIVED - TOLSON', 'FEB 9 58 PM '59', 'FEB 6 9 04 PM '59', and a red rectangular stamp with 'DEPT. OF JUSTICE' and 'FBI' visible. A handwritten red annotation '4 a3' is also present. The main body of the text is extremely faint and illegible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamp text ('FBI RECEIVED - TOLSON', 'DEPT. OF JUSTICE') that Description A describes only as a faint, partially legible stamp, creating a direct contradiction on the legibility and content of the stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:58"
+}

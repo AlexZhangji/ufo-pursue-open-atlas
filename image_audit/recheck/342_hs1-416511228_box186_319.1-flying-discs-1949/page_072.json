@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 72,
+  "original_image_tags": [
+    "Scan of a faded, pinkish-tan document back or routing slip. The paper has two punched holes at the top with some tearing. At the top left is a reversed (mirror-image) ink stamp, likely from the front side of the document. At the bottom is a block of reversed (mirror-image) routing stamps and notations. A small black horizontal line is visible near the center.",
+    "* At the top left, a reversed ink stamp reads:",
+    "* Near the top center, a reversed handwritten annotation in pencil or light ink reads:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Reverse side of a document page featuring multiple ink stamps. Visible stamps include 'RECEIVED BY MATS MESSAGE CENTER', a date stamp 'FEB 13 20 18 1949', 'U.S.A.F. MILITARY AIR TRANSPORT SERVICE', and a reversed stamp in the upper left. Two black punched holes are visible at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific text from stamps ('RECEIVED BY MATS MESSAGE CENTER', 'FEB 13 20 18 1949', 'U.S.A.F. MILITARY AIR TRANSPORT SERVICE') while Description A does not see or mention any of this readable text, describing only illegible reversed stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:25:17"
+}

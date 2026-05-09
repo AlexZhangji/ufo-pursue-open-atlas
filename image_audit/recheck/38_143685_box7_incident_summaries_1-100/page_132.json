@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 132,
+  "original_image_tags": [
+    "A dark, likely photocopied or typed page. The main text is in a typewriter font. The word \"RESTRICTED\" is stamped in large, faded capital letters at the top and again near the bottom. Two hole-punch circles are visible on the left margin. A handwritten numeral \"131\" appears in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed text describing a UAP sighting by Albert Samms, including references to 'Incident 60' and 'Incident 60a'. The page contains two large 'RESTRICTED' stamps (one at the top, one at the bottom) and a handwritten number '131' in the bottom right corner. Two hole-punch marks are visible on the left side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:43"
+}

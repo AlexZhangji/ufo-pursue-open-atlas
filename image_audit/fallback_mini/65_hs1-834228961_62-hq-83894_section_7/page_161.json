@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 161,
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes visual elements (handwritten annotations, pencil initials, scribbles) that are absent in Description B, which instead describes detailed stamps and labels not mentioned by A, indicating a complete mismatch in the visual content being described.",
+  "original_image_tags": [
+    "[Left margin distribution list, handwritten annotations in red ink and pencil]",
+    "[Bottom of page, typed initials and date stamp]",
+    "[Pencil initials in bottom right margin, various illegible scribbles]"
+  ],
+  "gpt_mini_desc": "*Image: A scanned typewritten FBI memorandum page dated July 10, 1953, with red handwritten case numbers, a pink COMM.-FBI mailed stamp, and blue pencil notes/scribbles along the margins.*",
+  "gpt_mini_desc_len": 188,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 54,
+    "total_tokens": 14946,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:00"
+}

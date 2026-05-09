@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_403",
+  "page_num": 1,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A quotes specific barcode numbers ('62-HQ-83894-E403', 'RRP00A1W1WL') that contradict Description B's reading of the same visual elements ('62-HQ-83894-E403', 'RRP00AIWL'), indicating at least one side is fabricating verbatim text from the images.",
+  "original_image_tags": [
+    "Barcode with number 62-HQ-83894-E403",
+    "Barcode with number RRP00A1W1WL"
+  ],
+  "gpt_mini_desc": "*Image: A manila FBI records envelope with two white label stickers, handwritten and stamped text including “DO NOT DESTROY,” “62-83894-403,” and a blue declassification notice sticker in the lower right.*",
+  "gpt_mini_desc_len": 205,
+  "usage": {
+    "prompt_tokens": 18756,
+    "completion_tokens": 49,
+    "total_tokens": 18805,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:31"
+}

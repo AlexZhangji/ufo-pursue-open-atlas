@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 262,
+  "original_image_tags": [
+    "Aged, off-white paper with three punched holes at the top. The page contains mirrored/bleed-through text from the reverse side. At the bottom right, there is a purple ink stamp with inverted text:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page contains faint, backwards (bleed-through) typed text that is not directly legible. At the bottom, there is a red stamped label with text: 'XEROX COPIES', 'DATE', and handwritten '11-29-66' and '1'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A reports a purple ink stamp with inverted text, while Description B reports a red stamp with specific text ('XEROX COPIES', 'DATE', '11-29-66', '1') — these are contradictory claims about the same visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:20"
+}

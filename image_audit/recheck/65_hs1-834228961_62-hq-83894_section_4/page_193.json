@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 193,
+  "original_image_tags": [
+    "A stamped ink box from the FBI - Richmond field office, dated May 17, 1949."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping with the headline 'Remember Flying Saucers? Well Looks Like Flying Seegars Now' from the Bristol Herald Courier, Bristol, VA, dated 5/4/49. The clipping contains typed body text reporting on sightings of a 'long, cigar-shaped object' and a 'flaming object' in Kingsport, Christiansburg, Roanoke, and Pulaski. It describes the object as a 'whitish, glistening mass, long and cylindrical like a big cigar' and mentions it traveling northeast at about 30,000 feet. The clipping is yellowed and has a handwritten date '5/14/49' at the bottom left."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular ink stamp in the lower right area of the page. The text inside the stamp reads 'FBI - RICHMOND' on the first line and 'MAY 1 7 1949' on the second line. Below the stamp, there is a handwritten red number '94-259' and, further down, a red handwritten enclosure number '62 - 83894 - 178'. The word 'ENCLOSURE' is also handwritten in red ink above this final number."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes only a single stamp element, while Description B describes two distinct visual elements (a newspaper clipping illustration and a stamp) with contradictory and mutually exclusive content about the page's images.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:37"
+}

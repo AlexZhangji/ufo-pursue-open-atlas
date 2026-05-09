@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 14,
+  "original_image_tags": [
+    "At the bottom of the page, a handwritten annotation in red pencil reads \"62 - 83844 - 55\". There is also a handwritten initial \"RD\" in the bottom right margin."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A small stamp or label containing illegible text located in the bottom left corner."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A red stamp or handwritten annotation in the bottom right corner containing illegible numbers and text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions identify handwritten annotations in the bottom area, but Description A specifies the text as '62 - 83844 - 55' and 'RD' while Description B calls the text illegible, creating a minor inconsistency without direct contradiction on verbatim content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:29:27"
+}

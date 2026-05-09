@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 37,
+  "categories": [
+    "stamp_or_label_only",
+    "sketch",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both agree on a hand-drawn sketch of a disc-shaped object from two perspectives, but Description B adds specific quoted text and details not present in Description A.",
+  "original_image_tags": [
+    "Hand-drawn sketch on the document, showing two views of a disc-shaped object."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typewritten document page stamped “CONFIDENTIAL,” containing a long narrative report and a simple hand-drawn sketch at the bottom labeled “Side View” and “Top,” with handwritten-style annotations describing the object’s motion and proportions.*",
+  "gpt_mini_desc_len": 262,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 54,
+    "total_tokens": 57716,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:09"
+}

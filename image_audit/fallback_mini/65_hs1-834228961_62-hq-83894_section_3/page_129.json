@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 129,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the newspaper clipping's masthead, column structure, and headlines, but Description A mentions a handwritten note '26' that Description B does not, which is a detail discrepancy without contradiction.",
+  "original_image_tags": [
+    "Scanned newspaper clipping from the Times-News, Twin Falls, Idaho. The clipping is yellowed and shows signs of age. The main section is titled \"Twin Falls News in Brief.\" It is surrounded by columns of other news items, including \"Four Parleys Set on Cassia School Plans,\" \"Funeral Held for Infant at Wendell,\" \"Jenkins May Try Run Tests Friday,\" and obituaries for William Munger and Harry Piper. There is a small handwritten note in the right margin near the top of the \"Four Parleys\" article that reads \"26\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping page from the Times-News, Twin Falls, Idaho, showing multiple newspaper article columns and bold headlines, including “Twin Falls News in Brief,” “Four Parleys Set on Cassia School Plan,” “Funeral Held for Infant at Wendell,” and “Jenkins May Try Run Tests Friday.”*",
+  "gpt_mini_desc_len": 303,
+  "usage": {
+    "prompt_tokens": 62175,
+    "completion_tokens": 70,
+    "total_tokens": 62245,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:51"
+}

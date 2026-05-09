@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 119,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims a physical description of a light-blue translucent paper with a torn edge, while Description B states there are no embedded photographs, sketches, diagrams, maps, or charts, directly contradicting the implied visual content of A.",
+  "original_image_tags": [
+    "The document is a carbon copy or similar on thin, translucent, light-blue/gray paper, showing signs of age and wear, including a jagged torn edge on the right side."
+  ],
+  "gpt_mini_desc": "*Image: Scanned typewritten Office Memorandum page headed “UNITED STATES GOVERNMENT,” addressed to Director, FBI from SAC, Phoenix, dated 4/18/50, with subject “WILLIAM ALBERT RHODES INFORMATION CONCERNING FLYING DISCS,” and several faint handwritten notations and stamps near the bottom including “RECEIVED - 49,” “INDEXED - 49,” and red number “225.”*",
+  "gpt_mini_desc_len": 353,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 96,
+    "total_tokens": 14988,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:42"
+}

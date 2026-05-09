@@ -1,0 +1,50 @@
+## [RECEIVED STAMP]
+
+> RECEIVED
+> MAY 2 1 1969
+> FBI-MWOOD
+
+## [RECEIVED-DEBRIEF STAMP]
+
+> RECEIVED-DEBRIEF
+> E. B. I
+> MAY 21 12 17 PM '69
+
+## [RECEIVED-DIRECTOR STAMP]
+
+> RECEIVED-DIRECTOR
+> E. B. I
+> MAY 20 3 06 PM '69
+
+## [RECEIVED-DELINCH STAMP]
+
+> REC'D DELINCH
+> E. B. I
+> MAY 20 2 23 PM '69
+
+## [RECEIVED-O BISHOP STAMP]
+
+> REC'D O BISHOP
+> FBI
+> MAY 20 2 23 PM '69
+
+## [RECEIVED BOOK STAMP]
+
+> READING BOOK
+> MAY 21 12 05 PM '69
+
+## [RECEIVED STAMP - TOP RIGHT]
+
+> EX-100
+> *Date:* Dec 31, 1938
+> *From:* Guy Hottel, Box 88
+> *To:* Guy Hottel
+> *Subject:* Washington Field Office
+
+## [RECEIVED STAMP - BOTTOM RIGHT]
+
+> P 0311AM
+> MAY 21 1969
+> FBI-MWOOD
+
+*[handwritten in margin]:* Page 2

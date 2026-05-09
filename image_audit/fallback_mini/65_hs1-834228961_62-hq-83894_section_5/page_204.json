@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 204,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific, legible stamp text that Description A reports as completely illegible, which is a direct contradiction on verbatim content.",
+  "original_image_tags": [
+    "A single sheet of aged, lined notebook paper. The paper is cream-colored with blue horizontal rules and a single red vertical margin line on the right. It has three punched holes along the top edge and appears worn, with frayed and torn edges, particularly on the left and bottom. There are several pieces of yellowed, cracked adhesive tape securing the paper: one long diagonal strip on the left side, a smaller vertical piece on the right edge, and tape fragments at the top and bottom corners. Faint, illegible cursive handwriting in pencil or light ink is visible across the lined area, but it is too faded to read clearly."
+  ],
+  "gpt_mini_desc": "*Image: A single blank lined notebook page with torn edges and punch holes, taped in places, shown upside down with faint reversed stamp markings near the bottom.*",
+  "gpt_mini_desc_len": 163,
+  "usage": {
+    "prompt_tokens": 16437,
+    "completion_tokens": 35,
+    "total_tokens": 16472,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:45"
+}

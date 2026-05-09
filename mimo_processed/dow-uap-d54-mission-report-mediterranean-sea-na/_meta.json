@@ -1,0 +1,46 @@
+{
+  "file": "dow-uap-d54-mission-report-mediterranean-sea-na.pdf",
+  "stem": "dow-uap-d54-mission-report-mediterranean-sea-na",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "03b730443d7be1c67478fc26da8ed664cb48b97acdb817caca3b04fd9b9b82a8",
+  "size_bytes": 20095,
+  "total_pages": 7,
+  "pages_processed_in_run": 7,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:08",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    }
+  ]
+}

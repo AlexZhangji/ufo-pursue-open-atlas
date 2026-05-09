@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 49,
+  "original_image_tags": [
+    "A single, aged page with a yellowed, textured background. The top left corner shows two hole-punch marks and a tear. The main body of the page is blank, with several rubber stamp impressions visible, mostly in the right margin and lower portion. The stamps are oriented at various angles."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A scanned document page featuring several rubber stamp impressions. One stamp reads 'RECEIVED - DETCKER FEB 2 2 PM 50'. Another reads 'RECEIVED - LADD FBI U.S. DEPT. OF JUSTICE FEB 2 4 01 PM 50'. A third inverted stamp reads 'RECEIVED - MAIL ROOM F.B.I. U.S. DEPT. OF JUSTICE FEB 1 12 29 PM 50'. A partially visible red stamp is present near the bottom right. No photographs, sketches, or diagrams are visible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed text from three distinct stamps (e.g., 'RECEIVED - DETCKER FEB 2 2 PM 50') that Description A does not mention at all, creating a clear contradiction on the content of the visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:50"
+}

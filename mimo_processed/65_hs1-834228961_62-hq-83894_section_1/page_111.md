@@ -1,0 +1,1 @@
+*Image: Scanned tan paper document page with three hole punches along the top edge, torn corners, faint reversed typewritten text, and two blue circular date stamps near the lower half.*

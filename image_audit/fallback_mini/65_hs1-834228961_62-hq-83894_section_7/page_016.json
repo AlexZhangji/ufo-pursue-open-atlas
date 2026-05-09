@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 16,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific verbatim stamp text that Description A does not mention at all, indicating a potential fabrication or hallucination of detailed visual content.",
+  "original_image_tags": [
+    "A faded, aged document with typewritten text and several stamps. The paper is yellowed, with torn edges on the left and punch holes at the top. A handwritten annotation is visible at the bottom right."
+  ],
+  "gpt_mini_desc": "*Image: A single scanned yellowed document page with torn edges and three hole punches at the top, showing very faint mirrored typed text, a blue/purple rectangular stamp near the lower center, and a red handwritten-style number stamp at the lower right.*",
+  "gpt_mini_desc_len": 255,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 54,
+    "total_tokens": 14946,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:55"
+}

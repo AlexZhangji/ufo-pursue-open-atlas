@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 1,
+  "original_image_tags": [
+    "A brown paper envelope or file folder cover. It features a diagonal \"SECRET\" stamp crossed out with a line. Another \"SECRET\" stamp is visible near the top center. A white typed index card or label is affixed to the center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Declassified label in top right corner with text: 'DECLASSIFIED', 'Authority:', 'NND 917033'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two red 'SECRET' stamps, one in top left and one in top right."
+      },
+      {
+        "category": "other",
+        "description": "Typed white paper label attached to the center of a brown paper folder. Label contains text including 'EXHBIT #530', 'Serial C0196857 R/S', 'S-06200 dated 11-23-49', 'Subject: Flying Discs', 'REPORT FILED 7-5', 'AIRCRAFT - UNIDENTIFIED', 'JONES', and '2-27-50'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict on the number and color of SECRET stamps (one vs. two, and one specifies 'brown' while the other specifies 'red'), and Description B provides extensive quoted text from a central label that Description A does not mention at all.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:25:39"
+}

@@ -1,0 +1,56 @@
+## SECRET//NOFORN
+
+*Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 8 October 2025*
+
+* Tasking Order (ATO): ID
+* Mission Type: ISR
+* ATO Mission Number: *[REDACTED — 1.4(a)]*
+* Country Tasked: US - UNITED STATES
+* Service Tasked: A - AIR FORCE
+
+## Poc
+
+### POC
+
+* Rank: A1C
+* Full Name: *[REDACTED — Exemptions (b)(3), 130b, (b)(6)]*
+* Unit: 482ATKS
+* Wing: 20 FW
+* Phone Number: *[REDACTED — FOIA Exemption (b)(6)]*
+* Email: *[REDACTED — 3.5c, FOIA Exemption (b)(6)]*
+* Service: Air Force
+* Operations Center: 603 AOC
+
+### QC
+
+* Rank: Ctr
+* Full Name: *[REDACTED — 5c, FOIA Exemption (b)(6)]*
+* Unit: 12 AF PAROC
+* Wing: Other
+* Phone Number: *[REDACTED — FOIA Exemption (b)(6)]*
+* Email: *[REDACTED — 3.5c, FOIA Exemption (b)(6)]*
+* Service: Air Force
+* Operations Center: Other
+
+### APPROVER
+
+* Rank: SrA
+* Full Name: *[REDACTED — Exemptions (b)(3), 130b, (b)(6)]*
+* Unit: 609 AOC
+* Wing: Other
+* Phone Number: *[REDACTED — FOIA Exemption (b)(6)]*
+* Email: *[REDACTED — 3.5c, FOIA Exemption (b)(6)]*
+* Service: Air Force
+* Operations Center: 609 CAOC
+
+### INGEST
+
+*[REDACTED — 3.5c, FOIA Exemption (b)(6)]*
+
+## SECRET//NOFORN
+
+MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S
+10/17/25 002
+Approved for Release to AARO

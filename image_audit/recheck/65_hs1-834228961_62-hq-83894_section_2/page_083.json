@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 83,
+  "original_image_tags": [
+    "Black-and-white photograph showing a cluttered workbench or table surface. Central to the image is an assembly of electronic components and mechanical parts. A prominent black cylindrical component has the word \"RUSSIA\" stenciled in white capital letters on its side. To the left of this cylinder is a white, ribbed, vertical component, possibly a ceramic insulator or vacuum tube socket. A thin, curved metal wire or antenna extends from near the top of the white component. Various other wires, small metal parts, and what appears to be a power connector or plug are visible in the assembly. In the upper left background, a bright, out-of-focus light source creates a glare. To the far left, partially visible, are what appear to be two small, rectangular cards or tags with indistinct writing. The scene is lit from the upper left, casting shadows to the right. The photograph has a white border typical of vintage prints."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black and white photograph of a mechanical or electronic device mounted on a circular base. The device features a dark central component with the word 'RUSSIA' partially visible on it, surrounded by wires, a coiled spring-like element, and other mechanical parts. A bright, blurred light source is visible in the background. The photograph itself is bordered by a white margin."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the core visual elements: a black-and-white photograph of an electronic/mechanical device on a surface with a component labeled 'RUSSIA', wires, a light source, and a white border.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:56:38"
+}

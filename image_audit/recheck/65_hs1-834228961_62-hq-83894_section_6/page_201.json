@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 201,
+  "original_image_tags": [
+    "The document is a single page of light yellow/aged paper. It is predominantly blank on the side shown, serving as a cover or receipt sheet. The primary content consists of an FBI Mail Room receipt stamp at the bottom center and several handwritten notations. The paper shows signs of age, with two punched holes at the top and slight creasing. Very faint, reversed text from the opposite side of the page or another document is visible, but not legible enough for faithful transcription."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faintly stamped or typed document, possibly a letter, with several stamps and handwritten annotations. Visible text includes 'RECORDED 423', 'RECEIVED MAIL ROOM FBI DEPT. OF JUSTICE AUG 11 3:10 P.M.', and 'AUG 1 1954'. Handwritten text includes 'LJ', 'Wash', and '(5/16/15)'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific text from a stamp ('RECORDED 423', 'RECEIVED MAIL ROOM FBI DEPT. OF JUSTICE AUG 11 3:10 P.M.', 'AUG 1 1954') and handwritten notations ('LJ', 'Wash', '(5/16/15)') that Description A does not mention and describes the page as predominantly blank with faint, illegible text, creating a direct contradiction on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:34:17"
+}

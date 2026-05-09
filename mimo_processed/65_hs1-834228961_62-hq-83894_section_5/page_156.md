@@ -1,0 +1,28 @@
+*[handwritten in margin, top left]:* Rec'd from G-3
+5-22/50 cwi?
+
+*[handwritten in margin, top right]:* G-3 Briefing
+Mr. Stiles
+19 May '50
+
+## CONFIDENTIAL
+
+## UNIDENTIFIED AERIAL PHENOMENA
+*(Flying Saucers)*
+
+Reports of strange and mysterious objects seen in the sky over most of the countries of the world during the past five years have created quite a stir in the public press. The sighting of such objects has not been confined to the last five years. History records many instances of man's inability to explain what he saw or thought he saw. The prophet Ezekiel in the 6th century BC reported "a whirl wind came out of the north, a great cloud, and a fire unfolding itself, and a brightness was about it." He then saw "a wheel in the middle of a wheel" and reported "when they went, they went up on their four sides and they turned not when they went". (Ezekiel 1:16)
+
+In the past, these phenomena have usually been attributed to super-natural causes, and in more recent years to natural phenomena. However, the introduction of the atomic bomb and guided missiles in World War II has so caught the public imagination with their potentialities, actual and fanciful, that we now find the phenomena variously attributed to space ships from other planets and US or Soviet experiments with new and wonderful weapons.
+
+The present flurry of flying saucers, ghost rockets, etc., began in mid-1946 in Sweden. Hundreds of people reported seeing strange objects flying over the country. Newspapers speculated that they were Soviet guided missiles being tested over the Baltic Sea, either from the former German experimental station at Peenemunde, or from Dago Island off the Estonian Coast. The fact that an experimental V-2 fired by the Germans from Peenemunde had landed in Sweden in 1944 lent credence to their speculation. The Swedish defence staff made an investigation and may have deliberately allowed the public to believe this theory for some time for political reasons. Careful investigation by the US MA and by an
+
+1
+
+*[handwritten in margin, bottom right]:* 62-83894
+*[handwritten signature]*: E. Hunter
+*[handwritten note]*: Research
+*[handwritten note]*: Relayer
+
+## CONFIDENTIAL
+
+52 JUN 15 1950

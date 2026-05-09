@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 3,
+  "original_image_tags": [
+    "A document page consisting entirely of overlapping blue and black ink departmental receipt stamps. The stamps indicate the document was routed through various high-level FBI offices in August and September 1950. Visible stamps include \"RECEIVED-LADD\", \"REC'D BELMONT\", \"RECEIVED-TOLSON\", and \"RECEIVED - DIRECTOR\", all referencing the \"U.S. DEPT. OF JUSTICE\" and \"FBI\". Dates range from August 23 to September 5, 1950. There are two punch holes at the top of the page. Faint, illegible reverse-printing or bleed-through is visible at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page is covered in multiple blue ink stamps, primarily from the 'FBI U.S. DEPT. OF JUSTICE'. Visible stamps include 'RECEIVED-LADD FBI', 'REC'D BELMONT FBI', 'RECEIVED-TOLSON FBI', and 'RECEIVED-DIRECTOR FBI'. Dates visible on the stamps include AUG 23, AUG 24, SEP 1, SEP 2, and SEP 5, all '50'. The top edge has two black hole-punch marks. Faint, inverted typed text is visible through the paper from the reverse side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (multiple blue FBI stamps with specific names, dates in 1950, and two punch holes), but they differ on ink color (blue and black vs. blue), and Description B explicitly adds 'FBI' to each quoted stamp text while Description A omits it.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:30"
+}

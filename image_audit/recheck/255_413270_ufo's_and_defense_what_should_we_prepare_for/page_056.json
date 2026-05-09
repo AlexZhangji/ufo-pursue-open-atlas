@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+  "page_num": 56,
+  "original_image_tags": [
+    "Page of a typed document with text in English. The right margin has a series of solid black rectangles or punches running vertically. The text discusses the roles of various personnel in investigating UFO phenomena, including military controllers, meteorologists, CNES engineers, and aeronautics personnel. It details methods for informing and involving these groups."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page contains typed text with section headings 11.2.3 through 11.3.1. No embedded visual elements such as photographs, sketches, diagrams, maps, or charts are present. A column of small, solid black squares runs along the right margin, which appears to be a binding or artifact from the physical document preparation."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains no embedded visual elements like photographs or diagrams, and both note the column of black squares along the right margin as an artifact, with no contradictory claims about visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:34"
+}

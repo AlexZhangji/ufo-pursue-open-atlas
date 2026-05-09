@@ -1,0 +1,53 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 13,
+  "original_image_tags": [
+    "A montage of six black-and-white photographs showing disc-shaped flying saucers in the sky. Top left: A classic saucer shape with a dome, hovering over a landscape with distant hills and a foreground of trees or bushes. Top right: A similar disc-shaped object in a cloudy sky. Middle left: A disc object angled upwards, with a bright glare or reflection, over a flat landscape. Middle right: A saucer object seen from below, over a field or body of water. Bottom left: A disc object with a raised dome, over a flat landscape. Bottom right: A saucer object seen from a lower angle, over a field.",
+    "A political cartoon dated 4-18-66. Caption: 'Report Them . . . Forget It— I Have Enough Credibility Problems As It Is'. The cartoon depicts two men in suits sitting in an office setting. One man is handing a document to the other."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black and white photograph showing one dark, disc-shaped object flying in the sky above a flat landscape."
+      },
+      {
+        "category": "photograph",
+        "description": "A black and white photograph showing one light-colored, disc-shaped object flying in the sky above a mountainous landscape."
+      },
+      {
+        "category": "photograph",
+        "description": "A black and white photograph showing one dark, disc-shaped object hovering or flying over a landscape."
+      },
+      {
+        "category": "photograph",
+        "description": "A black and white photograph showing one dark, disc-shaped object flying in the sky above a dark, forested landscape."
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black and white newspaper clipping illustration from the London, Ontario Free Press, showing a dark, disc-shaped object in the sky. The text includes a headline '100 Watch UFO' and a caption '4-18-66'."
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black and white newspaper clipping illustration from the Los Angeles Herald-Examiner, showing a dark, disc-shaped object in the sky. The text includes a headline 'Flying saucers mystery'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions disagree on the number of visual elements (Description A describes six photographs and one cartoon, while Description B describes four photographs and two newspaper illustrations) and the specific quoted caption text for the cartoon differs substantially between the two descriptions.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:20"
+}

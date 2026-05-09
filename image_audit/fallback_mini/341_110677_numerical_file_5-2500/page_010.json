@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "341_110677_numerical_file_5-2500",
+  "page_num": 10,
+  "categories": [
+    "diagram"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "Hand-drawn diagram illustrating a railway gauge switching operation at the Czechoslovakia-USSR border. The diagram shows a track running horizontally across the page.",
+    "Stamped classification mark at bottom right of diagram area."
+  ],
+  "gpt_mini_desc": "*Image: Hand-drawn technical diagram titled “DIAGRAM OF RR GAUGE SWITCHING OPERATION AT ČOP 12 OCT 1955,” showing a railroad sleeper car on tracks with arrows and labels for Czech standard gauge track, Russian broad gauge track, floor trap door, pit under tracks, Russian gauge truck, Russian gauge truck, and a red star over the track marked as probable official border marker; includes handwritten annotations and page margin classification markings.*",
+  "gpt_mini_desc_len": 453,
+  "usage": {
+    "prompt_tokens": 44097,
+    "completion_tokens": 94,
+    "total_tokens": 44191,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 19:59:59"
+}

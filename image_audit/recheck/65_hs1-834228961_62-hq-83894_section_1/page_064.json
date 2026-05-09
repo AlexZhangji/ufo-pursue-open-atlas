@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 64,
+  "original_image_tags": [
+    "A single sheet of aged, cream-colored stationery with a faint horizontal fold line across the middle. The top of the page features a printed header.",
+    "A small, symmetrical logo is printed above the hotel name, consisting of a vertical, stylized \"HW\" monogram centered between two horizontal lines."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A piece of letterhead from 'HOTEL WOODSTOCK, WOODSTOCK, ILLINOIS'. The page is mostly blank, with only the hotel's name, location, and contact information ('PHONE 636 BOOTH PH 814', 'LOCATED IN BUSINESS DISTRICT') visible at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page is a piece of letterhead with a printed header at the top; neither describes any photographs, sketches, diagrams, or other complex visual content to compare.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:54:48"
+}

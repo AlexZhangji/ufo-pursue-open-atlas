@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 8,
+  "original_image_tags": [
+    "A pinkish, rectangular file folder or large tag with two punched holes at the top. The surface shows multiple overlapping, stamped ink markings and faint, reversed (bleed-through) text from the other side of the page. The primary visible stamps are oriented upside down relative to the page's current orientation."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The back of a document page featuring several dark blue ink stamps. Visible text includes 'RECEIVED-LABD F B I', 'U.S. DEPT. OF JUSTICE', 'RECEIVED F.B.C.', 'U.S. DEPT OF J', 'RECEIVED -N-', 'JUL 12 46 PM '49', 'AUG 5 RECEIVED -FLETCHER-', 'JUL 12 7 56 PM '46', and faint reverse text from the front of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a pinkish rectangular folder/tag with punched holes and stamps, while Description B lists specific stamp text like 'RECEIVED-LABD F B I' and 'JUL 12 46 PM '49' — the two descriptions appear to be of completely different visual content, indicating a major factual inconsistency.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:44"
+}

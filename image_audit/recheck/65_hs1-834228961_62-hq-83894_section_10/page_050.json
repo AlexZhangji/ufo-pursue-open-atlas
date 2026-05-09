@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 50,
+  "original_image_tags": [
+    "The page consists primarily of various official receipt stamps applied in ink at different times and dates in January 1967, primarily routed to various FBI officials and divisions (Sullivan, Tolson, Wick, Jones, DeLoach, Director). The stamps are oriented in different directions, some upside down relative to others, suggesting they were applied to the back of a routed document."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue and black ink stamps on a paper background. The stamps indicate receipt by various FBI divisions and personnel, with dates and times mostly in January 1967. Visible text includes 'REC'D DOM INTELL DIV.', 'JAN 19 11:29 AM '67', 'JAN 18 6:09 PM 67', 'JAN 18 5:05 PM '67', 'JAN 18 5:21 PM '67', 'JAN 19 9:39 AM '67', 'JAN 18 4:01 PM '67', and 'JAN 18 7:23 PM '67'. Names visible include 'SULLIVAN', 'DE LOACH', 'JONES', and 'MOLSON'. The paper shows binder holes and slight discoloration."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content—multiple ink stamps indicating FBI receipt with names and January 1967 dates—but Description B provides specific quoted text and details (blue/black ink, binder holes) while Description A omits these, and there is no direct contradiction on quoted content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:55:38"
+}

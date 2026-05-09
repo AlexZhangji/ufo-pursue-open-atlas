@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 60,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims handwritten annotations including a circled 'RD', a signature 'Fletcher', and file numbers/dates, while Description B states there are no photographs, sketches, or illustrations and implies only typed text, representing a direct contradiction on the presence and nature of visual content.",
+  "original_image_tags": [
+    "A standard US Government Office Memorandum form. Handwritten annotations include a circled \"RD\" near the top right, a large handwritten signature that appears to read \"Fletcher\" on the right side, and various file numbers and dates stamped or written at the bottom."
+  ],
+  "gpt_mini_desc": "*No image content on this page.*",
+  "gpt_mini_desc_len": 32,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 11,
+    "total_tokens": 14903,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:21"
+}

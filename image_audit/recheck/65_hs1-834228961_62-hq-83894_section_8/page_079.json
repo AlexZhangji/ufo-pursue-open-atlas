@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 79,
+  "original_image_tags": [
+    "A vertically oriented, aged, off-white/yellowish document page with dark, irregular punch holes or tears along the top edge. The paper shows significant aging and discoloration. The majority of the text on the page is faint, reversed, and mirrored, appearing as if it is the bleed-through from text printed on the reverse side of the page. Several stamped markings are visible in the lower portion, oriented correctly. The page shows wear, creasing, and a piece of white tape at the bottom center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple overlapping blue and black ink stamps at the bottom of the page, some oriented horizontally and some vertically. Visible text includes dates in December 1954 (e.g., 'DEC 8 4 14 PM '54', 'DEC 9 10 10 AM '54', 'DEC 9 11 20 AM '54'), 'FBI', 'U.S. DEPT. OF JUSTICE', 'MISSION SECTION', 'RECEIVED - BURLINGTON', and 'DEC 10 1954'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamp text (dates, 'FBI', 'U.S. DEPT. OF JUSTICE', etc.) that is not mentioned or described in Description A, which only mentions generic 'stamped markings' without any specific content, indicating one side is fabricating detail about the visual content of the stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:10"
+}

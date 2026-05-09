@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "341_110677_numerical_file_5-2500",
+  "page_num": 9,
+  "categories": [
+    "sketch",
+    "sketch"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "Hand-drawn side-profile sketch of a swept-wing jet aircraft. The nose is on the left, tail on the right. The drawing is annotated with multiple arrows pointing to specific features.",
+    "Hand-drawn sketch of an octagonal paving stone or brick, shown from above."
+  ],
+  "gpt_mini_desc": "*Image: Hand-drawn aircraft profile sketch titled “Dnieperpetrovsk Airfield Jet Bomber Profile – 9 Oct. 55,” with arrows and labels identifying cockpit set forward, canvas covered, swayback appearance, jet engines canvas covered on wings, severe sweep to mid-wing, low set tail plane, nose wheel, silver (not glass) bulge, and a separate octagonal “design of brick on ramp at airfield – asphalt seams” diagram.*",
+  "gpt_mini_desc_len": 411,
+  "usage": {
+    "prompt_tokens": 44097,
+    "completion_tokens": 99,
+    "total_tokens": 44196,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 19:59:57"
+}

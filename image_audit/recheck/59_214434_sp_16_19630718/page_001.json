@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "59_214434_sp_16_19630718",
+  "page_num": 1,
+  "original_image_tags": [
+    "A white rectangular stamp with a black border. The top line reads \"DECLASSIFIED\". The second line has the initials \"NNS\" followed by the number \"93155 1\". The third line has \"By\" and \"JARS, Date\" with handwritten entries."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum from the Executive Office of the President, National Aeronautics and Space Council, dated July 18, 1963, regarding the 'Space Alien Race Question'. Includes various stamps (e.g., 'DECLASSIFIED', 'OFFICIAL USE ONLY') and handwritten annotations."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A quotes specific verbatim text from a stamp ('DECLASSIFIED', 'NNS 93155 1', 'By JARS, Date') that Description B does not mention, and Description B describes completely different visual content (a typed memorandum with different stamps), indicating a factual inconsistency about the images on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:27:04"
+}

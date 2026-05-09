@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "fbi-photo-b7",
+  "page_num": 1,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content: a grayscale image with a central reticle, a helicopter in the upper right, a dark speck below, and redacted areas, but they disagree on the presence and specific text of a timestamp.",
+  "original_image_tags": [
+    "A black-and-white infrared (IR) sensor still image. The frame is dominated by a gray, grainy sky or background. A central crosshair reticle with numeric tick marks (labeled 5, 10, 15 on both horizontal and vertical axes) is overlaid on the image. In the upper right quadrant, slightly above the horizontal axis and to the right of the vertical axis, there is a dark, blurred object that appears to be a helicopter in flight, seen from a side or slightly angled perspective. The object's rotor blades are visible as a blur. Several rectangular areas of the image, particularly around the periphery and along the edges, are blacked out by solid redaction blocks. A small, dark speck or artifact is visible in the lower right quadrant, below the horizontal axis."
+  ],
+  "gpt_mini_desc": "*Image: Grayscale video frame of a helicopter in the upper center-right, overlaid with a central crosshair and tick-mark scale labeled 5, 10, and 15 on both horizontal sides, with timestamp “12/31/99 18:10:02” at bottom left.*",
+  "gpt_mini_desc_len": 226,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 64,
+    "total_tokens": 54707,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:51"
+}

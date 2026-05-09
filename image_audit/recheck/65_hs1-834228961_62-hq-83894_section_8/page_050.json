@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 50,
+  "original_image_tags": [
+    "A single page containing a mounted newspaper clipping. The page itself is a light-colored paper with two binder holes at the top. At the bottom, a typed label provides metadata for the clipping."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A single newspaper clipping with a headline 'See 'Em?---Saucers Cover City' and subheadlines 'Several Disc Objects Reported Over Cincinnati; Little Men Leave Craft in Germany, Says Here'. The clipping contains multiple columns of text and a handwritten annotation 'Oct 11 '54 Cin Post' at the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific quoted headline text ('See 'Em?---Saucers Cover City') and a handwritten annotation ('Oct 11 '54 Cin Post') for the image that Description A does not mention at all, indicating a hallucination of specific visual text content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:50"
+}

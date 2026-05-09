@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 25,
+  "original_image_tags": [
+    "A faded, off-white document page, appearing to be the reverse side of a form or a cover sheet. The paper shows signs of aging, with two punched holes at the top and torn edges on the left. At the top, faint watermark text reads \"EAGLE-A TROJAN BOND\" and \"100% COTTON CONTENT U.S.A.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue and red ink stamps and handwritten annotations on a blank page. Visible text includes 'RECEIVED - NICHOLS FBI', 'RECEIVED - DIRECTOR U.S. DEPT. OF JUSTICE FBI', 'U.S. DEPT. OF JUSTICE FBI', dates ranging from 'Aug 9 8:56 PM '54' to 'Aug 12 8:11 PM '54', and a handwritten annotation 'Duvalier B/10 Missing Attach'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions depict entirely different visual content: Description A describes a blank, aged page with watermark text, while Description B describes a page covered with specific ink stamps and handwritten annotations.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:35"
+}

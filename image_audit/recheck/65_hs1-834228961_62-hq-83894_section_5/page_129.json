@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 129,
+  "original_image_tags": [
+    "A hand-drawn sketch on aged paper depicting a schematic diagram of a propulsion system. The diagram shows a long tube-like assembly connected to a larger cylindrical structure labeled \"stanchion in center of saucer\". Handwritten annotations point to various components. At the top left, a T-shaped component is labeled. The diagram includes electronic valves, a vacuum chamber, and what appears to be a pressure chamber. On the right, a small inset sketch shows a cross-shaped device labeled \"pelleys is used\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A hand-drawn diagram labeled 'The jet' depicting a technical device. It shows a horizontal cylindrical tube (main chamber) connected to a vertical cylindrical tube (labeled 'stanchion in center of saucer'). The diagram includes multiple labeled components and handwritten annotations. Visible labels include: 'electronic plug in end of muzzle', 'air in this compartment 300 lbs p.s.i.', 'electronic valve', 'vacuum or atmospheric press in this compartment', 'charge up to 50 thousand to thirty thousand p.s.i.', '4 times comp. = explosion', 'stanchion in center of saucer' (appearing twice), 'P.S. looks as the jet can swing around to any angle'. Below the diagram is a handwritten paragraph describing the operation of the jet, mentioning capsules, gasoline, pressure, electrodes, and recoil."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the core visual content: a hand-drawn sketch of a technical propulsion/jet system with a horizontal cylinder connected to a vertical 'stanchion in center of saucer', multiple labeled components (including 'electronic valve' and 'vacuum chamber'), and a smaller inset sketch; differences are in detail level and omitted labels, not contradictions.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:33:10"
+}

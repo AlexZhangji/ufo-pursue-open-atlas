@@ -1,0 +1,7 @@
+Incident: 201 B
+
+Vlas described object as a light bulb moving upward and forward at an estimated speed of 25 to 30 MPH. Object was white with a yellowish tint and was proceeding in a northerly direction and steadily gained altitude. Object disappeared behind a cloud and could not be located again. No vapor trails noticed and no sound heard.
+
+It was the opinion of A-2, that object sighted in each instance was a weather balloon with a light swinging from it.
+
+*Image: scan of a typed document page with two hole-punch marks at the top. The text is a brief incident report. The bottom two-thirds of the page is blank.*

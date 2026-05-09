@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 185,
+  "original_image_tags": [
+    "A torn newspaper clipping is visible in the bottom right corner of the page. The clipping shows an advertisement for \"JUNIPER-TAR COMPOUND over 50 years in use\" for \"COUGHS due to COLDS\". To the left and above the clipping, fragments of a typed or printed article are visible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter from '1515 - 9th St., Wichita Falls, Texas' dated 'Aug. 5, 1948' to 'Agent-In-Charge, Federal Bureau of Investigation, Atlanta, Georgia.' The text discusses a request for 'tear sheets of the unusual aircraft seen near Montgomery, Alabama, July 24, 1948' and mentions correspondence via 'AP and UP, originating in Atlanta.' It also references working on the 'problem of aerial missiles' and sending data to officials at the 'Atomic Energy Comm., Los Alamos Atomic Project' and 'high members of the War Department, including Gen. Thomas T. Handy, Fourth U. S. Army Commander'."
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A partial newspaper clipping located at the bottom right, overlapping the typed text. It includes a visible section of text and an advertisement with the large text 'COUGHS due to COLDS' and 'JUNIPER-TAR COMPOUND over 50 years in use'. The top of the clipping shows fragments of text about 'the zeal of the new convert' and 'courage of all our own most recently acquired convictions'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the visual content: a newspaper clipping at the bottom right with a specific advertisement ('JUNIPER-TAR COMPOUND over 50 years in use' for 'COUGHS due to COLDS') and surrounding typed text fragments.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only",
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:58:33"
+}

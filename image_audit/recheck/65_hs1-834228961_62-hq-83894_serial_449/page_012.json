@@ -1,0 +1,57 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 12,
+  "original_image_tags": [
+    "A collage of six black-and-white photographs arranged in a 2x3 grid, each showing a disc-shaped or lenticular object in the sky. The top-left photo shows a small, bright, disc-shaped object high in the sky above distant mountains. The top-right photo shows a larger, darker, disc-shaped object with a visible central dome, flying above a treeline of evergreens. The middle-left photo shows a tilted, disc-shaped object with a dark band around its edge. The middle-right photo shows a dark, dome-like object above a rocky, brush-covered landscape. The bottom-left photo shows an elongated, metallic-looking object with a central dome, above a treeline. The bottom-right photo shows a sharp-edged, diamond or triangular-shaped object with a central dome, above a rocky landscape. The photos have visible scratches, dust spots, and film grain consistent with enlargement from 16mm film."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "Black and white photograph showing one disc-shaped object in the sky above a landscape with mountains and clouds."
+      },
+      {
+        "category": "photograph",
+        "description": "Black and white photograph showing one disc-shaped object in the sky above a line of trees."
+      },
+      {
+        "category": "photograph",
+        "description": "Black and white photograph showing one disc-shaped object in the sky with a clear background."
+      },
+      {
+        "category": "photograph",
+        "description": "Black and white photograph showing one disc-shaped object in the sky above a hilly landscape."
+      },
+      {
+        "category": "photograph",
+        "description": "Black and white photograph showing one disc-shaped object in the sky above treetops."
+      },
+      {
+        "category": "photograph",
+        "description": "Black and white photograph showing one diamond or double-cone shaped object in the sky above a landscape."
+      },
+      {
+        "category": "other",
+        "description": "Block of typed text below the photographs labeled 'NEW SAUCER PHOTOS' describing the images as taken by Dr. Daniel W. Fry and noting the locations as Merlin, Oregon and Joshua Tree, Calif."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a 2x3 grid of six photographs while Description B lists seven distinct photographs, indicating a clear disagreement on the number of visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "other"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:20"
+}

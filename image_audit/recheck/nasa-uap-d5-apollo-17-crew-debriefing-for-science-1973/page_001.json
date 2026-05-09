@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
+  "page_num": 1,
+  "original_image_tags": [
+    "NASA logo (vector graphic of a blue circle with a chevron and stars, though rendered in black and white) positioned next to the text \"NATIONAL AERONAUTICS AND SPACE ADMINISTRATION\". A vertical textured strip runs down the left side of the page.",
+    "Logo of the Manned Spacecraft Center, consisting of a stylized globe with an orbital ring and a star, positioned to the left of the center name."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular NASA 'meatball' logo containing the text 'NASA' and a stylized red swoosh. It is positioned on a vertical, patterned, dark gray rectangular strip on the left side of the page."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular logo at the bottom left featuring a stylized planet with intersecting orbital lines and an arrow pointing right. The design is black and white."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states the NASA logo text is 'NATIONAL AERONAUTICS AND SPACE ADMINISTRATION' while Description B quotes it as 'NASA', a direct contradiction on specific quoted text within the same visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:19:07"
+}

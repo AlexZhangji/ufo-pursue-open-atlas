@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 139,
+  "original_image_tags": [
+    "Faint, partially visible stamped text at the bottom of the page, appearing to read \"FOUR STAR BOND\" and \"SOUTHERN CALIFORNIA\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed letter page containing seven paragraphs of text, a closing, and a signature. The text discusses unidentified objects, planetary ages, and the author's background. The closing reads 'Very truly yours,' followed by a handwritten signature 'W. B. Burgess' and the typed name 'W. B. Burgess' below it. At the bottom of the page, there is a faint watermark visible through the paper, partially legible as 'FOUR STAR BOND' and 'SOUTHWORTH CO. USA'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a stamped text reads 'SOUTHERN CALIFORNIA' while Description B quotes the same area as 'SOUTHWORTH CO. USA', which is a direct contradiction on specific verbatim text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:54"
+}

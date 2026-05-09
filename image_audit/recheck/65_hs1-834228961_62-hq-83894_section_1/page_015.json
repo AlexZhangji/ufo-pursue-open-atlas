@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 15,
+  "original_image_tags": [
+    "A single, off-white, weathered sheet of paper with three punched holes at the top. The edges are worn, with a significant tear at the bottom left corner. A newspaper clipping is affixed to the center with four pieces of yellowed, translucent tape. Faint, large text is visible in reverse, as if from the other side of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "One newspaper clipping taped to the page. Headline: \"'Flying Saucer' Just Someone's Pipe Dream'\". Text describes a chemical analysis of ashes found near 2319 Himebaugh Avenue by Dr. C. L. Kenny of Creighton College of Dentistry, stating they matched ordinary pipe tobacco. No photographs or illustrations within the clipping itself."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description B adds specific headline and text details about the clipping that A omits, but neither contradicts the other's claims about the visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:54:30"
+}

@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 151,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions are factually inconsistent: Description A depicts a hotel on a hill with a porch and flags, while Description B depicts a building with a central dome, trees, and a circular driveway—these are clearly different visual contents.",
+  "original_image_tags": [
+    "Engraved illustration of a large, multi-story hotel with a prominent porch and flags, situated on a hill. A small red seal or stamp is superimposed over the illustration.",
+    "Handwritten annotation in pencil next to date: \"4\".",
+    "Handwritten annotation in blue ink over \"Mr. Stevenson\": \"OHIO\".",
+    "Handwritten index number in red ink: \"62-83894-333\".",
+    "Stamped date in red ink: \"JUL 13 1953\".",
+    "Handwritten note in pencil in bottom left corner: \"same / acb 7/8/53 / N.P. 277 AUG 5 1953 / 3/17\".",
+    "Stamped text in purple ink: \"RECEIVED DIVISION\".",
+    "Handwritten initials in bottom right corner (illegible, possibly \"JBS\").",
+    "Typed list of names in top right margin, partially obscured by hole punches:"
+  ],
+  "gpt_mini_desc": "*Image: A typewritten letter on Grand Hotel Mackinac Island, Michigan stationery dated June 30, 1953, with a printed hotel illustration at the top and multiple handwritten and stamped FBI file markings near the bottom and right margin.*",
+  "gpt_mini_desc_len": 236,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 52,
+    "total_tokens": 56208,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:25"
+}

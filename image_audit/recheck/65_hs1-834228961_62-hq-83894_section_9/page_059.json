@@ -1,0 +1,38 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 59,
+  "original_image_tags": [
+    "A faded, aged document page, appearing to be the reverse side of a carbon copy or thin paper. The text is visible in reverse (mirror image) through the paper. Several stamps are visible. Two hole-punch marks at the top. The overall color is yellowish-greenish.",
+    "A large, faint, typewritten reference number is visible in reverse through the paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded red rectangular stamp with partially legible text including 'DEPT OF JUSTICE', 'F.B.I.', and a date that appears to be 'DEC 2 3 1958'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint, mirrored text stamp reading 'DOCUMAP' oriented vertically on the right side."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A dark ink stamp in the lower left reading 'DEC 11 3 54 PM 58'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the presence of multiple stamps (the only visual content), with no contradiction on quoted text or counts, as they focus on different stamps or different levels of detail.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:10:51"
+}

@@ -1,0 +1,42 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 139,
+  "original_image_tags": [
+    "A single page of faded pink or salmon-colored paper. The page is mostly blank, with text appearing in reverse as a bleed-through from the opposite side. Two dark, irregular punch-holes or tears are visible at the top. Several stamped notations are visible at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "blank_or_back_of_page",
+        "description": "Pinkish paper showing the reverse side of a document with faint, inverted, and illegible typed text bleeding through from the other side, along with several blue ink stamps."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Blue ink stamp reading 'RECEIVED AUG 8 9 56 AM '47 U.S. DEPT. OF JUSTICE FBI'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Blue ink stamp reading 'RECEIVED-AUG 8 11 17 AM '47 FBI' with some faint illegible handwritten text above it."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Blue ink stamp reading 'RECEIVED' with a timestamp 'P 27 2 36 PM', followed by 'INTERNAL SECURITY F.B.I.' and 'REP. OF SUB'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page is the pinkish back of a document with inverted bleed-through text and several stamps, and they do not contradict each other on the specific quoted stamp text, as Description A only mentions 'several stamped notations' without quoting them.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "blank_or_back_of_page",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:56:52"
+}

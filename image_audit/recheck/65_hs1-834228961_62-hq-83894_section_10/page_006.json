@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 6,
+  "original_image_tags": [
+    "A largely blank, aged, light-colored paper page, likely the back of a document or a file divider. It shows some spotting and discoloration. Two dark, round hole-punch marks are visible near the top edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A page containing only two black circular hole punch marks at the top edge, some faint ink smudges, and faint handwritten or typed annotations at the bottom edge including 'ENCLOSURE ATTACHED' and illegible handwritten dates or initials."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims specific quoted text ('ENCLOSURE ATTACHED') and handwritten annotations at the bottom, while Description A describes a largely blank page with no such text, indicating a direct contradiction on visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:15"
+}

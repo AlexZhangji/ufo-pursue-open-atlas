@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 119,
+  "original_image_tags": [
+    "Black-and-white photograph of a propeller-driven aircraft, the Vought V-173 \"Flying Flapjack,\" in flight. The aircraft has a wide, disc-like fuselage with short, stout wings and two propellers at the wingtips. It is shown at an angle, with landing gear retracted. The caption is partially visible below the image."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black and white photograph showing a single twin-engine, mid-wing aircraft (Navy's 'Flying Flapjack') in flight with its landing gear retracted. Below the image is the text 'Acme Telephoto'. Further below is a headline 'Can This Be the Secret?' followed by a caption describing the aircraft as a possible solution to the 'saucer' mystery. At the bottom of the clipping is a date stamp 'JUL 6 1947' and the text 'WASHINGTON TIMES-HERALD Page 1 & 8 Sec. I'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the main visual content: a black-and-white photograph of the Vought V-173 'Flying Flapjack' in flight with landing gear retracted; Description B adds specific textual elements (e.g., 'Acme Telephoto', headline, date stamp) not mentioned in A, but these are not contradicted.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:16:25"
+}

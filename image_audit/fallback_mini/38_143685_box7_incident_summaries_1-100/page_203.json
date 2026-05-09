@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 203,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "A typed, dark-colored form or card with white text, titled \"RESTRICTED\" at the top and bottom. The form is a numbered checklist from 1 to 26 for reporting unidentified flying objects. The text is slightly grainy. Two hole-punch circles are visible on the left edge. Handwritten notes are present in the right margin."
+  ],
+  "gpt_mini_desc": "*No image content on this page.*",
+  "gpt_mini_desc_len": 32,
+  "usage": {
+    "prompt_tokens": 15665,
+    "completion_tokens": 11,
+    "total_tokens": 15676,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:50"
+}

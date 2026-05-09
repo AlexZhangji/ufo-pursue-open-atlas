@@ -1,0 +1,10 @@
+Letter to Director, FBI
+9-17-47
+Re: Flying Disks
+
+In conclusion, the second officer pointed out that one of the remarkable features of this object was that it was definitely traveling against the wind.
+
+The exact date of the sighting of this object was not fur-nished this office, and inasmuch as it occurred previously to the re-ceipt of Bureau instructions in this matter, no further investigation is being conducted by this office unless specifically requested to do so by the Bureau.
+
+100-1403
+HLM:GWH

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 157,
+  "original_image_tags": [
+    "A tan manila paper envelope or folder. It has two punched holes at the top for binder insertion. A rectangular outline suggests a sealed inner pocket or window. The paper shows age-related toning and a central vertical crease."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "blank_or_back_of_page",
+        "description": "The back of a manila envelope with two punch holes at the top, a central fold line, and a faint rectangular tape shadow. A small metal rivet is visible near the bottom. Handwritten numbers '62-83894' in blue ink and '371' in red ink are present near the bottom edge. A stamp reading 'ENCLOSURE' is visible in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B introduces specific text ('62-83894', '371', 'ENCLOSURE'), a metal rivet, and a tape shadow that Description A does not mention, creating a contradiction on the visual content present.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "blank_or_back_of_page"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:48"
+}

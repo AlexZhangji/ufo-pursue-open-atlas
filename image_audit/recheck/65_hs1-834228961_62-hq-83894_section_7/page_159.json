@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 159,
+  "original_image_tags": [
+    "Black-and-white newspaper photograph accompanying the article. It shows a man in a light-colored, open-collared shirt (presumably Edward Watters) crouching or kneeling outdoors. He is holding a dark, limp, humanoid figure with thin limbs and a large head. The figure appears to be the \"man from Mars\" or \"skinned monkey\" described in the text. The background is indistinct, possibly showing foliage or ground texture."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Newspaper clipping containing a black and white photograph of one man holding a mummified figure, with an adjacent text column. Headline: 'The Little Man Who Wasn't'. Visible text in the column: 'Edward Watters and two friends said they saw a flying saucer on U. S. Highway 78 near Atlanta, Ga, and several small creatures running toward it. They ran over one but the others entered the saucer and flew off in a blaze of light. Mr. Watters exhibits the \"man from Mars\" but an anatomy professor called it a skinned monkey.'"
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Red stamped text reading 'ENCLOSURE' followed by large handwritten red numbers '62-83894-334', and typed text 'Washington Daily News 7/9/53'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the main visual content: a black-and-white newspaper photograph showing a man holding a small, humanoid figure, with the same implied context of the 'man from Mars' incident.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:51:38"
+}

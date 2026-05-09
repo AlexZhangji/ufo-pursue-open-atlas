@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 232,
+  "original_image_tags": [
+    "A beige or off-white envelope, aged. A purple US postage stamp is in the upper right corner. A postmark is centered at the top. The main address is hand-addressed in purple ink.",
+    "Circular postmark with wavy cancellation lines extending to the right over the stamp."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One purple United States Postage stamp in the upper right corner, featuring a profile of Thomas Jefferson and the text 'UNITED STATES POSTAGE', 'THOMAS JEFFERSON', '1701-1809', and '3 CENTS 3'. The stamp is cancelled by a circular postmark from 'CINCINNATI, OHIO 45' dated 'JUL 3 1952 9:30 PM' and several wavy cancellation lines."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the visual content of an aged envelope with a purple US postage stamp in the upper right corner and a circular postmark with wavy cancellation lines, but Description B adds specific quoted text (stamp text, postmark details) that Description A omits without contradicting it.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:34:32"
+}

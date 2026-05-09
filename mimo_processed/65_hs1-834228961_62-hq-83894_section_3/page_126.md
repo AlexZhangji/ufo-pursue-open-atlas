@@ -1,0 +1,1 @@
+*Image: A single sheet of aged, light-orange or manila-colored paper. The sheet is blank, containing no typed or handwritten text, stamps, or markings, other than two punched holes at the top margin and minor surface imperfections consistent with age and handling. The bottom edge is irregular and appears torn or deckled.*

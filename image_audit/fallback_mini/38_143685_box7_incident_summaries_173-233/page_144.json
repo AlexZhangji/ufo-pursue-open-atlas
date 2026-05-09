@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_173-233",
+  "page_num": 144,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B reads specific, structured text from stamps (e.g., 'BUREAU OF INVESTIGATION', 'MAR 1 6 1950', '518') while Description A explicitly calls the content largely illegible, creating a direct contradiction on the legibility and specific quoted text of the visual content.",
+  "original_image_tags": [
+    "A single page of aged, light brown or beige paper, oriented vertically. The paper shows signs of wear, including a tattered and torn left edge. The content consists almost entirely of very faint, illegible text that appears to be a \"bleed-through\" or ghost image from the reverse side of the page. Two distinct stamps are visible."
+  ],
+  "gpt_mini_desc": "*Image: Faded blank document page with stamped markings, including a circular seal at upper left, a red handwritten “518,” and an inverted “RECEIVED” stamp near the upper right.*",
+  "gpt_mini_desc_len": 178,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 43,
+    "total_tokens": 14935,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:55"
+}

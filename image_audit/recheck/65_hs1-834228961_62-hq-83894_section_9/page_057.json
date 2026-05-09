@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 57,
+  "original_image_tags": [
+    "A single page of aged, off-white or yellowed paper. The page appears to be the back or reverse side of a document, as faint, reversed text and markings show through from the front side. The paper has two hole-punch marks at the top and some minor staining. The visible surface is largely blank with the faint, reversed impressions of text and stamps. There are no clearly legible primary markings on this side."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint, reversed text visible through the paper from the other side. The reversed text includes 'FBI', 'RECEIVED', 'JUL 30 1956', and 'REG-38'. There is also a handwritten annotation 'Hd-gh 1/4' and some other illegible faded text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamp and annotation text ('FBI', 'RECEIVED', 'JUL 30 1956', 'REG-38', 'Hd-gh 1/4') that Description A states is illegible and not clearly readable, creating a contradiction on the visual content of the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:49"
+}

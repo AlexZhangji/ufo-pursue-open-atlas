@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 10,
+  "original_image_tags": [
+    "A single page document with typed text. The page is dark, possibly a negative or carbon copy. There are two punched holes on the left margin and two white dots at the bottom center. The number '9' is visible in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page contains typed text under the heading 'REMARKS', describing a statement by Major J. C. Wise regarding an observation on 7 July 1947. The page has a crossed-out 'CONFIDENTIAL' stamp at the top and another at the bottom, along with binder holes and a page number '9' in the bottom right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions disagree on key visual elements: Description A describes a dark/negative page with two punched holes and two white dots at the bottom, while Description B describes crossed-out 'CONFIDENTIAL' stamps and only mentions binder holes without describing darkness or white dots.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:32"
+}

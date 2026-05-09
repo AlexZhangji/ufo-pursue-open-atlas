@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 70,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "A pink FBI Teletype document dated July 8, 1947, regarding a \"Flying Disc\" near Roswell, New Mexico. The document contains typed text describing a hexagonal disc suspended from a balloon, multiple handwritten signatures and initials in the margins, and several filing stamps including one dated July 22, 1947."
+  ],
+  "gpt_mini_desc": "*Image: A single scanned pink teletype/FBI memorandum page with typed text, stamped date markings, and multiple handwritten annotations and initials in ink.*",
+  "gpt_mini_desc_len": 157,
+  "usage": {
+    "prompt_tokens": 14119,
+    "completion_tokens": 34,
+    "total_tokens": 14153,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:00"
+}

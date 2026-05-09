@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 110,
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A identifies only a handwritten signature, while Description B describes a newspaper clipping illustration and multiple stamps, indicating they are describing entirely different visual content on the page.",
+  "original_image_tags": [
+    "Handwritten signature, appears to read \"J. Edgar Hoover\""
+  ],
+  "gpt_mini_desc": "*Image: A scanned archival document page with a small pasted newspaper clipping centered on the page, headed “Juke Box Birthed This Flying Disc, Army Expert Finds,” plus typed names with blank lines at upper right and FBI/record stamps and handwritten notations near the lower right and lower left.*",
+  "gpt_mini_desc_len": 299,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 64,
+    "total_tokens": 56220,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:16"
+}

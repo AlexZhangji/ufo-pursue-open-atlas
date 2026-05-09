@@ -1,0 +1,9 @@
+*Image: A technical graph labeled "Figure 21. Atlas IIAS All-Mode Ship-Hit Contours with A = 6.30". The chart plots "Crossrange Distance (nm)" on the y-axis (ranging from -15 to 15) against "Downrange Distance (nm)" on the x-axis (ranging from -5 to 25). The title area inside the graph reads "Atlas IIAS" and "All Mode Pi". A legend indicates three contour lines corresponding to probability values: a solid line for 10^-4, a dashed line for 10^-5, and a dotted line for 10^-6. The contours originate near 0,0 and expand outwards. Text inside the graph area specifies "B = 5,000,000" and "A = 6.30".*
+
+**Figure 21. Atlas IIAS All-Mode Ship-Hit Contours with A = 6.30**
+
+**6.2.4 Range Distributions of Theoretical and Simulated Impacts**
+
+Earlier discussions had to do with how well the angular part of the Mode-5 impact density function could be made to agree with angular data derived from simulated random-attitude turns. A similar procedure was used to test agreement between the range part of the Mode-5 impact density function and the simulated data. For this purpose, beginning at 15 seconds random-attitude turns were made at 2-second intervals out to 279 seconds, assuming no breakup and breakup qα's of 5,000 and 20,000 deg-lb/ft². At each time, 2,000 trajectories and impact points were computed, giving a total sample of 266,000 for each breakup condition. For each impact point, the range from the pad was computed, and the total number of impacts calculated in 10-mile range intervals out to 350 miles. Impacts beyond this range were placed in a single range category. The percentage of impacts in each range interval was then computed and plotted as shown in Figure 22.
+
+9/10/96 \quad\quad\quad\quad\quad\quad 58 \quad\quad\quad\quad\quad\quad RTI

@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 209,
+  "original_image_tags": [
+    "A vertical scan of a blank, tan-colored document cover or jacket page. The paper is aged and shows creases. The top half features a purple rubber stamp mark reading \"CONFIDENTIAL\" which has been crossed out with a single horizontal black line. The lower portion features a second identical \"CONFIDENTIAL\" stamp mark, also crossed out with a horizontal black line. To the right of the lower stamp, there is a black ink receipt stamp reading \"RECEIVED / FEB 23 1950 / DP 323 MIL\". There are two hole-punch marks visible on the right edge of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A single aged, brown paper page (likely the back of a document). It features two large, faded red 'CONFIDENTIAL' stamps, each crossed out with a black diagonal line. At the bottom right, there is a faint circular ink stamp containing the legible word 'RECEIVED' and the date 'FEB 23 1956'. Two hole-punch marks are visible on the right edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:52"
+}

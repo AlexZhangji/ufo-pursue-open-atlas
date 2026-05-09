@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 65,
+  "original_image_tags": [
+    "A hand-drawn sketch labeled \"Illustration No. 1\" at the bottom right. It depicts the floor plan of a room. A North arrow points towards the top left. The layout includes a bed on the right side, a desk on the bottom left with a \"Radio\" label above it, a chair to the left of the bed, and a small table at the foot of the bed. The foot of the bed is facing the bottom of the sketch, where there are \"4 CASement WINDOWS\". Handwritten notes within the sketch include \"BED\", \"Radio\", \"Desk\", \"MR\", \"END TABLE\", \"4 CASement WINDOWS\", and \"Illustration No. 1\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "Hand-drawn sketch of a room layout. It features rectangular outlines representing furniture, labeled 'BED', 'RADIO', 'DESK', and 'LIGHT TABLE'. Arrows point to a line labeled '4 CASEMENT WINDOWS' at the bottom. A compass arrow labeled 'N' is on the left. The text 'Illustration No. 1' is visible in the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the visual content: a hand-drawn sketch of a room layout labeled 'Illustration No. 1', with a bed, desk, radio, chair, small table, 4 casement windows, a north arrow, and corresponding labels, with no factual contradictions on the depicted elements.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:13:09"
+}

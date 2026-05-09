@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 156,
+  "categories": [
+    "sketch",
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree there is a hand-drawn diagram with two perspectives, but B adds many specific labels ('Side View', 'View from Above', 'Mt Charleston', 'My Position', etc.) that A does not mention, without contradiction.",
+  "original_image_tags": [
+    "A hand-drawn diagram on a dark background showing two perspectives of a flight path."
+  ],
+  "gpt_mini_desc": "*Image: A scanned archival page with typed report text under a large “RESTRICTED” stamp, plus two hand-drawn chalk-style diagrams of a flight path/trail labeled “Side View” and “View from Above,” with annotations including “Mt Charleston,” “my position,” “5 miles,” and a compass cross marked E, S, W, N.*",
+  "gpt_mini_desc_len": 305,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 77,
+    "total_tokens": 56233,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:10"
+}

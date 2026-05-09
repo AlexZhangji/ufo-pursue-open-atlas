@@ -1,0 +1,45 @@
+## RECEIVED
+
+### RECEIVED TELETYPING UNIT
+**Jul 4 4 42 PM '50**
+F.B.I. DEPT. OF JUSTICE
+
+### RECEIVED
+**Jul 5 1 08 PM '50**
+SEC'D ESPIONAGE
+FBI
+U. S. DEPT. OF JUSTICE
+
+---
+
+### RECEIVED-LADD
+**Jul 5 11 08 AM '50**
+F B I
+U.S. DEPT. OF JUSTICE
+
+---
+
+### RECEIVED-LADD
+**Jul 5 9 33 AM '50**
+F B I
+U.S. DEPT. OF JUSTICE
+
+---
+
+### RECEIVED - DIRECTOR
+**Jul 5 10 30 AM '50**
+F B I
+U.S. DEPT. OF JUSTICE
+
+---
+
+### REC'D BELMON:AGENCY
+**Jul 5 11 43 AM '50**
+F. B. I.
+DEPT. OF JUSTICE
+
+---
+
+### RECEIVED
+**Jul 5 1 08 PM '50**
+*(Handwritten note next to stamp: illegible initials)*

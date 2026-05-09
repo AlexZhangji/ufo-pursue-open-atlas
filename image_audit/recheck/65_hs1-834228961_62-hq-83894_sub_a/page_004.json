@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 4,
+  "original_image_tags": [
+    "A torn, aged piece of orange/yellow teletype paper is affixed horizontally across the center of a white paper. The paper has two hole-punch marks at the top and appears aged. The teletype paper contains a UPI news wire story. Handwritten annotations in pencil and pen are visible below and to the side of the clipping."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed page with handwritten annotations and stamps. Contains a handwritten title 'FLYING SAUCERS', file numbers '62-83894' and '62-83894-A', date stamps '39 AUG 12 1958' and 'NOT RECORDED AUG 12 1958', and handwritten signatures/initials. Attached is a torn UPI news clipping with typewritten text describing a UFO sighting."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamped/typed text (e.g., '62-83894', 'AUG 12 1958') and file numbers not mentioned by Description A, while Description A describes a 'UPI news wire story' which Description B contradicts by describing it as a 'UPI news clipping with typewritten text describing a UFO sighting'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:40"
+}

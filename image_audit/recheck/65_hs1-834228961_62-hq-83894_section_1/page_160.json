@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 160,
+  "original_image_tags": [
+    "two black-and-white photographs. The left photo shows two young men seated at a table, looking down at a document or photograph. The right photo is a grainy image of a dark, oval-shaped object against a light background, with tree branches and a porch rail visible in the foreground."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Newspaper clipping containing a black-and-white photograph. The photograph depicts two young men standing side-by-side indoors; the young man on the right is holding up a small, rectangular object or contact print. The caption below the photograph is titled 'NORFOLK BOY AND PHOTO OF DISC' and describes the boy, Bill Turrentine, showing reporter George Hebert how he took a photograph of a flying disc. The clipping includes a headline: 'Flying Disc 'Bigger Than Automobile' Photographed By Youth Who Is Amazed Because No One Else Saw It'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Descriptions disagree on the number of photographs (two vs. one), the subjects' posture (seated vs. standing), the content of the main photograph (men at table vs. man showing a photo), and Description B quotes specific caption and headline text that Description A does not mention.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:20"
+}

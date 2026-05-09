@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 207,
+  "original_image_tags": [
+    "Yellowed paper document, aged and discolored, with multiple stamped dates from November 1957. The top of the page shows faded, reversed text, suggesting this is the back of a document or a carbon copy. At the top right, a piece of aged tape or a stain obscures part of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The image shows the back of a document, indicated by the reversed and faintly visible typed text from the other side. The page contains multiple administrative stamps in blue ink, with visible text such as 'REC'D ESPIONAGE F B I', 'REC'D BELMONT FBI - JUSTICE', and various dates and times including 'Nov 6', 'Nov 7', 'Nov 8 1951', and 'Nov 13 1957'. There is also faint red text, partially legible as '220' and 'CLASSIFIED', along with red smudges. A dark, damaged paper clip or fastener mark is visible at the top right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, verbatim text inside stamps ('REC'D ESPIONAGE F B I', 'Nov 6', 'CLASSIFIED') that Description A does not mention at all, creating a contradiction on quoted visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:15"
+}

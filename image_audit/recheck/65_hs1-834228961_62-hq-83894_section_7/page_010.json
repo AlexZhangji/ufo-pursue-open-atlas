@@ -1,0 +1,30 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 10,
+  "original_image_tags": [
+    "The document page is heavily faded, showing mirrored/reversed text as if viewed through the back of the paper. A large piece of the top right corner is torn away. There are staple holes and creases at the top.",
+    "A rectangular red ink stamp box in the lower right corner. The text inside is inverted. It reads: \"RECORDED\", \"INDEX-FILE\", \"5049-7188 (17 pages)\", \"X.R.\"",
+    "Faint red pencil or crayon marking, appearing to be a squiggle or initial, near the center-left margin.",
+    "The top edge of the paper shows three hole-punch marks and a large diagonal tear in the upper right corner, with a piece of yellowed tape attached."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Inverted text block at top right mentioning names, addresses, and 'Report an observation' along with an 'Air Ministry' stamp. A faded red stamp near the bottom right reads 'RECEIVED MAIL ROOM FBI' and 'U.S. DEPT. OF JUSTICE' with a date 'AUG 28 1953'. A purple rectangular stamp at the bottom right reads 'MAILD 30', 'VOGEL', 'COM-MM-FBI'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions refer to completely different visual content, with different stamps, text, and details, indicating they are describing different images or pages.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:48:11"
+}

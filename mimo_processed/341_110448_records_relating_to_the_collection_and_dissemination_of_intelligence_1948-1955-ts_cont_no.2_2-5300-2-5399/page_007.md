@@ -1,0 +1,14 @@
+## SECRET
+
+**USAFE 16** &nbsp;&nbsp;&nbsp;&nbsp; **TT 1524** &nbsp;&nbsp;&nbsp;&nbsp; ~~SECRET~~ &nbsp;&nbsp;&nbsp;&nbsp; **4 Nov 48**
+
+CIC source reports that the Russians have ordered CSR Missions in foreign countries to purchase radar tubes in large quantities regardless of costs. Mission also instructed to purchase a complete radar set.
+
+(Eval C-3)
+
+(END OF ITEM)
+
+## SECRET
+
+NW 90307
+DocId:34714985 Page 7

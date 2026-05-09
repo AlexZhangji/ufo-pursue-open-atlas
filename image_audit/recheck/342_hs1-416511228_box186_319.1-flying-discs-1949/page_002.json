@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 2,
+  "original_image_tags": [
+    "The document is the reverse side of a typewritten page. The text from the front side is faintly visible in reverse through the thin paper. A large, irregular black shape obscures the bottom left corner. A small, black, circular punch hole or mark is visible near the bottom right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple red stamped ink markings. The top stamp reads 'TRANSMITTED' with a handwritten number '38' above a date stamp 'JAN 9 4 08 PM '50'. Below this is a stamped location 'LOWRY FLIGHT SERVICE CENTER' with a faint handwritten signature over it. There is also a faint, reversed purple stamp visible at the bottom of the page, with legible mirrored text including 'ODENLER' and 'FLIGHT SERVICE CENTER'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:52"
+}

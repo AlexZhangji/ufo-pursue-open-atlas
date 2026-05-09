@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 153,
+  "original_image_tags": [
+    "A rectangular stamp in the bottom left corner. The top half is blue with white text \"DECLASSIFIED\". The bottom half is white with black text \"Authority: NND 90986\".",
+    "A rectangular stamp in the bottom right corner. Text reads \"SEARCHED / INDEXED / SERIALIZED / FILED / MAY 2 4 1950 / FBI - NEW ORLEANS\". There is a handwritten initial or mark in the \"INDEXED\" line."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A single page document consisting entirely of typed text. It includes headers, a code table, several paragraphs of narrative, a distribution list, and a bottom footer. There are no photographs, sketches, diagrams, maps, or charts present on the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A details two stamps with specific quoted text (e.g., 'DECLASSED', 'Authority: NND 90986'), while Description B states there are no photographs, sketches, diagrams, maps, or charts present on the page, contradicting the visual content described in A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:31"
+}

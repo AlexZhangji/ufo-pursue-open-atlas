@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 105,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions are about different visual content: Description A describes a full archival page with handwritten annotations and a routing slip, while Description B describes only a newspaper clipping illustration with specific headline text.",
+  "original_image_tags": [
+    "A beige archival document page with a newspaper clipping pasted in the center. The page has two punch holes at the top. There are several handwritten annotations in blue and black ink, including \"File\" at the top and signatures/initials at the bottom. A stamped \"RECORDED\" box is present in the lower right quadrant.",
+    "A faint, vertically oriented list of names, possibly a routing slip, is visible on the right edge. The names are mostly illegible but appear to include \"Mr. Ladd\", \"Mr. Nichols\", \"Mr. Rosen\", \"Mr. Tracy\", \"Mr. Egan\", \"Mr. Garrison\", \"Mr. Tambo\", \"Mr. [illegible]\", \"Mr. Pennington\", \"Mr. Quintan Tam...\", \"Mr. [illegible]\". Below this list is a large handwritten signature or initial in black ink, possibly \"Carr\" or \"Cahill\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned archival document page with a pasted newspaper clipping centered on the page, titled “Soviet Still Wants Answer To ‘Saucers’,” with typed and handwritten annotations, stamps, and file markings around it.*",
+  "gpt_mini_desc_len": 222,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 50,
+    "total_tokens": 56206,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:14"
+}

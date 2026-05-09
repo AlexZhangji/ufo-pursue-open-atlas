@@ -1,0 +1,54 @@
+BY COURIER SERVICE
+
+CC:
+LENChols
+AHBmont
+LVBoardman
+EHMossburg
+Liaison
+
+*Image: Scanned typewritten FBI memorandum page dated April 16, 1956, with handwritten annotations and red stamps/marks, including a courier-service stamp and an oval red date stamp.*
+
+**RECORDED-3**
+*Date:* April 16, 1956
+
+*To:* Director of Special Investigations (Original & 1)
+The Inspector General
+Department of the Air Force
+Building Tempo E
+4th and Adams Drive, S. W.
+Washington, D. C.
+
+*From:* John Edgar Hoover, Director
+Federal Bureau of Investigation
+
+*Subject:* SIGHTING OF OBJECT RESEMBLING FLYING SAUCER ON APRIL 6, 1956, NEAR HENDERSON, NORTH CAROLINA
+MISCELLANEOUS - INFORMATION CONCERNING (ESPIONAGE)
+
+> On April 6, 1956, Miss Sylvia L. Richards, an employee of this Bureau who resides at Two East Mason Avenue, Alexandria, Virginia, while en route to Morven, North Carolina, via automobile, with her fiance, Mr. Joseph L. Morris, Jr., observed an unusual object which appeared to resemble a flying saucer.
+>
+> Miss Richards stated at about 5 A.M., on April 6, 1956, while it was still dark and while driving on Route 1 north of Henderson, North Carolina, she and Mr. Morris were startled by what appeared to be an oval-shaped, low-flying object coming directly towards their car at a great speed, on the driver's side. Miss Richards stated the object, which was less than 25 feet from the ground, appeared to be spinning, was bright as though containing a series of lights in a zigzagging pattern, was light blue in color and was at least as wide as the highway and no more than from two to four feet in thickness. She stated the object did not change shape, it made no sound and that she observed it for only a few seconds before it appeared to pass over the car, accelerate speed and veer off out of sight behind them. Miss Richards advised when daylight came she noticed it was cloudy and that approximately 30 minutes after they had sighted the object it began to rain.
+
+*Note:* Cover memo Belmont to Boardman 4-13-56
+EHM:ss, re: "Sylvia L. Richards, GS-5, Name Check Unit, EOD 4-14-47."
+
+Tolson
+Boardman
+Nichols
+Belmont
+Harbo
+Mohr
+Parsons
+Rosen
+Tamm
+Sizoo
+Winterrowd
+Tele. Room
+Holloman
+Gandy
+
+*EHM:ss (8)*
+
+*[handwritten note at bottom left]:* copied to C 4/25-5
+
+*[handwritten in right margin]:* *I know* / *MAB* / *see Williams*

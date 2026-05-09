@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 1,
+  "original_image_tags": [
+    "White adhesive label with barcode and alphanumeric string:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A brown file folder cover featuring multiple stamped annotations, red and black text, and two attached barcode labels. The primary text includes 'BUREAU DO NOT DESTROY', 'USE CARE IN HANDLING THIS FILE', and 'Transfer-Call 3421'. There are multiple red stamps reading 'COPIED FOR FOIPA' with dates ranging from 1976 to 1979. A white label at the top left reads 'FBI - CENTRAL RECORDS CENTER' and 'HQ - HEADQUARTERS'. A barcode label is attached at the top right. A small blue box at the bottom right reads 'Declassification authority derived from FBI Automatic Declassification Guide, issued May 24, 2007.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A identifies only a single white adhesive label, while Description B describes a complex brown folder cover with multiple stamps, text annotations, and two barcode labels, representing a major contradiction in visual content and object count.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:35"
+}

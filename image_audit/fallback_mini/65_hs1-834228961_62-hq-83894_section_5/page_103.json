@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 103,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a circular FBI stamp, a handwritten note with specific date and text, and a green UNCLASSIFIED stamp, while Description B describes only a typed memorandum with no mention of these visual elements, indicating they are describing different content.",
+  "original_image_tags": [
+    "A faded, partially obscured circular stamp reading \"FBI\" is visible. A handwritten note, oriented diagonally, reads: \"Enc & trans. w/ letter to / [illegible name], 9, / 5-17-50 / EN M/Kel\". Below this is a green ink stamp: \"UNCLASSIFIED FILE BEHIND FILE\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned FBI office memorandum form dated April 11, 1950, with typed text, handwritten annotations, stamps, and file markings.*",
+  "gpt_mini_desc_len": 136,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 34,
+    "total_tokens": 14926,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:40"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 194,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions give different verbatim strings for the handwritten text below the same 'RECORDED' stamp (Description A: '62-53874', Description B: '62-0004').",
+  "original_image_tags": [
+    "A faded, reddish-orange stamp in the bottom right corner of the clipping reads \"RECORDED\" with a handwritten number below it that appears to be \"62-53874\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping collage about “flying discs” and “flying mayonnaise jars,” with multiple overlapping cut-out article columns on orange backing paper, including a large headline and a small “RECORD” stamp at lower right.*",
+  "gpt_mini_desc_len": 241,
+  "usage": {
+    "prompt_tokens": 54659,
+    "completion_tokens": 52,
+    "total_tokens": 54711,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:46"
+}

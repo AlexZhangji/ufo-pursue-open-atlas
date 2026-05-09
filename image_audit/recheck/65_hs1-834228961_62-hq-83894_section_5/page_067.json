@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 67,
+  "original_image_tags": [
+    "Back of a yellowed, aged paper document. Two punched holes are visible at the top edge. The paper contains significant \"bleed-through\" or ghosting of typed text from the reverse side, appearing reversed and mostly illegible. There are multiple ink stamps and a faint red rectangular stamp. The overall appearance is that of the reverse side of a filed government document."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded blue rectangular stamp located near the bottom center. It reads 'MAR 8 1951', 'U.S. DEPT. OF JUSTICE', 'FBI', and 'RECEIVED - MAIL ROOM'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description B adds specific, unreadable stamp text that Description A does not mention, but they do not contradict each other on the visual elements they both acknowledge.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:58:55"
+}

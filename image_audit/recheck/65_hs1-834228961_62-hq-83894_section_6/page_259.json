@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 259,
+  "original_image_tags": [
+    "Two black-and-white diagrams illustrating the physics of light refraction in air layers, captioned \"Drawing by Al Evers\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A schematic diagram titled 'With a temperature inversion, light bends in refracting layer of air.' It depicts a cross-section of the atmosphere showing a light source on the right, rays of light bending downward, and labeled layers: 'WARM AIR', 'REFRACTING AIR LAYER', and 'COLD SURFACE'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims there are 'two' diagrams with a caption 'Drawing by Al Evers', while Description B describes a single schematic diagram with a completely different title and no mention of the quoted caption, representing a fundamental disagreement on the number of figures and specific quoted text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:15"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 75,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a page with handwritten notes and bleed-through text, while Description B describes a specific blue 'RECEIVED' stamp, which are entirely different visual content with no overlap.",
+  "original_image_tags": [
+    "A single page of aged, off-white paper with visible lined background. The paper has handwritten notes in blue ink at the top. The lower two-thirds of the page shows faint, reverse-imprinted text from the other side (bleed-through), including a column of names and titles and the faint outline of a \"CONFIDENTIAL\" stamp at the bottom. A black hole-punch mark is visible at the bottom center. A small red ink mark is on the right edge."
+  ],
+  "gpt_mini_desc": "*Image: A scanned document page with a handwritten note at the top, including the text “A-z for running” and a signature-like “ED,” with faint stamped/typed archival markings near the upper edge.*",
+  "gpt_mini_desc_len": 196,
+  "usage": {
+    "prompt_tokens": 11028,
+    "completion_tokens": 46,
+    "total_tokens": 11074,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:48"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 49,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content: a top photograph of one person kneeling with a large curved object and a bottom photograph of four people standing together, with the rightmost person gesturing.",
+  "original_image_tags": [
+    "black-and-white newspaper photograph, top half. A man in a light-colored shirt and trousers is kneeling on a hard surface, looking up at the underside of a large, dark, curved metallic object. He holds a tool or instrument in his right hand. The setting appears to be outdoors or in a large hangar.",
+    "black-and-white newspaper photograph, bottom half. Four women are standing together in conversation. From left to right: a woman in profile, a woman with short dark hair looking down, a woman in a light-colored dress with a ruffled collar looking forward, and a woman in a floral print dress gesturing with her right hand."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping with the headline “Sharp-Eyed Sight Disks, but Only a Saw Blade Is Found” and two black-and-white photographs: the upper photo shows a kneeling man inspecting aircraft wreckage, and the lower photo shows four people standing together, with one woman raising her right hand.*",
+  "gpt_mini_desc_len": 311,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 67,
+    "total_tokens": 54710,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:22"
+}

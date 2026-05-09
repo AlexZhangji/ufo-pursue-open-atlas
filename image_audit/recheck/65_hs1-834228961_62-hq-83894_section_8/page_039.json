@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 39,
+  "original_image_tags": [
+    "A yellow manila document envelope or folder flap, oriented vertically. Two punched holes are visible at the top edge. A clear plastic fastener or label holder is affixed near the bottom center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Back of a manila folder or envelope. Two punch holes at the top. Handwritten text on the right reads 'Nothing on carrier before reported 1-20-78'. Handwritten text at the bottom reads '62-83894-349'. A vertical stamp reads 'ENCLOSURE' in red ink."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B invents specific handwritten text and a red stamp that are not mentioned in Description A, indicating a factual contradiction on visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:48"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 235,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual elements (dark envelope, white lettering, circular postmark, 3-cent Jefferson stamp, upper left annotation) but Description B adds specific postmark details (city, date, time) and mentions wavy cancellation lines that A omits, without contradiction.",
+  "original_image_tags": [
+    "A black-and-white photograph of a dark-colored envelope. The envelope is addressed in large, handwritten white capital letters. A circular postmark and a 3-cent U.S. postage stamp are visible in the upper right corner. A smaller, handwritten annotation is in the upper left corner.",
+    "A circular postmark stamped over the envelope.",
+    "A 3-cent United States Postage stamp featuring a profile portrait, likely of Thomas Jefferson."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white photograph of a dark envelope or postcard front with handwritten white lettering reading “THE CINCINNATI ENQUIRER,” a circular postmark dated “CINCINNATI, OHIO / JUL 31 / 9:30 PM / 1952,” and a U.S. postage stamp with wavy cancellation lines in the upper right.*",
+  "gpt_mini_desc_len": 286,
+  "usage": {
+    "prompt_tokens": 34019,
+    "completion_tokens": 80,
+    "total_tokens": 34099,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:16"
+}

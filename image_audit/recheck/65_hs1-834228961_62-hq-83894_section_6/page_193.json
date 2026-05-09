@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 193,
+  "original_image_tags": [
+    "Handwritten annotation in red ink over typed text \"245\".",
+    "Stamps at bottom center:",
+    "Red stamp at bottom left:",
+    "Vertical list of names on left margin:",
+    "Signature at bottom right, likely over typed name, appears to read:",
+    "Typed note next to \"cc - Foreign Service Desk\":"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Top left: stamped text '62-83894', 'RECORDED-30', 'EX - 69', and red handwritten number '285'. Top right: typed text 'REGISTERED AIR MAIL'. Bottom: red stamped date 'AUG 13 1952', stamped text 'COMM - FBI' and 'AUG 11 1952 MAILED 30'. Bottom right: black handwritten cursive signature or initials. Bottom left: typed list of names under column 'Tolon', 'Ladd', 'Nichols', etc."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions contradict each other on specific stamped and typed text (e.g., '245' vs. '285'; Description B includes multiple specific stamps like '62-83894' and 'RECORDED-30' not mentioned in A), indicating at least one is fabricating visual details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:34:07"
+}

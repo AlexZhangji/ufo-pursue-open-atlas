@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 136,
+  "original_image_tags": [
+    "A carbon copy of a typewritten document on thin paper. The text is faint and reversed (appearing as a mirror image) due to the carbon transfer process. The document appears to be a memorandum or report. The visible text, when reversed, reads:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Three overlapping ink stamps: one stamped 'MR. JONES MAR 15 12 01 PM '53', one stamped 'RECEIVED F B I U S DEPT OF JUSTICE', and a red date stamp 'MAR 16 10 54 AM '53'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a mirrored carbon-copy document with no visible images, while Description B claims three overlapping ink stamps with specific verbatim text, representing completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:19"
+}

@@ -1,0 +1,14 @@
+## CONFIDENTIAL
+
+REMARKS:
+Statement given by Major J. C. Wise, Test Pilot, Muroc Army Air Field, Muroc, California.
+
+On 7 July 1947, at approximately 10:10, while running up the XP-84 on the ground I noticed everyone was looking up into the air. Off to the north about 10,000 to 12,000 feet altitude, was an object that I assumed at first to be a weather balloon, but after looking at it for a while I noticed that it was oscillating in a forward whirling movement without losing altitude. It was traveling about 200 to 225 MPH, and heading from west to east.
+
+The object was yellowish white in color and I would estimate that it was a sphere about 5 to 10 feet in diameter.
+
+*Image: A single page document with typed text. The page is dark, possibly a negative or carbon copy. There are two punched holes on the left margin and two white dots at the bottom center. The number '9' is visible in the bottom right corner.*
+
+***
+
+## CONFIDENTIAL

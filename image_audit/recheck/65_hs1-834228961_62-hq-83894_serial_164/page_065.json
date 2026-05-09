@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_164",
+  "page_num": 65,
+  "original_image_tags": [
+    "A single, aged, off-white or light beige page. At the top center, the word \"RESTRICTED\" is printed in a bold, black, sans-serif, all-caps font. The same word, \"RESTRICTED\", is printed in an identical font at the bottom center of the page. The remainder of the page appears blank, though faint, indistinct impressions of text from the reverse side are visible, bleeding through the paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page contains only the typed word 'RESTRICTED' at the top center and bottom center. There are no photographs, sketches, diagrams, maps, or charts visible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains only the typed word 'RESTRICTED' at top and bottom center, with no other visual content like photographs or diagrams.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:13:37"
+}

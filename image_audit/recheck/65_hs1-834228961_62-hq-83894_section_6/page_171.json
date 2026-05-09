@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 171,
+  "original_image_tags": [
+    "A single page of a typewritten inter-office communication on aged, off-white paper with two punched holes at the top. The document contains several blue ink stamps and handwritten annotations. The paper appears to be the back of another document, as faint reverse text is visible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Three vertical ink stamps reading 'RECD BELMONT F. B. I. DEPT. OF JUSTICE JUN 12 946 AM '52', 'RECEIVED-LA F. B. I DEPARTMENT OF JUSTICE Jun 12 12:37 PM '52', and 'COPY ATION-LIAISON F. B. I. S. DEPT. OF JUSTICE Jun 12 2 34 PM '52'. One faint horizontal ink stamp reading 'COPY ATION-LIAISON S. DEPARTMENT OF JUSTICE JUN 12 4 20 PM '52'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:58"
+}

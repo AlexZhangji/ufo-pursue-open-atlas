@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 37,
+  "original_image_tags": [
+    "The page is a vertical, off-white card or form, showing text from both sides due to paper transparency. The primary visible content is two blue ink \"RECEIVED\" stamps applied upside-down relative to the card's orientation, and faded, reversed text from the other side of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The image shows the back of a document with multiple blue stamps and faint, mirrored text from the front side bleeding through. Two distinct blue stamps are visible in the lower right, reading 'RECEIVED DEPT. OF JUSTICE JUL 17 2 07 PM INTERNAL SECURITY F.B.I.' and 'RECEIVED DEPT. OF JUSTICE 4 58 PM INTERNAL SECURITY F.B.I.'. Faint mirrored typed text and lines from the other side of the page are visible throughout, but the main graphical content is the stamped text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed stamp text that Description A does not mention, indicating a discrepancy in the level of legible detail extracted from the same visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:34"
+}

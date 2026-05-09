@@ -1,0 +1,26 @@
+{
+  "file": "dow-uap-d50-email-correspondence-indopacom-april-2025.pdf",
+  "stem": "dow-uap-d50-email-correspondence-indopacom-april-2025",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "10c11e9bf4d6686159da48e3d9388e7d3afe4ae8b1e79725ec6c63ccc491e537",
+  "size_bytes": 312451,
+  "total_pages": 2,
+  "pages_processed_in_run": 2,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:07",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    }
+  ]
+}

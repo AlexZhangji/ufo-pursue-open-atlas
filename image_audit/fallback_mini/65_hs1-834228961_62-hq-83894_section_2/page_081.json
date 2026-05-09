@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 81,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions differ on the material of the central object ('metallic' vs 'wooden'), the background context ('recessed compartment or display case' vs 'lighter rectangular background (possibly a wall or panel)'), and the location of the dark rectangular fixture ('below' vs 'lower-left'), indicating they describe different visual content.",
+  "original_image_tags": [
+    "black-and-white photograph of a metallic, circular disc-shaped object resting on a dark, flat surface within a larger, recessed compartment or display case. The object has a textured surface with concentric or striated lines, a small raised loop or fixture on its right edge, and visible surface irregularities or markings. Below the object, on a lighter-colored surface, is a small, dark, rectangular label or fixture with two visible screws or rivets. The entire scene is framed by the borders of a photographic print."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white photograph of a circular object mounted against a dark background, with a small clasp or handle on its right edge and a small rectangular inset image near the lower left of the page.*",
+  "gpt_mini_desc_len": 207,
+  "usage": {
+    "prompt_tokens": 22427,
+    "completion_tokens": 44,
+    "total_tokens": 22471,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:44"
+}

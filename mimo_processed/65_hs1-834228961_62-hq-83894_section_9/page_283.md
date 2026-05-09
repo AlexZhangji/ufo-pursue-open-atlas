@@ -1,0 +1,42 @@
+July 9, 1966
+
+Federal Bureau
+of Investigation
+Washington, D.C.
+
+*Flying Saucers*
+
+Gentlemen:
+
+Recently I found this picture in **Real** Magizine, Volume 17, Number 3, August 1966. It is as the magizine states a Cladion occupant from a foreign plant. The two men next this "Visitor" are F.B.I. Agents.
+
+Could you please send me any information pertaining to this picture. I'd appreciate any information and/or pictures that you could possible send me.
+
+Send it to:
+Ronnie Fox
+1348 Edgehill Drive.
+Pomona, California
+91767
+
+Could you please return the picture that I am enclosing for it is the only one like it.
+
+Thank you for any help
+you could give me.
+
+Sincerely Yours,
+*[signed: Ronnie Fox]*
+Ronnie Fox
+
+*[handwritten note]:* pB
+
+REC 22
+62- 83894- 446
+
+JUL 22 1966
+
+*[Handwritten stamp in bottom right corner]:* CORRESPONDENCE
+
+*[Handwritten annotation in bottom left corner]:* mmh
+*[Handwritten note below annotation]:* ENCLOSURE
+*[handwritten note]:* ack 7-22-66
+*[handwritten note]:* Bgh: keep NML

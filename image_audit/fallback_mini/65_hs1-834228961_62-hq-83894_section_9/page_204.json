@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 204,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims multiple specific handwritten annotations with quoted text, while Description B states there are no images or visual content beyond typed text, creating a direct contradiction on the visual content.",
+  "original_image_tags": [
+    "Red ink handwritten annotation above the recipient's name reads \"Larry William\".",
+    "Red ink handwritten annotation to the right of the recipient's name reads \"Born 2-23-38 Shenandoah Va, Soc. Sec. #230-44-9093\".",
+    "Handwritten initial/annotation \"DAN\" near the bottom right of the letter body.",
+    "Handwritten annotation \"Reed\" in the left margin.",
+    "Multiple handwritten initials and stamps are present at the bottom of the page:"
+  ],
+  "gpt_mini_desc": "*Image: A scanned government memorandum letter with typed text and multiple red and black handwritten annotations, stamps, routing marks, and date marks on a yellowed page.*",
+  "gpt_mini_desc_len": 173,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 36,
+    "total_tokens": 14928,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:20"
+}

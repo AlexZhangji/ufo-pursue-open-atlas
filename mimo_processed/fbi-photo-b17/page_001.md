@@ -1,0 +1,1 @@
+*Image: Grainy monochrome infrared-style image with a central crosshair and numeric marks “3” on both sides, showing two small adjacent dark blobs near the center and a timestamp “12/31/99 18:20:48” at bottom left.*

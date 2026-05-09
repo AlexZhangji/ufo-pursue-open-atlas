@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 124,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual elements: a black-and-white newspaper photograph of a person looking through a large telescope on a tripod, with a caption below the photo.",
+  "original_image_tags": [
+    "A sepia-toned newspaper photograph of a man looking through a large, white telescope mounted on a tripod. The telescope is angled upwards. The man is wearing a dark jacket, light-colored trousers, and a hat. The setting appears to be outdoors, with bare trees in the background, suggesting a winter or late autumn season. A small, dark rectangular object is visible on the ground to the left. The clipping is pasted onto a larger page, with visible tape marks at the top and sides."
+  ],
+  "gpt_mini_desc": "*Image: A black-and-white newspaper photograph of a man standing beside a large telescope on a tripod outdoors, with the caption “Joe Perry and His Telescope (Journal Photo)” visible below the image.*",
+  "gpt_mini_desc_len": 200,
+  "usage": {
+    "prompt_tokens": 54659,
+    "completion_tokens": 43,
+    "total_tokens": 54702,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:30"
+}

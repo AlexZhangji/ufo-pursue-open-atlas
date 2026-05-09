@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 153,
+  "original_image_tags": [
+    "The page is a faded, yellowed document with visible text from the other side of the paper bleeding through. The top and bottom edges are torn and uneven. The primary visible text consists of several rubber-stamped \"RECEIVED\" timestamps from the FBI in February 1972. At the top right, a stamped label reads \"EX-112\". The rest of the page shows faint, mirrored text from the reverse side, including the words \"keep these reports\" and \"I regard these...\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple overlapping FBI date stamps and routing labels, including text such as 'FBI', 'FEB 22 3 56 PM '72', 'FEB 23 10 45 AM '72', 'FEB 23 10 23 AM '72', 'RECEIVED-TOLSON', and 'REC'D-READING ROOM'."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "Faint, upside-down typed text visible through the page, including the handwritten label 'EX-112' and the typed line 'Mr. Hyland Report'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "One side quotes 'EX-112' as a stamped label at the top right, while the other describes it as a 'handwritten label' and adds 'Mr. Hyland Report' as typed text, creating contradictory and hallucinated descriptions of the same page content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:57"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_164",
+  "page_num": 1,
+  "original_image_tags": [
+    "Color photograph of a tan manila file folder, slightly worn, lying flat. The folder has several labels and handwritten markings."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "An image of a brown manila envelope cover featuring multiple administrative labels and stamps. It includes a white label from the 'FBI - CENTRAL RECORDS CENTER' with a barcode and case details, a 'DO NOT DESTROY' stamp, a white label on the right with 'HQ-83894', a barcode, and 'Serials EBF 164', a blue sticker at the bottom reading 'Declassification authority derived from FBI Automatic Declassification Guide, issued May 24, 2007.', and various handwritten annotations in black and red ink, including 'FOIPA # 1142292'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides extensive specific quoted text and visual details (FBI label, barcodes, stamps, handwritten annotations) not present in the generic Description A, creating a contradiction in the level of visual content described.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:37"
+}

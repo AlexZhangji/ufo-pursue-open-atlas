@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 218,
+  "original_image_tags": [
+    "Two pages of a handwritten letter on lined paper, showing page numbers 2 and 3 at the top. The paper is aged, with a torn edge at the top. The handwriting is in pencil or light ink. Page 3 is on the left, page 2 is on the right, suggesting they are to be read right-to-left in sequence."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "Handwritten letter on two adjacent lined paper fragments (or one folded sheet) with visible page numbers '2.' and '3.' at the top margins. The text discusses 'Flying Plates' and mentions a 'letter' sent to the 'Organization of the United Nations at the New York State'. The paper has two hole-punch marks at the top and some wear or tearing along the edges. There are no photographs, sketches, diagrams, maps, charts, or newspaper clippings present; the visual content consists solely of the handwritten script and the paper background."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual elements: two handwritten pages on lined paper with page numbers 2 and 3, but Description B adds extra details about hole-punch marks and specific text content that Description A does not mention, with no direct contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:34:24"
+}

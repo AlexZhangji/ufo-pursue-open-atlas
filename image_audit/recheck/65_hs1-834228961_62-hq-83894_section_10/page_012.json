@@ -1,0 +1,149 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 12,
+  "original_image_tags": [
+    "A rough sketch by Phil Smith, 15, of the Unidentified Flying Object watched by Phil, his father and mother, his sister, Diana, and an aunt on the evening of July 7. The band in the center (resembling windows) gave out the bright lights which first attracted Phil's attention.",
+    "black-and-white photograph of Mrs. Thomas and Johnny examined \"flying saucer damage.\" Concrete reinforcement sheeting was broken, sand swirled. Staff Photo by Harold Lysle. The Wichita Beacon Saturday, March 26, 1966.",
+    "black-and-white headshot of a woman, captioned ESTELLE C. PRINS ... talks to space men."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "Photograph of two individuals, labeled 'Mrs. Thomas and Johney examined flying saucer damage. Concrete reinforcement sheeting was broken, sagged, splintered.' A small dog is visible in the background."
+      },
+      {
+        "category": "photograph",
+        "description": "Headshot photograph of a woman, labeled 'ETHYLE C. PRIM takes a space tour.'"
+      },
+      {
+        "category": "sketch",
+        "description": "Line sketch of a saucer-shaped object with a dome on top and a wide base, labeled 'SAUCER SHAPE. This is a rough sketch by Phil Smith...'"
+      },
+      {
+        "category": "photograph",
+        "description": "Headshot photograph of a man in a suit and tie, labeled 'CHARLES COZENS.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Headshot photograph of a man in a suit, labeled 'WESLEY W. BATEMAN, secretary.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Headshot photograph of a man in a suit and tie, labeled 'JOHANNES \"HANNO\" MAYBERRY.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Headshot photograph of a man in a suit and tie, labeled 'SIDNEY PADRICK.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Headshot photograph of a man in a suit and tie, labeled 'MEL NOEL.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Headshot photograph of a man in a suit and tie, labeled 'HAL WILCOX.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'DR. DANIEL W. FRY Understanding, Inc.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a woman, labeled 'MOLLIE THOMPSON Linton, Astley Bank, Darwen, Lancs., England.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'GEORGE W. VAN TASSEL Ministry of Universal Wisdom, Inc.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'DR. FRANK E. STRANGES International Evangelism Crusades, Inc.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'CHIEF FRANK B. STANDING HORSE AFSCA Unit #9.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a woman, labeled 'LAURA MUNDO The Interplanetary Center.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'HOWARD MENGER 202 Schumann Drive; Sebastian, Florida 32958.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'WAYNE S. AHO The New Age Foundation, Inc.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'CARL A. ANDERSON 2522 E. Pearson Ave.; Fullerton, Calif.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'ORFEO ANGELUCCI 4160 Verdugo Road; Los Angeles, Calif.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'MICHAEL \"X\" BARTON Futura Press.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a woman, labeled 'MARIANNE FRANCIS Solar Light Center.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'DR. GABRIEL GREEN Amalgamated Flying Saucer Clubs of America, Inc.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'CALVIN C. GIRVIN 6711 Yucca St.; Hollywood, Calif.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'DR. GEORGE KING The Aetherius Society.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph of a man, labeled 'HOPE TROXELL School of Thought.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Descriptions A and B disagree on the verbatim text of captions (e.g., 'ESTELLE C. PRINS ... talks to space men' vs. 'ETHYLE C. PRIM takes a space tour'), and Description B includes numerous images and figures (e.g., a man labeled 'CHARLES COZENS', a small dog) not present in Description A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph",
+    "photograph",
+    "sketch",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:24"
+}

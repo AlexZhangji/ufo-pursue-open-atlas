@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 116,
+  "original_image_tags": [
+    "Aged, tan-colored paper document back, showing multiple stamped date/time markings, fragments of tape, and torn punch holes. The page appears to be a routing slip or back of a document with processing stamps."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Aged beige paper with black redaction marks at the top edge, two strips of brown adhesive tape (one vertical on the left, one horizontal on the right), and multiple blue stamped text blocks containing dates, times, and departmental names (e.g., 'DEPT OF JUSTICE', 'FBI', 'INTERNAL SECURITY', 'RECEIVED', 'LIAISON SECTION')."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamp text (e.g., 'DEPT OF JUSTICE', 'FBI', 'INTERNAL SECURITY') that Description A does not mention at all, creating a verbatim text contradiction on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:46"
+}

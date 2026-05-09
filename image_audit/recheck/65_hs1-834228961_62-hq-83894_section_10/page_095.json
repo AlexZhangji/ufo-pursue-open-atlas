@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 95,
+  "original_image_tags": [
+    "Aged, yellowed paper with two punch holes at the top. The page is covered with numerous rubber-stamped arrival and routing markings, some inverted. Text from the reverse side of the page is faintly visible, bleeding through."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A scanned page containing multiple overlapping black ink stamps indicating receipt by the FBI and its various divisions (Reading Room, Detachment, Bishop), with dates in October 1967. Faint, mirrored typed text from the reverse side of the paper is visible through the page. A single strip of brown adhesive tape is affixed horizontally across the center. No photographs, sketches, or other graphical content are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements: a scanned page with rubber-stamped markings and faint text bleeding through; the discrepancy is that B adds details (stamp text, dates, tape) not mentioned in A, but there is no contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:55:49"
+}

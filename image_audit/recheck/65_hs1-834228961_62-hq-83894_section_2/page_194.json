@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 194,
+  "original_image_tags": [
+    "A faded, reddish-orange stamp in the bottom right corner of the clipping reads \"RECORDED\" with a handwritten number below it that appears to be \"62-53874\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A large, torn newspaper clipping with the headline 'Flying Mayonnaise Jars Reported by Rehoboth Pilot'. Below the headline, it mentions 'Forrest Wenyon Believes Mystery Discs, Jet-Propelled, May Have Caused Big Plane Crash on Memorial Day'. The clipping is yellowed, with jagged edges and several holes. It contains three columns of printed text. In the bottom right corner, there is a faint red stamp that reads 'RECORDED' above some handwritten text, likely '62-0004'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions give different verbatim strings for the handwritten text below the same 'RECORDED' stamp (Description A: '62-53874', Description B: '62-0004').",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:30:13"
+}

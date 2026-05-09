@@ -1,0 +1,46 @@
+{
+  "file": "dow-uap-d25-mission-report-greece-january-2024.pdf",
+  "stem": "dow-uap-d25-mission-report-greece-january-2024",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "bd5478d2e420f6ff46fb06014e39027e1caa415f55efdc9bd70a849ff6990356",
+  "size_bytes": 680054,
+  "total_pages": 7,
+  "pages_processed_in_run": 7,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:04",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    }
+  ]
+}

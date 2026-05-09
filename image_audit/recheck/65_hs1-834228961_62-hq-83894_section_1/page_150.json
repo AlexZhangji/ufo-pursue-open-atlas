@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 150,
+  "original_image_tags": [
+    "Aged, off-white document card with torn top edge and two hole-punch remnants at top center. All typed text on the card is oriented upside-down relative to the purple stamp. Faint pencil annotations are visible on the left side. A purple stamp in the lower right reads \"COMMUNICATIONS SECTION / MAILED ✓ / SEP 13 1947 P.M.\" with a star symbol."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The image shows the back of a document with typed text, including 'INVOICE OF COUPONS FROM FEDERAL BUREAU OF INVESTIGATION WASHINGTON, D.C.', a 'List of Coupons' section, and a list of names (e.g., Mr. Hubbard, Mr. Howard). A purple rectangular stamp is visible in the bottom right corner with text including 'COMMUNICATIONS SECTION', 'MAILED', 'SEP 23 1947 P.M.', and 'FEDERAL BUREAU OF INVESTIGATION'. Two black circular punch holes are at the top. There are no photographs, sketches, diagrams, maps, or charts."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict on the specific date text of the purple stamp ('SEP 13 1947' vs. 'SEP 23 1947') and on the presence/absence of specific typed text content on the document face.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:10"
+}

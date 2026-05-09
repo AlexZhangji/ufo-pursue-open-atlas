@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 47,
+  "original_image_tags": [
+    "A single page of lined notebook paper with a small, aged newspaper clipping pasted in the center. The page has two punched holes at the top. There are handwritten annotations in blue ink at the top and bottom, and several stamped and handwritten markings."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A rectangular paper clipping with typed text. Visible text includes: '(SAUCER)', 'HELENA, MONT. -- THE FBI, HIGHWAY PATROL AND POLICE OFFICERS INVESTIGATED TODAY A STRANGE WHITE OBJECT WHICH REPORTEDLY STREAKED ACROSS THE SKY OVER MONTANA FOR ABOUT 100 MILES.', 'THE STRANGE OBJECT APPEARED LATE LAST NIGHT, AND THE LAW ENFORCEMENT OFFICIALS TRACED IT FROM BOZEMAN, MONT., TO THIS CITY. IT WAS ALSO SIGHTED OVER BUTTE AND BOULDER, MONT.', 'CAA OFFICIALS SAID THERE WAS NO PLANE IN THE SKY THAT COULD HAVE BEEN MISTAKEN FOR THE WHITE OBJECT.', and a source line at the bottom 'Washington City News Service'. There is also a handwritten note 'WAB' at the bottom right of the clipping."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a handwritten page with a small newspaper clipping, while Description B provides extensive quoted text from the clipping and a handwritten note not mentioned in A, indicating they are likely describing different visual content or that one is fabricating details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:15:12"
+}

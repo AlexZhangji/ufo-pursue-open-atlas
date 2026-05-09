@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 16,
+  "original_image_tags": [
+    "A faded pink or salmon-colored archival page, likely the reverse side of a document, showing bleed-through text from the front. There are two hole-punch marks at the top. The page features multiple stamped receipt dates and faint, reversed text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One pinkish-orange page with two dark punch holes at the top. It contains multiple stamped elements, including upside-down text at the top reading 'RECEIVED TELETYPE UNIT' and 'F.B.I. DEPT. OF JUSTICE', a stamped date 'AUG 8 9:28 PM '47', and a right-side-up stamped block at the bottom reading 'RECEIVED AUG 11 10 20 AM '47', 'INTERNAL SECURITY F. B. I.', 'Dept of Justice Filled F 1948'. Faint mirrored text from the reverse side is visible through the paper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific verbatim text from stamps (e.g., 'RECEIVED TELETYPE UNIT', 'AUG 8 9:28 PM '47') while Description A only vaguely mentions 'multiple stamped receipt dates' without quoting any text, creating a contradiction in quoted content where one side provides specific text the other omits or cannot read.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:30"
+}

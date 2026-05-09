@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 47,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a handwritten page with a small newspaper clipping, while Description B provides extensive quoted text from the clipping and a handwritten note not mentioned in A, indicating they are likely describing different visual content or that one is fabricating details.",
+  "original_image_tags": [
+    "A single page of lined notebook paper with a small, aged newspaper clipping pasted in the center. The page has two punched holes at the top. There are handwritten annotations in blue ink at the top and bottom, and several stamped and handwritten markings."
+  ],
+  "gpt_mini_desc": "*Image: A scanned lined notebook page with a clipped orange newspaper clipping about a “strange white object” over Montana, handwritten “Flying Discs” at the top, and several handwritten file numbers and stamps including “68 SEP 25 1952” and “NOT RECORDED 98 SEP 23 1952.”*",
+  "gpt_mini_desc_len": 273,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 71,
+    "total_tokens": 56227,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:59"
+}

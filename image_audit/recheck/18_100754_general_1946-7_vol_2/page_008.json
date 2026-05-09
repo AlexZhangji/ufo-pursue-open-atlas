@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "18_100754_general_1946-7_vol_2",
+  "page_num": 8,
+  "original_image_tags": [
+    "A circular stamp in the upper left corner reads \"U.S. ARMY SAVE WASTE SALVAGE PAPER\".",
+    "A \"FOR VICTORY BUY UNITED STATES WAR BONDS AND STAMPS\" logo is in the upper right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Top left: A circular 'SAVE' stamp with 'U.S. ARMY' and 'AVIATION SERVICE' text. Top center: A crossed-out 'CONFIDENTIAL' stamp. Top right: A rectangular 'FOR VICTORY BUY UNITED STATES WAR BONDS AND STAMPS' stamp featuring a soldier illustration. Bottom center: A crossed-out 'CONFIDENTIAL' stamp."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A quotes the circular stamp text as 'SAVE WASTE SALVAGE PAPER' while Description B reads the same stamp as 'AVIATION SERVICE', a direct contradiction on the verbatim text inside the same visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:21"
+}

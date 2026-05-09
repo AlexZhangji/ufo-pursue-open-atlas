@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 93,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on a yellowed newspaper clipping about a flying saucer in Venice, but B provides specific quoted headline and body text that A does not mention, and A includes a handwritten arrow annotation that B does not.",
+  "original_image_tags": [
+    "A small, yellowed newspaper clipping from a larger page, with text about a flying saucer sighting in Venice. A handwritten arrow points from the right margin to the clipping with the annotation \"file\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned document page with a pasted newspaper clipping titled “VENICE REPORTS FLYING SAUCER,” a small printed list label in the upper right, and multiple handwritten annotations, stamps, and file numbers on the page.*",
+  "gpt_mini_desc_len": 227,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 52,
+    "total_tokens": 54704,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:10"
+}

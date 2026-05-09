@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "fbi-photo-b15",
+  "page_num": 1,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content: a grainy grayscale infrared image with a central crosshair reticle marked with '3' and redaction bars, but they differ on the count and shape of objects and the visibility of a timestamp.",
+  "original_image_tags": [
+    "Grayscale infrared (IR) sensor still, likely FLIR (Forward-Looking Infrared) in Black Hot (BHOT) mode. The image displays a central crosshair reticle with a tick mark labeled \"3\" on the horizontal axis. A dark, dual-lobed or \"dumbbell\" shaped object is visible just to the right of the vertical center line and slightly above the horizontal center line. The background is uniform gray with visible grain/noise. The image is heavily redacted with solid black bars obscuring text overlays."
+  ],
+  "gpt_mini_desc": "*Image: Grainy grayscale night-vision style photograph of a small dark object near the center-right, appearing as two adjacent dark blobs, with a white crosshair and a horizontal scale labeled “3” at both ends; timestamp “12/31/99 18:20:22” in the lower left.*",
+  "gpt_mini_desc_len": 260,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 67,
+    "total_tokens": 54710,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:46"
+}

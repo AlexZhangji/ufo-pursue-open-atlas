@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 155,
+  "original_image_tags": [
+    "Page shows several stamped markings and ink stamps at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A page displaying multiple overlapping ink stamps. Inverted legible text includes 'RECEIVED', 'P10 10 24 AM.', 'F.B.I. LABORATORY DIVISION', 'RECEIVED Sep 8 5 27 P.M. '47', 'RECEIVED-A460 24 PM '47', and 'S. DEPT of JUSTICE F B I'. A faint circular seal or stamp impression is visible near the top right edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on multiple overlapping ink stamps, but Description B adds specific quoted text not mentioned in A without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:29:50"
+}

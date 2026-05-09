@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 172,
+  "original_image_tags": [
+    "A manila-colored document envelope or folder. At the top left, the word \"ENCLOSURE\" is stamped in red. At the top right, the reference number \"62-83894-373\" is handwritten in red ink. A small piece of brown adhesive tape is stuck at the very top center, near the curved edge. In the center of the envelope face, two larger strips of brown adhesive tape are crossed in an \"X\" shape, with a small staple or pin visible at the intersection. A vertical strip of brown tape is affixed along the bottom left edge. Two hole-punch circles are visible near the bottom edge. The envelope is otherwise blank. The paper is aged and yellowed. The background is solid black, indicating it was scanned or photographed against a dark backdrop."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Red stamp labeled 'ENCLOSURE'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A details a manila envelope with specific visual elements (tape, staple, hole-punches, handwritten number), while Description B only mentions a red stamp, making the two descriptions about different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:54"
+}

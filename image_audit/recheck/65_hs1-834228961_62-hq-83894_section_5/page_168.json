@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 168,
+  "original_image_tags": [
+    "Two punch holes at top center. Red stamped number \"232\" next to typed case number. Stamped \"RECORDED - 92\" and \"EX-43\" on left margin. Red \"FW\" initial at top right corner. Mailed stamp at bottom: \"MAILED 15 / JUL 19 1950 / COMM. FBI\". Another date stamp partially visible: \"JUL 29 1950\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed memo page containing multiple paragraphs of text, including headers 'SAC, Washington Field', 'Director, FBI', 'FLYING DISCS', 'INTERNAL SECURITY - X', and 'Reurlet 6-29-50.' Date 'July 19, 1950' is in the top right. A list of names (Tolson, Ladd, Clegg, Glavin, Nichols, Rosen, Tracy, Harbo, Mohr, Tele. Room, Nease, Gandy) is in the bottom left. The rest is typed instructional text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A details multiple stamped text elements (e.g., 'RECORDED - 92', 'EX-43', 'MAILED 15 / JUL 19 1950 / COMM. FBI') while Description B reads entirely different text (e.g., 'FLYING DISCS', 'INTERNAL SECURITY - X') and describes a typed memo with a list of names, indicating a major discrepancy in the visual content being described.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:42"
+}

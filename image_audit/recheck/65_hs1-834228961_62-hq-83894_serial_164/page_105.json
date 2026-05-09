@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_164",
+  "page_num": 105,
+  "original_image_tags": [
+    "A scan of a single, aged, off-white page. The page is blank except for text at the top and bottom. The paper shows minor discoloration and wear, with a dark, irregular edge visible on the right side. The text at the top and bottom is identical."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The word 'RESTRICTED' is stamped or printed in black ink at the top center and bottom center of the page. The rest of the page is blank, off-white paper with no other visual elements."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree the page is blank off-white paper with only text/stamps at top and bottom, but disagree on whether that text is identical (A) or reads 'RESTRICTED' (B).",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:45"
+}

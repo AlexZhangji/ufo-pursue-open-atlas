@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 111,
+  "original_image_tags": [
+    "The back of a light blue document. At the top, there are two punch holes with a piece of yellow tape covering the left one. Near the center, \"by J\" is handwritten in pencil. At the bottom, two FBI stamps are visible, both upside down. On the left: \"JUL 25 10 54 AM '47\", \"RECEIVED-LABDL\", \"FBI\", \"A DEPT. OF JUSTICE\". On the right: \"JUL 23 5 02 PM '47\", \"RECEIVED-MAIL ROO\", \"FBI\", \"DEPT. OF JUSTICE\". A faint rectangular red stamp is also visible above the right FBI stamp."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue ink stamps and a faint red ink stamp. Visible text includes 'JUL 23 5 02 PM', 'RECEIVED-MAIL ROOM', 'F B I', 'OFFICE OF JUSTICE', 'JUL 25 10 54 AM '47', 'RECEIVED-LADD', 'F B I', and 'OFFICE OF JUSTICE'. The red stamp is faint and mostly illegible, but the text 'JULY 1946' and 'OFFICE OF JUSTICE' are partially visible. There is also some faint, illegible blue handwriting near the top right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A reports two FBI stamps both dated '47 (1947) with text 'DEPT. OF JUSTICE' and 'RECEIVED-LABDL', while Description B reports different stamp text ('OFFICE OF JUSTICE', 'RECEIVED-MAIL ROOM', 'RECEIVED-LADD') and adds a red stamp with 'JULY 1946', indicating contradictory verbatim readings of the same visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:27:42"
+}

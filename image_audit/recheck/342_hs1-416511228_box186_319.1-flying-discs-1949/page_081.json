@@ -1,0 +1,58 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 81,
+  "original_image_tags": [
+    "A pinkish paper form titled \"DEPARTMENT OF THE ARMY STAFF MESSAGE CENTER INCOMING CLASSIFIED MESSAGE\". The form contains typed text detailing an unidentified flying object report. There are several large, black, sans-serif stamps overlaid on the text, including \"MATS\", \"PRIORITY\", \"USAF DIST ACTION\", \"INFO\", \"OIN\", \"CSL\", \"CFO\", \"COM\", and \"ACTION COPY\". Handwritten annotations include a large \"MATS\" in the top right and \"PL/INT\" and \"ES\" in the bottom right corner. The document has a red \"ACTION COPY\" stamp in the bottom right. The bottom margin contains GPO printing information and a warning against exact copying.",
+    "A large, black, sans-serif stamp in the bottom right corner reads \"ACTION COPY\". Above it, a smaller stamp reads \"MATS\". Within a box, there are fields:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large, bold 'PRIORITY' stamp at the top right, with handwritten initials above it."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A 'CONFIDENTIAL' stamp at the top left, struck through with a horizontal line."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical 'USAF DIST ACTION' stamp on the right side."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical 'INFO OIN CSI OPO' stamp on the right side."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A small '2nd SPR' stamp near the bottom right."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large 'ACTION COPY' stamp at the bottom right, with fields for 'TO ASSIGNED TO', 'ACTION', and 'Copies to' filled in with handwritten notations."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large, bold 'ACTION COPY' stamp at the bottom center."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A lists multiple large, black, sans-serif stamps including 'MATS', 'PRIORITY', 'USAF DIST ACTION', 'INFO', 'OIN', 'CSL', 'CFO', 'COM', 'ACTION COPY', and handwritten annotations 'PL/INT' and 'ES', while Description B lists different stamps like 'CONFIDENTIAL' and '2nd SPR' and omits most of the stamps in A, showing the two descriptions are about different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:25:27"
+}

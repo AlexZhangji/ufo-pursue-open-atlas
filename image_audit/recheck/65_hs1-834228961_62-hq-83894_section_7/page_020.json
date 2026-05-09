@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 20,
+  "original_image_tags": [
+    "A typewritten document page, slightly aged and creased. The text is a translation from German describing a \"Flying Saucer\" weapon. The paper has holes at the top center and top right. Handwritten notes in pencil are visible below the main text block. At the bottom left, a pink stamp reads \"COPIES DESTROYED 270 NOV 19 1964\". At the bottom right, handwritten in red ink, is the reference number \"62-83894-308\" and a faint stamp that appears to read \"RECEIVED\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed text document titled 'TRANSLATION FROM GERMAN' describing a 'Flying Saucer' weapon tested in 1944. No photographs, sketches, diagrams, or maps are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes multiple visual elements (holes, handwritten notes, a pink stamp with specific text, a red ink reference number, and a RECEIVED stamp) while Description B states 'No photographs, sketches, diagrams, or maps are present' and provides no other visual details, creating a direct contradiction about the presence of stamps and handwritten marks which are visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:48:17"
+}

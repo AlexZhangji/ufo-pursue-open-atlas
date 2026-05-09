@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 16,
+  "original_image_tags": [
+    "A faint, backward stamp is visible through the paper, reading \"McCHORD FIELD FLIGHT SERVICE CENTER PF 14 Jul 3 '85 JF\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two black circular hole-punch marks at the top of the page. The word 'RESTRICTED' is typed at the top center and bottom center of the page. A faint, reversed ink stamp reading 'McCHORD FIELD FLIGHT SERVICE CENTER' and 'Jul 29 '49' is visible in the lower right section."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions quote the same stamp but give different dates ('14 Jul 3 '85' vs 'Jul 29 '49'), which is a direct contradiction on specific verbatim text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:24:42"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 205,
+  "original_image_tags": [
+    "A piece of light-colored, lined index card or paper with punched holes at the top. The card contains a handwritten message in cursive script using dark ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A piece of lined paper with handwritten cursive text in pencil. The text includes several lines of handwriting and a signature at the bottom right. Visible handwritten text includes: 'If that would been lookin to then', 'It might been a grate tiger now', 'I sent it to the Republic Partie', 'at Washington D.C.', 'F Roy Turner', '217 S maple ave', 'Oak Park Ill.' The paper has a hole punch on the left side, a dark stain or hole on the right side, and blue horizontal lines with a red vertical margin line on the right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific verbatim text and describes visual details (e.g., red margin line, stain/hole, pencil vs dark ink) that contradict or add unverifiable specifics to the simple description in A, indicating potential fabrication.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:27"
+}

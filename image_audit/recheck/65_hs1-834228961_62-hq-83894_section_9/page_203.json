@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 203,
+  "original_image_tags": [
+    "A scan of the reverse side of a yellowed, aged document page. The page has four large, dark hole-punch circles along the top margin. The paper is wrinkled, stained, and has a torn upper-right corner. Faint, reversed text is visible, appearing as a bleed-through or carbon copy from the other side of the sheet. At the bottom right corner, two blue ink stamps are clearly visible and oriented correctly."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The back of a typed document with mirrored text visible through the thin paper. The text appears to be a formal letter addressed to 'Mr. Louis F. Bishop, M.D., 408 South 11th Street, Omaha 8, Nebraska', dated July 11, 1953, from J. Edgar Hoover, Director. The text discusses flying objects and investigations. At the bottom, there is a stamped impression reading 'REC'D MAIL ROOM FBI Jul 17 5 30 PM '63'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B describes specific visual content (a letter from J. Edgar Hoover, a stamped impression with verbatim text) that Description A does not mention, creating a direct contradiction on the presence and nature of the page's content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:51"
+}

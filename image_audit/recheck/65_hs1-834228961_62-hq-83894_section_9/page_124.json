@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 124,
+  "original_image_tags": [
+    "A sepia-toned newspaper photograph of a man looking through a large, white telescope mounted on a tripod. The telescope is angled upwards. The man is wearing a dark jacket, light-colored trousers, and a hat. The setting appears to be outdoors, with bare trees in the background, suggesting a winter or late autumn season. A small, dark rectangular object is visible on the ground to the left. The clipping is pasted onto a larger page, with visible tape marks at the top and sides."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Newspaper clipping featuring a black-and-white photograph of one person looking through a large telescope mounted on a tripod. Caption below the photo reads 'Joe Perry and His Telescope (Journal Photo)'. Text below the caption includes partially cut-off sentences mentioning 'Air Force', 'FBI office', 'reports of un-identified flying objects', and 'UFO's'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual elements: a black-and-white newspaper photograph of a person looking through a large telescope on a tripod, with a caption below the photo.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:16"
+}

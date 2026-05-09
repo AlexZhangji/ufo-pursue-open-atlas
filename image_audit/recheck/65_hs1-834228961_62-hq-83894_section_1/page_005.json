@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 5,
+  "original_image_tags": [
+    "A slightly aged, off-white envelope. The left edge has two circular punch holes. There is a blue 5-cent United States postage stamp in the upper left corner, featuring a profile portrait of Abraham Lincoln. The stamp text reads: \"UNITED STATES POSTAGE\" and \"5 CENTS 5\". A circular postmark overlaps the stamp and is centered near the top. To the right of the postmark are horizontal wavy cancellation lines. The address is handwritten in cursive ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "Photograph of a vintage envelope. Features one blue 5-cent United States Postage stamp in the top left corner depicting a profile portrait. A circular postmark stamp is visible to the right of the postage stamp, reading 'NEW BRUNSWICK N.J. / JUL 5 / 2 PM / 1947', followed by five wavy cancellation lines. Handwritten cursive text is centered on the envelope: 'The A.B.D. / Washington / District of Columbia'. The envelope has two circular hole-punch marks on the left edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual elements: a vintage envelope with a blue 5-cent stamp, circular postmark, wavy cancellation lines, handwritten address, and two punch holes on the left edge, but Description B provides specific postmark text ('NEW BRUNSWICK N.J. / JUL 5 / 2 PM / 1947') and address text ('The A.B.D. / Washington / District of Columbia') that Description A does not detail, without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:26"
+}

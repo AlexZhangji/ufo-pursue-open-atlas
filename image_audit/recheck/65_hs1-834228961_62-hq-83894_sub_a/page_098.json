@@ -1,0 +1,53 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 98,
+  "original_image_tags": [
+    "handwritten name \"Washburn\" with \"FBI\" below it.",
+    "handwritten cursive \"flying Flying Discs\" and \"July 6 ET/EN\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A large yellowed newspaper clipping with a bold headline 'Flying Saucer' Story Deflated By Air Force'. Below the headline are three columns of typed text. At the bottom of the clipping, the masthead reads 'WASHINGTON STAR Page A 18'. The clipping is a physical scrap of paper pasted onto the page."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular stamp located at the bottom center of the page. It contains the text 'INDXED' oriented vertically on the left, followed by a hand-written file number '162-83894-A', the phrase 'NOT RECORDED', and a date stamp '84 SEP 23 1949'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular date stamp at the bottom left of the page containing the date 'SEP 26 1949' and some hand-written numbers '30 35' above it."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular date stamp at the bottom right of the page containing the date 'AUG 20 1949'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical list of typewritten names on the right margin of the page, including 'Tolson', 'Ladd', 'Clegg', 'Glavin', 'Nichols', 'Rosen', 'Tracy', 'Harbo', 'Mohr', 'Tele. Room', 'Nease', and 'Gandy'. Several names have hand-written checkmarks or annotations next to them."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "Multiple hand-written annotations in ink and pencil scattered across the page, including cursive notes, initials, and the phrase 'Flying Disc' written in blue ink below the newspaper clipping."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a small handwritten note with 'Washburn' and 'Flying Discs', while Description B describes a completely different set of visual elements including a large newspaper clipping, multiple stamps, and a typewritten list of names.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:15:57"
+}

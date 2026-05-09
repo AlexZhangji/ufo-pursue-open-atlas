@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 93,
+  "original_image_tags": [
+    "Typewritten document on aged paper. A red \"SECRET\" stamp is centered at the top and bottom margins. The word \"COPY\" is typed in the upper left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed government document page containing text and stamps. Visible elements include typed header 'COPY', a crossed-out 'SECRET' stamp at the top and bottom, a 'SECRET' stamp at the top, hole punch marks, and typed text with a signature block at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A reports two 'SECRET' stamps, while Description B reports one crossed-out 'SECRET' stamp and a second separate 'SECRET' stamp, creating a direct contradiction on the specific visual content of the stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:16"
+}

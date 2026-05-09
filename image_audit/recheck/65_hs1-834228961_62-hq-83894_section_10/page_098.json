@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 98,
+  "original_image_tags": [
+    "A single page of lined paper (blue horizontal lines, single vertical red margin line on the left), aged and yellowed. There are two binder holes punched at the top and two at the bottom. On the right side, there are two pieces of adhesive tape, one horizontal and one angled, with residue and some torn paper attached. The page contains several administrative \"Received\" stamps from the FBI, dated late September and early October 1967. Most stamps are oriented vertically. A handwritten note in the margin is also oriented vertically."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page is the back of a lined document. It contains multiple overlapping ink stamps, mostly upside down relative to the page orientation, with dates such as 'SEP 28 10 58 AM '67' and 'OCT 2 1 09 PM '67', and references to 'FBI' and 'RECEIVED-DIRECTOR'. There is also a piece of brownish adhesive tape residue on the right edge and punched holes along the top and right margins."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements (multiple ink stamps with FBI-related text and specific dates, adhesive tape residue on the right edge, punched holes), but Description A adds details (like the lined paper pattern and two binder holes at the top and bottom) that Description B omits, while Description B's specific quoted stamp text is consistent with A's claim of FBI 'Received' stamps.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:55:51"
+}

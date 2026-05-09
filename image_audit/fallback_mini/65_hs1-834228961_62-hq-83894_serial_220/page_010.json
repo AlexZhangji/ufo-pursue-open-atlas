@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_220",
+  "page_num": 10,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content: a black-and-white sketch of a large, faceted dome or sphere structure suspended above a horizon by a central tower-like object and a base, but they differ on specific details like the presence of exhaust plumes and the title text.",
+  "original_image_tags": [
+    "A black-and-white technical illustration or diagram, oriented landscape. The diagram is rendered in white lines and shading on a black background. At the top center, a cylindrical object resembling a rocket or missile is shown emitting exhaust or a plume upwards. Dashed lines radiate from the top and bottom of this object, extending outwards to the edges of a large, dome-like structure below. This dome appears to be a wireframe or geodesic sphere, showing its internal structural lines. The dome is supported by a wide, angular landing gear structure with two large circular pads or wheels visible at the outer ends of the gear struts. Below the center of the dome, three nozzle-like structures are shown emitting plumes downward, suggesting propulsion. The entire apparatus is depicted over a flat, hazy horizon line, suggesting a landscape or planetary surface. The overall appearance is that of a conceptual design for a VTOL (Vertical Take-Off and Landing) craft or a planetary lander, with annotations illustrating principles of stability or force vectors."
+  ],
+  "gpt_mini_desc": "*Image: A monochrome technical diagram with the Spanish title “ESTABILIDAD CINÍTDA-GLOBAL Y SEMI-GLOBAL,” showing a symmetrical geometric mesh or dome-like structure over a horizon line, with clouds and dashed construction lines.*",
+  "gpt_mini_desc_len": 230,
+  "usage": {
+    "prompt_tokens": 59166,
+    "completion_tokens": 51,
+    "total_tokens": 59217,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:43"
+}

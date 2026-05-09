@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 158,
+  "original_image_tags": [
+    "The entire page content is a reversed (mirror-image) scan, showing the typed text from the other side of a thin paper document. The original typed text, which would be readable on the front side, is shown here backwards. At the bottom of the page, there are several overlapping blue ink stamps."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed document with 'Office Memorandum UNITED STATES GOVERNMENT' header, addressed to Director, FBI from Los Angeles, dated May 13, 1949. The page includes several paragraphs of typed text and blue 'RECEIVED' stamps at the bottom with visible dates 'MAY 20 3 07 PM 49' and 'MAY 20 5 08 PM 49', as well as a 'FBI' stamp and a 'RECORDED IN JUSTICE DEPT.' stamp."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims the page is a reversed mirror-image scan with overlapping blue ink stamps, while Description B describes a readable typed memorandum with specific, legible 'RECEIVED' and 'FBI' stamps, indicating they are describing fundamentally different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:24"
+}

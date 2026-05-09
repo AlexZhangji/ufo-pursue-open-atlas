@@ -1,0 +1,4 @@
+*Image: The back of a tan or light-orange colored file folder, showing a standard two-prong fastener flap at the top and a pocket flap at the bottom. The paper has a slight texture. A vertical crease or fold line runs down the center. At the bottom right corner, on the pocket flap, there is a handwritten case number in blue and red ink: "62-83894-229". The "229" is written in red ink, while the rest is in blue. There is a small, dark, possibly stamped or smudged mark above the handwritten number. The background is a dark, nearly black surface.*
+
+### File Folder Identification
+*   *[handwritten in bottom right corner]:* 62-83894-229

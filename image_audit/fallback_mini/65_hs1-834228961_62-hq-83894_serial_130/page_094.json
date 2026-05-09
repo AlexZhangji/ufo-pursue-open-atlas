@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 94,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 0,
+  "judge_reason": "parse_error",
+  "original_image_tags": [
+    "Inverted rubber stamp impression, partially legible. Text reads: \"RECEIVED... WPA FIELD OFFICE... JUN 15 1953... CONFIDENTIAL\"."
+  ],
+  "gpt_mini_desc": "*Image: Scanned typewritten document page with handwritten stamp/notations and the page number “83” at bottom right.*",
+  "gpt_mini_desc_len": 117,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 28,
+    "total_tokens": 14920,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:28"
+}

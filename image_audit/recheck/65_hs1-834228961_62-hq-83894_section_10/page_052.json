@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 52,
+  "original_image_tags": [
+    "Scan of the back of a typewritten document on aged, yellowish paper. The page shows the reverse side of text bleeding through from the front, several stamps, and annotations. There are two punched holes at the top and a piece of aged tape in the top right corner.",
+    "Several ink stamps are visible at the bottom of the page, oriented upside down relative to the main text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned document page containing multiple blocks of typed text. The text is heavily faded and mostly illegible, appearing as faint impressions. At the top right, there is a list of names (e.g., Mr. Deloson, Mr. Berg, Division Section, Mr. Moran, Mr. Ware). A note at the bottom refers to the 'Gollins Furnished Information to might supervisor' and 'Special Investigative Division'. There are also faded stamps and handwritten annotations, including 'JAN 20 1961', 'JAN 2 1961', 'RECEIVED-GAGF', and 'JAN 18 12 45 PM '61'. The page has two punch holes at the top and a torn edge on the right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes the back of a page with bleeding text, stamps oriented upside down, and a piece of tape, while Description B describes a page with a legible typed list of names, specific date stamps, and a torn edge, indicating a clear contradiction in the described visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:38"
+}

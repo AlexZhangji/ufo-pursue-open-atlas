@@ -1,0 +1,34 @@
+# RESTRICTED
+
+## CHECK-LIST - UNIDENTIFIED FLYING OBJECTS
+
+**INCIDENT 133**
+
+1. Date: 20 - 26 Feb 48
+2. Time: Usually around 2130 hours
+3. Location: N/S (Norway Denmark & Sweden)
+4. Name of observer: N/S
+5. Occupation of observer: N/S
+6. Address of observer: N/S
+7. Place of observation: N/S
+8. Number of objects: N/S
+9. Distance of object from observer: N/S
+10. Time in sight: N/S
+11. Altitude: From tree-top level to 20,000 f
+12. Speed: one to two miles per second
+13. Direction of flight: Come from direction of Pennemunde
+14. Tactics: N/S
+15. Sound: N/S
+16. Size: N/S
+17. Color: (green tail)
+18. Shape: N/S
+19. Odor detected: N/S
+20. Apparent construction: N/S *(handwritten note: "x Firey")*
+21. Exhaust trails: green
+22. Weather conditions: N/S
+23. Effect on clouds: N/S
+24. Sketches or photographs: None
+25. Manner of disappearance: N/S
+26. Remarks: The trend of these objects to appear at 2130 hours might be significant.
+
+*Image: A dark document form with typed text in white. At the top center, the word "RESTRICTED" is stamped in large, bold, block letters. To the left of the checklist, the text "INCIDENT 133" is typed. At the bottom right, below the remarks, the number "66" is handwritten, and the word "RESTRICTED" is stamped again in large, bold, block letters. There are two punched holes visible on the left margin.*

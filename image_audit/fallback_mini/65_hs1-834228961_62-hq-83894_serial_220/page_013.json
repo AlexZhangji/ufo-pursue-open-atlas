@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_220",
+  "page_num": 13,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on three visual elements: two photographs of a circular object in a grainy sky and one diagram/sketch, with Description B adding specific caption details omitted by Description A without contradiction.",
+  "original_image_tags": [
+    "* Top-left black-and-white photograph of a grainy sky with a faint, circular object circled in dark ink.",
+    "* Bottom-left black-and-white photograph of a grainy sky with a faint, circular object circled in dark ink.",
+    "* Right-side diagram showing a cross-section of a disc-shaped object. The diagram is drawn in white lines on a dark background. It shows a central hull and four surrounding planes labeled:"
+  ],
+  "gpt_mini_desc": "*Image: A newspaper page in Spanish with two grainy black-and-white photographs of a small circular object in the sky, each marked with a hand-drawn circle, plus a chalkboard-style diagram of a layered disc-shaped object labeled “3° Plano,” “2° Plano,” “1° Plano,” and “3° Plano” with arrows and dashed construction lines.*",
+  "gpt_mini_desc_len": 323,
+  "usage": {
+    "prompt_tokens": 62175,
+    "completion_tokens": 78,
+    "total_tokens": 62253,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:43"
+}

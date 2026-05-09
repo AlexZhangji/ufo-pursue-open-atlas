@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 171,
+  "original_image_tags": [
+    "A single page of handwritten text on aged, dark paper. The page is oriented with the top edge on the right, displaying vertically oriented script. The writing is in a cursive hand, appearing to be in German. The page has visible fold lines, dark staining, and two dark circular holes near the top center. There are annotations in the upper right margin. The overall impression is of a historical document or letter."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A dark page containing extensive handwritten text in white ink, oriented upside down. There are two circular holes punched near the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions disagree on the orientation of the page (Description A says the top edge is on the right with vertically oriented script, while Description B says it is oriented upside down) and on the orientation of the holes relative to the page (A says holes are near the top center, B says near the top edge, which is different when considering the page orientation).",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:47"
+}

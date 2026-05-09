@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 155,
+  "original_image_tags": [
+    "A pinkish-beige, vertically oriented archival document page with three black hole-punches at the top. The page is covered with numerous faint, overlapping ink stamps, mostly oriented sideways or upside down. The stamps appear to be from various offices within the FBI and Department of Justice, indicating receipt and routing. The text is difficult to read due to fading, overlapping, and orientation, but several distinct stamps are visible. The paper shows signs of age and wear."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Several blue ink date stamps reading 'RECEIVED BELMONT FBI DEPT. OF JUSTICE' and variations, with dates in July 1953. There are also black ink holes or punch marks at the top edge. Faint, illegible text from the reverse side of the page is visible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the presence of ink stamps, hole punches, and aged paper, but Description B specifies stamp text and dates while Description A notes stamps are mostly illegible, creating a minor detail addition without direct contradiction on quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:51:34"
+}

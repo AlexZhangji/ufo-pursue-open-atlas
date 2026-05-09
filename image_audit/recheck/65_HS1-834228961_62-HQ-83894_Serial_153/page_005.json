@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_HS1-834228961_62-HQ-83894_Serial_153",
+  "page_num": 5,
+  "original_image_tags": [
+    "A small, aged, off-white rectangular slip of paper, possibly a file folder label or index tab. It shows significant wear, with creases, tears, and a notch at the top left corner. The paper has a slight yellowing consistent with age."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "blank_or_back_of_page",
+        "description": "A scan of the back of a piece of paper, possibly an envelope or card. The paper is off-white, aged, and shows a vertical fold crease, a horizontal crease, and a significant tear on the right side. Handwritten numbers '64-83894-153' are visible in the lower left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific handwritten numbers '64-83894-153' while Description A mentions no text, creating a contradiction on the presence of visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "blank_or_back_of_page"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:15"
+}

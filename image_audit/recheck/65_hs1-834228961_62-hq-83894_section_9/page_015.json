@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 15,
+  "original_image_tags": [
+    "A single page from a document file, likely the back cover or a slip sheet. The page is off-white paper with some yellowing and age spots. At the top, two white, diamond-shaped paper staples or fasteners are visible, with dark holes through their centers. Faint, reversed text from the other side of the page is visible through the thin paper, reading \"MEMORANDUM UNITED STATES GOVERNMENT\" and other inverted text. On the left margin, a vertical red stamp reads \"FILED\". At the bottom of the page, two distinct ink stamps are present. One is a blue stamp reading: \"REC'D ESPIONAGE! F B I JAN 10 1952 PM 5P\". The other is a red stamp reading: \"JAN 10 12 32 PM '52\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page is the back of a document showing bleed-through text. Visible stamps include a red 'COPY' stamp on the left edge, a blue 'REC'D ESPIONAGE F B I JAN 10 1952 PM 50' stamp at the bottom left, and a red 'JAN 10 12 32 PM 19' stamp at the bottom center."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict on the text of the red stamp on the left margin (Description A says 'FILED', Description B says 'COPY'), and on the specific text of the blue stamp (A says '5P', B says '50').",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:29"
+}

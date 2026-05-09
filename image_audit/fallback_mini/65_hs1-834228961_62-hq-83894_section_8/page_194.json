@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 194,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A states text is illegible and reversed, while Description B quotes specific, legible, reversed text from a blue stamp, creating a direct contradiction on the visual content of the stamp text.",
+  "original_image_tags": [
+    "This document appears to be a single page of aged, off-white paper with visible creases and two punch holes at the top. The text is largely illegible, faded, and reversed (mirrored), indicating it may be a carbon copy or seen through from the other side. A prominent blue ink stamp is visible in the lower-left quadrant. Handwritten notations are present in red ink at the bottom right."
+  ],
+  "gpt_mini_desc": "*Image: A scanned blank-looking page with faint mirrored typed text, two black punch holes at the top, and several faded stamps near the bottom including blue “RECEIVED F.B.I. U.S. DEPT OF JUSTICE” and a red date stamp.*",
+  "gpt_mini_desc_len": 220,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 57,
+    "total_tokens": 14949,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:13"
+}

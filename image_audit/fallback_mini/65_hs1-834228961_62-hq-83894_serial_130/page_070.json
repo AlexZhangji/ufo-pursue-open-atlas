@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 70,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B invents specific handwritten text ('FIGHT PATH', 'see 130') on a white border that is not mentioned in Description A, creating a direct contradiction about the presence and content of these visual elements.",
+  "original_image_tags": [
+    "Black-and-white photograph, seemingly a night or low-light exposure. The image is predominantly dark. A distinct, faint horizontal line composed of small, discrete points of light or dashes crosses the center of the frame. Above this line, slightly to the left of the center, is a single, brighter, elongated point of light. There are a few other very faint specks in the frame."
+  ],
+  "gpt_mini_desc": "*Image: A dark monochrome photograph of the night sky with a thin horizontal light trail across the middle and a few small bright points; the image is mounted on a white border labeled “Flight Path” along the left edge and “Sec 130” at the bottom.*",
+  "gpt_mini_desc_len": 248,
+  "usage": {
+    "prompt_tokens": 59166,
+    "completion_tokens": 58,
+    "total_tokens": 59224,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:37"
+}

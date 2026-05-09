@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 110,
+  "original_image_tags": [
+    "A scanned document page showing the lower portion of a piece of lined paper. The page has three hole-punch marks at the top. Two pieces of aged, yellowed tape are visible: one horizontal piece near the bottom left, and one vertical piece along the right edge. The main text consists of several ink stamps and handwritten notations, some of which are upside down relative to the page orientation. The paper shows faint blue horizontal lines and red vertical margin lines."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue ink stamped markings on lined paper. Visible text includes: 'RECEIVED', 'AP 29', '2.58 PM', 'INTERNAL SECURITY', 'F.B.I.', 'DEPT OF JUSTICE', and another 'RECEIVED' stamp with 'JUN 19', '9.32 AM'. Faint handwritten script is visible in pencil. A strip of tape is attached to the left and right edges."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A mentions two pieces of tape and three hole-punch marks, while Description B mentions strips of tape on the left and right edges and no hole punches, but more critically, Description B provides extensive specific quoted stamp text ('RECEIVED', 'AP 29', 'F.B.I.', etc.) that Description A does not mention at all, creating a direct contradiction on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:46"
+}

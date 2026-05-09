@@ -1,0 +1,26 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 145,
+  "original_image_tags": [
+    "A faded, yellowed document page with extensive \"bleed-through\" from text on the reverse side, making the primary side difficult to read. Two hole-punch marks are visible at the top. The bottom third of the page contains several overlapping stamps in blue, purple, and red ink, and some handwritten annotations."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A single scanned page showing faint, reversed bleed-through text from the opposite side of the document. Multiple administrative stamps are visible, including 'FBI', 'REC'D MAIL-R/103', 'APR 21 12 28 PM '60', 'U.S. DEPT. OF JUSTICE FBI', 'APR 21 9 15 AM '60', 'COWSMAN', 'REC'D 50 APR 25 1960', and a red stamp labeled 'DEPT. OF DEFENSE INVESTIGATIVE RECORDS CENTER' with handwritten 'HILL'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "parse_error",
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:33"
+}

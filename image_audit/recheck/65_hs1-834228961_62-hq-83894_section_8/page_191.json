@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 191,
+  "original_image_tags": [
+    "Two dark, circular US postage stamps affixed to the upper right corner. The left stamp is fully visible; the right stamp is partially obscured by the postmark and torn edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One circular postmark stamp with text 'ALEXANDRIA, VA', 'MAR 27', '7-PM', '1957'. One rectangular postage stamp with a dark illustration of a standing figure, partially torn at the top right corner. Handwritten annotation 'AIRMAIL' with a line underneath, located to the right of the recipient address. Handwritten blue annotation in the top left corner, illegible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes two circular postage stamps, while Description B describes one circular postmark and one rectangular postage stamp, creating a direct contradiction in the number and shape of the visual stamp elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:08"
+}

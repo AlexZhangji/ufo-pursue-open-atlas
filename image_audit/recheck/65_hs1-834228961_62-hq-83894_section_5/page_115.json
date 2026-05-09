@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 115,
+  "original_image_tags": [
+    "A scanned, aged, yellowed paper document, a teletype message from the FBI Buffalo field office. It has a pink \"Routing Slip\" attached to the right edge with names like Mr. Tolson, Mr. Ladd, etc. There are handwritten annotations in the top left and bottom right corners. A red stamp reads \"ORIGINAL---DIRECTOR\". The paper has two punched holes at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A red stamped header and date block reading 'FEDERAL BUREAU OF INVESTIGATION U.S. DEPARTMENT OF JUSTICE COMMUNICATIONS SECTION APR - 8 1950 TELETYPE'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A red stamped routing box containing a list of names (Mr. Tolson, Mr. Ladd, Mr. Clegg, etc.) with a checkmark next to 'Mr. Belmont' and a handwritten signature 'Am Cullin'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions refer to completely different visual content: A describes a full scanned document with a routing slip, while B describes only specific stamped text blocks.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:50"
+}

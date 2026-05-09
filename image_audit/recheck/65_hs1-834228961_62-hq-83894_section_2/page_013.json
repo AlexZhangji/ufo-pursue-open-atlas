@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 13,
+  "original_image_tags": [
+    "A yellowed, rectangular sheet of paper with two hole-punch marks at the top. The paper appears to be thin, allowing the typewritten text from the reverse side to bleed through, creating a mirrored effect. The text is faded and ghostly. There are two blue \"RECEIVED\" stamps from the FBI Liaison Section, dated August 11 and August 26, 1947. A small piece of tape is affixed to the bottom left corner. The paper has rough edges, particularly at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The back of a document page containing faint, mirrored typed text from the reverse side, three black punch holes at the top, two blue 'RECEIVED LIAISON SECTION' stamps with dates 'Aug. 11 9 51 AM, 47' and 'Aug. 26 12 23 PM, 47', and two 'F.B.I. U.S. DEPT. OF JUSTICE' stamps."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions consistently identify the same key visual elements: mirrored bleed-through text, two blue 'RECEIVED' stamps with identical dates, and punch holes at the top.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:56:16"
+}

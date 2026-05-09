@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 160,
+  "original_image_tags": [
+    "A single page of a typed memorandum on aged paper. The page is oriented vertically but the text is typed horizontally. The paper appears to have been folded or is the back of another document, as the text from the reverse side is visible in a mirror image. There are two hole-punch marks at the top edge. At the bottom left, there is a blue ink stamp from the U.S. DEPT. OF JUSTICE FBI. At the bottom right, there is another blue ink stamp. The main body of text is a memorandum regarding Army Air Forces investigations of \"flying discs.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed document with text that appears upside-down and reversed, as if scanned from the back of a page. The text includes standard memorandum formatting with 'FROM', 'SUBJECT', and 'DATE' fields. There are two large dark ink blotches near the top edge. At the bottom, there are several blue ink stamps, including one reading 'RECEIVED - TANM', 'FBI', 'U.S. DEPT. OF JUSTICE', and 'Sep 26 9 AM', and another with partially legible text including 'JUSTICE' and '4h PM'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a single vertical page with mirror-image bleed-through and two hole-punches, while Description B describes an upside-down/reversed scan with two large ink blotches and lists specific stamp text ('RECEIVED - TANM', 'Sep 26 9 AM') not present in A, indicating they are describing different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:48"
+}

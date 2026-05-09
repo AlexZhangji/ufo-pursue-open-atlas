@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 72,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions contradict on the specific quoted stamp text ('EVIDENTIARY FILE', 'DO NOT DESTROY', '62-83894-70', 'RECORDED', '31 SEP 8AM') versus no such specific quotes in B, and they differ on the number inside the circled number ('21' vs '31').",
+  "original_image_tags": [
+    "Handwritten letter on lined paper with several stamped markings. At the top right, a circled number \"21\". Overlapping the text in the center-right is a red stamp reading \"EVIDENTIARY FILE\" and \"DO NOT DESTROY\". There is also a stamped reference number: \"62-83894-70\". Another red stamp below that reads \"RECORDED\" and \"31 SEP 8AM\". A partial red stamp at the bottom left reads \"89 X\". The handwriting is in cursive ink. The text cuts off at the bottom of the page."
+  ],
+  "gpt_mini_desc": "*Image: A scanned handwritten letter page in cursive ink, with a red border, visible date at the top, a circled “31” in the upper right, and multiple red and black archival stamp marks over the lower half of the page.*",
+  "gpt_mini_desc_len": 218,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 54,
+    "total_tokens": 14946,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:16"
+}

@@ -1,0 +1,26 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 79,
+  "original_image_tags": [
+    "Aged document page, likely a routing slip or back of a teletype transmission, with two punched holes at the top. Multiple blue ink stamps indicate receipt at various FBI offices. The central body of the page contains very faint, mirrored text showing through from the reverse side.",
+    "Small stamp or handwritten text block near bottom center, partially obscured."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page containing multiple blue ink administrative stamps. Visible legible text within stamps includes: 'RECEIVED TELETYPE UNIT MAR 30 10 08 PM '50 F.B.I. DEPT. OF JUSTICE', 'RECEIVED-LADD U.S. DEPT. OF JUSTICE MAR 31 5 04 PM '50', 'RECEIVED-NICHOLS U.S. DEPT. OF JUSTICE APR 3 8 02 '50', 'RECEIVED-DIRECTOR U.S. DEPT. OF JUSTICE MAR 31 6 15 AM '50', and 'RECEIVED MAR 31 6 48 PM '50 F.B.I. DEPT. OF JUSTICE'. Faint reversed typed text is visible through the paper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:58"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 121,
+  "original_image_tags": [
+    "The document is a dark, photocopied or microfilm scan with reversed (white on black) text. At the top center, \"RESTRICTED\" is stamped. Below, the form is titled \"CHECK-LIST - UNIDENTIFIED FLYING OBJECTS\". \"Incident # 56\" is typed in the top right corner. The form lists 26 numbered fields with typed responses. In item 24, \"one photograph\" is typed next to two typed 'X' marks. At the bottom center, \"RESTRICTED\" is stamped again. A handwritten number \"120\" appears in the bottom right margin. Two hole punches are visible on the left side."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed checklist form with the header 'CHECK-LIST - UNIDENTIFIED FLYING OBJECTS' and the text 'RESTRICTED' stamped at the top and bottom. It contains 26 numbered fields with typed responses for an incident dated 6 July 47."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A includes specific visual elements (handwritten number '120', two hole punches, 'Incident # 56' typed in top right, 'one photograph' typed next to X marks in item 24) that are absent or contradicted by Description B, which is limited to typed_text_only and does not mention these details, creating a clear inconsistency on the visual content described.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:43"
+}

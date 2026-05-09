@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 25,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific stamped text ('CONFIDENTIAL') and handwritten text ('Item #7') that Description A does not mention, creating a direct contradiction on the presence of these textual elements within the visual content.",
+  "original_image_tags": [
+    "A vertical black-and-white photograph showing two dark, irregular, slag-like fragments. The top fragment is roughly square with a highly textured, porous surface. The bottom fragment is elongated and rectangular, also appearing charred or metallic. A small, dark, oval-shaped object, resembling a seed or a small metal slug, is positioned to the left of the fragments, likely for scale. The background is a plain, light-colored surface."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white photograph of two dark, irregular rock-like fragments on a white background, with a small oval object to the left; “CONFIDENTIAL” is stamped at the top and bottom.*",
+  "gpt_mini_desc_len": 188,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 45,
+    "total_tokens": 57707,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:49"
+}

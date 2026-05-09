@@ -1,0 +1,43 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 5,
+  "original_image_tags": [
+    "* Red \"CLOSED\" stamp partially visible over text.\n\nI will be 63 yrs old in a few days.\nMy husband passed away 4-30-65\nI have worked as Mgr of Repair Dept for the N.H. Clms Co in Manchester, N.H 44 years this month.\n\nVery truly yours,",
+    "* Label with typed text:\nMRS Levi J. Dow\nGoffstown\nNew Hampshire 03045"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamped red circle containing the word 'ENCLOSURES' located in the lower central area of the handwritten text."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical red stamp reading 'CORRESPONDENCE' along the right margin."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint blue stamped text block on the left margin containing the date 'SEP 1 3 53 PM '66' and the text 'FBI' and 'REG-O-CORR & ICONS'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A small rectangular white label at the bottom center with the typed text 'MRS Levi J. Dow', 'Goffstown', and 'New Hampshire 03045'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict each other on the specific text of stamps: Description A quotes a red 'CLOSED' stamp, while Description B quotes 'ENCLOSURES' and 'CORRESPONDENCE' stamps, indicating different visual content is being hallucinated.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:19"
+}

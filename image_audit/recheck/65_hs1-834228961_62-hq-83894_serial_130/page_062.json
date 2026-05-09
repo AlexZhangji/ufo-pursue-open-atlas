@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 62,
+  "original_image_tags": [
+    "Handwritten signature in cursive ink, \"Don Nelson\", followed by \"Oklahoma City\" written in cursive ink below the signature line."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed document page containing four paragraphs of text regarding flying saucers. There is a handwritten signature 'Dan Nelson' with 'Oklahoma City' written underneath it. A number '5' is handwritten in the top left corner, and '53' is handwritten in the bottom right corner. There are no photographs, sketches, diagrams, or maps."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A quotes the signature as 'Don Nelson', while Description B quotes it as 'Dan Nelson' — a direct contradiction on specific verbatim text within the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:04"
+}

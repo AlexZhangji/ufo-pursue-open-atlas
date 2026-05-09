@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 145,
+  "original_image_tags": [
+    "A typed memorandum on aged, slightly yellowed paper with a torn upper edge. The document contains typed text, a large handwritten red number, a stamped classification, handwritten notes, a signature, and several official stamps.",
+    "A vertical, handwritten red number \"62-82894-332\" is scrawled over the typed \"Date:\" line."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum dated May 14, 1953, from John Edgar Hoover, Director of the Federal Bureau of Investigation, to the Director of Special Investigations, Department of the Air Force, regarding 'FLYING SAUCERS'. The text references an attached letter from Mrs. Robert H. Davison. The page includes various stamps, handwritten notes, and signatures."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains a typed memorandum with handwritten notes, a red handwritten number, stamps, and a signature; no specific quoted visual text is contradicted between them.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:51:24"
+}

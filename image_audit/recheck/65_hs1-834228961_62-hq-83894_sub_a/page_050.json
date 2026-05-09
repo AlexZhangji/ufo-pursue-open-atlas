@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 50,
+  "original_image_tags": [
+    "A news clipping featuring a sketch of a disc-shaped flying saucer. The object is dome-shaped with a wide, flat rim. It has three visible rounded rectangular \"windows\" or ports around the dome, and a small, lattice-like antenna or spire protruding from the top center. The saucer is depicted resting on or hovering very close to a flat surface, casting a shadow. The sketch is rendered in a sepia-toned, newsprint style."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping containing a hand-drawn sketch of a single domed flying saucer with triangular windows, small circular ports, a ringed base, and an antenna on top, hovering above a dark ground. The caption reads 'THIS IS IT A sketch of the flying saucer which Herbert Long, 29, a Kutztown, Pa., insurance salesman, contends he saw parked on a road 30 feet from his car. He said he was too frightened to approach it. He's shown (left, below) giving Leroy Gensler, artist, directions for the sketch. (AP Wirephotos)'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes three rounded rectangular windows, while Description B describes triangular windows and small circular ports, contradicting the specific shape of the visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:15:18"
+}

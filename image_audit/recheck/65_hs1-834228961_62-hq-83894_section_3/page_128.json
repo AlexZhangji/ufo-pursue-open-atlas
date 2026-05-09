@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 128,
+  "original_image_tags": [
+    "A torn, aged, yellowed newspaper clipping from the \"Times\" newspaper. The paper is dark brown/orange with age, with ragged edges, particularly on the left and top. The top left corner of the newspaper name is torn off.",
+    "A black-and-white artist's sketch of a flying saucer. The main illustration shows a wide, flat, disc-shaped object with a central dome and a thick, cylindrical raised section around the dome. It is emitting fiery plumes from its side. To the left is a vertical arrow labeled \"10FT\" indicating height. Below the main drawing are three smaller view diagrams labeled \"SIDE VIEW\" (showing a low profile), \"BOTTOM VIEW\" (showing a circle with a central point), and \"END VIEW\" (showing a triangular profile). A horizontal dimension line across the main disc is labeled \"20 FT\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping from the 'Times' (Twin Falls, Idaho), dated August 15, 1947. It features a headline 'Heads Up, Folks! The Discs Are Flying Ag' and an artist's illustration of a 'flying disc' (flying saucer). The illustration includes a perspective view with dimensions labeled as 10 FT and 20 FT, and three smaller views below it labeled 'SIDE VIEW', 'BOTTOM VIEW', and 'END VIEW'. Text below the illustration credits the drawing to Vic Goertzen."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (a newspaper clipping with a sketch of a flying saucer, a 10FT vertical arrow, a 20FT horizontal dimension, and three labeled smaller views), but Description B adds specific details about the newspaper's date, location, headline, and artist credit that Description A does not mention, without contradicting Description A's visual claims.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:37"
+}

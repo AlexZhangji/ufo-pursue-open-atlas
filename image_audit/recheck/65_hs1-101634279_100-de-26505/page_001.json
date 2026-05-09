@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-101634279_100-de-26505",
+  "page_num": 1,
+  "original_image_tags": [
+    "Vertical barcode on the left side of the label. Text to the left of barcode: \"RRP000PJD9\". Text to the right of barcode: \"8/08/374524\".",
+    "Partial text visible on the right side of the page, seemingly part of a large departmental header or stamp:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A standard typed and stamped document cover sheet (FD-245) for the U.S. Department of Justice Bureau of Investigation. The page contains various form fields, a barcode with the number '8/08/374524', a stamp labeled 'FOIPA', a handwritten table entry, and a 'Closed Section' stamp. There are no embedded photographs, sketches, diagrams, maps, charts, or illustrations."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims specific text to the left and right of a barcode ('RRP000PJD9', '8/08/374524') while Description B reads only the number '8/08/374524' for the barcode and provides a substantially different list of visual elements (stamp, handwritten table, 'Closed Section' stamp).",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:18"
+}

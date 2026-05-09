@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 1,
+  "original_image_tags": [
+    "Logo for RTI, Research Triangle Institute."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page contains a logo ('RTI') and a recycling symbol, but the primary content is typed text forming a report cover page. Text includes: 'RESEARCH TRIANGLE INSTITUTE', 'Contract No. FO4703-91-C-0112', 'RTI Report No. RTI/5180/77-43F', 'September 10, 1996', 'Modeling Unlikely Space-Booster Failures in Risk Calculations', 'Final Report', 'Prepared for Department of the Air Force 45th Space Wing (AFSPC) Safety Office - 45 SW/SE Patrick AFB, FL 32925 and Department of the Air Force 30th Space Wing (AFSPC) Safety Office - 30 SW/SE Vandenberg AFB, CA 93437'. A large handwritten number '19961025 122' is visible. A distribution box and a stamp 'DTIC QUALITY INSPECTED' are also present. An address footer reads '3000 N. Atlantic Avenue • Cocoa Beach, Florida 32931-5029 USA'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions correctly identify the presence of a logo, but Description B adds many specific visual elements (recycling symbol, distribution box, stamp, handwritten number) and details that Description A omits without contradicting it.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:39"
+}

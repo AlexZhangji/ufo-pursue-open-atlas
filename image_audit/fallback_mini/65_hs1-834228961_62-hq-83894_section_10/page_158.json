@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 158,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B claims to quote specific verbatim text from a stamp ('REC'D DOM INTELL DIV.', 'JUL 26', 'JUL 29 PM 4:25 PM 71') that Description A does not mention at all, indicating a major discrepancy in the perceived visual content.",
+  "original_image_tags": [
+    "Scan of a document's back page, likely a carbon copy or routing slip. The page is mostly blank, aged paper with some fading text impressions from the reverse side showing through. A single hole punch is visible at the top center. A horizontal staple mark or tear is present near the bottom edge. A small, tan-colored label with illegible text is affixed in the upper right corner."
+  ],
+  "gpt_mini_desc": "*Image: A blank manila folder or document envelope with faint typed/handwritten markings, a black punched hole near the top center, a small tan label at upper right, and a blue upside-down stamp near the lower center reading “RECD DOM INTELL DIV” with date-like text.*",
+  "gpt_mini_desc_len": 268,
+  "usage": {
+    "prompt_tokens": 11028,
+    "completion_tokens": 63,
+    "total_tokens": 11091,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:11"
+}

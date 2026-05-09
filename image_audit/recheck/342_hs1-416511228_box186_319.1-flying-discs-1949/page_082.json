@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 82,
+  "original_image_tags": [
+    "A scanned document page, appearing to be the back or carbon copy of a typed page. The paper is pinkish/off-white with two hole-punch circles at the top. The main body of the page contains extremely faint, ghosted text from the reverse side or an underlying page, which is not legible as distinct words. At the bottom, there is a stamped receipt marking in blue ink. To the left of the stamp, the words \"MADE IN U.S.A.\" are faintly visible in a large, outlined font."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue ink stamp oriented upside down. The text inside reads: 'RECEIVED BY', 'MATS MESSAGE CENTER', 'G. M. L.', 'FEB 8 22 16', '1949', 'U. S. A. F.', 'AIR TRANSPORT SERVICE'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the presence and category of a blue ink stamp, but Description B provides detailed quoted text while Description A omits it without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:25:23"
+}

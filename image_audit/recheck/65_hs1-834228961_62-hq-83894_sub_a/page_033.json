@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 33,
+  "original_image_tags": [
+    "A newspaper clipping, yellowed with age, affixed to the page. The clipping is from the \"Times-Herald\" or a similar Washington D.C. paper, based on context. The main headline is bold."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping with the headline 'Mystery Is Dissolved: Marines Decide 'Objects' Are New Airliner Lights'. The clipping contains two columns of typed text discussing sightings of flashing lights near the Quantico Marine Base and their identification as commercial airliner lights."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree the image is a newspaper clipping, but Description B adds specific headline text not mentioned in A, while A adds details like 'yellowed with age' and paper name not in B, with no direct contradictions.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:02"
+}

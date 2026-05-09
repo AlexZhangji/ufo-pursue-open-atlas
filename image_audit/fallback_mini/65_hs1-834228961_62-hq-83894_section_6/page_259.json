@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 259,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims there are 'two' diagrams with a caption 'Drawing by Al Evers', while Description B describes a single schematic diagram with a completely different title and no mention of the quoted caption, representing a fundamental disagreement on the number of figures and specific quoted text.",
+  "original_image_tags": [
+    "Two black-and-white diagrams illustrating the physics of light refraction in air layers, captioned \"Drawing by Al Evers\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned magazine page with three columns of text and two black-and-white illustrative diagrams at the bottom showing light rays over a horizon, one labeled with “WARM AIR,” “REFRACTING AIR LAYER,” and “COLD SURFACE.”*",
+  "gpt_mini_desc_len": 227,
+  "usage": {
+    "prompt_tokens": 59166,
+    "completion_tokens": 57,
+    "total_tokens": 59223,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:20"
+}

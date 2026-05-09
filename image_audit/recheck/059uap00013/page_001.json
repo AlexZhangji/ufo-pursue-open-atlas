@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "059uap00013",
+  "page_num": 1,
+  "original_image_tags": [
+    "Department of State seal of the United States of America."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One circular seal at the top left containing an eagle and shield, labeled 'DEPARTMENT OF STATE' and 'UNITED STATES OF AMERICA'. One rectangular stamp at the bottom center with the text 'Released in Full', 'John Powers, Acting-Director', 'US Department of State', and '2/25/2026'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions accurately identify the same primary visual element—the Department of State seal containing an eagle and shield with the correct text labels—and do not contradict each other on its visual content or quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:18"
+}

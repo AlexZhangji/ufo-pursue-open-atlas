@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 131,
+  "original_image_tags": [
+    "Scanned document page, rotated 90 degrees clockwise. The page appears to be the back of a form or routing sheet, showing faint \"bleed-through\" text from the other side. The page is covered with numerous date/time stamps in blue and purple ink, indicating various receipt and routing dates in April and March of 1956. Handwritten text is visible in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page with multiple blue and black ink reception stamps from 1956. Visible text includes 'RECEIVED - BOARDMAIL' (multiple dates), 'RECEIVED - MOHR', 'REC'D ESPIONAGE F.B.I', 'REC'D BELMONT FBI - JUSTICE', and 'RECEIVED CH. 13. OFF'. Also features two punch holes at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states there are only blue and purple ink stamps and handwritten text, while Description B quotes several specific stamps (e.g., 'RECEIVED - BOARDMAIL', 'REC'D ESPIONAGE F.B.I') that A does not mention at all, indicating A is hallucinating the absence of clear text content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:30"
+}

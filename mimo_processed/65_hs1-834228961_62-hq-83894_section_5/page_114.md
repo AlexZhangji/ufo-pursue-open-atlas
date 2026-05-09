@@ -1,0 +1,69 @@
+## RECEIVED-LADD
+### F.B.I.
+### U.S. DEPT. OF JUSTICE
+#### APR 10  8 57 AM '50
+
+## RECEIVED-NOHOLDS
+### F B I
+### DEPT OF JUSTICE
+#### APR 13 1 12 PM '50
+
+## RECEIVED-NHOHLDS
+### F.B.I.
+### U.S. DEPT. OF JUSTICE
+#### APR 10  4 50 PM '50
+
+## RECEIVED - DIRECTOR
+### F.B.I.
+### DEPT. OF JUSTICE
+#### APR 8  1 19 PM '50
+#### NAVAML
+#### B. I.
+
+## REC'D BELMONT
+### F.B.I.
+### DEPT. OF JUSTICE
+#### APR 10  12 23 PM '50
+
+## RECEIVED TELETYPE UNIT
+#### APR 8  12 56 PM '50
+#### *F.B.I. DEPT. OF JUSTICE*
+
+---
+*Image: A document page with multiple blue rubber stamps indicating receipt by various FBI offices and departments. The text of the document is printed on the reverse side and appears as mirrored, faded text through the paper.*
+
+*[Mirrored text from reverse side (transcribed as visible):]*
+...
+FLYING SAUCER, "SQUARE" WAS SQUARE CARRIED BOX, NORTH LINE.
+...
+IN MAINLY BRIGHT OUTSIDE BOTTOM THICK AT CENTER. ENTIRE BOX PAINTED ALUMINUM.
+...
+EASILY ATTACHED TO CENTER OF BOX WITH LOOSE WIRES HANGING
+...
+LOOK EACH CORNER, TRUNK-LIKE RED FLAP CONNECTED TO BOTTOM OF BOX.
+...
+APPROX AREA BENEATH BOX. NO WITNESSES AS TO
+...
+VEGETATION AND BOG IS DESCRIBED AS TOO SPARSE TO HASTEN RETREAT.
+...
+BRUAN BEING ADVISED AS THERE INQUIRIES HAVE BEEN NEGATIVE AND HAVE BEEN
+...
+ADVISED ACCORDINGLY TO THE ABOVE FACTS.
+...
+...
+...
+...
+...
+...
+
+---
+### F.T.R. LEMMON
+#### A-8-30
+#### 12-52 PM
+
+### DIRECTOR, FBI
+#### BUREAU
+
+### FLYING SAUCER, INFORMATION RECEIVED FROM FBI MA, PD. THAT
+
+### FLYING SAUCER HAS LANDED NEAR ELENA, MONTERRIT. RESIDENT AGENT AT

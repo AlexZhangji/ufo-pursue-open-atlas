@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 32,
+  "original_image_tags": [
+    "Back of a document page with two hole-punches at top. Several ink stamps are visible, mostly oriented sideways or upside-down relative to the page orientation. The stamps are layered over faint, reversed text bleeding through from the other side of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Three blue ink stamps on the back of a document. Top stamp: 'RECEIVED U.S. DEPT. OF JUSTICE FBI' dated 'AUG 14 9 34 AM '47'. Middle stamp: 'RECEIVED-D-TAMM U.S. DEPT. OF JUSTICE FBI' dated 'AUG 14 4 20 PM '47'. Bottom stamp: 'MR. JONES Received F.B.I. AUG 19 9 35 AM '47'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes ink stamps generally without quoting text, while Description B provides specific, verbatim quoted text for three distinct stamps including names and dates, indicating hallucination of detailed content not present in A's assessment.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:30:40"
+}

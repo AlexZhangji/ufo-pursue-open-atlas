@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 120,
+  "original_image_tags": [
+    "Hand-drawn sketch of an elongated, cylindrical or cigar-shaped object. The object tapers slightly from a wider front to a narrower rear."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "Hand-drawn sketch depicting an elongated, cylindrical object with a slightly curved profile. The top diagram shows a side view labeled with a length of '60 ft' and a height of '10 ft' at the wider end. The bottom diagram shows a cross-section or end view labeled 'Rear View' with a width of '10 ft'. The handwritten annotation 'INCL 2' is visible at the bottom left. The words 'RESTRICTED' are stamped at the top and bottom center."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B adds specific quoted labels ('60 ft', '10 ft', 'Rear View', 'INCL 2', 'RESTRICTED') and a 'slightly curved profile' that are not present in Description A, creating a contradiction on the presence and content of textual elements within the sketch.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:23"
+}

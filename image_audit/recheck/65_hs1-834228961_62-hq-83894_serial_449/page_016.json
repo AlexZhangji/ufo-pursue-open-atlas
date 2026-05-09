@@ -1,0 +1,51 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 16,
+  "original_image_tags": [
+    "black-and-white cartoon. A man stands near a tree looking at a flying saucer hovering in the sky with a beam of light shining down. Caption: \"Parking between my ball and the green—I'd hardly call THAT intelligent life from another planet.\" Cartoon by Flitcroft. 4-12-66.",
+    "single-panel cartoon. A flying saucer hovers over a swamp at night. Caption: \"THE SWAMP GAS IS RESTLESS TONIGHT.\" From B.C., the Post, May 9, 1966.",
+    "black-and-white photograph of a blurry, light-colored, circular object in the sky. The object appears to be a disc or hat shape.",
+    "black-and-white photograph of a blurry, light-colored, circular object in the sky. The object appears to be a disc shape.",
+    "cartoon of a man sitting in a chair looking out a window. Caption: \"It's flying-saucer-sighting time and I'm determined to see one!\" 3-25-66."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A black and white cartoon sketch depicting a person standing next to a flying saucer. A speech bubble from the person says, 'Parking between my ball and the green - I'd hardly call THAT intelligent life from another planet!'. Dated '4-12-66' in the top right."
+      },
+      {
+        "category": "photograph",
+        "description": "A black and white headshot photograph of a man in a suit and tie. A caption below the image reads, 'GABRIEL GREEN Head Saucerer'."
+      },
+      {
+        "category": "sketch",
+        "description": "A black and white cartoon sketch showing a landscape with trees, a flying saucer in the sky, and people on the ground. A sign in the foreground reads, 'THE SWAMP GAS IS RESTLESS TONIGHT.'."
+      },
+      {
+        "category": "photograph",
+        "description": "A black and white photograph of a dark, blurry, oval-shaped object in the sky above a landscape. A caption below the image reads, 'SAUCER OR STRAW HAT, THIS FLEW IN CALIFORNIA LAST AUGUST. Highway Patrolman Maj Hefflin Photographed It Through His Car Windshield'."
+      },
+      {
+        "category": "sketch",
+        "description": "A black and white sketch depicting a flying saucer hovering over a rural landscape with houses and trees. The caption below reads, 'It's flying-saucer-sighting time and I'm determined to see one!' and is dated '3-25-66' in the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B invents a photograph of 'GABRIEL GREEN Head Saucerer' and detailed photo captions that are entirely absent from Description A, while Description A lists multiple images (two cartoons, two photographs, one more cartoon) that Description B combines or omits differently, creating contradictions in both content and structure.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch",
+    "photograph",
+    "sketch",
+    "photograph",
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:29"
+}

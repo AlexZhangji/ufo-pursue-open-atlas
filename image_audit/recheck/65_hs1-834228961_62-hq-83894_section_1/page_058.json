@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 58,
+  "original_image_tags": [
+    "Back of a tan or orange manila file folder, showing the reverse side. The paper is aged with wear and tear along the edges. A small metal fastener or staple is visible near the top. Two pieces of orange tape are affixed to the left and right edges. A stamped ink impression is located at the bottom right corner, oriented upside-down relative to the folder's upright position."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue ink stamp near the bottom of a blank, aged page. The stamp reads 'RECEIVED', 'JUL 23 4 57 PM '47', 'INTERNAL SECURITY', 'F.B.I.', and partially visible 'DEPT. OF JUST'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Descriptions disagree on core visual content: A describes a folder with tape and fasteners, while B describes a stamped page, indicating they are viewing different images or one is fabricating.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:48"
+}

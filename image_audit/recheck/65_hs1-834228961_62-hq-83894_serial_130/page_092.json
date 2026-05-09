@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 92,
+  "original_image_tags": [
+    "Hand-drawn sketch on white paper depicting the trajectory of an object. The sketch shows a path starting at a small circle labeled \"1\" on the lower left. A dashed line curves upward and to the right to a second circle labeled \"2\". From \"2\", a dashed line curves upward and slightly left to a third circle labeled \"3\". From \"3\", a dashed line curves upward and right to a fourth position labeled \"4\", where the object is depicted as a small, filled black oval (edge-on view). From \"4\", a dashed line curves upward, loops over itself, and ends with an arrow pointing right at a fifth position labeled \"5\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "diagram",
+        "description": "A hand-drawn chart depicting a dashed path with five labeled positions (1 through 5) connected by dashed lines. Positions 1, 2, and 3 are represented as small circles, position 4 is a short horizontal solid black bar, and position 5 is an arrow pointing upward and to the right. The path shows a stepped, rising trajectory. Typed text above identifies it as a 'Chart to which reference is made on page six, statement of David N. Johnson.' Typed text below explains the diagram: 'This design portrays the movements of the object... Positions (1), (2) and (3) show the jerky, rising motion. Position (4) is where the object rolled, presenting its edge to me. It then followed the dotted line, rolling over the top of the maneuver and disappearing at position (5).'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content: a hand-drawn sketch/diagram showing a dashed path with five labeled positions, with positions 1-3 as small circles, position 4 as a solid black bar/oval, and position 5 as an arrow; the discrepancy is only in the specific shape of the path (looping vs. rising) and the presence of typed text captioning the diagram, which are added details/interpretations without direct contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "diagram"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:23"
+}

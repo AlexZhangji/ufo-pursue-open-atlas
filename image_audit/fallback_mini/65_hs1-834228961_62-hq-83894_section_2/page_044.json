@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 44,
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes general features of a typewritten letter (aged paper, torn edge, punch holes, stamps, annotations, distribution list), while Description B quotes specific verbatim text from a stamp ('COMMUNICATIONS SECTION', date 'JUL 22 1947 P.M.') and a decoded message that Description A does not mention at all, indicating the two descriptions are about different visual content or one is hallucinating specific details.",
+  "original_image_tags": [
+    "A typewritten letter on aged, yellowed paper with a torn top edge and punch holes. The document contains several stamps, handwritten annotations in red and black ink, and a distribution list on the left margin."
+  ],
+  "gpt_mini_desc": "*Image: A scanned archival typewritten letter on yellowed paper, dated July 21, 1947, with handwritten red and black annotations, a purple FBI receipt stamp at lower left, and a pasted or overprinted typed quotation in the lower middle about “tired of human nonsense” and “atomic war.”*",
+  "gpt_mini_desc_len": 286,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 68,
+    "total_tokens": 14960,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:13"
+}

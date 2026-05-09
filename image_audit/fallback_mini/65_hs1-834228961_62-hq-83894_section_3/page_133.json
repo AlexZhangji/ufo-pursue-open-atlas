@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 133,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual elements (sketch of a disc-shaped object with a red line and labels), but Description A includes additional details ('pits or rounding' label) and omits details ('20 ft. long', '7 to 8 ft. thick' labels) present in B without direct contradiction.",
+  "original_image_tags": [
+    "A handwritten page on aged, off-white paper with pencil and ink. At the top is a hand-drawn sketch of a disc-shaped object. Below the sketch is a multi-paragraph handwritten account. The case number \"62-83894-115\" is written in red ink in the top left corner. Faint pencil annotations are visible in the margins.",
+    "A pencil sketch showing a side-view of a wide, flat, disc-shaped object. The object has a raised, domed central section with a visible, red-colored horizontal line or \"tublar flame\" running along its side. A dashed line from the left points to the edge of the disc, labeled \"pits or rounding\". The central red feature is labeled \"Tublar pip of flame\"."
+  ],
+  "gpt_mini_desc": "*Image: A pencil-and-crayon sketch of a flying saucer-like object in side view with handwritten annotations, including “20 ft long” and a red horizontal line across the center, on a handwritten document page.*",
+  "gpt_mini_desc_len": 209,
+  "usage": {
+    "prompt_tokens": 50135,
+    "completion_tokens": 47,
+    "total_tokens": 50182,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:53"
+}

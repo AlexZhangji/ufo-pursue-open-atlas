@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 140,
+  "original_image_tags": [
+    "A single sheet of yellowed, aged paper with three hole-punches at the top. The paper appears to be the reverse side of a typed document, as faint, reversed text from the front is visible through the page. Several stamps and handwritten annotations are present."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Back side of a typed document with visible paper texture and bleed-through text. Several stamps are present: a red handwritten 'file' at the top, a 'RELEASED BY NATIONAL ARCHIVES' stamp in the middle, a date stamp 'APR 20 3 57 PM '60' next to 'FBI - JUSTICE', a date stamp 'APR 21 12 28 PM '60', a 'RECEIVED MAIL' stamp, a 'US GOVERNMENT' stamp, and a small 'COPY 2' stamp at the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the main visual content: aged paper with bleed-through text and several stamps, but Description B adds specific stamp text details that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:26"
+}

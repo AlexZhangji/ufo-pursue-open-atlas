@@ -1,0 +1,47 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 33,
+  "original_image_tags": [
+    "A single page of aged, light-greenish paper, likely from a folder or binder, with hole punches at the top. The page is a typed letter with multiple handwritten annotations, stamps, and a distribution list."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large purple rectangular stamp at the bottom left reading 'COMMUNICATIONS SECTION', 'MAILED - 10', 'FEB 6 1948 P.M.', 'FEDERAL BUREAU OF INVESTIGATION', 'U.S. DEPARTMENT OF JUSTICE', and a star symbol."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A black date stamp reading '50 FEB 19 1948' at the bottom left."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical black stamp on the right edge reading 'FEB 5 3 22 PM 48', 'RECEIVED READING ROOM', and 'FBI'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical pink stamp on the right edge reading 'G.I.R. 4'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A horizontal stamp reading 'EX-93' on the left margin."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description B provides specific stamp text that Description A omits, but there is no contradiction between the two on the visual content described.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:31:03"
+}

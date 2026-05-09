@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 52,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes the back of a page with bleeding text, stamps oriented upside down, and a piece of tape, while Description B describes a page with a legible typed list of names, specific date stamps, and a torn edge, indicating a clear contradiction in the described visual content.",
+  "original_image_tags": [
+    "Scan of the back of a typewritten document on aged, yellowish paper. The page shows the reverse side of text bleeding through from the front, several stamps, and annotations. There are two punched holes at the top and a piece of aged tape in the top right corner.",
+    "Several ink stamps are visible at the bottom of the page, oriented upside down relative to the main text."
+  ],
+  "gpt_mini_desc": "*Image: A scanned document page with faint mirrored typed text, two black punch holes near the top, and a small tan tape/repair patch in the upper right; no photograph or illustration is visible.*",
+  "gpt_mini_desc_len": 196,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 44,
+    "total_tokens": 14936,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:05"
+}

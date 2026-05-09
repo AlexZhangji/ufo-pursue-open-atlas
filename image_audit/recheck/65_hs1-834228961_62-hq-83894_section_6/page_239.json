@@ -1,0 +1,31 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 239,
+  "original_image_tags": [
+    "A faded yellowed paper document with hole punches at the top. Several handwritten initials and notes are visible at the bottom, along with stamps and a redacted black bar.",
+    "A stamp on the right side reads \"JUN 13 6 12 PM RECEIVED RECORDS DIV U.S. DEPT OF JUSTICE FBI\".",
+    "A red stamp at the bottom left reads \"MAILED B AUG 14 1952 COMM - FBI\".",
+    "A faint stamp at the very bottom left reads \"53 AUG 20 1952\".",
+    "A list of names is printed in the bottom left margin: \"Tolson\", \"Ladd\", \"Nichols\", \"Belmont\", \"Clegg\", \"Glavin\", \"Harbo\", \"Rosen\", \"Tracy\", \"Laughlin\", \"Mohr\", \"Tele. Rm.\", \"Holloman\", \"Candy\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter dated August 13, 1952, addressed to Mr. W. H. Jennings regarding a letter about flying saucers, with a note for Detroit and a vertical stamp reading 'JUN 13 6:12 PM RECEIVED RECORDS U.S. DEPT. OF STATE F.B.I.' on the right side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A details multiple stamps with specific dates, text, and a list of names, while Description B provides only one stamp with different text ('U.S. DEPT. OF STATE' vs 'DEPT OF JUSTICE') and omits all other described visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:00:26"
+}

@@ -1,0 +1,13 @@
+*Image: A handwritten note on lined paper, written in cursive with blue ink. Two black dots are visible at the top, likely from a hole punch. A handwritten number "10" is in the top right corner.*
+
+Any ship with a center of Gravity control could travel through any space at almost limitless speed. It could also stand still. An occupant would have no sense of speed or sudden change of direction.
+
+Just as Earth is surrounded by air, a G ship would have a layer of the same kind of gas as the Planet or Star where it was made.
+
+This would act as a buffer and keep the ship cool.
+
+But I doubt if we have any such visitor from space.
+
+I think the visitors seen are the small G units circling the Earth & Sun, and not one of them will ever bring harm to our people.
+
+I wonder if any of the flying Saucers are man made G units. We have many scientists working in the Atomic field and also in other fields, with almost limitless possibilities. Possibly some type of balloon has been...

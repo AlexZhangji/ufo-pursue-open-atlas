@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 30,
+  "original_image_tags": [
+    "black-and-white photograph of a document page with a photograph inserted at the bottom, showing a light-colored, elongated, saucer-shaped object against a dark background. Below the photograph is the caption: \"public could not accept this knowledge. \"They won't give\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A small black-and-white sketch or illustration located in the middle column, depicting a dark, indistinct object resembling a flying saucer or UFO."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "One description identifies the visual element as a photograph while the other identifies it as a sketch or illustration, representing a contradiction in the visual category.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:28"
+}

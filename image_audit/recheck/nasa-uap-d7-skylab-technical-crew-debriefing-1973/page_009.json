@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "nasa-uap-d7-skylab-technical-crew-debriefing-1973",
+  "page_num": 9,
+  "original_image_tags": [
+    "Circular black-and-white logo on left side, featuring a stylized American flag with stars and stripes on the left, and a wing-like or orbital path graphic extending right over a planetary surface."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One circular black-and-white NASA insignia (meatball logo) located in the bottom left. The logo features a blue sphere, a red chevron wing, an orbiting spacecraft, and white stars. A small white smudge or tear is visible on the right side of the sphere."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims the logo features a 'stylized American flag' and a 'planetary surface,' while Description B identifies it as the NASA 'meatball' logo with a 'blue sphere,' 'red chevron wing,' and 'orbiting spacecraft'—these are contradictory descriptions of the same logo's visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:19:12"
+}

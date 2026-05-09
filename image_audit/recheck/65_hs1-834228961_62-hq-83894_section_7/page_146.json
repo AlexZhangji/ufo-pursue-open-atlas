@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 146,
+  "original_image_tags": [
+    "Aged, yellowish-green paper document, likely the back or an attachment of a routed memo. Paper shows punch holes at the top edge. Text is visible as a mirror-image bleed-through from the other side, with original typed text, handwritten notes, and official stamps on this side. The document appears to be part of a distribution or routing slip."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded, yellowed page featuring faint bleed-through text from the reverse side, illegible to read. The page contains several distinct stamps and handwritten annotations: a blue stamp reading 'RECEIVED - LAO FBI DEPT. OF JUSTICE MAY 14 1:55 PM '53'; a red rectangular stamp containing the text 'COPY-BIR RECEIVED ROOM FBI '9 U.S. DEPT. OF JUSTICE MAY 15 12:23 PM '53'; a black stamp reading 'REC'D ESPIONAGE MAY 25 11:52 AM '53'; and a faint red 'CIA' stamp near the top. Handwritten cursive text reading 'Released' and initials are visible in the upper left corner, along with other illegible handwritten marks. A black marking or hole punch is present at the top edge of the paper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, legible verbatim text from multiple stamps and a handwritten annotation, while Description A describes the same content as illegible mirror-image bleed-through, creating a direct contradiction on the visual legibility of the text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:27"
+}

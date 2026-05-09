@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 125,
+  "original_image_tags": [
+    "A scan of the back of a thin, translucent paper page, possibly onion skin or carbon copy paper. The paper has two hole-punch holes at the top. The page is largely blank but shows faint, reversed text bleeding through from the other side. At the bottom, there is a purple stamped timestamp and label, printed upside down relative to the main page orientation."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page shows a faint reverse imprint of typed text on the front side, two dark circular hole punches at the top, and a purple stamped text reading 'DEC 13 3 53 PM '48' and 'TRANSMITTED' at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the visual content: two hole punches at the top, faint reversed text, and a purple stamped label at the bottom.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:53:25"
+}

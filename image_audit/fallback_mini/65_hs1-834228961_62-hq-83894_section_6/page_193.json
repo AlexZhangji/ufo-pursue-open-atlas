@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 193,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions contradict each other on specific stamped and typed text (e.g., '245' vs. '285'; Description B includes multiple specific stamps like '62-83894' and 'RECORDED-30' not mentioned in A), indicating at least one is fabricating visual details.",
+  "original_image_tags": [
+    "Handwritten annotation in red ink over typed text \"245\".",
+    "Stamps at bottom center:",
+    "Red stamp at bottom left:",
+    "Vertical list of names on left margin:",
+    "Signature at bottom right, likely over typed name, appears to read:",
+    "Typed note next to \"cc - Foreign Service Desk\":"
+  ],
+  "gpt_mini_desc": "*Image: A scanned FBI teletype-style document page on pale paper, stamped and annotated in red and black ink, with typed letter text dated August 11, 1952 and no separate photograph or diagram.*",
+  "gpt_mini_desc_len": 194,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 47,
+    "total_tokens": 14939,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:51"
+}

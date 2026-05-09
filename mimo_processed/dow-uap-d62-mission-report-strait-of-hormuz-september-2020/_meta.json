@@ -1,0 +1,54 @@
+{
+  "file": "dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf",
+  "stem": "dow-uap-d62-mission-report-strait-of-hormuz-september-2020",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "36708d3c6121b00c55394ac4a648fbcbe5411c8b2c00ea8f42f9ca0e502c6b13",
+  "size_bytes": 1045437,
+  "total_pages": 9,
+  "pages_processed_in_run": 9,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:10",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    },
+    {
+      "page": 8,
+      "status": "skip"
+    },
+    {
+      "page": 9,
+      "status": "skip"
+    }
+  ]
+}

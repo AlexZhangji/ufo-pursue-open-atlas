@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 85,
+  "original_image_tags": [
+    "A yellowed, aged document page with two hole-punch marks at the top and a torn upper-right corner. The main body of text is printed on the reverse side and is visible as reversed, mirrored text through the paper. The foreground side of the page contains multiple date-stamped \"RECEIVED\" labels, primarily from the U.S. Department of Justice and the Air Force."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum on yellowed paper. The text is faint and largely illegible, with a header that includes 'INTERPOL SECURITY X - X', 'NAVY MARINE SPARS', 'U.S. DISCLOSURE OFFICE', and 'SECRET RESTRICTED'. The main body text mentions 'photographs' of a 'balloon' seen at 'Oahu, Hawaii' and lists individuals including 'Lt. Col. C. B. GASSER, USAF', 'FBI Special Agent, Air Material Command, United States Air Force', and 'Lt. Commander J. N. HENDRIX, USNR'. A stamped note in the lower right reads 'RECEIVED JAN 24 1947 PM 10 U.S. DEPT. OF JUSTICE F.B.I. INTERNAL SECURITY SECTION'. Another stamped note near the bottom reads 'RECEIVED JAN 13 1947 PM 10 ATOMIC ENERGY LIAISON SECTION U.S. DEPT. OF JUSTICE F.B.I. INTERNAL SECURITY SECTION'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B reads specific names, titles, and detailed stamp text from the document, while Description A states that the main body text is reversed and illegible, creating a direct contradiction on the content of the visual text elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:50"
+}

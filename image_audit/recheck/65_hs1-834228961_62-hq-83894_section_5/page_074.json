@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 74,
+  "original_image_tags": [
+    "The page is a beige, lined routing slip. It features multiple stamped ink markings and one handwritten annotation. The stamps indicate receipt by various FBI divisions and the date. The text at the top is oriented normally, while the stamped markings are rotated 90 degrees clockwise."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page consists of multiple blue and purple ink stamps and faint reverse-printed typed text. Visible stamps include: 'RECEIVED F B I U.S. DEPT. OF JUSTICE MAR 27 10 59 AM '50', 'RECEIVED-LADD F B I U.S. DEPT. OF JUSTICE APR 3 5 43 PM '50', 'RECEIVED F B I U.S. DEPT. OF JUSTICE MAR 27 11 58 AM '50 REC'D ESPIONAGE', and 'RECEIVED-NICHOLS F B I U.S DEPT OF JUSTICE APR 4 5 59 PM '50'. Faint text includes 'OFFICE OF DIRECTOR, FEDERAL BUREAU OF INVESTIGATION' and a list of names."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:58"
+}

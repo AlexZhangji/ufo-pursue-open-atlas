@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 35,
+  "original_image_tags": [
+    "Illustration of a woman wearing a fur stole and hat, looking downwards."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A small, black-and-white sketch of a smiling man and woman facing each other, located inside an advertisement. The ad text includes 'She'll Never Forget THIS GIFT' above the sketch and 'HAMILTON JEWELRY Yoakum' below it."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A depicts a single woman while Description B depicts a man and woman together, indicating they describe different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:36"
+}

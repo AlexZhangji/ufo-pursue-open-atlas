@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 133,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific verbatim text for multiple stamps (e.g., 'RECEIVED LIAISON SECTION Aug 18 11:44 AM '47', 'MR. JONES', 'FBI RECEIVED Jul 30 9:47 AM '47', 'INTERNAL SECURITY F.B.I.', 'FBI RECEIVED'), while Description A states the stamps are 'several blue ink stamps' with no specific quoted text and claims the page is oriented upside-down, contradicting the stamp legibility and orientation implied by Description B.",
+  "original_image_tags": [
+    "A single page of aged, off-white paper with two punched holes at the top center. The page is oriented upside-down relative to the viewer. The top half (as displayed) contains faint, mirrored text from the reverse side of the paper (show-through). The bottom half contains several blue ink stamps and a handwritten annotation in the lower-left corner."
+  ],
+  "gpt_mini_desc": "*Image: A single aged document page scanned in pale beige, with faint mirrored typewritten text showing through, two punch holes near the top edge, and a blue date/receiving stamp with handwritten markings near the bottom.*",
+  "gpt_mini_desc_len": 223,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 54,
+    "total_tokens": 14946,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:03"
+}

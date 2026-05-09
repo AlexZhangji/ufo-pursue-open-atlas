@@ -1,0 +1,55 @@
+~~SECRET//REL TO USA, FVEY~~
+Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 8 October 2025
+
+*   **Rank:** Ctr
+*   **Full Name:** *[3.5c, FOIA Exemption (b)(6)]*
+*   **Unit:** 12 AF PAROC
+*   **Wing:** Other
+*   **Phone Number:** *[FOIA Exemption (b)(6)]*
+*   **Email:** *[3.5c, FOIA Exemption (b)(6)]*
+*   **Service:** Air Force
+*   **Operations Center:** Other
+
+### APPROVER
+
+*   **Rank:** SSgt
+*   **Full Name:** *[FOIA Exemptions (b)(3), 1.3c, (b)(6)]*
+*   **Unit:** Unavailable
+*   **Wing:** Other
+*   **Phone Number:** *[FOIA Exemption (b)(6)]*
+*   **Email:** *[3.5c, FOIA Exemption (b)(6)]*
+*   **Service:** Air Force
+*   **Operations Center:** 603 AOC
+
+### INGEST
+
+*   **Rank:**
+*   **Full Name:**
+*   **Unit:**
+*   **Wing:**
+*   **Phone Number:**
+*   **Email:**
+*   **Service:**
+*   **Operations Center:**
+
+### ACEQUIP
+
+### ACEQUIP
+
+*   **Aircraft Callsign:** *[1.4a]*
+*   **Radar Name or Destination:** -
+*   **Radar Software Load or Mission Data:** -
+*   **Radar Warning Receiver (RWR) Name or Designator:** -
+*   **RWR Software Load or Mission Data:** -
+*   **MWS Name or Designator:** -
+*   **MWS Software Load or Mission Data:** -
+
+*[3.5c, FOIA Exemption (b)(6)]*
+
+~~SECRET//REL TO USA, FVEY~~
+
+MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S
+10/17/25 003
+Approved for Release to AARO

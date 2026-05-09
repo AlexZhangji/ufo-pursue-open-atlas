@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 255,
+  "original_image_tags": [
+    "A blank, light brown or manila enclosure folder with a single hole punched at the top center. The flap is closed. The stamp \"ENCLOSURE\" is visible in red ink on the flap, oriented upside down relative to the main body of the folder. The handwritten file number \"62 - 83894 - 297\" is written across the top of the folder in black and red ink. There are two additional punched holes at the bottom edge of the folder. The folder is otherwise blank."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The back of a brown file folder or envelope. There is a stamped word 'ENCLOSURE' in red ink on the left side of the top flap. Handwritten in blue ink is the number '62-83894'. Handwritten in red ink is the number '297'. There are three punched holes for binding: one at the top center of the flap and two at the bottom of the main folder body."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions disagree on the specific handwritten file number: A quotes '62 - 83894 - 297' while B quotes '62-83894' and '297' separately, and A describes the ink color as 'black and red' while B specifies 'blue' and 'red'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:00:32"
+}

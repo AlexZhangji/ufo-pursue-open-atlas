@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "18_6369445_general_1948_vol_1",
+  "page_num": 20,
+  "original_image_tags": [
+    "A greenish-blue paper document, a \"First Indorsement\" form. The text is typed. In the lower-left, there is a typed \"1 Incl. n/c\" followed by a handwritten note \""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed memorandum on blue paper with stamps and handwritten annotations, no photographs, sketches, or diagrams."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims specific visual elements (a greenish-blue paper document, a handwritten note) that Description B explicitly states are absent ('no photographs, sketches, or diagrams'), creating a direct contradiction on the presence of visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:23"
+}

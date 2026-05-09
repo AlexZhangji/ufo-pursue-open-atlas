@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 74,
+  "original_image_tags": [
+    "Back of a document page, appearing to be a file folder or backing sheet. The paper is light pink or salmon-colored with a slightly textured, fibrous appearance. The sheet is blank for the most part, with only faint, reversed text visible at the bottom, suggesting bleed-through or an imprint from another document. There are two black hole-punch circles near the top edge, one left-center and one right-center. The top right corner of the sheet is torn and missing."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint, reversed blue ink stamp at the bottom containing partially legible text including 'RECEIVED', 'MAR 1 21 36', '1949', 'U S A F', and 'Air Transport Service'. Two black punch holes at the top edge. One short black line drawn near the top center and another near the bottom center."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B reads specific verbatim text ('RECEIVED', 'MAR 1 21 36', '1949', 'U S A F', 'Air Transport Service') from a stamp that Description A describes as blank with only 'faint, reversed text', creating a direct contradiction on the legibility and content of a specific visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:25:16"
+}

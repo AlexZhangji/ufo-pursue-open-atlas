@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 50,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A quotes a specific stamp date 'FEB 29 1950' and a red 'RECORDED' stamp, while Description B quotes a completely different stamp date 'FEB 24 1950' and describes the stamp as faint and circular with illegible text, indicating a direct contradiction on the content of the same visual element.",
+  "original_image_tags": [
+    "Handwritten letter on aged paper with two hole-punch marks at the top. Text is written in cursive blue ink. A red \"RECORDED\" stamp is visible in the lower right quadrant, over the text. Below the stamp, a faint red date stamp reads \"FEB 29 1950\". A small pencil annotation \"205\" is visible near the bottom right. The bottom left corner has a small pencil annotation \"ak 2/24/50\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned handwritten letter on aged paper, dated February 1950, with a list of multiple dates and times in the left half and direction notes such as “Southwest,” “Southeast,” “Northwest,” “East,” and “West” in the right half; several words and lines are crossed out and there are a few red stamped or handwritten markings near the lower middle.*",
+  "gpt_mini_desc_len": 354,
+  "usage": {
+    "prompt_tokens": 12573,
+    "completion_tokens": 90,
+    "total_tokens": 12663,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:38"
+}

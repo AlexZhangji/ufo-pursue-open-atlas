@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 53,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions contradict on the position of the stamped 'RESTRICTED' text and disagree on the presence of other visual elements like scratches and a handwritten number.",
+  "original_image_tags": [
+    "Dark gray document page, appears to be a photograph or scan of a typed page on dark paper or film. The page has two hole-punch circles visible on the left margin and one at the bottom center. There are faint light streaks or scratches vertically across the lower half of the page. A handwritten number \"5-2\" appears in the lower right corner.",
+    "White, bold, stencil-like stamped text reading \"RESTRICTED\" is centered at the very bottom of the dark page."
+  ],
+  "gpt_mini_desc": "*Image: A dark, nearly blank document page with a typed quote near the top reading “Lt Gov Whitehead said that he saw a ‘comet-like object hanging in the western sky June 24.’ He stated that the object ‘didn’t move but just seemed to go below the horizon with the rotation of the earth.’” and large faded “RESTRICTED” stamps at the top and bottom, plus two hole punches along the left edge.*",
+  "gpt_mini_desc_len": 391,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 95,
+    "total_tokens": 14987,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:46"
+}

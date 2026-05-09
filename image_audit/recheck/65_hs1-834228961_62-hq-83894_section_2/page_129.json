@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 129,
+  "original_image_tags": [
+    "A large, dark, circular stamp reads \"STOP\".",
+    "Large handwritten file number at bottom right:",
+    "Smaller handwritten number below:",
+    "Date stamp at bottom left:",
+    "Text stamp below date:",
+    "Date stamp at bottom right:",
+    "Handwritten initials near bottom right stamp:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamps and handwritten annotations: 'RS' stamp, 'TOP SECRET' stamp (partially obscured), '162-83894-86 FBI' handwritten numbers, '51 SEP 29 1947 COPIES DESTROYED 270 NOV 18 1964' stamped text, 'EX-64 RECORDED INDEXED 19' stamped text, and various handwritten initials and checkmarks."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A and B quote completely different verbatim text for stamps (A: 'STOP'; B: 'RS', 'TOP SECRET', 'EX-64 RECORDED INDEXED 19', etc.) and describe different sets of visual elements, indicating they are hallucinating conflicting details about the same visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:52"
+}

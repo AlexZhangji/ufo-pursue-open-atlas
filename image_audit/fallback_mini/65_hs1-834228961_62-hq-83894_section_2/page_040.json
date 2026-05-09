@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 40,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B invents specific quoted text ('DI TER', 'TIRED', etc.) and details (signature, date '7/17/52') not mentioned in Description A, and both quote the same visual element (the encoded message) but with contradictory verbatim content.",
+  "original_image_tags": [
+    "A single sheet of aged, light-blue graph paper filled with handwritten text in pencil. The text is arranged in rows of what appears to be a substitution cipher or coded message, with numerical keys written above some of the letter groups. The paper shows signs of age with slight yellowing and a few small stains."
+  ],
+  "gpt_mini_desc": "*Image: A lined notebook page with handwritten cipher-like text arranged in rows, with alphabetic groups and numbers written above and below each word; two small handwritten signatures/marks appear near the bottom corners.*",
+  "gpt_mini_desc_len": 223,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 44,
+    "total_tokens": 56200,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:42"
+}

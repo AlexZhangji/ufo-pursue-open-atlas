@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "59_214434_sp_16_19630718",
+  "page_num": 1,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A quotes specific verbatim text from a stamp ('DECLASSIFIED', 'NNS 93155 1', 'By JARS, Date') that Description B does not mention, and Description B describes completely different visual content (a typed memorandum with different stamps), indicating a factual inconsistency about the images on the page.",
+  "original_image_tags": [
+    "A white rectangular stamp with a black border. The top line reads \"DECLASSIFIED\". The second line has the initials \"NNS\" followed by the number \"93155 1\". The third line has \"By\" and \"JARS, Date\" with handwritten entries."
+  ],
+  "gpt_mini_desc": "*Image: Scanned typewritten memorandum page dated July 18, 1963, with red “OFFICIAL USE ONLY” stamps at top and bottom, a rectangular “DECLASSIFIED” stamp box near the upper left, and multiple handwritten marginal annotations, initials, and circled marks along the right and bottom edges.*",
+  "gpt_mini_desc_len": 289,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 68,
+    "total_tokens": 14960,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:56"
+}

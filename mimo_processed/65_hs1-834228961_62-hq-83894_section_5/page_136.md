@@ -1,0 +1,21 @@
+4
+The drawings show the saucers put together like this.
+straight piece circulars between top and bottom of saucer - filled
+with ball bearings in a groove top and bottom the center piece
+turns but top or bottom does not turn - Top and bottom obey the rudder
+the up and down rudder and the sideways rudder.
+1. 1. 1. is for the jets to fire out side. From point 2 to point 2 on
+a 30 foot diameter saucer is 10 feet making an overall diameter
+of 50 feet
+
+*Image: A single page of handwritten notes with one pencil sketch of a cylindrical object labeled with measurements “30’,” “10’,” and “10’,” surrounded by curved side lines marked “2” and several small circular marks on the cylinder’s middle band.*
+
+drawing 4.
+
+of course it does not look like this drawing for curves and
+etc - you know what I mean. all the floor in the saucer
+is fastened to the center piece as dotted line shows at 3, 3.
+I guess That is so saucer can be maneuvered or something
+my wife or son - or son in laws - or daughter know nothing
+about this - and do not tell them - or there would be hell to pay.
+I think the drawings are plain enough this time.

@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 134,
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A mentions a handwritten note reading 'PERS FILES' and a red stamped date, while Description B mentions completely different stamps ('BY COURIER SVC.', 'PERK FILES', 'RECORDED-32'), with the only overlap being the date stamp which is described as being at different locations (bottom vs. bottom left) and both describe different overall visual elements.",
+  "original_image_tags": [
+    "A handwritten note in the top right corner reads \"PERS FILES\" with a red line drawn through it.",
+    "A red stamped date at the bottom reads \"58 APR 26 1956\"."
+  ],
+  "gpt_mini_desc": "*Image: Scanned typewritten FBI memorandum page dated April 16, 1956, with handwritten annotations and red stamps/marks, including a courier-service stamp and an oval red date stamp.*",
+  "gpt_mini_desc_len": 183,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 49,
+    "total_tokens": 14941,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:07"
+}

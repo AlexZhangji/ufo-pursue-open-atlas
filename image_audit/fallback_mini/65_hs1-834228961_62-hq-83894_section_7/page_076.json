@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 76,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions contradict each other on the specific text visible on the broom: Description A states it reads 'BROOM' while Description B states it reads 'FACTS'.",
+  "original_image_tags": [
+    "A small black-and-white illustration embedded in the text column. It depicts a man in a uniform-style shirt and trousers, seen from behind, looking upward. He is holding a broom over his right shoulder. A small sign with the word \"BROOM\" is attached to the broom bristles."
+  ],
+  "gpt_mini_desc": "*Image: A scanned book page with two columns of printed text and one small black-and-white illustration of a person seen from behind carrying a broom or rake over one shoulder; page number “64” appears at bottom right.*",
+  "gpt_mini_desc_len": 219,
+  "usage": {
+    "prompt_tokens": 54659,
+    "completion_tokens": 48,
+    "total_tokens": 54707,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:23"
+}

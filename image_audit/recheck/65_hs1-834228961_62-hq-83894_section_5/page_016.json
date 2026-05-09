@@ -1,0 +1,35 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 16,
+  "original_image_tags": [
+    "A faded, translucent document page showing a memorandum. The text is mirrored, as if viewed from the reverse side of the paper. The page contains a typed memorandum, several blue ink \"RECEIVED\" stamps with dates (July 18, 1959) and times (10 08 AM, 8008 PM), and \"INDEXED\" / \"RECORDED\" stamps. There is a small, light-colored paper clip or staple artifact at the top center. Faint, illegible red or pink stamps are visible in the left margin. Handwritten text \"FBI not interested\" or similar is faintly visible in the lower left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page consists of a typed memorandum from the Federal Bureau of Investigation, United States Department of Justice, dated July 13, 1949. It includes a header, a subject line regarding 'PETER CALN CANYON HOUSE INFORMATION CONTRACT', a body of text, and a signature block for 'F. B. House, SAC'. The text is faint and reversed as if viewed from the back of a translucent page."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue ink stamps are visible, primarily near the bottom, including 'RECEIVED ROSWELL JUL 18 10 08 AM '49 DEPT. OF JUSTICE FBI', 'RECEIVED INVESTIGATIVE DIVISION', and 'RECEIVED DEPT OF JUSTICE FBI'. A faint red stamp is visible in the upper left corner."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A small, rectangular yellow adhesive label is affixed near the top center of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:44"
+}

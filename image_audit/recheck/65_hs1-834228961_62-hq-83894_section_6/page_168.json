@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 168,
+  "original_image_tags": [
+    "A mostly blank, aged, off-white page. There is a single handwritten number in red ink at the top right. The page shows some light speckling and foxing. At the bottom, there are two dark, circular binder holes and some small ink smudges or debris. The right edge of the paper is slightly torn."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A page with a single handwritten annotation at the top center reading '62-83894-278' in red ink. The rest of the page is blank white paper with minor dark spots and two hole-punch marks near the bottom edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A places a handwritten number 'at the top right' with no quoted text, while Description B quotes specific verbatim text '62-83894-278' at the 'top center', creating a direct contradiction on quoted content and location.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:57"
+}

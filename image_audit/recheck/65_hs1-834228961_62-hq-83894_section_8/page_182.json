@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 182,
+  "original_image_tags": [
+    "The document is a standard form memo, \"Office Memorandum - UNITED STATES GOVERNMENT\". The paper is aged and discolored. It has two punch holes at the top. There are multiple overlapping stamps in blue, purple, and red ink across the bottom half. A handwritten number \"324\" in red ink is visible in the left margin."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed memo from the Office of Memorygraph, United States Government. The text is mirrored. It includes headers (To, From, Subject), a body discussing intercepted mail for Norfork, Arkansas, and typed routing numbers. The page contains several stamps and handwritten annotations."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a standard form memo with specific stamps and a handwritten number, while Description B describes a completely different document (from 'Office of Memorygraph', mirrored text, discussing intercepted mail), indicating they are about different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:07"
+}

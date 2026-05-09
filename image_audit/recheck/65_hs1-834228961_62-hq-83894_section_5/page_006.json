@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 6,
+  "original_image_tags": [
+    "A vertical, aged, off-white document, likely the back of a sheet or a routing slip, with three hole-punch marks at the top. The paper is creased and shows ghosting/bleed-through text from the opposite side, which is largely illegible. The page is stamped multiple times with blue ink, some stamps upside down."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page contains three visible blue ink stamps. Top stamp reads 'RECEIVED-LADD FBI U.S. DEPT. OF JUSTICE JUL 11 1 58 PM 49'. Middle stamp reads 'RECEIVED-TOLSON FBI DEPT. OF JUSTICE JUL 11 1 10 PM 49'. Bottom stamp reads 'RECEIVED-FLETCHER AUG 8 7 26 PM 49'. There is also a partially visible stamp reading 'JUL 11 7 54 PM 49 RECEIVED-FLETCHER'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes the visual content as mostly illegible ghosting/bleed-through text, while Description B quotes specific, detailed verbatim text from multiple stamps, indicating a fundamental contradiction in what is visually present.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:39"
+}

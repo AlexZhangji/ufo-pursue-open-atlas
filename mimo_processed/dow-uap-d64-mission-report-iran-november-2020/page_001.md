@@ -1,0 +1,44 @@
+## Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 16 March 2026
+FOUO / Privacy Act applies
+
+*[REDACTED]*
+
+# Misrep 5039166
+
+## Narrative
+
+*[REDACTED — 1.4(a)]* AT 0608Z *[REDACTED — 1.4(a)]* TOOK OFF FROM OKAS. AT 0618Z, *[REDACTED — 1.4(a)]* HANDED OVER FROM THE LRE. FROM 0939Z TO 0153Z, *[REDACTED — 1.4(a)]* FROM 1015Z TO 0112Z, *[REDACTED — 1.4(a)]* SUPPORTED NAVCENT FOR OPERATION *[REDACTED — (b)(1) 1.4(a)]* IVO ARABIAN GULF, STRAIT OF HORMUZ AND GULF OF OMAN. SEE ISR LINE 1. AT 1012Z, *[REDACTED — 1.4(a)]* RECEIVED A GUARDCALL. SEE GUARDCALL LINE 1. AT 2143Z, *[REDACTED — 1.4(a)]* OBSERVED A UAP. SEE OBS LINE 1. AT 2148Z, *[REDACTED — 1.4(a)]* OBSERVED A UAP. SEE OBS LINE 2. AT 0112Z, *[REDACTED — 1.4(a)]* WAS CLEARED TO RTB. AT 021*[REDACTED — 1.4(a)]* HANDED BACK TO THE LRE. AT 0250Z, *[REDACTED — 1.4(a)]* LANDED AT OKAS. FMV WAS EXPLOITED BY DGS1. 20.42 MISSION HOURS, 18.55 IMINT HOURS, 1 IMINT TASKING PROSECUTED, 16.2 *[REDACTED — 1.4(a)]* HOURS, 1 *[REDACTED — 1.4(a)]* TASKING PROSECUTED, 2 TOTAL TASKINGS PROSECUTED
+
+## Admin
+
+### CLASSIFICATION
+
+* Classification: *[REDACTED]*
+* Associated Caveats: *[REDACTED]*
+* Classification Source (MS or Classification Guide ID): MULTIPLE SOURCES
+* Declassification Date (YYYYMMDD): 20450301
+
+### OPERATION
+
+* Operation: *[REDACTED — (b)(1) 1.4(a)]*
+* Domain: AIR
+* Operations Center: 609th
+* Major Command (MAJCOM): ACC
+* Combatant Command (COCOM): USCENTCOM
+
+### MSGID
+
+* Report Type: MISREP
+* Originator (Unit or Squadron): 482ATKS
+* Submit Date (Auto-generated):
+
+### MSNID
+
+*[REDACTED — 3.5c, (b)(6)]*
+
+*[REDACTED]*
+
+---
+USCENTCOM MDR 26-0028 Approved for Release to AARO - FOUO / PA applies 03/16/26 000001

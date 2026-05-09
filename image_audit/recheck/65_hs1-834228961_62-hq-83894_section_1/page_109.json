@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 109,
+  "original_image_tags": [
+    "A faded pink or red slip of paper with multiple ink stamps arranged vertically and horizontally. The slip shows signs of age with discoloration and holes at the top edge. Faint reverse text from the other side of the page is visible through the paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue ink stamps on pink paper. Visible stamps include: 'RECEIVED TELETYPE UNIT JUL 18 11 06 PM '47 F.B.I. DEPT. OF JUSTICE', 'JUL 19 1 01 PM '47 RECEIVED-L.A.D.O FBI U.S. DEPT OF JUSTICE', 'JUL 19 5 54 AM '47 RECEIVED DIRECTOR U.S. DEPT. OF JUSTIC.', 'JUL 19 5 54 AM '47 U.S. DEPT. OF JUSTICE', and 'RECEIVED JUL 21 9 39 AM '47 INTERNAL SECURITY U.S. F.B.I. DEPT OF JUSTICE'. The page also has two black hole-punch marks at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on a pink slip with ink stamps and hole-punches, but Description B adds extensive specific quoted stamp text not present in Description A without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:39"
+}

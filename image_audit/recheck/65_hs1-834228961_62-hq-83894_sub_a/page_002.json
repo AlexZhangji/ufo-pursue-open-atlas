@@ -1,0 +1,42 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 2,
+  "original_image_tags": [
+    "A newspaper clipping with the headline \"Flying Saucer Photo Ain't What It Used to Be---Joe\" is pasted onto a typed FBI routing slip or report cover. The clipping shows the text of an article by Charles Manos. The document has several handwritten notations in pencil and red ink, and is marked with file numbers and stamps."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A clipped newspaper article titled 'Flying Saucer Photo Ain't What It Used to Be---Joe' by Charles Manos. The clipping contains multiple columns of typed text arranged in a layout with yellow highlighted sections. It includes a byline 'By Charles Manos Staff Writer' and dateline 'GRAND BLANC, May 25'. The article discusses a 'flying saucer' photograph. There are no visible photographs or illustrations within the clipping itself, only formatted text columns."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular typed list in the upper right corner containing names: Mr. Tolson, Mr. Mohr, Mr. Parsons, Mr. Belmont, Mr. Callahan, Mr. Malone, Mr. McGuire, Mr. Rosen, Mr. Tamm, Mr. Trotter, Mr. W.C. Sullivan, Tele. Room, Mr. Ingram, Miss Gandy. Some handwritten notations cross through this area."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "Typed text on the right side including 'DETROIT DIVISION Detroit, Mich.' and a list of newspapers: Detroit Free Press, Detroit News, Detroit Times, with editors listed. Below this is typed text identifying the case as 'UNIDENTIFIED FLYING OBJECT; JOSEPH PERRY, GRAND BLANC, MICHIGAN - COMPLAINANT (Defile 65-2477-105)'. Also includes handwritten date '5-25-60', Edition 'Final', Page '7 Col: 2'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'EX 109' and 'REC 41'. A large handwritten number '62-83894-A'. A typed stamp reading 'NOT RECORDED 46 JUN 3 1960'. Another handwritten date stamp at bottom left: '59 JUN 7 1960 6417'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the core visual element—a newspaper clipping with the same headline and byline—and do not contradict each other on any specific quoted text or visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only",
+    "typed_text_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:14:41"
+}

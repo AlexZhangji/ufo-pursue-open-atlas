@@ -1,0 +1,24 @@
+## RECEIVED F B I
+MR JONES
+APR 1 2 32 PM '60
+
+## RECD
+DOWNTOWN MA
+APR 12 16 PM '51
+
+## ENCLOSURE
+
+*[REDACTED — 1.4(a)]*
+
+*[REDACTED — 1.4(a)]*
+
+*[REDACTED — 1.4(a)]*
+
+*[REDACTED — 1.4(a)]*
+
+## CONFIDENTIAL
+APR 1 2 1960
+
+*[REDACTED — 1.4(a)]*
+
+*[handwritten note]:* 22 V6D 1960

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 48,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims a circular stamp with illegible text in the lower right, while Description B claims a rectangular stamp with specific, quoted text ('Classification of SECRET', '15-6-49') at the top, which is a clear contradiction on the type, location, and content of the visual element.",
+  "original_image_tags": [
+    "Faint circular stamp in lower right corner, partially illegible, appears to be a received or filed stamp."
+  ],
+  "gpt_mini_desc": "*No image content on this page.*",
+  "gpt_mini_desc_len": 32,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 11,
+    "total_tokens": 14903,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:41"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 101,
+  "categories": [
+    "map",
+    "diagram",
+    "diagram"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual elements—a hand-drawn map of Fairfield-Suisun AFB with a prominent red line, annotations, and a signature—but Description B provides extensive specific quoted text and details (e.g., dates, object movement descriptions, inset diagrams) that Description A omits, without direct contradiction.",
+  "original_image_tags": [
+    "A detailed, hand-drawn map on beige paper depicting the Fairfield-Suisun Air Force Base layout. A bold red line with cross markers traces a flight path from the upper right, down over the base, and off the bottom edge. Handwritten annotations in blue ink describe the object's movements. A red signature is visible at the bottom."
+  ],
+  "gpt_mini_desc": "*Image: A scanned military base layout plan map with hand-drawn red trajectory line and handwritten annotations describing an unidentified aerial object’s path, including “OBJECT LOST FROM VIEW AT AN ESTIMATED 20,000 FEET ALT.”; small inset maps/diagrams, a windrose graphic, and multiple “CONFIDENTIAL” stamps are visible.*",
+  "gpt_mini_desc_len": 324,
+  "usage": {
+    "prompt_tokens": 51648,
+    "completion_tokens": 74,
+    "total_tokens": 51722,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:07"
+}

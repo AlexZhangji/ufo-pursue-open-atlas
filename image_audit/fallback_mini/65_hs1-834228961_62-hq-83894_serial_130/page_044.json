@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 44,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree the main visual is a black-and-white sketch of a flying disc/saucer with dimensional labels; Description B adds extra details (multiple views, newspaper context) but does not contradict A on any specific quoted text or visual element count.",
+  "original_image_tags": [
+    "A black-and-white artist's conception of a flying disc. The main drawing shows a saucer-shaped object with a raised central dome. Dimensional arrows indicate a height of"
+  ],
+  "gpt_mini_desc": "*Image: Scanned front page of a newspaper, the Twin Falls Times-News dated Friday, August 15, 1947, featuring a large illustrated flying-saucer drawing with labeled “side view,” “bottom view,” and “end view,” plus headline text “Heads Up, Folks! The Discs Are Flying Again” and “Flying Saucer Reported Flashing Down Canyon At 1,000 Miles Per Hour; Two Others Are Seen.”*",
+  "gpt_mini_desc_len": 370,
+  "usage": {
+    "prompt_tokens": 63672,
+    "completion_tokens": 96,
+    "total_tokens": 63768,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:37"
+}

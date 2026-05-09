@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_403",
+  "page_num": 1,
+  "original_image_tags": [
+    "Barcode with number 62-HQ-83894-E403",
+    "Barcode with number RRP00A1W1WL"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Image of the back of a brown paper folder. A white label at the top contains the text '62- HQ-83894 Serial 403 EBF', a barcode, and the alphanumeric string '62-HQ-83894-E403'. A second white label near the bottom is titled 'FBI - CENTRAL RECORDS CENTER' and 'HQ - HEADQUARTERS', displaying a table with headers 'Class / Case #', 'Sub', 'Vol.', 'Serial #', and values '0062 83894', '1', '403', 'ONLY'. Below this table is the number '9/18/226771', a second barcode, and the text 'RRP00AIWL'. Handwritten in large black and red ink at the bottom is '62-83894-403'. A blue rounded rectangular stamp in the bottom right corner reads 'Declassification authority derived from FBI Automatic Declassification Guide, issued May 24, 2007.' Additional partially obscured black text reads 'DO NOT DESTROY' and 'DIPA #[illegible]'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A quotes specific barcode numbers ('62-HQ-83894-E403', 'RRP00A1W1WL') that contradict Description B's reading of the same visual elements ('62-HQ-83894-E403', 'RRP00AIWL'), indicating at least one side is fabricating verbatim text from the images.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:01"
+}

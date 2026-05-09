@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 133,
+  "original_image_tags": [
+    "A faded, aged document page, likely a photocopy or carbon copy, with text appearing mirrored/reversed as if printed from the back or a transfer. Two punch holes are visible at the top. There are multiple overlapping ink stamps at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two identical blue ink stamps placed vertically on the page. Each stamp contains four lines of text: 'INTERNAL SECURITY', 'F.B.I.', a date and time 'JUN 12 9 07 AM ' (year is partially illegible, possibly '53'), and 'RECEIVED' in large letters."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a faded page with mirrored text and overlapping stamps, while Description B describes two specific, identical blue FBI stamps with quoted text not mentioned in A, indicating the descriptions are about different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:52"
+}

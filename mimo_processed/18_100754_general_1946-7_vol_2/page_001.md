@@ -1,0 +1,55 @@
+HqAMC Form No. 10-514 (Rev 10 Sep 46)
+
+*Image: A typed memorandum on "HEADQUARTERS AIR MATERIEL COMMAND" letterhead. The paper shows signs of aging, with discoloration and two hole-punch marks on the left margin.*
+
+WF-L-7 JAN 47 300M
+
+# SECRET
+
+## HEADQUARTERS
+## AIR MATERIEL COMMAND
+
+*Image: A blue and white stamp at the top right reads "DECLASSIFIED", with "Authority: NND 700188" in a box below.*
+
+*Image: A circular stamp to the right of the declassification stamp reads "SAVE PAPER" and "U.S. ARMY CONSERVATION".*
+
+**IN REPLY ADDRESS BOTH COMMUNICATION AND ENVELOPE TO COMMANDING GENERAL, AIR MATERIEL COMMAND, ATTENTION FOLLOWING OFFICE SYMBOL:**
+
+TSDIN
+
+TSDIN/HMM/ig/6-4100
+WRIGHT FIELD, DAYTON, OHIO
+
+DEC 1 9 1947
+
+**SUBJECT:** Flying Discs
+
+**TO:**
+Chief of Staff
+United States Air Force
+Washington 25, D. C.
+ATTENTION: Director, Research & Development
+Major General L. C. Craigie
+
+1.  Confirming the recent conversation of the undersigned with Major General L. C. Craigie, 9 December 1947, attached as listed below are copies of the reports from this Headquarters concerning Flying Discs.
+
+2.  Comments of Headquarters, Air Force on these letters have never been received by this Command. Continued and recent reports from qualified observers concerning this phenomenon still makes this matter one of concern to Headquarters, Air Materiel Command. Intelligence Department of this Command is continuing the collection and analysis of all available reports.
+
+FOR THE COMMANDING GENERAL:
+
+*[signed: H M McCoy]*
+
+H. M. McCoy
+Colonel, USAF
+Chief of Intelligence
+
+**2 Attach:**
+cc ltr to CG, AAF, dtd 23 Sept 47
+    subj "AMC Opinion Concerning "Flying Discs""
+
+cc ltr to CG, AAF, dtd 24 Sept 47
+    subj "Flying Discs"
+
+# SECRET
+
+U-53791

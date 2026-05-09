@@ -1,0 +1,82 @@
+{
+  "file": "nasa-uap-d2-apollo-17-transcript-1972.pdf",
+  "stem": "nasa-uap-d2-apollo-17-transcript-1972",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "9d041c8799a0124dc440c05cacd790a43d9e063e399aaa5cd3ee777b14146d03",
+  "size_bytes": 463669,
+  "total_pages": 16,
+  "pages_processed_in_run": 16,
+  "status": "complete",
+  "elapsed_sec": 0.1,
+  "completed_at": "2026-05-08 15:39:25",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    },
+    {
+      "page": 8,
+      "status": "skip"
+    },
+    {
+      "page": 9,
+      "status": "skip"
+    },
+    {
+      "page": 10,
+      "status": "skip"
+    },
+    {
+      "page": 11,
+      "status": "skip"
+    },
+    {
+      "page": 12,
+      "status": "skip"
+    },
+    {
+      "page": 13,
+      "status": "skip"
+    },
+    {
+      "page": 14,
+      "status": "skip"
+    },
+    {
+      "page": 15,
+      "status": "skip"
+    },
+    {
+      "page": 16,
+      "status": "skip"
+    }
+  ]
+}

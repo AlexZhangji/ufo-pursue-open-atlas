@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 198,
+  "original_image_tags": [
+    "A single page of a handwritten letter in blue ink on off-white paper. The letter is a continuation of a previous page. Two hole-punch marks are visible at the top edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned page of handwritten cursive text on stationery with a printed letterhead reading 'Chimney Farm' and 'NOBLEBORO, MAINE' at the top left. The handwritten text describes an observation of a 'flying saucer' and ends with a signature 'Elizabeth C. Beston' (with a crossed-out word in blue ink) and a typed/bracketed '(Mrs. Henry Beston)' below it. A handwritten number '3' in red ink is visible in the bottom left margin."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims the presence of a printed letterhead, specific handwritten text about a 'flying saucer', a specific signature, and a red handwritten number, none of which are mentioned or contradicted by the much vaguer Description A, creating a major discrepancy in the claimed visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:36"
+}

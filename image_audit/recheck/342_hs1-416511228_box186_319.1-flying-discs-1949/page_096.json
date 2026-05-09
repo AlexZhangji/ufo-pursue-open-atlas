@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 96,
+  "original_image_tags": [
+    "A carbon copy of a typewritten document on thin, translucent paper. The text appears in mirror-image, indicating it was likely written on the back of another page or is a reverse copy. The stamp \"SECRET\" is crossed out in red ink at the top and bottom of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Faint, blurry typed text covering the page, primarily black or dark ink. A red 'SECRET' stamp is visible at the top center, crossed out with a black line. Another red 'SECRET' stamp is visible at the bottom center, also crossed out with a black line. Three hole-punch holes are visible along the bottom edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states the text appears in mirror-image, while Description B describes normal-reading typed text, a direct contradiction on the visual presentation of the document.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:17"
+}

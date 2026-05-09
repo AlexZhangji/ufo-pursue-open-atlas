@@ -1,0 +1,58 @@
+## DECLASSIFIED 2040 9/9/77 H.M.
+
+Date: May 15, 1952
+
+To: Director of Special Investigations
+    The Inspector General
+    Department of the Air Force
+    The Pentagon
+    Washington 25, D. C.
+
+From: John Edgar Hoover, Director
+      Federal Bureau of Investigation
+
+Subject: ~~FLYING DISKS~~ FLYING DISKS REPORTEDLY SEEN
+         IN VICINITY OF ~~THE~~ SAVANNAH RIVER PLANT
+         ATOMIC ENERGY COMMISSION
+
+The Savannah Office of this Bureau has been informed that at approximately 10:45 p.m., May 10, 1952, four employees of the DuPont Company employed in the Savannah River Plant near Ellenton, South Carolina, saw four disk shaped objects approaching "the four hundred area" from the south which disappeared in a northerly direction. At approximately 11:05 p.m. on the same date the above-mentioned employees saw two similar objects approach from the south and disappear in a northerly direction. At approximately 11:10 p.m. a similar object was seen by these employees approaching from the northeast and disappearing in a southwesterly direction. A similar object was also sighted about 11:15 pm traveling from south to north by the same employees.
+
+The disks were described by the above-mentioned employees as being approximately fifteen inches in diameter and yellow to gold in color. All of the objects were allegedly traveling at a high rate of speed and at a high altitude without any noise. The disk shaped objects referred to above which approached "the four hundred area" from a northeasterly direction was reportedly traveling at such a low altitude it had to rise to pass over some tall tanks which are in "the four hundred area." The employees referred to above advised the objects were weaving from left to right but seemed to hold a general course. According to these persons because of the speed at which the objects were traveling they were only visible for a few seconds.
+
+*[handwritten in margin]:* A.W.K.
+
+### Distribution List
+- Tolson ___
+- Ladd ___
+- Nichols ___
+- Belmont ___
+- Clegg ___
+- Glavin ___
+- Harbo ___
+- Rosen ___
+- Tracy ___
+- Laughlin ___
+- Mohr ___
+- Tele. Rm. ___
+- Holloman ___
+- Candy ___
+
+*[handwritten in margin]:* 769
+
+### Official Stamps and Markings
+RECORDED - 38
+INDEXED - 38 | 62-83894 - 226
+
+SECURITY INFORMATION ~~SECRET~~ ~~SECURITY INFORMATION~~
+
+**69 MAY 29 1952**
+
+*[handwritten annotation]:* 59
+
+**EHM:awy**
+
+*[stamp]:* COMM — FBI 17
+*[stamp]:* MAY 15 1952
+**MAILED 25**
+
+*[handwritten note]:* *[illegible signature]*

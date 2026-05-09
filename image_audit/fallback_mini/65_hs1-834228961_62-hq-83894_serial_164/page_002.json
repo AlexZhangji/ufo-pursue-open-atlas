@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_164",
+  "page_num": 2,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A reads the bottom alphanumeric as handwritten '62-83894-164' while Description B reads it as a stamped red string, creating a direct contradiction on the nature of the same visual element.",
+  "original_image_tags": [
+    "Two hole-punch marks visible at top of page, flanking the \"RESTRICTED\" stamp.",
+    "Handwritten note in red ink in lower left margin, written vertically: \"additional copies behind file.\"",
+    "Handwritten annotation in blue ink in bottom center margin: \"62-83894-164\""
+  ],
+  "gpt_mini_desc": "*Image: Scanned typewritten memo page titled “UNCONVENTIONAL AIRCRAFT,” marked “RESTRICTED,” dated 15 February 1949, with handwritten annotations and stamps near the bottom.*",
+  "gpt_mini_desc_len": 174,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 45,
+    "total_tokens": 14937,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:29"
+}

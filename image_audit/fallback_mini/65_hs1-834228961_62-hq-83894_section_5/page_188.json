@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 188,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions quote conflicting text for the same stamped content (e.g., dates and phrases like 'NATIONAL SECURITY' vs. 'ATTORNEY GENERAL') and describe different visual elements (e.g., 'July 28, 1950' vs. 'AUG 3 1958').",
+  "original_image_tags": [
+    "A single page of carbon copy paper, light blue/grey in color, with typed text and several stamped annotations. The page has three punched holes along the top edge and is slightly worn at the edges. The text is faint and appears to be a carbon copy. There are several red and blue stamps at the bottom, and some handwritten annotations. The top of the page has a header that is partially obscured and reversed, reading \"UNITED STATES GOVERNMENT\" and \"OFFICIAL BUSINESS\".",
+    "Several red and blue ink stamps are visible at the bottom of the page. A red stamp reads \"AUG 4 1958\". A blue stamp reads \"RECEIVED\" with a date that is partially obscured. Another blue stamp reads \"NATIONAL SECURITY\" with \"NS\" below it and \"AUG 3 1958 P.M. 5:30\". There is also a purple stamp that reads \"RECEIVED\" with \"AUG 8 1958\" below it. A handwritten note in the bottom right corner reads \"7-8 JUN 11\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned, faded typewritten government document page with torn edges, two binder holes near the top, and several blue and red rubber-stamp markings and signatures near the lower half.*",
+  "gpt_mini_desc_len": 193,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 42,
+    "total_tokens": 14934,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:44"
+}

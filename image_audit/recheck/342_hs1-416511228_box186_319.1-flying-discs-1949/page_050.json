@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 50,
+  "original_image_tags": [
+    "Hand-drawn diagram representing a circular radar scope display. A large circle dominates the page. A vertical line extends from the top center of the circle down to the center point, labeled \"LUBBER LINE\". Inside the circle, to the left of center, is an irregular black blob labeled \"ROTA ISLAND\". To the right of the center point is another irregular black blob labeled \"GUAM\". Emanating from the \"GUAM\" blob towards the right are four concentric arc lines, increasing in radius. A label below these arcs reads \"INTERFERENCE AS IT APPEARED ON THE SCOPE\". The scope's center point is a small black circle."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "diagram",
+        "description": "A circular radar scope diagram titled 'APPEARANCE OF THE SCOPE AND THE INTERFERENCE'. Inside the circle, there is a black dot labeled 'ROTA ISLAND' and another black shape labeled 'GUAM' with concentric arcs to its right labeled 'INTERFERENCE AS IT APPEARED ON THE SCOPE'. A diagonal line is labeled 'LUBBER LINE'. Below the circle, text reads 'SCOPE WAS ON THE 100 MILE RANGE'. At the top, a stamp reads 'Classification of SECRET' with handwritten authorization. At the bottom left, handwritten text reads 'Incl #1' and a 'SECRET' stamp is visible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes a title 'APPEARANCE OF THE SCOPE AND THE INTERFERENCE' that is not mentioned in A, and describes a diagonal LUBBER LINE versus A's vertical one, while also adding text content ('SCOPE WAS ON THE 100 MILE RANGE', stamps) as part of the image description, creating contradictions on both visual elements and quoted text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "diagram"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:24:56"
+}

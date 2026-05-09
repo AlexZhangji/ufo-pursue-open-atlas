@@ -1,0 +1,19 @@
+## CONFIDENTIAL
+
+6-35
+
+**ARMSTRONG** &nbsp;&nbsp;&nbsp;&nbsp; We should say that it was right at the limit of the resolution of the eye. It was very difficult to tell just what shape it was. And there was no way to tell the size without knowing the range or the range without knowing the size.
+
+**ALDRIN** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So then I got down in the LEB and started looking for it in the optics. We were grossly mislead because with the sextant off focus what we saw appeared to be a cylinder.
+
+**ARMSTRONG** &nbsp;&nbsp;&nbsp;&nbsp; Or really two rings.
+
+**ALDRIN** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yes.
+
+**ARMSTRONG** &nbsp;&nbsp;&nbsp;&nbsp; Two rings. Two connected rings.
+
+**COLLINS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No, it looked like a hollow cylinder to me. It didn't look like two connected rings. You could see this thing tumbling and, when it came around end-on, you could look right down in its guts. It was a hollow cylinder. But then you could change the focus on the sextant and it would be replaced by this open-book shape. It was really weird.
+
+**ALDRIN** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I guess there's not too much more to say about it other than it wasn't a cylinder.
+
+## CONFIDENTIAL

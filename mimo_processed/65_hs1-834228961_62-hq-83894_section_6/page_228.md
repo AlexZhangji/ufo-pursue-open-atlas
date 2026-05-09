@@ -1,0 +1,5 @@
+Fragende Untersache.
+
+Seit 1944 - ausprobierte Waffe welche jetz wohl schon serienmäßig hergestellt wird und in Zeit viel von sich reden macht ist eine V. Waffe, welche einen Diskus ähnlichen Körper hat, der im Durchmesser etwa 42,50 m Durchmesser hat, statt am Umfang etwa 45-50 chromatinsche Hertzscheiben, die nach Zündung der Scheibe, um eine im Zentrum befindliche Plegi glas Kugel kerrschen, in der befinden sich die drei und Kontrollgeräte für Fernsteuerung befinden. Inred der Kugel ist noch genug Raum für hochexplosive Atombomben. Diese Waffe befindet sich in Russischer Hand und kann einen Abwurfe bis von 30-35 000 Km entfernen. V. Waffen Hanstrin Ander Riedel Deutschland sagt es ist eine Speiche V.7 daran er selber gearbeitet hat.
+Ich bin sicher das die Wahrheit besser ist als eine Kritik übern Volk bei Kriegsministerium.
+H. SCH.

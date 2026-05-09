@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 140,
+  "original_image_tags": [
+    "A dark, typewritten document page with the word \"RESTRICTED\" stamped at the top and bottom. The text is white on a black background, characteristic of a photographic negative or a copy made on a reverse-process machine. There are three punched holes along the left margin. A handwritten page number \"139\" is in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two visible stamps or labels reading 'RESTRICTED' in large, slightly faded block letters, one at the top and one at the bottom of the page."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "The entire page consists of typed body text describing a UAP sighting report involving Mrs. Hedstrom, Mr. Hedstrom, and police officers in Twin Falls. The text details groups of objects in triangular formations, estimated counts of 10, 3, 5 or 6, and 35 to 50, moving northeasterly and later southwesterly. The text contains some struck-through words."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a photographic negative page with punched holes and handwritten number, while Description B describes a standard typed page with specific witness names and UAP details, indicating they are viewing completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:45"
+}

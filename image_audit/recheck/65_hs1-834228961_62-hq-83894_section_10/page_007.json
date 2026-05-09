@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 7,
+  "original_image_tags": [
+    "A tan or manila-colored document folder or divider tab, punched with three binder holes along the bottom edge and one hole at the top center. The folder appears blank except for a handwritten case number in the upper right quadrant."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Handwritten numbers '62-83894-448' in blue and red ink at the top right, and three punch holes on the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions consistently identify the same visual elements: a tan document folder/divider, three punch holes on the bottom edge, and handwritten case numbers in the upper right area; the quoted text ('62-83894-448') is consistent with the description of a handwritten case number.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:55:18"
+}

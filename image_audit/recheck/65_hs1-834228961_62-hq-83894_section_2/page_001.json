@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 1,
+  "original_image_tags": [
+    "A worn, tan/brown manila file jacket with multiple stamps, labels, and markings. The jacket shows signs of age and handling.",
+    "A red handwritten \"X\" is marked on this label."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A brown document folder cover with multiple stamps and labels. Top left: a white label with a barcode, the number '8111274197', and text including 'FBI - CENTRAL RECORDS CENTER' and 'HQ - HEADQUARTERS'. Top right: a white label with a barcode, the number '62-HQ-83894', and text including 'SERIALS 53-100' and 'SECTION 2'. A large red stamp reads 'BUREAU'. Below it, a faded purple stamp reads 'DESTROY'. A red stamp reads 'FOIPA #993087 INVESTIGATION'. A blue rectangular label states 'Declassification authority derived from FBI Automatic Declassification Guide, issued May 24, 2007.'. A black stamp reads 'DO NOT DESTROY'. A faded red stamp reads 'COPIED FOR FOIPA MAY 14 1977 BY Hall'. A vertical black stamp reads 'COPIED FOR FOIPA' with a date stamp 'MAY 2 1978 3Y FILE'. Large red text at the bottom reads 'USE CARE IN HANDLING THIS FILE' and 'Transfer-Call 3421'. Smaller text reads 'PICKETT STREET'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content (a brown file folder with stamps and labels) but Description B provides extensive specific quoted text while Description A only mentions a general 'red handwritten X', with no direct contradictions between the two.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:29:20"
+}

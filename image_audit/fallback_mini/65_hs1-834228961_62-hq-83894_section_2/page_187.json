@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 187,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B describes a red stamp reading 'ENCLOSURE' and a handwritten number '1', which are specific visual elements entirely absent from Description A, which describes a mostly blank page with no such content.",
+  "original_image_tags": [
+    "A single, mostly blank, off-white page from a government archive folder. The paper shows signs of age, including slight yellowing, smudges, and creases. The bottom edge is uneven and appears torn or cut at an angle. Two dark, circular punch holes are visible at the bottom margin. The primary content is handwritten notations at the top."
+  ],
+  "gpt_mini_desc": "*Image: Blank white document page with two punched holes along the bottom edge and faint handwritten notation at the top reading “62-2994/98” with “Disclosure 1” beneath it.*",
+  "gpt_mini_desc_len": 174,
+  "usage": {
+    "prompt_tokens": 15665,
+    "completion_tokens": 43,
+    "total_tokens": 15708,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:19"
+}

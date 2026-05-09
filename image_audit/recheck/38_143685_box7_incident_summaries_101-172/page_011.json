@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 11,
+  "original_image_tags": [
+    "A single page of a typewritten document, likely carbon copy or mimeograph, on dark paper. Text is light-colored. Three hole-punch marks are visible along the left margin. A handwritten number \"1018\" appears in the top right corner. A page number \"3\" is centered at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page containing typed text only. The text discusses various UAP incidents, including 'THE TICONDEROGA OBJECTS', 'THE PHANTOM REEF', the Mantell Incident, and 'THE NORCATUR EXPLOSION'. The page number '3' is centered at the bottom. There are three punch holes along the left margin and a handwritten number in the top right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence of typed text (with differing details), a page number '3' at the bottom, three punch holes on the left, and a handwritten number in the top right, but they do not contradict each other on any specific visual element; they simply differ in level of detail about the typed content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:25:44"
+}

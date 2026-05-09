@@ -1,0 +1,40 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 77,
+  "original_image_tags": [
+    "Scanned page from a vintage magazine or newspaper. The left column contains advertisements. The right column contains a multi-paragraph article about UFO sightings and military investigations. A handwritten annotation in the bottom right margin reads \"page 67, 68\".",
+    "Black-and-white photograph of a Victrola 45 RPM record player, showing the distinctive spindle and tonearm design.",
+    "Black-and-white photograph of a candelabrum with three lit candles.",
+    "Black-and-white photograph of a dark wood night stand with a drawer and a shelf above it."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "One black-and-white photograph of an RCA Victor 'Victrola' 45 record changer phonograph with an open lid showing records loaded on a central spindle. Caption includes 'Model 45EY2, $34.95' and 'suggested list price'."
+      },
+      {
+        "category": "photograph",
+        "description": "One black-and-white photograph of a candelabrum featuring three white candles, an ornate metal base, and a decorative design. Text to the right describes it as 'A candelabrum of Italian wrought iron' and includes pricing and mailing details."
+      },
+      {
+        "category": "photograph",
+        "description": "One black-and-white photograph of a wooden night stand with a curved front, two drawers, and decorative legs. Text above reads 'UNITE' night stand'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the three black-and-white photographs (record player, candelabrum, night stand) with consistent object counts and categories, and their quoted caption details do not contradict each other.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:50:45"
+}

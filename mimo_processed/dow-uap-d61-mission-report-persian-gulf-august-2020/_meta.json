@@ -1,0 +1,46 @@
+{
+  "file": "dow-uap-d61-mission-report-persian-gulf-august-2020.pdf",
+  "stem": "dow-uap-d61-mission-report-persian-gulf-august-2020",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "4ce20fc566edf4a3dcb8a8abd7a5dcd91046069f9e35f83912ad757c8c8be1b9",
+  "size_bytes": 877324,
+  "total_pages": 7,
+  "pages_processed_in_run": 7,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:10",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    }
+  ]
+}

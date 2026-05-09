@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 125,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims there is a photograph of an unidentified object, while Description B explicitly states there are no photographs, diagrams, or sketches embedded within the text, creating a direct contradiction on the visual content.",
+  "original_image_tags": [
+    "A scanned page containing two columns of a newspaper or magazine clipping. The text is printed in a serif font on aged, slightly yellowed newsprint. There are black punch-hole marks at the top of the page. The clipping appears to be an article about a man named Perry and a photograph he took of an unidentified object."
+  ],
+  "gpt_mini_desc": "*Image: Two vertically arranged newspaper clipping columns pasted onto a blank page, with visible typed article text about “Perry” and a “slide”; no photograph or diagram.*",
+  "gpt_mini_desc_len": 172,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 38,
+    "total_tokens": 54690,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:31"
+}

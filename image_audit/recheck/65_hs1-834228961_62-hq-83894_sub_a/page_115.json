@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 115,
+  "original_image_tags": [
+    "A faded red stamp reading \"EX. 30\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping with a bold headline 'FBI CHECKING / RUSS DISC TIP' and subheadings 'DEATH CLOUDS' and 'ANIMALS KILLED'. The clipping contains typed text about a letter regarding Russian disc-shaped aircraft and radioactive clouds. A red '3' is handwritten next to the headline. Below the clipping, a date stamp reads 'JUL 7 1947'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions are clearly about different visual content: one describes a faded red stamp ('EX. 30') and the other describes a newspaper clipping with headlines and a date stamp.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:16"
+}

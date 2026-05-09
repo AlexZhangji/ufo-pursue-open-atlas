@@ -1,0 +1,9 @@
+Letter to Director
+SA-100-7545
+April 4, 1949
+
+In view of the interest and concern of 4th Army military authorities who have the duty of protecting the vital installations at Los Alamos, N. M., Sandia Base, N. M. in the El Paso Division, and the Camp Hood area in the San Antonio Division, it is suggested that the Bureau may desire to arrange to have Mr. WINCHELL interviewed concerning the source of his information that "flying discs" emanate from Russia.
+
+It would be appreciated if the Bureau can supply any information that can be transmitted to military authorities which would clarify this matter.
+
+- 2 -

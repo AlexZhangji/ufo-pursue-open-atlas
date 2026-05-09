@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 170,
+  "original_image_tags": [
+    "A scanned page of a typed document, appearing as a carbon copy or a bleed-through from the reverse side. The text is mirrored and difficult to read. Two punch holes are visible at the top center. The page contains stamped receipt markers and faint, mirrored typed text regarding FBI policy on flying saucers."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Blue ink stamps visible on the page. One vertical stamp reads 'RECD BELMONT FBI - JUSTICE' with a date stamp 'SEP 30 4 10 PM '60'. Another stamp reads 'REC'D' with the date 'Oct 3 8 56 AM 60'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A mentions mirrored typed text and punch holes as key visual content, while Description B only describes specific blue ink stamps with different dates and text, indicating the descriptions are about different visual elements on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:39"
+}

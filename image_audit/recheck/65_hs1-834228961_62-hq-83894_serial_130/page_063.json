@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 63,
+  "original_image_tags": [
+    "The document is a single-page typewritten memorandum on aged paper with some staining and creases, particularly on the right side. There are handwritten notations in the top right corner: \"B/A\" and a circled \"8\". A handwritten checkmark or initial appears near the bottom right corner next to the signature block."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed memorandum dated 7 August 1947, Code 110A NRL. Subject: 'Flying Saucers'. From William P. Mellen, Major, Air Corps, to Asst Chief of Air Staff-2, Collection Branch, AAF, Washington 25, D.C. Mentions an enclosed excerpt from a letter to Dr. E. Tousey regarding unidentified objects seen by Mr. John F. Cole. Includes a signature for William P. Mellen and a handwritten annotation '3' in the top left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page is a single typed memorandum with no photographs, sketches, or diagrams, and both agree there are handwritten notations, though the specific content of those notations differs (descriptions of non-image content).",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:13:08"
+}

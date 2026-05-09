@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 176,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "Top portion of a manila file folder tab, aged and yellowed, with multiple labels and handwritten annotations.",
+    "The main body of the page is a blank, aged manila file folder front. At the bottom, there are two standard hole-punch circles."
+  ],
+  "gpt_mini_desc": "*Image: A blank manila document folder/envelope with a punched top tab and two punched holes near the bottom; a taped label at the top bears faint handwritten and stamped markings, including a date stamp “JUN 25 1962.”*",
+  "gpt_mini_desc_len": 219,
+  "usage": {
+    "prompt_tokens": 12573,
+    "completion_tokens": 54,
+    "total_tokens": 12627,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:51"
+}

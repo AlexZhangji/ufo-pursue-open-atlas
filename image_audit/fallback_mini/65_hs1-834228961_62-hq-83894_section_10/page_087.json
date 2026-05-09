@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 87,
+  "categories": [
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions refer to three photographs each, but describe the visual content and captions with contradictions: Description A describes three distinct black-and-white photos with different subject matter, while Description B describes three color photos with specific captions and locations that are not mentioned in A, indicating they are likely describing different images or hallucinating details.",
+  "original_image_tags": [
+    "Black-and-white photograph. A dark, elongated, somewhat cylindrical or spindle-shaped object is seen in flight against a light sky. Below it, a darker, blurred foreground silhouette is visible, possibly terrain or a structure. The object appears metallic and smooth.",
+    "Black-and-white photograph. A dark, elongated object is seen in flight, appearing to leave a faint trail or wake. The background is a grainy sky.",
+    "Black-and-white photograph. Shows a cluster of several light-colored, possibly disc-shaped or spherical objects arranged in an apparent formation. The objects are set against a dark, textured background that could be cloud cover or a distant landscape. The formation appears to be an \"armada\" as described in the caption."
+  ],
+  "gpt_mini_desc": "*Image: A scanned two-page magazine spread with three black-and-white photographs on the left page, each showing blurred sky/lighting scenes and overlaid captions, alongside dense article text on the right page titled “29 sight UFO’s over White Sands Range” and “UFO’s over British Columbia.”*",
+  "gpt_mini_desc_len": 293,
+  "usage": {
+    "prompt_tokens": 51648,
+    "completion_tokens": 64,
+    "total_tokens": 51712,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:38"
+}

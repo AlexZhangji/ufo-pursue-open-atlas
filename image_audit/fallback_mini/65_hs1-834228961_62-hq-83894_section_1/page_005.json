@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 5,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual elements: a vintage envelope with a blue 5-cent stamp, circular postmark, wavy cancellation lines, handwritten address, and two punch holes on the left edge, but Description B provides specific postmark text ('NEW BRUNSWICK N.J. / JUL 5 / 2 PM / 1947') and address text ('The A.B.D. / Washington / District of Columbia') that Description A does not detail, without contradiction.",
+  "original_image_tags": [
+    "A slightly aged, off-white envelope. The left edge has two circular punch holes. There is a blue 5-cent United States postage stamp in the upper left corner, featuring a profile portrait of Abraham Lincoln. The stamp text reads: \"UNITED STATES POSTAGE\" and \"5 CENTS 5\". A circular postmark overlaps the stamp and is centered near the top. To the right of the postmark are horizontal wavy cancellation lines. The address is handwritten in cursive ink."
+  ],
+  "gpt_mini_desc": "*Image: A scanned envelope with a blue 5-cent United States postage stamp at upper left, a circular New Brunswick, N.J. postmark dated Jul 5 1947 near the top center, wavy postmark lines at upper right, and handwritten address text reading “The F.B.I.,” “Washington,” and “District of Columbia.”*",
+  "gpt_mini_desc_len": 296,
+  "usage": {
+    "prompt_tokens": 28029,
+    "completion_tokens": 76,
+    "total_tokens": 28105,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:17"
+}

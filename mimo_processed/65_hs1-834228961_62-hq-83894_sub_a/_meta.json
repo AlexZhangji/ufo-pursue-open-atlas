@@ -1,0 +1,514 @@
+{
+  "file": "65_hs1-834228961_62-hq-83894_sub_a.pdf",
+  "stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "35995afc0d3986fffe9ca48b82d7712fcc7942e3e13ce554aac845302b5b1862",
+  "size_bytes": 49325139,
+  "total_pages": 124,
+  "pages_processed_in_run": 124,
+  "status": "complete",
+  "elapsed_sec": 0.3,
+  "completed_at": "2026-05-08 15:38:21",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    },
+    {
+      "page": 8,
+      "status": "skip"
+    },
+    {
+      "page": 9,
+      "status": "skip"
+    },
+    {
+      "page": 10,
+      "status": "skip"
+    },
+    {
+      "page": 11,
+      "status": "skip"
+    },
+    {
+      "page": 12,
+      "status": "skip"
+    },
+    {
+      "page": 13,
+      "status": "skip"
+    },
+    {
+      "page": 14,
+      "status": "skip"
+    },
+    {
+      "page": 15,
+      "status": "skip"
+    },
+    {
+      "page": 16,
+      "status": "skip"
+    },
+    {
+      "page": 17,
+      "status": "skip"
+    },
+    {
+      "page": 18,
+      "status": "skip"
+    },
+    {
+      "page": 19,
+      "status": "skip"
+    },
+    {
+      "page": 20,
+      "status": "skip"
+    },
+    {
+      "page": 21,
+      "status": "skip"
+    },
+    {
+      "page": 22,
+      "status": "skip"
+    },
+    {
+      "page": 23,
+      "status": "skip"
+    },
+    {
+      "page": 24,
+      "status": "skip"
+    },
+    {
+      "page": 25,
+      "status": "skip"
+    },
+    {
+      "page": 26,
+      "status": "skip"
+    },
+    {
+      "page": 27,
+      "status": "skip"
+    },
+    {
+      "page": 28,
+      "status": "skip"
+    },
+    {
+      "page": 29,
+      "status": "skip"
+    },
+    {
+      "page": 30,
+      "status": "skip"
+    },
+    {
+      "page": 31,
+      "status": "skip"
+    },
+    {
+      "page": 32,
+      "status": "skip"
+    },
+    {
+      "page": 33,
+      "status": "skip"
+    },
+    {
+      "page": 34,
+      "status": "skip"
+    },
+    {
+      "page": 35,
+      "status": "skip"
+    },
+    {
+      "page": 36,
+      "status": "skip"
+    },
+    {
+      "page": 37,
+      "status": "skip"
+    },
+    {
+      "page": 38,
+      "status": "skip"
+    },
+    {
+      "page": 39,
+      "status": "skip"
+    },
+    {
+      "page": 40,
+      "status": "skip"
+    },
+    {
+      "page": 41,
+      "status": "skip"
+    },
+    {
+      "page": 42,
+      "status": "skip"
+    },
+    {
+      "page": 43,
+      "status": "skip"
+    },
+    {
+      "page": 44,
+      "status": "skip"
+    },
+    {
+      "page": 45,
+      "status": "skip"
+    },
+    {
+      "page": 46,
+      "status": "skip"
+    },
+    {
+      "page": 47,
+      "status": "skip"
+    },
+    {
+      "page": 48,
+      "status": "skip"
+    },
+    {
+      "page": 49,
+      "status": "skip"
+    },
+    {
+      "page": 50,
+      "status": "skip"
+    },
+    {
+      "page": 51,
+      "status": "skip"
+    },
+    {
+      "page": 52,
+      "status": "skip"
+    },
+    {
+      "page": 53,
+      "status": "skip"
+    },
+    {
+      "page": 54,
+      "status": "skip"
+    },
+    {
+      "page": 55,
+      "status": "skip"
+    },
+    {
+      "page": 56,
+      "status": "skip"
+    },
+    {
+      "page": 57,
+      "status": "skip"
+    },
+    {
+      "page": 58,
+      "status": "skip"
+    },
+    {
+      "page": 59,
+      "status": "skip"
+    },
+    {
+      "page": 60,
+      "status": "skip"
+    },
+    {
+      "page": 61,
+      "status": "skip"
+    },
+    {
+      "page": 62,
+      "status": "skip"
+    },
+    {
+      "page": 63,
+      "status": "skip"
+    },
+    {
+      "page": 64,
+      "status": "skip"
+    },
+    {
+      "page": 65,
+      "status": "skip"
+    },
+    {
+      "page": 66,
+      "status": "skip"
+    },
+    {
+      "page": 67,
+      "status": "skip"
+    },
+    {
+      "page": 68,
+      "status": "skip"
+    },
+    {
+      "page": 69,
+      "status": "skip"
+    },
+    {
+      "page": 70,
+      "status": "skip"
+    },
+    {
+      "page": 71,
+      "status": "skip"
+    },
+    {
+      "page": 72,
+      "status": "skip"
+    },
+    {
+      "page": 73,
+      "status": "skip"
+    },
+    {
+      "page": 74,
+      "status": "skip"
+    },
+    {
+      "page": 75,
+      "status": "skip"
+    },
+    {
+      "page": 76,
+      "status": "skip"
+    },
+    {
+      "page": 77,
+      "status": "skip"
+    },
+    {
+      "page": 78,
+      "status": "skip"
+    },
+    {
+      "page": 79,
+      "status": "skip"
+    },
+    {
+      "page": 80,
+      "status": "skip"
+    },
+    {
+      "page": 81,
+      "status": "skip"
+    },
+    {
+      "page": 82,
+      "status": "skip"
+    },
+    {
+      "page": 83,
+      "status": "skip"
+    },
+    {
+      "page": 84,
+      "status": "skip"
+    },
+    {
+      "page": 85,
+      "status": "skip"
+    },
+    {
+      "page": 86,
+      "status": "skip"
+    },
+    {
+      "page": 87,
+      "status": "skip"
+    },
+    {
+      "page": 88,
+      "status": "skip"
+    },
+    {
+      "page": 89,
+      "status": "skip"
+    },
+    {
+      "page": 90,
+      "status": "skip"
+    },
+    {
+      "page": 91,
+      "status": "skip"
+    },
+    {
+      "page": 92,
+      "status": "skip"
+    },
+    {
+      "page": 93,
+      "status": "skip"
+    },
+    {
+      "page": 94,
+      "status": "skip"
+    },
+    {
+      "page": 95,
+      "status": "skip"
+    },
+    {
+      "page": 96,
+      "status": "skip"
+    },
+    {
+      "page": 97,
+      "status": "skip"
+    },
+    {
+      "page": 98,
+      "status": "skip"
+    },
+    {
+      "page": 99,
+      "status": "skip"
+    },
+    {
+      "page": 100,
+      "status": "skip"
+    },
+    {
+      "page": 101,
+      "status": "skip"
+    },
+    {
+      "page": 102,
+      "status": "skip"
+    },
+    {
+      "page": 103,
+      "status": "skip"
+    },
+    {
+      "page": 104,
+      "status": "skip"
+    },
+    {
+      "page": 105,
+      "status": "skip"
+    },
+    {
+      "page": 106,
+      "status": "skip"
+    },
+    {
+      "page": 107,
+      "status": "skip"
+    },
+    {
+      "page": 108,
+      "status": "skip"
+    },
+    {
+      "page": 109,
+      "status": "skip"
+    },
+    {
+      "page": 110,
+      "status": "skip"
+    },
+    {
+      "page": 111,
+      "status": "skip"
+    },
+    {
+      "page": 112,
+      "status": "skip"
+    },
+    {
+      "page": 113,
+      "status": "skip"
+    },
+    {
+      "page": 114,
+      "status": "skip"
+    },
+    {
+      "page": 115,
+      "status": "skip"
+    },
+    {
+      "page": 116,
+      "status": "skip"
+    },
+    {
+      "page": 117,
+      "status": "skip"
+    },
+    {
+      "page": 118,
+      "status": "skip"
+    },
+    {
+      "page": 119,
+      "status": "skip"
+    },
+    {
+      "page": 120,
+      "status": "skip"
+    },
+    {
+      "page": 121,
+      "status": "skip"
+    },
+    {
+      "page": 122,
+      "status": "skip"
+    },
+    {
+      "page": 123,
+      "status": "skip"
+    },
+    {
+      "page": 124,
+      "status": "skip"
+    }
+  ]
+}

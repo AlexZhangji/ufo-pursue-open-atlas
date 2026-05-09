@@ -1,0 +1,48 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 36,
+  "original_image_tags": [
+    "A handwritten note in the top right corner reads \"Brown Paper\".",
+    "A stamp in the bottom left corner reads \"50 JAN 13 1954 GJ\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping with the headline 'SAUCERS HELD SPACE SHIPS BY EX-MARINE' and a sub-headline 'Hits AF Stand On Flying Disks'. The clipping includes body text and a byline 'BY RICHARD REILLY'."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "A typed list of newspaper names including 'Times Herald', 'Wash. Post', 'Wash. News', 'Wash. Star', 'N. Y. Times', and 'N. Y. Compass', with a handwritten 'P9' next to 'Times Herald'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp or label containing the text '62.83899-A' and 'NOT RECORDED' along with a date '44 JAN 12 1954'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp or label at the bottom left containing the text '50 JAN 13 1954'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamped or printed number '0-19' at the top right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions are clearly about different visual content, with Description A citing a simple note and stamp while Description B describes a complex newspaper clipping, typed list, and multiple other stamps not mentioned by A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:15:11"
+}

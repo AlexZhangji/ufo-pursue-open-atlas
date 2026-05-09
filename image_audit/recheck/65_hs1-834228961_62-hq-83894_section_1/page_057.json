@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 57,
+  "original_image_tags": [
+    "A manila file folder with a white paper slip stapled to its front, containing handwritten text in pink ink. The folder also has various stamps, handwritten notations, and file markings."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "A brown paper folder or backing page featuring a central white paper scrap with handwritten text in pink ink reading 'HA! HA! WINCHELL HAS REVEALED THE \"SAUCER\" SECRET. YOU CAN'T HIDE ANYTHING FROM US & OUR AGENTS LIKE WINCHELL COMMUNIST'. Various handwritten annotations in blue ink are visible on the left margin and bottom right corner. A rubber stamp at the bottom right indicates 'RECORDED 37 JUL 16 1947' and 'Ex-56', along with '62-83894' and 'Anonymous Messages'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on a folder with a white paper slip containing pink handwritten text and handwritten annotations in other colors, but Description B provides extensive quoted text and details (stamp text, file numbers) that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:54:49"
+}

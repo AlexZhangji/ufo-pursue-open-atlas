@@ -1,0 +1,30 @@
+{
+  "file": "nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf",
+  "stem": "nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "5d7db3870de8c01a1c39b7e8a4185dd026fe132f01d1cd5ded60f10866722f7e",
+  "size_bytes": 212585,
+  "total_pages": 3,
+  "pages_processed_in_run": 3,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:25",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    }
+  ]
+}

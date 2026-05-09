@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 49,
+  "original_image_tags": [
+    "Aged, off-white document page with two punched holes at the top. The page appears to be the reverse side of a document, with faint, illegible text showing through from the other side. A circular date-time stamp is located in the lower-left quadrant. The stamp is rotated approximately 180 degrees relative to the page orientation.",
+    "Two horizontal, black, typed lines are present. One is centered near the top of the page between the two holes. The other is centered near the bottom of the page. Their purpose is unclear from the image."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular ink stamp located in the lower left corner. The stamp reads 'RECEIVED' at the top, 'WAR AND NAVY DEPARTMENTS' in the center, and '22 JAN 1949' at the bottom. The outer ring contains numbers 01 through 24. The page also shows two punch holes at the top, two horizontal black lines (one near the top center, one near the bottom center), a faint circular impression in the middle of the page, and some faded, illegible text showing through from the reverse side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific, legible text for the stamp ('RECEIVED', 'WAR AND NAVY DEPARTMENTS', '22 JAN 1949', outer ring numbers) that Description A does not see at all, calling the stamp illegible or its orientation the only detail.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:24:56"
+}

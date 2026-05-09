@@ -1,0 +1,26 @@
+{
+  "pdf_stem": "341_110677_numerical_file_5-2500",
+  "page_num": 10,
+  "original_image_tags": [
+    "Hand-drawn diagram illustrating a railway gauge switching operation at the Czechoslovakia-USSR border. The diagram shows a track running horizontally across the page.",
+    "Stamped classification mark at bottom right of diagram area."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "diagram",
+        "description": "A hand-drawn diagram titled 'DIAGRAM OF RR GUAGE SWITCHING OPERATION AT COP 12 OCT 1955'. It illustrates a railway gauge switching facility with a central rectangular building containing pit under tracks and floor trap doors. It shows two parallel railway tracks: 'CZECH STANDARD GUAGE TRACK' on the left and 'RUSSIAN BROAD GUAGE TRACK' on the right. Components include two 'CZECH RR TRUCKS' and two 'RUSSIAN GUAGE TRUCKS'. A single 'RR SLEEPER CAR MARKED ON SIDE \"MOSCOW - PRAGUE\"' is depicted. On the right track, a 'RED STAR OVER TRACK' is labeled '(PROBABLE OFFICIAL BORDER MARKER)'. Arrows indicate the direction towards 'CZECHOSLOVAKIA' (left) and 'USSR + COP' (right). Text annotations describe the process: 'CZECH RR TRUCKS ARE PUSHED TO RUSSIAN TRUCKS, BANGING THEM IN DIRECTION OF USSR' and 'FLOOR TRAP DOOR IN CONDUCTOR'S COMPARTMENT WHERE TRUCK DISCONNECT BAR IS LOCATED'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "diagram"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:53"
+}

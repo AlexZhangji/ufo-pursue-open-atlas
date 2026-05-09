@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-101634279_100-de-26505",
+  "page_num": 3,
+  "original_image_tags": [
+    "A scanned grayscale index card or form slip. The form contains typed fields on the left and handwritten entries. A stamped text block is visible near the top right. A handwritten note runs vertically along the right side. Handwritten text runs horizontally across the bottom right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamped and handwritten document section. Typed text includes 'Date Received...', 'From (Name of contributor)', '(Address of contributor)', 'By (Name of Special Agent)', 'To Be Returned Yes ( ) No (x)', 'Description:', and 'File No.'. A stamp reads 'ALL INFORMATION CONTAINED IN THIS ENVELOPE HEREBIN IS UNCLASSIFIED DATE 5/22/75 BY J.H. Liptay'. Handwritten text includes '11/7/52', '11/7/52', 'notes re interview w WLADYSLAW KRASUSKI 11/7/52', and 'File No. 100-9303-121'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree the visual content is a stamped and handwritten document form, but Description B adds specific quoted text details (stamp, dates, names, file number) that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:54:19"
+}

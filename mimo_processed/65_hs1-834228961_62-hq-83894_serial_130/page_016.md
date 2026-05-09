@@ -1,0 +1,27 @@
+## CONFIDENTIAL
+### RESTRICTED — FINAL REPORT OF SIGHTING
+
+*Classification cancelled or changed to Restricted by [name illegible] on 16 Aug 47 (Date)*
+*Note: "4" handwritten in top left margin.*
+
+1.  **Organization:** 1388th AAF Base Unit, APO 864, c/o Postmaster, New York, N.Y.
+2.  **Sighting:** Strange intermittent flashes that may tie in with "Flying Discs".
+3.  **Place:** Harmon Field, Stephenville, Newfoundland.
+4.  **Time:** 0345Z, 23 July 1947.
+5.  **Altitude:** Approximately 10,000 feet high.
+6.  **Weather:** High scattered condition; visibility better than fifteen (15) miles.
+7.  **Heading:** From South, heading NNE (approximately 30°)
+8.  **Speed:** High velocity; stated to be faster than a conventional airplane.
+9.  **Description:** The observers saw a light which at first appeared to be a shooting star or airplane. It appeared again, and a number of intermittant flashes were seen for a period of approximately three (3) minutes. The flashes were reddish in color. Observers said it was not a falling star because it did not appear as such; nor was it an airplane, because maneuvers were too abrupt and there was no noise of a motor.
+10. **Reported by:** Miss Patricia Abbott, (Newfoundland National) Government Employee and Lt. Hammaker, Navigator and Public Relations Officer.
+11. **General:** The informants (noted in Par.10) were walking when they noticed a peculiar reddish light. Both Miss Abbott and Lt. Hammaker stated that at first, they thought it was a falling star, but it left no streak. It appeared again; they thought it might be a plane flying at a very high altitude. After observing its maneuvers, they concluded, because of the silence (no hum of motor) and abrupt darts of the light, it was definately not an airplane. Neither Miss Abbott nor Lt. Hammaker had seen anything like it before.
+
+*[Signed: William H. Smith]*
+**WILLIAM H. SMITH**
+Captain, Air Corps,
+Intelligence Officer.
+
+### RESTRICTED
+## CONFIDENTIAL
+*Encl 1*
+*[handwritten mark in bottom right margin]*

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 194,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims a specific blue circular stamp is visible, while Description B claims there is only typed text and no visual content like stamps or images, directly contradicting on the presence of visual elements.",
+  "original_image_tags": [
+    "A small, blue, circular stamp is visible to the left of the \"SUBJECT\" line. The text within the stamp is not legible."
+  ],
+  "gpt_mini_desc": "*No image content on this page.*",
+  "gpt_mini_desc_len": 32,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 11,
+    "total_tokens": 14903,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:19"
+}

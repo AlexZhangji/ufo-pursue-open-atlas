@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 84,
+  "original_image_tags": [
+    "A yellowed, aged document page, appearing to be the back of a carbon copy or a routing sheet. It has two hole-punches at the top. The paper is heavily stained and the reverse side text is faintly visible as bleed-through. The primary content consists of the handwritten \"Certified Copy\" notation in the upper left, and official date stamps from the U.S. Department of Justice Mail Room at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Aged, yellowed paper with two punched holes at the top and a torn upper-right corner. Features a handwritten signature in the upper left and a stamped label in the lower right containing the date 'Nov 24' and '3:40 PM' alongside text indicating 'RECEIVED-M... ROOM' and 'U S DEPT OF JUSTICE'. Faint, illegible text is visible bleeding through from the opposite side of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Descriptions disagree on the verbatim text of the stamped label: A says 'Certified Copy' while B says 'RECEIVED-M... ROOM' and 'U S DEPT OF JUSTICE'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:40"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 116,
+  "original_image_tags": [
+    "Aged, yellowed newspaper clipping pasted onto a buff-colored archival sheet. The clipping is from the Washington Evening Star. There are two dark ink stains or punch holes at the top center edge. Multiple handwritten notations in different colored inks (blue, black, red) appear around the clipping, including what appear to be routing initials, names, and file numbers. A red vertical line runs through part of the right column text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping from the Washington Evening Star for 7/7/47. It contains typed body text with the main headline 'Planes to Chase 'Flying Saucers'; 'Something to This,' AAF Feels' and a sub-headline 'Air-Ground Search Stated.' There are no photographs, sketches, or diagrams within the clipping itself."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (a newspaper clipping from the Washington Evening Star), but Description B adds specific verbatim text (headline, sub-headline, date) while Description A focuses on physical stains and handwritten notations, without contradicting each other on the core visual elements.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:16:17"
+}

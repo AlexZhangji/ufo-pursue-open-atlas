@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "nasa-uap-d7-skylab-technical-crew-debriefing-1973",
+  "page_num": 4,
+  "original_image_tags": [
+    "NASA \"worm\" logo (stylized red text \"NASA\", here in black and white) enclosed in a circular graphic. To the left, three stars above horizontal stripes. Below the logo:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One circular logo at the bottom left. It features a stylized depiction of an eagle or bird of prey with three white stars above its head and white horizontal stripes below. To the right of the logo, text reads: 'National Aeronautics and Space Administration', 'LYNDON B. JOHNSON SPACE CENTER', 'Houston, Texas', 'OCTOBER 4, 1973'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a NASA 'worm' logo with stars and stripes, while Description B describes an eagle/bird logo with the same elements, and B also quotes extensive surrounding text that A omits, indicating they are describing different visual content or one is hallucinating.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:19:13"
+}

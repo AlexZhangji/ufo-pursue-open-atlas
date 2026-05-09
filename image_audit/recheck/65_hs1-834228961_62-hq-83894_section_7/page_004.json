@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 4,
+  "original_image_tags": [
+    "Aged, pinkish-tan paper sheet with two hole-punch tears at the top edge. Multiple date stamps in blue/black ink are visible across the page, indicating routing through various FBI and Department of Justice divisions in August 1952. Faint, reversed text is visible through the paper, indicating this is the reverse side of a typed document."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page is a blank or back of a document covered with multiple stamped dates and handwritten annotations. A large central stamped text reads 'RECEIVED FBI COMMUNICATIONS AUG 9 7 48 PM '52'. To the left, a stamp reads 'U.S. DEPT. OF JUSTICE AUG 11 1 32 PM '52'. To the right, a stamp reads 'RECD BELMONT F.B.I. DEPT of JUSTICE AUG 9 8 39 PM '52'. In the center, a stamp reads 'REC'D ESPIONAGE U.S. DEPT OF JUSTICE AUG 11 9 39 AM '52'. In the bottom left corner, handwritten text reads 'Rec'd 12 nov 8/11/52'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions disagree on the specific verbatim text of the stamps: Description A describes 'Multiple date stamps in blue/black ink' without quoting text, while Description B quotes four specific, distinct stamp texts (e.g., 'RECEIVED FBI COMMUNICATIONS AUG 9 7 48 PM '52'), which cannot be verified against Description A's general claim, creating a contradiction in quoted visual text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:48:10"
+}

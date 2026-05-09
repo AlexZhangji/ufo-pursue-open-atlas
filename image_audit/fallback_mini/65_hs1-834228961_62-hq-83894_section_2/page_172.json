@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 172,
+  "categories": [
+    "diagram"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both agree on the core elements of a hand-drawn diagram with five numbered positions and a connecting line, but they disagree on the specific shapes (ovals/circles vs circles/dash/arrow) and one adds a label while the other does not, without a direct verbatim text contradiction.",
+  "original_image_tags": [
+    "Hand-drawn sketch on plain paper. The sketch shows five positions of an object, numbered 1 through 5, connected by dotted lines to indicate a path of movement. Positions 1, 2, and 3 are drawn as ovals. Position 4 is a thin, dark, horizontal ellipse, as if the object is being viewed edge-on. Position 5 is an arc shape with an arrow pointing away. The path shows the object rising in a staggered manner from 1 to 3, then moving horizontally to the position where it rolls (4), before disappearing along a curved, rolling path at (5)."
+  ],
+  "gpt_mini_desc": "*Image: A typed document page with a hand-drawn motion diagram of a black object's path labeled 1 through 5, showing dotted curved movement lines and an arrow, with headings “CONFIDENTIAL” at top and bottom, “COPY” at the upper right, and a typed caption identifying it as a chart referenced in David N. Johnson’s statement.*",
+  "gpt_mini_desc_len": 325,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 77,
+    "total_tokens": 57730,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:46"
+}

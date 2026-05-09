@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 98,
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a small handwritten note with 'Washburn' and 'Flying Discs', while Description B describes a completely different set of visual elements including a large newspaper clipping, multiple stamps, and a typewritten list of names.",
+  "original_image_tags": [
+    "handwritten name \"Washburn\" with \"FBI\" below it.",
+    "handwritten cursive \"flying Flying Discs\" and \"July 6 ET/EN\""
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper page with three vertical article columns and multiple handwritten pen annotations, including a large blue handwritten note reading “Flying Saucer” across the lower center, several circled names/signatures in the right margin, and date stamps near the bottom.*",
+  "gpt_mini_desc_len": 287,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 56,
+    "total_tokens": 56212,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:12"
+}

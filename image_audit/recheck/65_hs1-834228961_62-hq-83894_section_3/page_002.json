@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 2,
+  "original_image_tags": [
+    "A typed government memorandum on Standard Form No. 64, with various handwritten annotations, stamps, and filing numbers."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page is a typed Office Memorandum with no photographs, sketches, diagrams, maps, or charts. It contains multiple handwritten annotations, stamps, and signatures, including 'AIRMAIL SPECIAL DELIVERY', 'RECORDED INDEXED 135', '162-83894', 'EX-83', and dates like 'SEP 23 1947' and '31 OCT 3 1947'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree the page contains a typed memo with handwritten annotations and stamps, but B provides specific quoted text for stamps that A does not mention, without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:30:14"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 177,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims the visual content is a newspaper clipping, while Description B describes a typed document with a distribution list, a highlighted box, handwritten annotations, and stamped numbers, indicating they are describing completely different visual content.",
+  "original_image_tags": [
+    "A yellowed, rectangular newspaper clipping typed on a Washington City News Service teletype form, adhered to the page with translucent tape. The text is in all-caps monospaced type. The paper shows age-related discoloration."
+  ],
+  "gpt_mini_desc": "*Image: A document page with a pasted orange newspaper clipping containing a typed article about “flying saucers,” plus handwritten names at the upper right, red underlining/markings, and a red handwritten file number near the bottom.*",
+  "gpt_mini_desc_len": 235,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 51,
+    "total_tokens": 14943,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:11"
+}

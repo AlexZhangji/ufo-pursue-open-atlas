@@ -1,0 +1,31 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 152,
+  "original_image_tags": [
+    "Red rectangular stamp: MAILED 21 / FEB 23 1972 / FBI",
+    "Handwritten notes in bottom right corner, possibly \"File\" and initials \"mbr\"",
+    "Red stamped text: 60 MAR 2 1972",
+    "Handwritten number: 937",
+    "Small handwritten initials/signature near bottom right, possibly \"Jr\" or \"Jr. File\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter dated February 23, 1972, addressed to Miss Mary Beth Martine. The body text states that UFO investigations are not within the FBI's jurisdiction. It includes handwritten annotations, a 'MAILED 21 FEB 23 1972 FBI' stamp, a date stamp '60 MAR 2 1972', and handwritten notes including 'Pvt' and '937'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the visual content of stamps and handwritten annotations, but Description B omits the handwritten 'File' and 'Jr'/'Jr. File' notes while also adding 'Pvt' which is not mentioned in Description A.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:28:56"
+}

@@ -1,0 +1,20 @@
+to glance at the zenith which
+was clear and was surprised
+to see a small object bright
+in the sunset. It might have
+been half of the smallest
+of clouds but its shape was
+angular, more like a piece
+of torn paper. This shape
+changed as the object floated
+north easterly before the wind;
+sometimes it appeared to
+have a bite taken out of it,
+several times it reminded
+me of a hand. I called
+my husband and sister and
+later our housekeeper and a
+friend of hers.
+
+As the object grew smaller
+it seemed to be on fire, an

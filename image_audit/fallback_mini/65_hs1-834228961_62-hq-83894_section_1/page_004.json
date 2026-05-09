@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 4,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions contradict each other on specific visual content: Description A describes three torn columns of newspaper text pasted onto a dark backing sheet with a specific quote ('Saucers—From Page 1'), while Description B describes a single newspaper clipping with a different headline fragment ('Priest Finds', 'In Yard and Holds') and punch holes, indicating they are likely describing different images.",
+  "original_image_tags": [
+    "Three torn columns of newspaper text pasted onto a dark backing sheet. The paper is aged, yellowed, and has irregular tears. The top left corner reads \"Saucers—From Page 1\"."
+  ],
+  "gpt_mini_desc": "*Image: A torn newspaper clipping pasted on a beige backing sheet, showing three vertical columns of printed article text about “flying saucers,” with visible tape strips and a large missing section on the right edge.*",
+  "gpt_mini_desc_len": 218,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 46,
+    "total_tokens": 54689,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:16"
+}

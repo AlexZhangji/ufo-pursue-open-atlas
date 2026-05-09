@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 91,
+  "original_image_tags": [
+    "A scanned page of a typed document on aged, off-white paper with two hole-punch marks at the top. The header \"United States Government\" and \"Office Memorandum\" are visible as a faint, reversed watermark from the other side of the page. The document is dated August 27, 1947, and appears to be the second page of a multi-page memo."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed text document on aged paper with header 'Director, FBI August 27, 1947 Re: Flying Discs - Tacoma, Wn.' and three paragraphs of text describing an incident involving disc fragments and six circular grey objects. The page includes a handwritten correction crossing out 'TRICKMAN' and writing 'TRICKMAN' above it. No photographs, sketches, diagrams, maps, or charts are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree that there are no visual elements such as photographs, sketches, diagrams, maps, or charts on the page.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:20"
+}

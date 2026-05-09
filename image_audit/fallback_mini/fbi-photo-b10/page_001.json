@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "fbi-photo-b10",
+  "page_num": 1,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content (infrared photo, crosshair reticle, horizontal scale with numbers, dark dot to the right, terrain at bottom, redactions, timestamp), but Description B provides a specific timestamp text ('12/31/99 18:10:50') that Description A omits.",
+  "original_image_tags": [
+    "A black-and-white infrared (IR) sensor still, likely from a military or surveillance system. The image displays a central crosshair reticle with vertical and horizontal scales marked with tick marks and numbers. The horizontal axis is labeled with numbers: \"15\", \"10\", \"5\" on the left side of center and \"5\", \"10\", \"15\" on the right. A small, dark, distinct dot is visible just to the right of the center crosshair, positioned near the \"1\" mark on the horizontal axis and slightly above the horizontal centerline. The background is a uniform, grainy gray tone, typical of IR imagery, with a darker, uneven landmass or horizon visible at the very bottom edge. Multiple rectangular redaction blocks are placed across the image, obscuring specific areas: a large black bar across the top edge; several black and gray blocks on the left and right sides, aligned roughly with the horizontal scale; and additional redaction blocks near the bottom corners. A timestamp is visible in the bottom left corner."
+  ],
+  "gpt_mini_desc": "*Image: Grainy infrared-style photograph with a centered white crosshair and horizontal/vertical tick marks labeled 5, 10, and 15; a small dark dot appears just right of the vertical axis above center, with several black redaction bars overlaid around the edges and a timestamp reading “12/31/99 18:10:50” at bottom left.*",
+  "gpt_mini_desc_len": 322,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 80,
+    "total_tokens": 54723,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:44"
+}

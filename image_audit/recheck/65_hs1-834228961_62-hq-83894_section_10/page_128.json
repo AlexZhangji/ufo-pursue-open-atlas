@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 128,
+  "original_image_tags": [
+    "The document is a single, aged, off-white page of typed text. The paper shows significant bleed-through, with the typed text appearing mirrored, indicating this is the reverse side of a document where the ink from the front has bled through. The page has two hole-punch marks near the top edge. There are several stamps and handwritten notations at the bottom of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Back of a document page with faint, mostly illegible typed text visible through the paper. At the bottom, there are three distinct stamped or typed annotations in blue, red, and black ink: 'MAR 24 7 11 AM '69', 'MAR 21 69 1', 'REC'D - CORR & IDS', and 'INCONS APR 101969' along with handwritten text 'Matters, 4/28/69 REK'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree the page shows bleed-through typed text and stamps/annotations at the bottom, but B provides specific quoted stamp text while A does not, and neither contradicts the other on the visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:28:37"
+}

@@ -1,0 +1,67 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 14,
+  "original_image_tags": [
+    "A four-panel comic strip. In the first panel, a monk asks another, \"What's new?\" The second monk replies, \"I see a flying saucer!\" In the second panel, the first monk says, \"That's silly.\" In the third panel, the second monk points and says, \"There it is!\" The fourth panel shows a large flying saucer above them. The monk says, \"Oh!\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black-and-white cartoon depicting a group of people at a bar or cafe. One figure in the foreground holds a newspaper with the headline 'FLYING SAUCERS SIGHTING'. A speech bubble from one character reads 'These flying saucer stories are getting more ridiculous every day.'"
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A small, grainy black-and-white photograph showing a light-colored, disc-shaped object against a dark background. A caption below the image reads 'Flying swamp gas?'"
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black-and-white photograph showing a dark silhouette of an object against a cloudy sky. A caption below the image reads 'Let's see the Air Force haul this one up.'"
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black-and-white photograph of three circular, light-colored objects in the sky. A caption below the image reads 'THESE ARE THE OBJECTS photographed by 16-year-old Brian Pollock in the garden near New Plymouth on Sunday...'"
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black-and-white photograph of a single, bright, disc-shaped object. A caption below the image reads 'UFO (?) FLASH ACROSS PRE-DAWN SKY over New Plymouth, Tuesday, May 10, 1966.'"
+      },
+      {
+        "category": "sketch",
+        "description": "A black-and-white line drawing or sketch of a disc-shaped object with a dome on top, depicted in a swampy or wooded environment. A caption below the sketch reads 'POLICEMEN and five other people who were satisfied that what they had seen was a UFO were taken to police headquarters. Above, police artist sketches of the object. Drawing: Brian Pollock, 16, New Plymouth.'"
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph of a young boy in a light-colored shirt, looking up and pointing. A caption below the photo reads 'FIRST UFO SPOTTER'"
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph of a man in a suit and tie, identified as the mayor. A caption below the photo reads 'KENNETH ARRASMITH, mayor in 1961, is shown as a candidate. He said he saw a flying saucer in 1947 while traveling at 100 miles an hour eastbound from Los Angeles to Seattle.'"
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black-and-white photograph showing two dark, disc-shaped objects hovering in the sky over a landscape with trees. A caption below the photo reads 'Signs of the Times are written at Brewer, Mo. Brewer, who once served as mayor, has been giving a great deal of thought to UFOs...'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a four-panel comic strip with monks and a flying saucer, while Description B describes multiple newspaper clippings, photographs, and sketches about UFO sightings, representing completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration",
+    "sketch",
+    "photograph",
+    "photograph",
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:24"
+}

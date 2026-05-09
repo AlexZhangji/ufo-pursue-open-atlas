@@ -1,0 +1,21 @@
+shaped, likely moving at a low speed. The U.S Aircraft had eyes on the poss UAP for over 2 hours.
+
+//UNCLASSIFIED//
+
+*[Large black redaction box with red text: (b) (6)]*
+
+CLASSIFICATION: ~~SECRET//NOFORN~~
+
+Hello,
+
+Could you please approve the use of the year this incident took place?
+Currently you have approved the month and the day, we request it includes the year.
+
+Thank for your assistance.
+
+V/r
+
+*[Redacted name with red text: (b) (6)]*
+Information Disclosure Analyst
+
+2

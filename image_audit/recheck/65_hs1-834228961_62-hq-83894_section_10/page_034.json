@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 34,
+  "original_image_tags": [
+    "Yellowed, aged paper with visible two-hole punch marks at the top edge. The majority of the page shows faint, reversed ghosting (bleed-through text) from the obverse side of the document. A strip of adhesive tape or residue runs diagonally across the upper center. At the bottom, several ink stamps are applied upside-down relative to the main document's orientation (rotated 180 degrees)."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue stamped text elements. Visible text includes 'RECEIVED-DIRECTOR FBI NOV 30 1 20 PM 66.', 'NOV 29 5 37 AM 66. REG'D DE LACH FBI', and 'NOV 30 11 42 AM 66. REC'D DE LACH FBI'. A strip of transparent tape is affixed diagonally near the top center."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description A and B agree on the diagonal tape element but disagree on the nature of the stamped content, with A describing upside-down ink stamps and B providing specific readable text from blue stamps, without direct contradiction on the quoted strings.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:55:32"
+}

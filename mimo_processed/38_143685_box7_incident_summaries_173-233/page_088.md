@@ -1,0 +1,3 @@
+## Incident 207-B
+
+Statement of S/Sgt John J. Knahmer corroborates account of 2d Lt Kenwood W. Jackson and 2d Lt Henry G. Combs. Sgt Knahmer was on ground duty when he heard a noise. Turning his head in the direction of the sound he saw a shining object coming across the sky. It made a sound similar to a P-47 only twice as loud. It seemed to him to be coming from the direction of the 2238th Engineering Hangar across the field toward Hanger #1. It wasn't very high. It couldn't have been a P-47 and witness did not see an exhaust. Shortly afterwards, he heard the same noise only higher up over the field. He stated the object did not resemble an aircraft.

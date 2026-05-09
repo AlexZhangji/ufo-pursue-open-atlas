@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 75,
+  "original_image_tags": [
+    "A faint vertical handwritten line is drawn along the left margin of the fourth paragraph."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed U.S. Government Office Memorandum with subject 'FLYING SAUCERS', dated March 28, 1950. Includes printed routing slip with names and handwritten annotations, stamps labeled 'RECORDED - 61' and 'COPIES DESTROYED', and a file number '62-83894-212'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:56"
+}

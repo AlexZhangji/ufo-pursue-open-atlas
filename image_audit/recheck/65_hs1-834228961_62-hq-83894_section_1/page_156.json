@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 156,
+  "original_image_tags": [
+    "Pink paper document, likely the back of a routing slip or teletype sheet, showing multiple blue ink date/time stamps from the FBI and Department of Justice offices. Faint, illegible text is visible bleeding through from the other side of the paper. There are two hole-punch marks at the top edge, one appearing dark/black."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A pinkish page covered in multiple blue ink stamps. Two holes are visible at the top. Stamps include 'RECEIVED-LADD FBI U.S. DEPT. OF JUSTICE' with date 'AUG 4 8 07 PM '47'; 'RECEIVED TELETYPE UNIT AUG 4 5 37 PM '47 F.B.I. DEPT. OF JUSTICE'; and multiple stamps for 'RECEIVED INTERNAL SECURITY F.B.I. DEPT. OF JUSTICE' and 'RECEIVED LIAISON SECTION F.B.I. DEPT. OF JUSTICE' with various dates and times (e.g., 'AUG 5 10 18 AM', 'AUG 8 11 11 AM '47', 'AUG 5 2 03 PM '47'). Faint reversed typed text is visible bleeding through from the reverse side of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamp text that Description A does not see, and both describe stamps as the primary visual content but with contradictory levels of detail and verbatim claims.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:13"
+}

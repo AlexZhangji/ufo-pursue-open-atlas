@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 134,
+  "original_image_tags": [
+    "A newspaper clipping is mounted on a piece of light-colored paper. The paper has two hole-punch marks at the top. The clipping itself is yellowed and aged. Text is in English."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping with the headline 'AF WANTS TO KNOW Pizza Pie—Or Flying Saucer?'. The clipping contains typed text and a partial image visible in the top-right corner showing a dark circular object against a light background, likely a photograph of the moon."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a plain mounted clipping with no specific text quoted, while Description B provides a specific headline quote and describes a visible partial image, creating a contradiction in reported visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:22"
+}

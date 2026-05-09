@@ -1,0 +1,11 @@
+4-528
+
+62-83894-420,421
+**CHANGED TO**
+63-6137-X,X1
+
+AUG 23 1960
+
+*[handwritten in margin]:* Bu/MLB
+
+*[handwritten in bottom left corner]:* C

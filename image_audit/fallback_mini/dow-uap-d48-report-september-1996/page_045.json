@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 45,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Descriptions disagree on specific quoted text: one quotes title 'Atlas IAS Failures through 280 sec' and legend 'Slow turns' as solid squares, while the other quotes title 'Atlas IIAS Failures through 280 sec' and legend 'Slow turns' as open squares.",
+  "original_image_tags": [
+    "A technical line graph titled \"Atlas IAS Failures through 280 sec\". The graph plots \"Percent in 5-deg sector (%)\" on the vertical axis (logarithmic scale from 0.1 to 100) against \"Angle From Flight Path (deg)\" on the horizontal axis (linear scale from 0 to 180). A note at the top of the graph reads: \"Breakup q-alpha = 20,000 deg-lb/ft²\". A legend identifies three data series with corresponding markers: \"Random-attitude turns\" (open circles), \"Slow turns\" (solid squares), and \"Combined turns (0.75 random + 0.25 slow)\" (solid triangles). All three lines start near 100% at 0 degrees, drop sharply, and then level off. The caption below the graph reads: \"Figure 5. Combined Random-Attitude and Slow-Turn Results\"."
+  ],
+  "gpt_mini_desc": "*Image: A black-and-white line graph titled “Atlas IIAS Failures through 280 sec” showing three plotted curves with legend entries for random-attitude turns, slow turns, and combined turns (0.75 random + 0.25 slow); x-axis labeled “Angle From Flight Path (deg)” from 0 to 180 and y-axis labeled “Percent in 5-deg sector (%)” on a logarithmic scale, with caption “Figure 5. Combined Random-Attitude and Slow-Turn-Results.”*",
+  "gpt_mini_desc_len": 422,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 112,
+    "total_tokens": 56268,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:26"
+}

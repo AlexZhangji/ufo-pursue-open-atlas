@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 20,
+  "original_image_tags": [
+    "A single page of aged, off-white paper with visible punch holes at the top center and top right. The page contains multiple blue and purple stamped \"RECEIVED\" notations, primarily clustered at the bottom half. The stamps are in various orientations and indicate processing by different offices within the U.S. Department of Justice and FBI. There is faint, illegible reversed text (likely ink bleed-through from the other side of the page) across the upper portion."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page containing multiple blue and black ink receiving stamps. Visible stamps include 'RECEIVED - LADD FBI U.S. DEPT. OF JUSTICE JUL 12 12 44 PM '49', 'RECEIVED-FLETCHER JUL 12 6 47 PM '49', 'RECEIVED-H ECKAW '49 Jul 17 6 47 PM '49', 'RECEIVED-MICHAEL JUL 13 10 54 AM '49', 'RECEIVED-PROJECT FBI U.S. DEPT. OF JUSTICE JUL 13 3 22 PM '49', 'RECEIVED-101 FBI U.S. DEPT. OF JUSTICE JUL 12 12 32 PM '49', and 'U.S. DEPT. OF JUSTICE FBI'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree the page contains multiple blue 'RECEIVED' stamps from U.S. Department of Justice and FBI, but Description B provides specific quoted text from the stamps while Description A describes them more generally without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:58:46"
+}

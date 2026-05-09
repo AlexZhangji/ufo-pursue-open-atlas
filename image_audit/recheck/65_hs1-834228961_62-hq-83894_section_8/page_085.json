@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 85,
+  "original_image_tags": [
+    "A single, yellowed, aged page with a torn top edge and several punch holes. The text on the page is printed or typed upside-down relative to the standard orientation. The page contains a typed paragraph and a stamped notation block."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page is the back side of a typed document with several visible stamps and handwritten annotations. There are four punch holes along the top edge. Visible stamps/annotations include: 'DEC 20 1954' at the bottom left; a red rectangular stamp with text 'MARKED 52' and 'RECEIVED JAN 2 1954'; handwritten text in red ink including 'US DEPT OF JUSTICE' and 'S. 7383-2355'; and stamped text at the top right reading 'RECORDED', 'INDEXED', and 'EX 130'. No photographs, sketches, diagrams, maps, or charts are present on this page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims the page contains typed text and a stamped notation block, while Description B provides specific quoted text for stamps and annotations that A does not mention, and they disagree on the page's orientation and overall content, indicating a factual inconsistency about the visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:16"
+}

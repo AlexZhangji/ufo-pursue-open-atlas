@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 110,
+  "original_image_tags": [
+    "Handwritten signature, appears to read \"J. Edgar Hoover\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Newspaper clipping with headline 'Juke Box Birthed This Flying Disc, Army Expert Finds'. The text below describes a 'Flying Disc' that fell in Twin Falls, Idaho, manufactured by four teenage boys from parts of a run-down juke box. The article mentions the device was found to be a hoax with a plexiglass dome, three radio tubes, and chromium-plated edges. Below the clipping, text reads 'JUL 12 1947', 'WASHINGTON NEWS', and 'Page 3'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "FBI stamp on the right side of the page reading 'RECORDED' followed by a handwritten number '162-83224-A' and 'FBI' stamped below it, with the date '44 JUL 18 1947' stamped underneath. A separate stamp reads 'EX-74'. A large handwritten signature or annotation is present below these stamps. A date stamp '58 JUL 25 1947' and the number '166' are visible in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A identifies only a handwritten signature, while Description B describes a newspaper clipping illustration and multiple stamps, indicating they are describing entirely different visual content on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:11"
+}

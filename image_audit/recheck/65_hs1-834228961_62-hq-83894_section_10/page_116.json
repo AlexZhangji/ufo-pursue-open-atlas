@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 116,
+  "original_image_tags": [
+    "The letter is a typewritten \"TRUE COPY\". Handwritten in blue ink above the salutation is \"OFLYING SAUCERS\". The word \"United\" in the first line is underlined in blue ink. To the right of the closing \"Very truly\", \"U.S.A\" is handwritten in blue ink. Below the signature block, there is a handwritten initial or signature that appears to be \"Jed\" in dark ink. There are black hole-punch marks at the top left and top right of the page.",
+    "At the bottom of the page, there is a piece of yellowed adhesive tape with a handwritten address in blue ink:",
+    "To the right of the taped address is a circular postmark stamped in black ink:",
+    "Below the taped address are several administrative markings in red and black ink:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page consists entirely of typed text, handwritten annotations, and stamps. There are no distinct photographs, sketches, diagrams, maps, charts, or illustrations embedded in the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:55"
+}

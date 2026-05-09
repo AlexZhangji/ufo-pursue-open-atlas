@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 115,
+  "categories": [
+    "photograph",
+    "photograph",
+    "sketch",
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B misquotes the Greyhound caption as 'Peeved with Parking?' while Description A quotes it as 'Parked with Parking?', and it describes the main bus visual as a 'line sketch of a bus interior' rather than the stylized illustration of people in a waiting area described by A.",
+  "original_image_tags": [
+    "Color advertisement for King Blended Whisky by Brown-Forman. Shows a man sitting in an armchair holding a highball glass, a bottle of King whisky, and a highball glass with ice and a cherry. Text reads \"Looks Lighter! Tastes Lighter!\" and \"Today's KING is Really LIGHT!\".",
+    "Color illustration for Greyhound bus travel. Shows several groups of people in a stylized bus or waiting area: a honeymoon couple, a businessman, a housewife sightseeing, and a college student. A small inset shows a bus with the text \"Parked with Parking? Take a Greyhound!\". The main headline reads \"Relax - as you See - as you Save by Greyhound!\"."
+  ],
+  "gpt_mini_desc": "*Image: A two-page magazine spread with multiple color advertisements and article text: at left, a Brown-Forman “King” blended whisky ad with a whiskey bottle, a glass, and a seated man illustration; at right, a Greyhound bus travel ad with several illustrated people, a Greyhound bus, and the headline “Relax – as you See – as you Save by Greyhound!”*",
+  "gpt_mini_desc_len": 352,
+  "usage": {
+    "prompt_tokens": 47124,
+    "completion_tokens": 84,
+    "total_tokens": 47208,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:14"
+}

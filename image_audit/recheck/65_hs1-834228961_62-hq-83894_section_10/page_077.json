@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 77,
+  "original_image_tags": [
+    "A photograph of a standard yellowish-brown manila document envelope. A small red stamp reading \"ENCLOSURE\" is located near the top center. Below the stamp, handwritten numbers in black ink read \"62-83894—\" followed by a number \"462\" written in red ink. There is a black circular hole or punch mark near the top center. The envelope shows some creasing and wear, with two holes visible along the bottom edge. The main body of the envelope is blank."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "An image of the back of a yellowish manila envelope. At the top, there is a red 'ENCLOSURE' stamp. Below that, handwritten numbers '62-83894' in black ink and '46a' in red ink. There is a single hole punch at the top and two hole punches at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (yellowish manila envelope, red 'ENCLOSURE' stamp, handwritten numbers, hole punches), but Description A reads the red number as '462' while Description B reads it as '46a', which is a minor discrepancy that does not constitute a clear verbatim contradiction given potential ambiguity.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:55:44"
+}

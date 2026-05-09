@@ -1,0 +1,42 @@
+{
+  "file": "dow-uap-d28-mission-report-east-china-sea-2024.pdf",
+  "stem": "dow-uap-d28-mission-report-east-china-sea-2024",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "e12c00b3e2d64e35eef5623499e6eb23b1bc21d304523c75d28d3f474d91d77e",
+  "size_bytes": 633172,
+  "total_pages": 6,
+  "pages_processed_in_run": 6,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:05",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    }
+  ]
+}

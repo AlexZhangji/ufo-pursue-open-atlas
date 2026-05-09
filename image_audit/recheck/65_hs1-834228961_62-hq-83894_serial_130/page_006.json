@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 6,
+  "original_image_tags": [
+    "scan of a largely blank, off-white page. A single vertical staple mark is visible at the top center edge. No other text or markings are present."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A mostly blank page with a single handwritten alphanumeric string at the top center reading '62-83894-130'. The rest of the page is empty white space."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims a specific handwritten alphanumeric string ('62-83894-130') is present, while Description A states no text or markings are present, creating a direct contradiction on the visual content of the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:47"
+}

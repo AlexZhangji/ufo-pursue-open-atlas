@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 57,
+  "original_image_tags": [
+    "Hand-drawn sketch map and profile diagram showing an \"atmospheric disturbance\" flight path over a coastal area in Alaska.",
+    "A hand-drawn map of a coastal region showing islands, bays, and an airport. A thick black line with arrows indicates a flight path moving from right to left (east to west). Key locations are labeled, and a table of data is included on the left side.",
+    "A hand-drawn side-view diagram showing altitude and trajectory. The horizontal axis is not labeled. The vertical axis shows altitude in feet."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "map",
+        "description": "Hand-drawn map of a coastal region including geographic features labeled 'Moranis Bay', 'Kagamil Bay', 'Uliaga I.', 'Ogliuga I.', 'St. Paul Light', 'Puffin I.', and 'Cape I.'. Annotations include 'APP SPOT 1ST SEEN' with a dashed arrow, 'line of flight = App. 34 miles', 'possible range of error', 'line of view = App 42 miles', and 'flame went out here'. A data table lists: 'Duration of flight - App 10 seconds', 'Speed of object - 1000 to 1200 m.p.h.', 'Time and date - April 8 - 43 - 4:15 PM', 'Color of flame - bluish green & red', 'Observer - P.E. Herring - Kodiak'. A trajectory graph shows 'Possible error - (maximum)' with altitudes from 500' to 2500'. A north arrow is present. The page is stamped 'CONFIDENTIAL'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content categories (a hand-drawn sketch map, a trajectory/altitude diagram, a data table) and their general subject matter, but Description B provides numerous specific quoted labels and text inside the images that Description A omits or only partially mentions, without direct contradiction on those quoted specifics.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "map"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:25:08"
+}

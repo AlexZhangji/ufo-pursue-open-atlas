@@ -1,0 +1,31 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 143,
+  "original_image_tags": [
+    "red stamp]",
+    "red ink stamp]",
+    "handwritten signature at bottom right]",
+    "handwritten initials at bottom right]",
+    "distribution list on left margin, typed]"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter dated May 14, 1953, addressed to Mrs. Robert H. Davisson regarding a letter about flying saucers. Contains a handwritten blue annotation '6 FLYING SAUCERS' and various administrative stamps and signatures."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions refer to completely different visual content: one describes multiple stamps and signatures, while the other describes a typed letter with a specific blue annotation and date, with no overlap in claimed visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:20"
+}

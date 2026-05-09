@@ -1,0 +1,20 @@
+## CONFIDENTIAL
+
+observe something that at least Mr. John Doe on the street corner or Pete Andrews on the ranch has never heard about, is no reason that it does not exist. Even though I openly invited an investigation by the Army and the FBI as to the authenticity of my story or a mental or a physical examination as to my capabilities, I have received no interest from these two important protective forces of our country; I will go so far as to assume that any report I gave to the United and Associated Press and over the radio on two different occasions which apparently set the nation buzzing, if our Military Intelligence was not aware of what I observed, they would be the very first people that I could expect as visitors.
+
+I have received lots of requests from people who told me to make a lot of wild guesses. I have based what I have written here in this article on positive facts and as far as guessing what it was I observed, it is just as much a mystery to me as it is to the rest of the world.
+
+My pilot's license is 333487. I fly a Callair airplane; it is a three-place single engine land ship that is designed and manufactured at Afton, Wyoming as an extremely high performance, high altitude airplane that was made for mountain work. The national certificate of my plane is 33355.
+
+/s/ Kenneth Arnold
+Box 587
+Boise, Idaho
+
+*Image: A scanned typed letter page with “CONFIDENTIAL” stamped at top and bottom, “COPY” stamped diagonally in the upper right, and two handwritten sketches near the lower half showing a hexagonal object labeled “Top,” a side-view outline labeled “side view,” arrows indicating “traveling this way,” and typed notes including “Mirror Bright” and “They seemed longer than wide, their thickness was about 1/20th of their width.”*
+They seemed longer than wide, their thickness was about 1/20th of their width
+
+Mirror Bright
+
+They did not appear to me to whirl or spin but seemed in fixed position, traveling as I have made drawing. /s/ Kenneth Arnold
+
+## CONFIDENTIAL

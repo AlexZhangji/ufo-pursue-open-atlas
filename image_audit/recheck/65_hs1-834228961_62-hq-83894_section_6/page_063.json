@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 63,
+  "original_image_tags": [
+    "Aged, yellowed document page with jagged, torn left and right edges. The word \"CONFIDENTIAL\" is stamped in red ink at the top and bottom center, with a horizontal line striking through the bottom stamp. The page contains a typed table with six rows of data (entries 163-168). There are two small, irregular blue marks or blotches on the far left margin next to entries 163 and 166."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed table titled 'Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)' containing 6 rows of sighting data (Number 163 through 168) with columns for Date, Time, Number of Observers, Reliability, General Area of Occurrence, Apparent Direction of Flight, Apparent Altitude, Course, Color, Train or Trail, Duration of Observation, Sound, Shape, Apparent Size, Apparent Speed, Manner of Disappearance, and Evaluation. The page is marked 'CONFIDENTIAL' at the top and bottom and is 'Page 30'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims the presence of physical stamps and marks ('CONFIDENTIAL' in red ink, blue blotches) that Description B does not observe, and instead Description B provides a specific title and page number not present in A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:35"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 98,
+  "original_image_tags": [
+    "A scanned image of the front of a white, rectangular, vintage envelope. The paper shows age with slight yellowing and faint brown staining in the lower-left quadrant. The top-left corner is torn and missing. The envelope is addressed via typewriter. In the upper-right corner are two identical purple United States postage stamps, each 3 cents, depicting the Statue of Liberty. They are cancelled by a circular postmark. Handwritten annotations in blue ink and pencil are visible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A scan of the front of a white envelope. Top left return address: 'VENTURE PRESS', '305 STUDIO BUILDING', '1718 SHERMAN AVENUE', 'EVANSTON, ILLINOIS'. Center typed address: 'Mr. Kenneth Arnold,', 'Box 387', 'Boise, Idaho'. Top right: two purple 3-cent US postage stamps (showing a profile portrait) with a circular postmark reading 'CHICAGO ILL', 'AUG 5', '4 30 PM', '1947', '22'. Large handwritten pencil text in center: '62-83894-111'. Handwritten blue ink text below postmark: 'AIR MAIL' with a line underneath."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict each other on the core identity of the stamps: one states they depict the Statue of Liberty, while the other states they show a profile portrait, and they provide different, incompatible postmark details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:26"
+}

@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 75,
+  "original_image_tags": [
+    "Document is a dark, likely carbon or photostatic copy of a typed letter on dark paper. Two hole-punches are visible at the top center. The word \"CONFIDENTIAL\" is stamped in large capital letters at the very top and at the very bottom. The word \"COPY\" is stamped in the upper right corner. A rectangular date stamp from the Federal Bureau of Investigation is present in the lower right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Rectangular ink stamp located at the bottom right. Text inside the stamp reads 'FEDERAL BUREAU OF INVESTIGATION', 'U.S. DEPARTMENT OF JUSTICE', 'AUG 21 1947', 'SAN FRANCISCO', and 'ROUTED TO'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:21"
+}

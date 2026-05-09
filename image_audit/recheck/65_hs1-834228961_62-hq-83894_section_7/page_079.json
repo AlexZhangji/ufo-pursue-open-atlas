@@ -1,0 +1,34 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 79,
+  "original_image_tags": [
+    "Scanned newspaper or magazine page. Left side contains advertisements. Right side contains a column of text. Page is aged, with some fading and speckling.",
+    "Black-and-white photograph of a dark wood highboy desk with multiple drawers and a hinged top section.",
+    "Black-and-white photograph of a folded blanket."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Top left: A black-and-white illustration of a highboy desk (a tall chest of drawers on legs). The text above it reads 'KLING BEDROOM FURNITURE'. Text below it reads 'HIGHBOY DESK in genuine SOLID mahogany from the New Arlington Group by Kling. A distinctive addition to any room. At leading stores.'"
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Bottom left: A black-and-white illustration showing a close-up of a textured fabric or blanket being held or folded. Text above reads 'soft and warm as eiderdown'. Text below reads 'Crush a Mariposa Blanket in your hand. Feel the soft, springy fibers, shown above, actual thickness. Lay your hands between the folds. Warmth without weight! Restful sleep awaits you under a Mariposa Blanket. • See the charm of Mariposa Colors at your dealer's.' Below that is a logo: 'ALL WOOL MARIPOSA BLANKET MADE BY SHULER & BENNINGHOFEN HAMILTON OHIO'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same two visual elements: a black-and-white image of a highboy desk and a black-and-white image of a blanket/fabric, with no contradictions on object categories or counts.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:50:47"
+}

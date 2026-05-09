@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 108,
+  "original_image_tags": [
+    "A document back page or routing slip. A faint, large watermark or seal of the U.S. Treasury Department (Office of District Supervisor, District No. 8, Alcohol Tax Unit, 14 New Post Office Building, Chicago 7, Ill.) is visible in the paper. Two black hole punches are at the top. A small, aged, rectangular sticker with illegible text is in the top right corner. The page is dominated by multiple blue and red ink stamps indicating receipt by FBI records and internal security sections in April 1950."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page appears to be the back of a document. It contains faint, reversed text at the top including 'U.S. TREASURY DEPARTMENT', 'OFFICE OF DISTRICT SUPERVISOR', and 'CHICAGO 7, ILL'. There are multiple ink stamps: a blue stamp reading 'RECEIVED U.S. DEPT OF JUSTICE FBI INTERNAL SECURITY SN APR 24 9 45 AM '50', a fainter blue stamp reading 'RECEIVED U.S. DEPT OF JUSTICE FBI APR 6 4 18 PM '50', a red stamp reading 'RECEIVED RECORDS SEC. APR 6 3 27 PM '50', and handwritten text 'MP JONES'. There is also a faded watermark or impression of a U.S. seal in the center. Two punch holes are at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements: a document back page, a faint U.S. Treasury watermark/seal, two punch holes, and multiple blue and red ink stamps indicating receipt by FBI records and internal security sections in April 1950, with B providing more specific quoted text for the stamps that A does not contradict.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:32:42"
+}

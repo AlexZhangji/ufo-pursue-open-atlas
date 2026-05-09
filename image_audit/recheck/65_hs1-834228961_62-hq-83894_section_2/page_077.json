@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 77,
+  "original_image_tags": [
+    "A tan, aged manila folder or envelope with a top flap folded down. The object appears to be a file jacket or backing sheet. It has two punched holes at the bottom and one punched hole centered in the top flap. There is a piece of old, yellowed tape near the top hole. A smaller, torn piece of tape is adhered to the bottom edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A tan manila envelope. Visible elements include red handwritten numbers '62-83894-71', a small red stamp reading 'ENCLOSURES', a hole punch at the top with tape, and two hole punches at the bottom. Faint markings are visible near the bottom holes."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes only a manila folder/envelope with holes and tape, while Description B claims specific handwritten numbers, a stamp reading 'ENCLOSURES', and other visual elements not mentioned in A, indicating they are describing different visual content or one is hallucinating details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:33"
+}

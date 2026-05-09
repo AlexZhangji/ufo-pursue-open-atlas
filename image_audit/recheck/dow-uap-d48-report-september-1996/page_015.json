@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 15,
+  "original_image_tags": [
+    "Diagram titled \"CYBER A IF MAP 1 JOUST1761-A\". The diagram is labeled \"UNCLASSIFIED\" at the top left. It displays a plot of a flight path trajectory with time markers at 15 SEC., 18 SEC., 20 SEC., 25 SEC., and 30 SEC. Several data blocks are positioned around the plot."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "diagram",
+        "description": "A technical diagram labeled 'Figure 1. Joust Impact Trace Showing a Mode-5 Failure Response'. The diagram displays a map-like layout with plotted dotted lines representing an impact trace, marked with time intervals (15 SEC., 18 SEC., 20 SEC., 25 SEC., 30 SEC.). Top text reads 'UNCLASSIFIED', 'CYBER A', 'IP MAP 1', and 'JOUST1761-A'. Annotations along the axes include 'ALTER', 'PRIME', 'CNTRAVE3', 'CHEV', 'SKIN', 'SLO', 'SHT', 'RGT', 'LFT', 'LOW', 'HDG', 'VEL', 'ALT', 'DELAY', and 'GREEN', along with associated numerical values."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions quote substantially different titles and labels for the same diagram (e.g., 'Figure 1. Joust Impact Trace Showing a Mode-5 Failure Response' vs. no such title), indicating a contradiction on specific text content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "diagram"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:42"
+}

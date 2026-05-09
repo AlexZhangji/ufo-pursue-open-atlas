@@ -1,0 +1,1 @@
+*Image: Black-and-white photograph of a large circular metallic dish or pan viewed from above, with a central round opening and a narrow dark strip extending down from the top edge into the opening.*

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 79,
+  "original_image_tags": [
+    "A page of typewritten text with a header row and 16 numbered entries. There are two hole-punch marks at the top of the page. A blue box in the top-left corner contains the text: \"This image contains all the information on the document.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typewritten table listing 16 report numbers with 'Manner of Disappearance' and 'Remarks' columns. A blue overlay box in the top left corner reads 'This image contains all the information on the document.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the visual elements: a typewritten table with 16 entries, a blue box in the top-left corner, and the identical quoted text within that box.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:13:17"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 90,
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions are about entirely different visual content: Description A describes a memorandum with handwritten notations, a signature, and a distribution list, while Description B describes three distinct stamps that are not mentioned in A, and A's described stamps and markings are not mentioned in B.",
+  "original_image_tags": [
+    "A standard US Government Office Memorandum (Form No. 64). The top right date \"October 8, 1952\" has a black mark over the \"2\". In the top left corner, there is a handwritten notation \"MY\" and a checkmark over the \"TO\" field. The document contains typed paragraphs regarding an inquiry into a \"The New Yorker\" article by Daniel Lang about FBI investigations into flying saucers, mentioning OSI, Air Intelligence, and Wright-Patterson Air Force Base. At the bottom, handwritten file number \"62-83894\" and \"32 Q\" are visible in red ink, along with a signature over \"OCT 14 1952\". In the bottom left corner, there is a red stamp \"RECEIVED OCT 29 1952\" with handwritten initials \"30/\". There is a distribution list checklist on the right margin with names like \"Telep\", \"Ladd\", \"Clech\", \"Mitch\", \"Rose\", \"Tracy\", \"Hunt\", \"Holmes\", \"Tele. Room\", \"Sease\", \"Cloyd\". Several names have checkmarks next to them."
+  ],
+  "gpt_mini_desc": "*Image: Scanned black-and-white typewritten Office Memorandum on United States Government letterhead, with handwritten annotations and red/black stamp markings; no separate photograph or diagram.*",
+  "gpt_mini_desc_len": 196,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 39,
+    "total_tokens": 14931,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:58"
+}

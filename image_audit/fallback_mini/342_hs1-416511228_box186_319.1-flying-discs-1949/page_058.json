@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 58,
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Descriptions contradict on the number, location, and text of stamps: A identifies a 'RESTRICTED' stamp at top center and bottom right, while B identifies 'RESTRICTED' stamps at top and bottom and a 'RECEIVED' stamp, with no overlap in other key elements like handwritten annotations or signature.",
+  "original_image_tags": [
+    "A stamped \"RESTRICTED\" classification label appears at the top center of the document. A small black hole-punch artifact is visible to the left of the stamp.",
+    "A black circular stamp is located to the right of the \"RESTRICTED\" label, partially obscured by a handwritten annotation.",
+    "A handwritten annotation in cursive ink in the upper right corner reads \"Capt Hathway File\".",
+    "In the upper left corner, \"CM 175\" is handwritten in blue pencil.",
+    "A handwritten signature is present in the signature block, appearing to read \"M. D. GENTRY\".",
+    "A red \"RESTRICTED\" stamp appears in the bottom right corner of the page."
+  ],
+  "gpt_mini_desc": "*No image content on this page.*",
+  "gpt_mini_desc_len": 32,
+  "usage": {
+    "prompt_tokens": 15665,
+    "completion_tokens": 17,
+    "total_tokens": 15682,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:40"
+}

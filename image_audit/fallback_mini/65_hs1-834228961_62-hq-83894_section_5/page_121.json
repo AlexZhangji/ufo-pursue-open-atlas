@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 121,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both sides agree on the core visual category (hand-drawn sketch of a circular saucer craft), but Description B adds extensive specific component labels and textual annotations that Description A omits without contradiction.",
+  "original_image_tags": [
+    "Hand-drawn sketch of a circular \"saucer\" craft, showing internal components and mechanisms. The sketch is a cross-section or cutaway view."
+  ],
+  "gpt_mini_desc": "*Image: A handwritten technical sketch on a document page showing a large circle with two horizontal rod-like assemblies inside, multiple arrows and handwritten labels, and a short paragraph of cursive text above the diagram.*",
+  "gpt_mini_desc_len": 226,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 44,
+    "total_tokens": 57697,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:03"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 75,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on two black-and-white photographs showing a dark, blurry, disc-shaped object in the sky, but Description B adds a specific caption text not mentioned in Description A.",
+  "original_image_tags": [
+    "black-and-white photograph of a dark, elongated, disc-shaped object in flight over a landscape. The object is tilted, showing its underside, and appears metallic or dark against a lighter sky. The ground below is indistinct, possibly hills or trees.",
+    "black-and-white photograph of a rural landscape with a barn or small building in the middle distance. In the sky above and to the left of the building, a small, dark, disc-shaped object is visible."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping collage with two small black-and-white photographs of disc-shaped objects and multiple columns of text, including the headline “I believe they are disc-type aircraft,” and subheadings “NAVY STEPS IN” and “NOT PERFECT.”*",
+  "gpt_mini_desc_len": 256,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 57,
+    "total_tokens": 56213,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:06"
+}

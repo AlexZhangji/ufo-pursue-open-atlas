@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 142,
+  "original_image_tags": [
+    "This is the reverse side of a page, likely from a City of Los Angeles letterhead or envelope. The paper is aged, off-white/light tan, with two black punch holes at the top edge. The content is primarily visible as reverse-imprint (bleed-through) of text and stamps from the other side. There are no clear, forward-facing primary text elements on this side."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint, reversed bleed-through text and a circular seal from the opposite side of the paper. Visible text includes 'CITY OF LOS ANGELES', 'CALIFORNIA', and 'FLETCHER BOWRON MAYOR'. Several blue ink stamps are also present, including 'RECEIVED F.B.I U.S. DEPT. OF JUSTICE MAY 19 5 24 PM '49' and 'RECEIVED F.B.I Record Response APR 21 9 36 AM '49'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:16"
+}

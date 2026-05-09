@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 139,
+  "original_image_tags": [
+    "Hand-drawn sketch of a saucer-shaped craft. The craft has a wide, flat, elliptical main body tapering to points at the fore and aft ends. In the center is a raised cylindrical or drum-like section with two visible rows of small circular features (possibly windows or ports). Dashed lines indicate internal structures or retracted landing gear within the central section."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "One hand-drawn pencil sketch depicting a disc-shaped craft with a central cylindrical section. The cylinder has several small circles on its side and a rounded base. No text or labels are visible inside the sketch itself."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions consistently identify a hand-drawn sketch of a disc-shaped craft with a central cylindrical section and small circular features, with no contradictions on visual elements.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:33:20"
+}

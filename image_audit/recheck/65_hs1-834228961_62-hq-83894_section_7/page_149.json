@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 149,
+  "original_image_tags": [
+    "Handwritten initials or notation in bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typewritten letter dated July 9, 1953, addressed to Mr. W. S. Woodfill at the Grand Hotel in Mackinac Island, Michigan. The letter acknowledges receipt of a previous communication and includes typed and handwritten administrative annotations."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a handwritten visual element (initials/notation in bottom right corner), while Description B describes a typed letter with administrative annotations, indicating the two descriptions are about clearly different visual content on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:26"
+}

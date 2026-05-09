@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 66,
+  "original_image_tags": [
+    "A technical line graph plot showing \"Atlas IIAS\" and \"Mode 5 P_I\". The x-axis is labeled \"Downrange Distance (nm)\" with ticks from -5 to 25. The y-axis is labeled \"Crossrange Distance (nm)\" with ticks from -15 to 15. Two elliptical dashed-line contours are plotted centered near the origin. A legend indicates the larger, outer contour corresponds to \"10⁻⁵\" and the smaller, inner contour corresponds to \"10⁻⁶\". Text in the lower right quadrant reads \"B = 5,000,000\" and \"A = 6.30\". Grid lines are present."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "A 2D contour plot labeled 'Figure 20. Atlas IIAS Mode-5 Ship-Hit Contours with A = 6.30'. The x-axis is labeled 'Downrange Distance (nm)' with a scale from -5 to 25. The y-axis is labeled 'Crossrange Distance (nm)' with a scale from -15 to 15. The chart displays two nested dashed contour lines. Text inside the chart area includes: 'Atlas IIAS', 'Mode 5 P_I', and a legend for the contour lines: '--- 10^-5' and '---- 10^-6'. Additional text inside the chart area reads: 'B = 5,000,000' and 'A = 6.30'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the type of visual content (a contour plot), its axis labels and scales, the presence of two nested dashed contours, the legend values (10⁻⁵ and 10⁻⁶), and the specific quoted text ('B = 5,000,000' and 'A = 6.30').",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:17:13"
+}

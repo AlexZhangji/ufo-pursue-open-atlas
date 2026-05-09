@@ -1,0 +1,32 @@
+*[handwritten at top of page]:*
+This is a copy of the same
+article I sent to Com General
+Wright Field,
+Dayton Ohio
+
+July 29, 1947
+
+AIR MAIL
+
+Mr. Raymond A. Palmer
+Editor, The Venture Press
+305 Studio Building
+1718 Sherman Avenue
+Evanston, Illinois
+
+Dear Mr. Palmer:
+
+I am enclosing the material you requested together with
+photographs, and also a sketch of my life history.
+
+Yours very truly,
+
+*[signed: Kenneth Arnold]*
+Kenneth Arnold
+
+*[handwritten at bottom of page]:*
+This copy is
+the same as I sent to Palmer
+*[signed: Ken Arnold]*
+
+**COPY**

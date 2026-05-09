@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+  "page_num": 3,
+  "original_image_tags": [
+    "A handwritten note on a piece of stationery with a pre-printed logo and footer. The logo at the top is a brown circular emblem containing a stylized letter \"R\" with two smaller interlocking rings or loops below it. The text is handwritten in black ink. At the bottom of the page, pre-printed text reads: \"For Reservations Call 1-800-HOTELS 1\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular logo or stamp at the top center, featuring a stylized monogram (possibly 'R' intertwined with a flourish or snake) inside a brownish-orange circle. Below it is a handwritten note, which is not counted as a visual element per the prompt."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A quotes pre-printed footer text ('For Reservations Call 1-800-HOTELS 1') that Description B does not mention at all, indicating a factual inconsistency on visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:29"
+}

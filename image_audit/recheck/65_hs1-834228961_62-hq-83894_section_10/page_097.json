@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 97,
+  "original_image_tags": [
+    "A single sheet of white lined notebook paper with three-hole punches on the left margin. A piece of aged, browned tape secures a small, torn scrap of paper over the first few words of the letter. The letter is written in blue ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamps and handwritten annotations on a lined paper background. Includes a red stamp with vertical text ending in 'PROC.', a date stamp 'SEP 29 1967', a 'CORRESPONDENCE' stamp, and other faint stamps and handwritten notes such as '9/29/67' and '10/2/67'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a lined paper with tape and a torn scrap, while Description B describes multiple stamps and handwritten dates on a lined paper; these are completely different visual contents with no overlapping elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:48"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 179,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content (a photograph of two seated men, the caption text) but Description B adds extra headlines and byline not mentioned in Description A without contradicting it.",
+  "original_image_tags": [
+    "black-and-white newspaper photograph of two men seated, appearing to be in conversation. The man on the left is in a dark uniform; the man on the right is in a light-colored shirt and tie. A caption below reads: \"EAL FLIERS DESCRIBE WINGLESS AIRCRAFT. Copilot John Whitted and Capt. C. S. Chiles (right).\""
+  ],
+  "gpt_mini_desc": "*Image: A clipped newspaper article from the Atlanta Journal dated Sunday, 7/25/48, with a black-and-white photograph of two seated men gesturing toward each other and headlines reading “‘Sky Devil-Ship’ Scares Pilots; Air Chief Wishes He Had One” and “Plane Makers Dubious About Alabama ‘Thing’.”*",
+  "gpt_mini_desc_len": 298,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 73,
+    "total_tokens": 54725,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:57"
+}

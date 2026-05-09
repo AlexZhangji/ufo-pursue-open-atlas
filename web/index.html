@@ -1,0 +1,1047 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>PURSUE · UAP Release 01 · Globe</title>
+<meta name="description" content="Interactive 3D globe + 80-year timeline of the 161 UAP records declassified by the U.S. Department of War (PURSUE Release 01, 2026-05-08).">
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://lab.gpt2077.com/ufo/">
+<meta property="og:title" content="PURSUE · UAP Release 01 · Global Atlas">
+<meta property="og:description" content="161 UAP records declassified by the U.S. Department of War, plotted across a 3D globe and an 80-year timeline. Videos and PDFs link back to gov source.">
+<meta property="og:image" content="https://lab.gpt2077.com/ufo/og-card.jpg">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="635">
+<meta property="og:site_name" content="lab.gpt2077.com">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://lab.gpt2077.com/ufo/">
+<meta name="twitter:title" content="PURSUE · UAP Release 01 · Global Atlas">
+<meta name="twitter:description" content="161 UAP records declassified by the U.S. Department of War, plotted across a 3D globe and an 80-year timeline.">
+<meta name="twitter:image" content="https://lab.gpt2077.com/ufo/og-card.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.165.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/globe.gl@2.34.4/dist/globe.gl.min.js"></script>
+<style>
+  :root {
+    --bg-0: #050811;
+    --bg-1: #0a0f1d;
+    --bg-2: #131a2a;
+    --line: rgba(255, 255, 255, 0.08);
+    --line-strong: rgba(255, 255, 255, 0.16);
+    --text-0: rgba(255, 255, 255, 0.95);
+    --text-1: rgba(255, 255, 255, 0.72);
+    --text-2: rgba(255, 255, 255, 0.45);
+    --text-3: rgba(255, 255, 255, 0.28);
+    --accent: #7AB8D9;
+    --warn: #E8A861;
+
+    --c-dow: #E8A861;
+    --c-fbi: #7AB8D9;
+    --c-nasa: #79D9C3;
+    --c-state: #D4A8A8;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    width: 100%; height: 100%;
+    background: var(--bg-0);
+    color: var(--text-0);
+    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+  }
+  .mono { font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--line-strong); border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.25); }
+
+  #globe-wrap {
+    position: fixed; inset: 0;
+    width: 100vw; height: 100vh;
+    background: radial-gradient(ellipse at center, #0a1228 0%, #050811 60%, #020308 100%);
+    z-index: 0;
+  }
+  #globe-wrap canvas { outline: none; }
+
+  /* Top bar */
+  #topbar {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 10;
+    padding: 16px 24px;
+    display: flex; align-items: flex-start; justify-content: space-between;
+    pointer-events: none;
+  }
+  #topbar > * { pointer-events: auto; }
+  #brand {
+    display: flex; flex-direction: column; gap: 4px;
+    background: linear-gradient(180deg, rgba(5,8,17,0.85), rgba(5,8,17,0.0));
+    padding: 4px 0;
+  }
+  #brand .eyebrow {
+    font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase;
+    color: var(--text-2);
+  }
+  #brand .title {
+    font-size: 20px; font-weight: 500; letter-spacing: -0.01em;
+    color: var(--text-0);
+  }
+  #brand .subtitle {
+    font-size: 12px; color: var(--text-1);
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    margin-top: 2px;
+  }
+
+  #stats {
+    display: flex; gap: 16px; align-items: flex-start;
+    background: rgba(10, 15, 29, 0.7);
+    backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+    border: 1px solid var(--line);
+    padding: 10px 14px;
+    border-radius: 4px;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  }
+  #stats .stat { display: flex; flex-direction: column; gap: 2px; }
+  #stats .stat .label { font-size: 9px; color: var(--text-2); letter-spacing: 0.12em; text-transform: uppercase; }
+  #stats .stat .value { font-size: 14px; color: var(--text-0); font-weight: 500; }
+  #stats .stat .dot { width: 6px; height: 6px; border-radius: 50%; display: inline-block; margin-right: 5px; }
+
+  /* Sidebar groups (legend + off-earth + undated) */
+  #sidebar-left {
+    position: fixed; top: 92px; left: 24px;
+    z-index: 8;
+    display: flex; flex-direction: column; gap: 10px;
+    max-width: 220px;
+  }
+  .panel-card {
+    background: rgba(10, 15, 29, 0.6);
+    backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+    border: 1px solid var(--line);
+    padding: 10px 12px;
+    border-radius: 4px;
+    font-size: 11px;
+  }
+  .panel-card .head {
+    font-size: 9px; letter-spacing: 0.16em; text-transform: uppercase;
+    color: var(--text-2); margin-bottom: 6px;
+  }
+  .panel-card .row {
+    display: flex; align-items: center; gap: 8px;
+    color: var(--text-1);
+    padding: 3px 0;
+    cursor: pointer;
+    transition: color 0.15s;
+  }
+  .panel-card .row:hover { color: var(--text-0); }
+  .panel-card .row .swatch {
+    width: 7px; height: 7px; border-radius: 50%;
+    box-shadow: 0 0 6px currentColor;
+  }
+  .panel-card .row .count {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    color: var(--text-2); margin-left: auto;
+  }
+  .panel-card .row.disabled { cursor: default; opacity: 0.7; }
+
+  /* Year hover panel — slides in from right when hovering timeline */
+  #yearhover {
+    position: fixed;
+    right: 24px; bottom: 160px;
+    width: 320px; max-height: calc(100vh - 280px);
+    z-index: 7;
+    background: rgba(10, 15, 29, 0.92);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--line-strong);
+    border-radius: 6px;
+    padding: 0;
+    opacity: 0; transform: translateY(8px);
+    transition: opacity 0.2s, transform 0.2s;
+    pointer-events: none;
+    overflow: hidden;
+    display: flex; flex-direction: column;
+  }
+  #yearhover.visible { opacity: 1; transform: translateY(0); pointer-events: auto; }
+  #yearhover .yh-header {
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--line);
+    display: flex; align-items: baseline; justify-content: space-between;
+    gap: 10px;
+  }
+  #yearhover .yh-header .year {
+    font-size: 24px; font-weight: 500; letter-spacing: -0.02em;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  }
+  #yearhover .yh-header .yh-right {
+    display: flex; align-items: center; gap: 8px;
+  }
+  #yearhover .yh-header .count {
+    font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-2);
+  }
+  #yearhover .yh-header .yh-hint {
+    font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-3);
+  }
+  #yearhover .yh-header .yh-close {
+    background: rgba(255,255,255,0.04); border: 1px solid var(--line);
+    color: var(--text-1); border-radius: 50%;
+    width: 22px; height: 22px;
+    cursor: pointer; font-size: 14px;
+    display: flex; align-items: center; justify-content: center;
+    transition: all 0.15s;
+  }
+  #yearhover .yh-header .yh-close:hover { background: var(--line); color: var(--text-0); }
+  #yearhover.pinned { border-color: var(--accent); box-shadow: 0 0 18px rgba(122, 184, 217, 0.15); }
+  #yearhover .yh-list { overflow-y: auto; padding: 4px 0; flex: 1; }
+  #yearhover .yh-item {
+    padding: 8px 14px;
+    display: flex; flex-direction: column; gap: 3px;
+    cursor: pointer;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+    transition: background 0.1s;
+  }
+  #yearhover .yh-item:hover { background: rgba(122, 184, 217, 0.08); }
+  #yearhover .yh-item .row1 {
+    display: flex; align-items: center; gap: 6px;
+    font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--text-2);
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  }
+  #yearhover .yh-item .row1 .swatch { width: 6px; height: 6px; border-radius: 50%; box-shadow: 0 0 4px currentColor; }
+  #yearhover .yh-item .row2 { font-size: 12px; color: var(--text-0); line-height: 1.3; }
+  #yearhover .yh-item .row3 { font-size: 10px; font-family: 'IBM Plex Mono', ui-monospace, monospace; color: var(--text-1); }
+
+  /* Timeline */
+  #timeline-wrap {
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    z-index: 9;
+    background: linear-gradient(180deg, rgba(5,8,17,0.0) 0%, rgba(5,8,17,0.85) 30%, rgba(5,8,17,0.97) 100%);
+    padding: 18px 24px 22px 24px;
+  }
+  #timeline-wrap .label-row {
+    display: flex; justify-content: space-between; align-items: baseline;
+    margin-bottom: 10px;
+  }
+  #timeline-wrap .label-row .left {
+    font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase;
+    color: var(--text-2);
+  }
+  #timeline-wrap .label-row .right {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 11px; color: var(--text-1);
+  }
+  #timeline-wrap .label-row .right .reset {
+    margin-left: 12px;
+    cursor: pointer; color: var(--text-2);
+    transition: color 0.15s;
+  }
+  #timeline-wrap .label-row .right .reset:hover { color: var(--accent); }
+  #timeline { width: 100%; height: 80px; cursor: pointer; }
+  #timeline .axis text { fill: var(--text-2); font-size: 10px; font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+  #timeline .axis path, #timeline .axis line { stroke: var(--line); }
+  #timeline .stack-rect { transition: opacity 0.15s; }
+  #timeline .crosshair {
+    stroke: var(--accent); stroke-width: 1; stroke-dasharray: 2 3;
+    pointer-events: none; opacity: 0;
+    transition: opacity 0.1s;
+  }
+  #timeline .crosshair.visible { opacity: 0.6; }
+  #timeline .selection { fill: rgba(122, 184, 217, 0.10); stroke: rgba(122, 184, 217, 0.5); stroke-width: 1; }
+  #timeline .handle { fill: var(--accent); }
+  #timeline .area-back { fill: rgba(122, 184, 217, 0.06); }
+  #timeline .year-tick {
+    fill: var(--text-3);
+    font-size: 10px;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    pointer-events: none;
+  }
+
+  /* Detail panel */
+  #panel {
+    position: fixed;
+    top: 0; right: 0; height: 100vh;
+    width: 460px; max-width: 100vw;
+    z-index: 20;
+    background: rgba(10, 15, 29, 0.94);
+    backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+    border-left: 1px solid var(--line-strong);
+    transform: translateX(100%);
+    transition: transform 0.4s cubic-bezier(0.2, 0.9, 0.3, 1);
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-bottom: 200px;
+  }
+  #panel.open { transform: translateX(0); }
+  #panel .ph { padding: 24px; }
+  #panel .close {
+    position: absolute; top: 14px; right: 14px;
+    background: rgba(255,255,255,0.04); border: 1px solid var(--line);
+    color: var(--text-1); border-radius: 50%;
+    width: 28px; height: 28px;
+    cursor: pointer; font-size: 16px;
+    display: flex; align-items: center; justify-content: center;
+    transition: all 0.15s;
+    z-index: 5;
+  }
+  #panel .close:hover { background: var(--line); color: var(--text-0); border-color: var(--line-strong); }
+  #panel .agency-tag {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--text-1);
+    padding: 4px 8px; border-radius: 2px;
+    background: rgba(255,255,255,0.04);
+    border: 1px solid var(--line);
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  }
+  #panel .agency-tag .swatch { width: 6px; height: 6px; border-radius: 50%; box-shadow: 0 0 6px currentColor; }
+  #panel h2.title {
+    font-size: 18px; font-weight: 500; letter-spacing: -0.01em;
+    margin: 14px 0 12px 0; line-height: 1.35;
+    color: var(--text-0);
+  }
+  #panel .meta {
+    display: grid; grid-template-columns: 90px 1fr; row-gap: 8px; column-gap: 12px;
+    font-size: 12px; margin: 14px 0;
+    border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+    padding: 14px 0;
+  }
+  #panel .meta .k { color: var(--text-2); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; }
+  #panel .meta .v { color: var(--text-0); font-family: 'IBM Plex Mono', ui-monospace, monospace; word-break: break-word; }
+  #panel .meta .v.inferred { color: var(--text-1); font-style: italic; }
+  #panel .desc {
+    font-size: 13.5px; line-height: 1.6;
+    color: var(--text-1);
+    margin: 14px 0;
+  }
+  #panel .note {
+    font-size: 11px; line-height: 1.45;
+    color: var(--text-2);
+    background: rgba(232, 168, 97, 0.08);
+    border-left: 2px solid var(--warn);
+    padding: 8px 10px;
+    border-radius: 0 3px 3px 0;
+    margin: 10px 0;
+    font-style: italic;
+  }
+  #panel .actions { display: flex; flex-direction: column; gap: 8px; margin-top: 16px; }
+  #panel .actions a, #panel .actions button {
+    display: flex; align-items: center; gap: 10px;
+    padding: 11px 14px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    color: var(--text-0); text-decoration: none;
+    font-size: 12px; font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    background: rgba(255,255,255,0.02);
+    transition: all 0.15s;
+    cursor: pointer; width: 100%; text-align: left;
+  }
+  #panel .actions a:hover, #panel .actions button:hover {
+    background: rgba(122, 184, 217, 0.12);
+    border-color: rgba(122, 184, 217, 0.4);
+    color: var(--text-0);
+  }
+  #panel .actions a .arrow, #panel .actions button .arrow {
+    margin-left: auto; color: var(--text-2);
+  }
+  #panel .media-block {
+    margin: 14px 0;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    overflow: hidden;
+    background: black;
+  }
+  #panel .media-block video {
+    width: 100%; display: block;
+    background: black;
+  }
+  #panel .media-block iframe {
+    width: 100%; height: 600px;
+    border: none; background: white;
+  }
+  #panel .pdf-embed {
+    width: 100%; height: 600px;
+    border: 1px solid var(--line); border-radius: 4px;
+    margin: 12px 0;
+    background: white;
+  }
+  #panel .thumb {
+    width: 100%; aspect-ratio: 16/9;
+    background: var(--bg-2);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 14px 0;
+  }
+  #panel .thumb img { width: 100%; height: 100%; object-fit: cover; }
+  #panel .list-item {
+    border-top: 1px solid var(--line);
+    padding: 12px 0;
+    cursor: pointer;
+    transition: background 0.1s;
+    margin: 0 -8px;
+    padding-left: 8px; padding-right: 8px;
+  }
+  #panel .list-item:hover { background: rgba(122, 184, 217, 0.06); }
+  #panel .list-item .li-row1 {
+    display: flex; align-items: center; gap: 6px;
+    font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--text-2);
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    margin-bottom: 4px;
+  }
+  #panel .list-item .li-row2 {
+    font-size: 13px; color: var(--text-0); line-height: 1.3;
+    margin-bottom: 3px;
+  }
+  #panel .list-item .li-row3 {
+    font-size: 11px; font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    color: var(--text-1);
+  }
+  #panel .list-item .swatch { width: 6px; height: 6px; border-radius: 50%; box-shadow: 0 0 4px currentColor; }
+
+  /* Mobile chip strip (visible only on mobile, replaces left sidebar) */
+  #mobile-chips {
+    display: none;
+    position: fixed; left: 0; right: 0;
+    z-index: 9;
+    padding: 8px 12px;
+    overflow-x: auto; overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    background: linear-gradient(180deg, rgba(5,8,17,0.7), rgba(5,8,17,0.0));
+  }
+  #mobile-chips::-webkit-scrollbar { display: none; }
+  #mobile-chips .chip {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 7px 12px;
+    background: rgba(10, 15, 29, 0.85);
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    font-size: 11px;
+    color: var(--text-1);
+    margin-right: 6px;
+    cursor: pointer;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  }
+  #mobile-chips .chip:active { background: rgba(122, 184, 217, 0.2); }
+  #mobile-chips .chip .swatch { width: 6px; height: 6px; border-radius: 50%; box-shadow: 0 0 5px currentColor; }
+  #mobile-chips .chip .count { color: var(--text-2); margin-left: 2px; }
+
+  /* Mobile */
+  @media (max-width: 760px) {
+    #sidebar-left { display: none; }
+    #mobile-chips { display: block; top: 145px; }
+    #stats { font-size: 10px; gap: 12px; padding: 8px 10px; }
+    #stats .stat .value { font-size: 12px; }
+    #brand .title { font-size: 16px; }
+    #brand .subtitle { font-size: 10px; }
+    #topbar { padding: 12px 12px 8px 12px; flex-direction: column; gap: 8px; }
+    #panel {
+      top: auto; bottom: 0; right: 0; left: 0;
+      width: 100%; height: 80vh;
+      transform: translateY(100%);
+      border-left: none; border-top: 1px solid var(--line-strong);
+      border-radius: 12px 12px 0 0;
+    }
+    #panel.open { transform: translateY(0); }
+    #timeline-wrap { padding: 10px 12px 14px 12px; }
+    #timeline { height: 64px; }
+    #yearhover { right: 12px; left: 12px; bottom: 200px; width: auto; max-height: 40vh; }
+  }
+
+  /* Tooltip */
+  #tooltip {
+    position: fixed; pointer-events: none;
+    background: rgba(10, 15, 29, 0.95);
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--line-strong);
+    padding: 8px 10px;
+    border-radius: 4px;
+    font-size: 11px;
+    color: var(--text-0);
+    z-index: 30;
+    transform: translate(-50%, -100%);
+    margin-top: -8px;
+    max-width: 280px;
+    opacity: 0;
+    transition: opacity 0.1s;
+  }
+  #tooltip.visible { opacity: 1; }
+  #tooltip .tt-agency { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-2); margin-bottom: 3px; }
+  #tooltip .tt-title { font-weight: 500; margin-bottom: 3px; }
+  #tooltip .tt-meta { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10px; color: var(--text-1); }
+
+  /* Loading */
+  #loading {
+    position: fixed; inset: 0;
+    z-index: 100;
+    display: flex; align-items: center; justify-content: center;
+    background: var(--bg-0);
+    color: var(--text-1);
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 12px;
+    letter-spacing: 0.16em; text-transform: uppercase;
+  }
+  #loading.hidden { opacity: 0; pointer-events: none; transition: opacity 0.6s; }
+</style>
+</head>
+<body>
+
+<div id="loading">Loading globe…</div>
+
+<div id="globe-wrap"></div>
+
+<div id="topbar">
+  <div id="brand">
+    <div class="eyebrow">Department of War · PURSUE Release 01</div>
+    <div class="title">Unidentified Anomalous Phenomena</div>
+    <div class="subtitle">2026-05-08 · 161 declassified records · global atlas</div>
+  </div>
+  <div id="stats"></div>
+</div>
+
+<div id="sidebar-left">
+  <div class="panel-card" id="legend">
+    <div class="head">By Agency</div>
+    <div id="legend-rows"></div>
+  </div>
+  <div class="panel-card" id="categories">
+    <div class="head">Beyond Earth · Other</div>
+    <div id="categories-rows"></div>
+  </div>
+</div>
+
+<div id="mobile-chips"></div>
+
+<div id="yearhover"></div>
+
+<div id="timeline-wrap">
+  <div class="label-row">
+    <div class="left">Timeline · stacked by agency · drag to filter</div>
+    <div class="right"><span id="timeline-range"></span><span class="reset" id="reset-brush">↺ reset</span></div>
+  </div>
+  <svg id="timeline"></svg>
+</div>
+
+<div id="panel">
+  <div class="ph">
+    <button class="close" aria-label="Close">×</button>
+    <div id="panel-body"></div>
+  </div>
+</div>
+
+<div id="tooltip"></div>
+
+<script>
+(async function() {
+  const data = await fetch('data.json').then(r => r.json());
+  const events = data.events;
+  const agencyColors = data.agency_colors;
+  const stats = data.stats;
+  const AGENCY_ORDER = ['Department of War', 'FBI', 'NASA', 'Department of State'];
+
+  const earthEvents = events.filter(e => e.lat !== null && e.lng !== null && !e.off_earth);
+  const offEarthEvents = events.filter(e => e.off_earth);
+  const unlocatedEvents = events.filter(e => e.lat === null && e.lng === null && !e.off_earth);
+  const undatedEvents = events.filter(e => !e.year);
+
+  // === Top stats ===
+  const statsEl = document.getElementById('stats');
+  const counts = stats.by_agency;
+  const html = AGENCY_ORDER.filter(k => counts[k]).map(k => {
+    const c = agencyColors[k] || '#888';
+    const short = { 'Department of War': 'DoW', 'FBI': 'FBI', 'NASA': 'NASA', 'Department of State': 'STATE' }[k];
+    return `<div class="stat">
+      <div class="label"><span class="dot" style="background:${c};box-shadow:0 0 6px ${c}"></span>${short}</div>
+      <div class="value">${counts[k]}</div>
+    </div>`;
+  }).join('');
+  statsEl.innerHTML = `<div class="stat"><div class="label">Total</div><div class="value">${stats.total}</div></div>` + html;
+
+  // === Legend ===
+  document.getElementById('legend-rows').innerHTML = AGENCY_ORDER.filter(k => counts[k]).map(k => {
+    const c = agencyColors[k];
+    return `<div class="row" data-agency="${k}"><span class="swatch" style="background:${c};color:${c}"></span><span>${k}</span><span class="count">${counts[k]}</span></div>`;
+  }).join('');
+  document.querySelectorAll('#legend-rows .row').forEach(el => {
+    el.addEventListener('click', () => {
+      const agency = el.dataset.agency;
+      const list = events.filter(e => e.agency === agency);
+      showListPanel(`${agency}`, `${list.length} record${list.length === 1 ? '' : 's'}`, list);
+    });
+  });
+
+  // === Categories: Off-Earth + Undated + Unlocated ===
+  const moonEvents = offEarthEvents.filter(e => e.off_earth === 'moon');
+  const leoEvents = offEarthEvents.filter(e => e.off_earth === 'leo');
+  let catHtml = '';
+  if (moonEvents.length) catHtml += `<div class="row" data-grp="moon"><span class="swatch" style="background:${agencyColors.NASA};color:${agencyColors.NASA}"></span><span>Moon</span><span class="count">${moonEvents.length}</span></div>`;
+  if (leoEvents.length) catHtml += `<div class="row" data-grp="leo"><span class="swatch" style="background:${agencyColors.NASA};color:${agencyColors.NASA}"></span><span>Low Earth Orbit</span><span class="count">${leoEvents.length}</span></div>`;
+  if (undatedEvents.length) catHtml += `<div class="row" data-grp="undated"><span class="swatch" style="background:#888;color:#888"></span><span>No Date</span><span class="count">${undatedEvents.length}</span></div>`;
+  if (unlocatedEvents.length) catHtml += `<div class="row" data-grp="unlocated"><span class="swatch" style="background:#888;color:#888"></span><span>No Location</span><span class="count">${unlocatedEvents.length}</span></div>`;
+  document.getElementById('categories-rows').innerHTML = catHtml;
+  function openCategory(grp) {
+    let list, label;
+    if (grp === 'moon') { list = moonEvents; label = 'Moon · Apollo + Skylab'; }
+    else if (grp === 'leo') { list = leoEvents; label = 'Low Earth Orbit · Gemini'; }
+    else if (grp === 'undated') { list = undatedEvents; label = 'Records without specific incident date'; }
+    else if (grp === 'unlocated') { list = unlocatedEvents; label = 'Records without specific incident location'; }
+    else return;
+    const subtitle = grp === 'undated' || grp === 'unlocated'
+      ? `${list.length} aggregated case files. The DoW source CSV does not assign per-incident metadata — most are FBI 1947–1968 archival case bundles, early USAF intel, or State Dept cables.`
+      : `${list.length} record${list.length === 1 ? '' : 's'}.`;
+    showListPanel(label, subtitle, list);
+  }
+  document.querySelectorAll('#categories-rows .row').forEach(el => {
+    el.addEventListener('click', () => openCategory(el.dataset.grp));
+  });
+
+  // Mobile chips: agencies + categories in horizontal scroll strip
+  const mobileChipsEl = document.getElementById('mobile-chips');
+  let chipsHtml = '';
+  AGENCY_ORDER.filter(k => counts[k]).forEach(k => {
+    const c = agencyColors[k];
+    const short = { 'Department of War': 'DoW', 'FBI': 'FBI', 'NASA': 'NASA', 'Department of State': 'State' }[k];
+    chipsHtml += `<div class="chip" data-agency="${k}"><span class="swatch" style="background:${c};color:${c}"></span>${short}<span class="count">${counts[k]}</span></div>`;
+  });
+  if (moonEvents.length) chipsHtml += `<div class="chip" data-grp="moon"><span class="swatch" style="background:${agencyColors.NASA};color:${agencyColors.NASA}"></span>Moon<span class="count">${moonEvents.length}</span></div>`;
+  if (leoEvents.length) chipsHtml += `<div class="chip" data-grp="leo"><span class="swatch" style="background:${agencyColors.NASA};color:${agencyColors.NASA}"></span>LEO<span class="count">${leoEvents.length}</span></div>`;
+  if (undatedEvents.length) chipsHtml += `<div class="chip" data-grp="undated">No date<span class="count">${undatedEvents.length}</span></div>`;
+  if (unlocatedEvents.length) chipsHtml += `<div class="chip" data-grp="unlocated">No location<span class="count">${unlocatedEvents.length}</span></div>`;
+  mobileChipsEl.innerHTML = chipsHtml;
+  mobileChipsEl.querySelectorAll('.chip').forEach(el => {
+    el.addEventListener('click', () => {
+      if (el.dataset.agency) {
+        const list = events.filter(e => e.agency === el.dataset.agency);
+        showListPanel(el.dataset.agency, `${list.length} record${list.length === 1 ? '' : 's'}`, list);
+      } else if (el.dataset.grp) {
+        openCategory(el.dataset.grp);
+      }
+    });
+  });
+
+  // === Globe ===
+  const globe = Globe()(document.getElementById('globe-wrap'))
+    .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-night.jpg')
+    .bumpImageUrl('https://unpkg.com/three-globe/example/img/earth-topology.png')
+    .backgroundImageUrl('https://unpkg.com/three-globe/example/img/night-sky.png')
+    .showAtmosphere(true)
+    .atmosphereColor('#7AB8D9')
+    .atmosphereAltitude(0.18)
+    .pointOfView({ lat: 28, lng: 50, altitude: 2.4 }, 0)
+    .pointsData(earthEvents)
+    .pointLat('lat').pointLng('lng')
+    .pointColor(d => d.agency_color + 'cc')
+    .pointRadius(0.32)
+    .pointAltitude(d => 0.005 + (d.id % 7) * 0.0015)
+    .pointResolution(10)
+    .pointsMerge(false)
+    .ringsData(earthEvents)
+    .ringLat('lat').ringLng('lng')
+    .ringColor(d => () => `${d.agency_color}88`)
+    .ringMaxRadius(2.2)
+    .ringPropagationSpeed(0.6)
+    .ringRepeatPeriod(2400)
+    .ringAltitude(0.006)
+    .onPointClick(d => { showDetail(d); })
+    .onPointHover((d) => {
+      const tt = document.getElementById('tooltip');
+      if (d) {
+        tt.innerHTML = `
+          <div class="tt-agency">${d.agency}</div>
+          <div class="tt-title">${d.title}</div>
+          <div class="tt-meta">${d.date_label || '—'} · ${d.location_name || ''}</div>
+        `;
+        tt.classList.add('visible');
+        document.body.style.cursor = 'pointer';
+      } else {
+        tt.classList.remove('visible');
+        document.body.style.cursor = '';
+      }
+    });
+
+  document.addEventListener('mousemove', (e) => {
+    const tt = document.getElementById('tooltip');
+    if (tt.classList.contains('visible')) {
+      tt.style.left = e.clientX + 'px';
+      tt.style.top = e.clientY + 'px';
+    }
+  });
+
+  globe.controls().autoRotate = true;
+  globe.controls().autoRotateSpeed = 0.18;
+  globe.controls().enableDamping = true;
+  let userInteracted = false;
+  ['pointerdown', 'wheel', 'touchstart'].forEach(ev => {
+    document.getElementById('globe-wrap').addEventListener(ev, () => {
+      if (!userInteracted) { globe.controls().autoRotate = false; userInteracted = true; }
+    });
+  });
+
+  function flyToEvent(d) {
+    if (d.lat === null || d.lng === null) return;
+    globe.pointOfView({ lat: d.lat, lng: d.lng, altitude: 1.5 }, 1400);
+  }
+
+  function resize() {
+    globe.width(window.innerWidth).height(window.innerHeight);
+  }
+  resize();
+  window.addEventListener('resize', resize);
+
+  // === Detail Panel ===
+  const panel = document.getElementById('panel');
+  const panelBody = document.getElementById('panel-body');
+  panel.querySelector('.close').addEventListener('click', () => panel.classList.remove('open'));
+
+  function makeShortTitle(d) {
+    // Strip filename-style prefix for friendlier display
+    let t = d.title || '';
+    // For DOW-UAP-D## or PR##: keep the type+context after comma
+    const m = t.match(/^(DOW-UAP-[DP]R?\d+|NASA-UAP-[DV]M?\d+\w*|FBI Photo \w+|FBI [A-Z][^,]*),?\s*(.*)$/);
+    if (m) {
+      const tag = m[1];
+      const rest = (m[2] || '').replace(/, \d{4}$/, '');  // drop trailing year
+      return rest ? `${tag} · ${rest}` : tag;
+    }
+    // For long filename-style titles, show first 60 chars + ellipsis
+    if (t.length > 70) return t.slice(0, 65) + '…';
+    return t;
+  }
+
+  function showDetail(d) {
+    flyToEvent(d);  // always fly-to when opening a detail
+    const ac = d.agency_color || '#888';
+
+    // Inline media — using DoD CloudFront mp4 URLs (DVIDS hosts these for the gov)
+    let mediaHtml = '';
+    if (d.video_mp4) {
+      mediaHtml = `<div class="media-block"><video controls preload="metadata" src="${d.video_mp4}" playsinline></video></div>`;
+    }
+
+    // Notes for data quirks / corrections
+    let noteHtml = '';
+    if (d.location_fixed) {
+      noteHtml += `<div class="note">Location corrected here. Source CSV labeled this record incorrectly — title says ${d.location_name} but war.gov's master index had a different location.</div>`;
+    }
+    if (d.date_fixed) {
+      noteHtml += `<div class="note">Date corrected here. Source CSV had the wrong year — the actual cable header in the PDF gives a different date.</div>`;
+    }
+    if (d.year_inferred) {
+      noteHtml += `<div class="note">Date inferred from filename / case-file metadata. Source CSV did not assign a per-incident date — these are typically multi-year aggregated case files.</div>`;
+    }
+
+    // Action buttons
+    const buttons = [];
+    if (d.pdf_url) {
+      buttons.push(`<button onclick="togglePdfEmbed(this, '${d.pdf_url}')"><span>📄</span><span>View PDF inline (war.gov)</span><span class="arrow">↓</span></button>`);
+      buttons.push(`<a href="${d.pdf_url}" target="_blank" rel="noopener"><span>↗</span><span>Open in new tab</span><span class="arrow">↗</span></a>`);
+    }
+    if (d.video_url) {
+      buttons.push(`<a href="${d.video_url}" target="_blank" rel="noopener"><span>▶</span><span>Watch on DVIDS</span><span class="arrow">↗</span></a>`);
+    }
+
+    const dateClass = d.year_inferred ? 'v inferred' : 'v';
+
+    panelBody.innerHTML = `
+      <div class="agency-tag"><span class="swatch" style="background:${ac};color:${ac}"></span>${d.agency || '—'}</div>
+      <h2 class="title">${d.title}</h2>
+      ${mediaHtml}
+      ${noteHtml}
+      <div class="meta">
+        <div class="k">Type</div><div class="v">${d.type || '—'}</div>
+        <div class="k">Date</div><div class="${dateClass}">${d.date_label || 'N/A'}</div>
+        <div class="k">Location</div><div class="v">${d.location_name || 'N/A'}</div>
+        ${d.dvids_id ? `<div class="k">DVIDS ID</div><div class="v">${d.dvids_id}</div>` : ''}
+        ${d.video_pairing ? `<div class="k">Video Pair</div><div class="v">${d.video_pairing}</div>` : ''}
+        ${d.pdf_pairing ? `<div class="k">PDF Pair</div><div class="v">${d.pdf_pairing}</div>` : ''}
+      </div>
+      <div class="desc">${d.description}</div>
+      <div class="actions">${buttons.join('')}</div>
+      <div id="pdf-embed-slot"></div>
+    `;
+    panel.classList.add('open');
+  }
+
+  // Show a panel with a list of events (used for off-earth, undated, by-agency, by-year)
+  function showListPanel(title, subtitle, list) {
+    const itemsHtml = list.map(d => {
+      const ac = d.agency_color || '#888';
+      return `
+        <div class="list-item" onclick="window.showDetailById(${d.id})">
+          <div class="li-row1"><span class="swatch" style="background:${ac};color:${ac}"></span>${d.agency} · ${d.type}</div>
+          <div class="li-row2">${d.title}</div>
+          <div class="li-row3">${d.date_label || 'No date'} · ${d.location_name || 'No location'}</div>
+        </div>
+      `;
+    }).join('');
+    panelBody.innerHTML = `
+      <h2 class="title">${title}</h2>
+      <div class="desc">${subtitle}</div>
+      ${itemsHtml}
+    `;
+    panel.classList.add('open');
+  }
+
+  window.showDetailById = function(id) {
+    const d = events.find(e => e.id === id);
+    if (d) showDetail(d);
+  };
+  window.unpinYear = window.unpinYear || function() {};
+
+  window.togglePdfEmbed = function(btn, src) {
+    const slot = document.getElementById('pdf-embed-slot');
+    if (!slot) return;
+    if (slot.dataset.open === '1') {
+      slot.innerHTML = '';
+      slot.dataset.open = '0';
+      btn.querySelector('.arrow').textContent = '↓';
+    } else {
+      slot.innerHTML = `<div class="media-block"><iframe src="${src}#toolbar=0&navpanes=0" loading="lazy"></iframe></div>`;
+      slot.dataset.open = '1';
+      btn.querySelector('.arrow').textContent = '↑';
+    }
+  };
+
+  // === Timeline (stacked by agency, hover shows year list) ===
+  const timelineSvg = d3.select('#timeline');
+  const tlContainer = document.getElementById('timeline-wrap');
+  const yearHoverEl = document.getElementById('yearhover');
+  let currentYearFilter = null;
+
+  function buildTimeline() {
+    timelineSvg.selectAll('*').remove();
+    const margin = { top: 6, right: 24, bottom: 22, left: 24 };
+    const W = tlContainer.clientWidth - 48;
+    const H = window.innerWidth <= 760 ? 64 : 80;
+    timelineSvg.attr('width', W).attr('height', H);
+
+    const yMin = stats.year_min;
+    const yMax = stats.year_max;
+    const x = d3.scaleLinear()
+      .domain([yMin - 0.5, yMax + 0.5])
+      .range([margin.left, W - margin.right]);
+
+    const yearsAll = d3.range(yMin, yMax + 1);
+    // Build per-year, per-agency counts
+    const yearAgencyCounts = new Map();
+    yearsAll.forEach(y => yearAgencyCounts.set(y, Object.fromEntries(AGENCY_ORDER.map(a => [a, 0]))));
+    events.forEach(e => {
+      if (e.year && yearAgencyCounts.has(e.year)) {
+        yearAgencyCounts.get(e.year)[e.agency] = (yearAgencyCounts.get(e.year)[e.agency] || 0) + 1;
+      }
+    });
+
+    const yearTotals = yearsAll.map(y => Object.values(yearAgencyCounts.get(y)).reduce((a,b)=>a+b,0));
+    const maxCount = d3.max(yearTotals);
+    const y = d3.scaleLinear()
+      .domain([0, Math.max(1, maxCount)])
+      .range([H - margin.bottom, margin.top + 4]);
+
+    // Background area (faint glow under the data)
+    const areaGen = d3.area()
+      .x(d => x(d.year))
+      .y0(H - margin.bottom)
+      .y1(d => y(d.total))
+      .curve(d3.curveMonotoneX);
+    const areaData = yearsAll.map(yr => ({ year: yr, total: yearTotals[yearsAll.indexOf(yr)] }));
+    timelineSvg.append('path')
+      .datum(areaData)
+      .attr('class', 'area-back')
+      .attr('d', areaGen);
+
+    // Stacked bars: per-year, per-agency
+    const bandW = (W - margin.left - margin.right) / (yMax - yMin + 1);
+    const stackG = timelineSvg.append('g');
+    yearsAll.forEach(yr => {
+      const counts = yearAgencyCounts.get(yr);
+      let stackY = H - margin.bottom;
+      AGENCY_ORDER.forEach(a => {
+        const c = counts[a];
+        if (!c) return;
+        const h = (H - margin.bottom - margin.top - 4) * (c / Math.max(1, maxCount));
+        const yPos = stackY - h;
+        stackG.append('rect')
+          .attr('class', 'stack-rect')
+          .attr('x', x(yr) - Math.max(2, bandW * 0.4))
+          .attr('y', yPos)
+          .attr('width', Math.max(2, bandW * 0.8))
+          .attr('height', h)
+          .attr('rx', 1)
+          .attr('fill', agencyColors[a])
+          .attr('opacity', 0.85)
+          .style('cursor', 'pointer')
+          .on('click', function(event) {
+            event.stopPropagation();
+            pinYear(yr);
+            crosshair.classed('visible', true).attr('x1', x(yr)).attr('x2', x(yr));
+            yearLabel.attr('x', x(yr)).text(yr);
+          });
+        stackY = yPos;
+      });
+    });
+
+    // X axis
+    const tickYears = yearsAll.length > 30
+      ? yearsAll.filter((y, i) => i % 10 === 0 || y === yMax || y === yMin)
+      : yearsAll.filter(y => y % 5 === 0);
+    timelineSvg.append('g')
+      .attr('class', 'axis')
+      .attr('transform', `translate(0, ${H - margin.bottom + 2})`)
+      .call(d3.axisBottom(x).tickValues(tickYears).tickFormat(d3.format('d')).tickSize(4));
+
+    // Crosshair
+    const crosshair = timelineSvg.append('line')
+      .attr('class', 'crosshair')
+      .attr('y1', margin.top)
+      .attr('y2', H - margin.bottom);
+    const yearLabel = timelineSvg.append('text')
+      .attr('class', 'year-tick')
+      .attr('y', margin.top + 10)
+      .attr('text-anchor', 'middle');
+
+    // Hover area
+    const hoverRect = timelineSvg.append('rect')
+      .attr('x', margin.left)
+      .attr('y', 0)
+      .attr('width', W - margin.left - margin.right)
+      .attr('height', H)
+      .attr('fill', 'transparent')
+      .style('cursor', 'pointer');
+    hoverRect.on('mousemove', function(event) {
+      if (yearPinned) return;
+      const [mx] = d3.pointer(event);
+      const yr = Math.round(x.invert(mx));
+      if (yr < yMin || yr > yMax) return;
+      crosshair.classed('visible', true).attr('x1', x(yr)).attr('x2', x(yr));
+      yearLabel.attr('x', x(yr)).text(yr);
+      showYearHover(yr, false);
+    });
+    hoverRect.on('mouseleave', function() {
+      if (yearPinned) return;
+      crosshair.classed('visible', false);
+      yearLabel.text('');
+      hideYearHoverDelayed();
+    });
+    hoverRect.on('click', function(event) {
+      event.stopPropagation();
+      const [mx] = d3.pointer(event);
+      const yr = Math.round(x.invert(mx));
+      if (yr < yMin || yr > yMax) return;
+      pinYear(yr);
+      crosshair.classed('visible', true).attr('x1', x(yr)).attr('x2', x(yr));
+      yearLabel.attr('x', x(yr)).text(yr);
+    });
+
+    // Brush for filtering — placed BELOW bars (rendered first in z-order)
+    const brush = d3.brushX()
+      .extent([[margin.left, margin.top - 2], [W - margin.right, H - margin.bottom + 2]])
+      .on('brush end', brushed);
+    const brushG = timelineSvg.insert('g', ':first-child').attr('class', 'brush').call(brush);
+    brushG.selectAll('.selection').attr('class', 'selection');
+    brushG.selectAll('.handle').attr('class', 'handle');
+    // Don't capture mousemove on the brush overlay - we have our own hover handling
+    brushG.select('.overlay').on('mousemove.brush-overlay', null);
+    // Make brush overlay click-through so bars below get clicks; drag still works for brushing
+    brushG.select('.overlay').style('pointer-events', 'none');
+    // Re-enable on drag start via the selection rect (which keeps pointer-events)
+
+    function brushed(event) {
+      if (!event.selection) {
+        applyYearFilter(null);
+        document.getElementById('timeline-range').textContent = `${yMin} – ${yMax}`;
+        return;
+      }
+      const [x0, x1] = event.selection;
+      const yr0 = Math.round(x.invert(x0));
+      const yr1 = Math.round(x.invert(x1));
+      applyYearFilter([yr0, yr1]);
+      document.getElementById('timeline-range').textContent = `${yr0} – ${yr1}`;
+    }
+
+    document.getElementById('timeline-range').textContent = `${yMin} – ${yMax}`;
+    document.getElementById('reset-brush').onclick = () => {
+      brushG.call(brush.move, null);
+      applyYearFilter(null);
+      document.getElementById('timeline-range').textContent = `${yMin} – ${yMax}`;
+    };
+  }
+
+  let hideTimer = null;
+  let yearPinned = false;
+  function showYearHover(yr, pinned = false) {
+    if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+    const list = events.filter(e => e.year === yr);
+    if (list.length === 0) {
+      yearHoverEl.classList.remove('visible');
+      return;
+    }
+    const itemsHtml = list.map(d => {
+      const ac = d.agency_color || '#888';
+      // Build a friendlier display: location-first, then short title
+      const loc = d.location_name && d.location_name !== 'N/A' ? d.location_name : 'No location';
+      const shortTitle = makeShortTitle(d);
+      return `
+        <div class="yh-item" onclick="window.showDetailById(${d.id})">
+          <div class="row1"><span class="swatch" style="background:${ac};color:${ac}"></span>${d.agency} · ${d.type}${d.year_inferred ? ' · ~approx' : ''}</div>
+          <div class="row2">${loc}</div>
+          <div class="row3">${shortTitle}</div>
+        </div>
+      `;
+    }).join('');
+    const pinTag = pinned ? `<button class="yh-close" onclick="window.unpinYear()" title="Unpin">×</button>` : `<span class="yh-hint">click to pin</span>`;
+    yearHoverEl.innerHTML = `
+      <div class="yh-header">
+        <div class="year">${yr}</div>
+        <div class="yh-right">
+          <span class="count">${list.length} record${list.length === 1 ? '' : 's'}</span>
+          ${pinTag}
+        </div>
+      </div>
+      <div class="yh-list">${itemsHtml}</div>
+    `;
+    yearHoverEl.classList.add('visible');
+    yearHoverEl.classList.toggle('pinned', pinned);
+  }
+  function pinYear(yr) {
+    yearPinned = true;
+    // If a detail panel is open, close it so the year list takes focus
+    panel.classList.remove('open');
+    showYearHover(yr, true);
+  }
+  window.unpinYear = function() {
+    yearPinned = false;
+    yearHoverEl.classList.remove('visible', 'pinned');
+  };
+  function hideYearHoverDelayed() {
+    hideTimer = setTimeout(() => {
+      if (!yearPinned) yearHoverEl.classList.remove('visible');
+    }, 400);
+  }
+  yearHoverEl.addEventListener('mouseenter', () => { if (hideTimer) clearTimeout(hideTimer); });
+  yearHoverEl.addEventListener('mouseleave', () => {
+    if (!yearPinned) yearHoverEl.classList.remove('visible');
+  });
+
+  function applyYearFilter(range) {
+    currentYearFilter = range;
+    const filtered = !range ? earthEvents : earthEvents.filter(e => e.year && e.year >= range[0] && e.year <= range[1]);
+    globe.pointsData(filtered);
+    globe.ringsData(filtered);
+  }
+
+  buildTimeline();
+  window.addEventListener('resize', () => buildTimeline());
+
+  setTimeout(() => document.getElementById('loading').classList.add('hidden'), 800);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 118,
+  "original_image_tags": [
+    "A single manila envelope photographed flat against a black background. The envelope is tan or light brown in color and appears to be a standard file folder or enclosure pocket. It has a flap at the top with a circular hole punch centered near the edge. The envelope is sealed with clear tape along the top edge. There are two circular hole punches at the bottom edge, likely for binding in a file. The envelope shows some signs of age, including slight discoloration and a few minor creases."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One manila folder or document enclosure. The top flap features a red stamped label reading 'ENCLOSURE'. Below this label, the numbers '62-83894' are handwritten in pencil, followed by '466' handwritten in red ink. A piece of translucent tape is applied horizontally across the top section. Three punch holes are visible: one on the top flap and two at the bottom edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B hallucinates specific text ('ENCLOSURE', '62-83894', '466') inside the envelope that Description A does not mention, creating a direct contradiction on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:37"
+}

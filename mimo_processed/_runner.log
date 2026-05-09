@@ -1,0 +1,627 @@
+12:48:23 === runner v3 start === 2 PDFs queued, concurrency=4, max_pages=5, model=mimo-v2.5, prompt=v3.0-uap-archive
+12:48:23 START 65_hs1-834228961_62-hq-83894_section_1.pdf (5 pages)
+12:48:23 START 65_hs1-834228961_62-hq-83894_section_10.pdf (5 pages)
+12:49:23 DONE  65_hs1-834228961_62-hq-83894_section_10.pdf 5 pages in 59.3s
+12:49:26 DONE  65_hs1-834228961_62-hq-83894_section_1.pdf 5 pages in 62.2s
+12:49:26 === runner done === 10 pages, 45,823 input + 6,259 output tokens, 63s elapsed
+12:49:39 === runner v3 start === 2 PDFs queued, concurrency=4, max_pages=5, model=mimo-v2.5, prompt=v3.0-uap-archive
+12:49:39 START 65_hs1-834228961_62-hq-83894_section_1.pdf (5 pages)
+12:49:39 START 65_hs1-834228961_62-hq-83894_section_10.pdf (5 pages)
+12:49:40 DONE  65_hs1-834228961_62-hq-83894_section_10.pdf 5 pages in 0.0s
+12:49:40 DONE  65_hs1-834228961_62-hq-83894_section_1.pdf 5 pages in 0.0s
+12:49:40 === runner done === 0 pages, 0 input + 0 output tokens, 1s elapsed
+12:51:44 === runner v3 start === 116 PDFs queued, concurrency=10, max_pages=None, model=mimo-v2.5, prompt=v3.0-uap-archive
+12:51:44 START 059uap00011.pdf (5 pages)
+12:51:45 START 059uap00012.pdf (5 pages)
+12:51:45 START 18_100754_general_1946-7_vol_2.pdf (28 pages)
+12:51:45 START 059uap00013.pdf (7 pages)
+12:51:47 START 2024-04-30-composite-sketch.pdf (1 pages)
+12:51:47 START 18_6369445_general_1948_vol_1.pdf (28 pages)
+12:51:48 START 255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf (94 pages)
+12:51:48 START 255_t_763_r1b_transcripts.pdf (4 pages)
+12:51:49 START 331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf (17 pages)
+12:51:50 START 341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf (7 pages)
+12:51:56   VLM ERROR 059uap00011.pdf p1: TypeError: 'NoneType' object is not iterable
+12:51:56   VLM ERROR 059uap00013.pdf p1: TypeError: 'NoneType' object is not iterable
+12:51:56 FAIL 059uap00011.pdf: TypeError: 'NoneType' object is not iterable
+12:51:56 START 341_110677_numerical_file_5-2500.pdf (10 pages)
+12:51:56 FAIL 059uap00013.pdf: TypeError: 'NoneType' object is not iterable
+12:51:57 START 342_hs1-416511228_box186_319.1-flying-discs-1949.pdf (143 pages)
+12:52:00   VLM ERROR 059uap00012.pdf p1: TypeError: 'NoneType' object is not iterable
+12:52:02 FAIL 059uap00012.pdf: TypeError: 'NoneType' object is not iterable
+12:52:03 START 38_143685_box7_incident_summaries_1-100.pdf (209 pages)
+12:52:08 DONE  2024-04-30-composite-sketch.pdf 1 pages in 20.3s
+12:52:08 START 38_143685_box7_incident_summaries_101-172.pdf (178 pages)
+12:52:33 DONE  255_t_763_r1b_transcripts.pdf 4 pages in 44.5s
+12:52:33 START 38_143685_box7_incident_summaries_173-233.pdf (144 pages)
+12:53:16 DONE  341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf 7 pages in 86.3s
+12:53:16 START 59_214434_sp_16_19630718.pdf (6 pages)
+12:54:26 DONE  59_214434_sp_16_19630718.pdf 6 pages in 69.5s
+12:54:26 START 59_214434_sp_16_7.18.1963.pdf (6 pages)
+12:55:30 DONE  341_110677_numerical_file_5-2500.pdf 10 pages in 214.0s
+12:55:30 START 65_HS1-834228961_62-HQ-83894_Serial_153.pdf (9 pages)
+12:55:34 DONE  59_214434_sp_16_7.18.1963.pdf 6 pages in 66.3s
+12:55:34 START 65_hs1-101634279_100-de-18221_serial_844.pdf (1 pages)
+12:55:46 DONE  331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf 17 pages in 236.3s
+12:55:46 START 65_hs1-101634279_100-de-26505.pdf (15 pages)
+12:55:47 DONE  65_hs1-101634279_100-de-18221_serial_844.pdf 1 pages in 13.0s
+12:55:47 START 65_hs1-834228961_62-hq-83894_section_1.pdf (185 pages)
+12:56:42 DONE  65_HS1-834228961_62-HQ-83894_Serial_153.pdf 9 pages in 71.3s
+12:56:42 START 65_hs1-834228961_62-hq-83894_section_10.pdf (184 pages)
+12:57:23 DONE  18_6369445_general_1948_vol_1.pdf 28 pages in 335.6s
+12:57:23 START 65_hs1-834228961_62-hq-83894_section_2.pdf (194 pages)
+12:57:34 DONE  18_100754_general_1946-7_vol_2.pdf 28 pages in 349.2s
+12:57:34 START 65_hs1-834228961_62-hq-83894_section_3.pdf (190 pages)
+12:58:10 DONE  65_hs1-101634279_100-de-26505.pdf 15 pages in 144.5s
+12:58:10 START 65_hs1-834228961_62-hq-83894_section_4.pdf (214 pages)
+13:00:03   VLM ERROR 65_hs1-834228961_62-hq-83894_section_3.pdf p13: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Request failed', 'param': 'Connection prematurely closed BEFORE response', 'type': ''}}
+13:00:05 FAIL 65_hs1-834228961_62-hq-83894_section_3.pdf: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Request failed', 'param': 'Connection prematurely closed BEFORE response', 'type': ''}}
+13:00:06 START 65_hs1-834228961_62-hq-83894_section_5.pdf (209 pages)
+13:31:49 === runner v3 start === 116 PDFs queued, concurrency=5, max_pages=None, model=mimo-v2.5, prompt=v3.0-uap-archive
+13:31:49 START 059uap00011.pdf (5 pages)
+13:31:49 START 059uap00012.pdf (5 pages)
+13:31:50 START 18_6369445_general_1948_vol_1.pdf (28 pages)
+13:31:50 START 059uap00013.pdf (7 pages)
+13:31:50 START 18_100754_general_1946-7_vol_2.pdf (28 pages)
+13:31:51 DONE  18_100754_general_1946-7_vol_2.pdf 28 pages in 0.4s
+13:31:51 START 2024-04-30-composite-sketch.pdf (1 pages)
+13:31:51 DONE  18_6369445_general_1948_vol_1.pdf 28 pages in 0.4s
+13:31:51 START 255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf (94 pages)
+13:31:51 DONE  2024-04-30-composite-sketch.pdf 1 pages in 0.1s
+13:31:51 START 255_t_763_r1b_transcripts.pdf (4 pages)
+13:31:52 DONE  255_t_763_r1b_transcripts.pdf 4 pages in 0.8s
+13:31:52 START 331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf (17 pages)
+13:31:52 DONE  331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf 17 pages in 0.0s
+13:31:52 START 341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf (7 pages)
+13:31:52 DONE  341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf 7 pages in 0.0s
+13:31:52 START 341_110677_numerical_file_5-2500.pdf (10 pages)
+13:31:52 DONE  341_110677_numerical_file_5-2500.pdf 10 pages in 0.0s
+13:31:52 START 342_hs1-416511228_box186_319.1-flying-discs-1949.pdf (143 pages)
+13:32:32 DONE  059uap00012.pdf 5 pages in 42.6s
+13:32:32 START 38_143685_box7_incident_summaries_1-100.pdf (209 pages)
+13:32:39 DONE  059uap00011.pdf 5 pages in 49.8s
+13:32:39 START 38_143685_box7_incident_summaries_101-172.pdf (178 pages)
+13:32:49 DONE  059uap00013.pdf 7 pages in 59.6s
+13:32:49 START 38_143685_box7_incident_summaries_173-233.pdf (144 pages)
+13:41:40 DONE  255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf 94 pages in 589.1s
+13:41:40 START 59_214434_sp_16_19630718.pdf (6 pages)
+13:41:40 DONE  59_214434_sp_16_19630718.pdf 6 pages in 0.0s
+13:41:40 START 59_214434_sp_16_7.18.1963.pdf (6 pages)
+13:41:40 DONE  59_214434_sp_16_7.18.1963.pdf 6 pages in 0.0s
+13:41:40 START 65_HS1-834228961_62-HQ-83894_Serial_153.pdf (9 pages)
+13:41:40 DONE  65_HS1-834228961_62-HQ-83894_Serial_153.pdf 9 pages in 0.0s
+13:41:40 START 65_hs1-101634279_100-de-18221_serial_844.pdf (1 pages)
+13:41:40 DONE  65_hs1-101634279_100-de-18221_serial_844.pdf 1 pages in 0.0s
+13:41:40 START 65_hs1-101634279_100-de-26505.pdf (15 pages)
+13:41:40 DONE  65_hs1-101634279_100-de-26505.pdf 15 pages in 0.0s
+13:41:40 START 65_hs1-834228961_62-hq-83894_section_1.pdf (185 pages)
+13:46:03 === runner v3 start === 116 PDFs queued, concurrency=5, max_pages=None, model=mimo-v2.5, prompt=v3.0-uap-archive
+13:46:03 START 059uap00011.pdf (5 pages)
+13:46:03 START 059uap00012.pdf (5 pages)
+13:46:03 START 059uap00013.pdf (7 pages)
+13:46:03 START 18_100754_general_1946-7_vol_2.pdf (28 pages)
+13:46:03 START 18_6369445_general_1948_vol_1.pdf (28 pages)
+13:46:03 DONE  059uap00011.pdf 5 pages in 0.0s
+13:46:03 START 2024-04-30-composite-sketch.pdf (1 pages)
+13:46:03 DONE  059uap00013.pdf 7 pages in 0.0s
+13:46:03 DONE  059uap00012.pdf 5 pages in 0.1s
+13:46:03 START 255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf (94 pages)
+13:46:03 START 255_t_763_r1b_transcripts.pdf (4 pages)
+13:46:03 DONE  2024-04-30-composite-sketch.pdf 1 pages in 0.0s
+13:46:03 START 331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf (17 pages)
+13:46:03 DONE  255_t_763_r1b_transcripts.pdf 4 pages in 0.1s
+13:46:04 START 341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf (7 pages)
+13:46:04 DONE  341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf 7 pages in 0.0s
+13:46:04 DONE  331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf 17 pages in 0.1s
+13:46:04 START 341_110677_numerical_file_5-2500.pdf (10 pages)
+13:46:04 START 342_hs1-416511228_box186_319.1-flying-discs-1949.pdf (143 pages)
+13:46:04 DONE  255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf 94 pages in 0.2s
+13:46:04 START 38_143685_box7_incident_summaries_1-100.pdf (209 pages)
+13:46:04 DONE  18_6369445_general_1948_vol_1.pdf 28 pages in 0.2s
+13:46:05 START 38_143685_box7_incident_summaries_101-172.pdf (178 pages)
+13:46:05 DONE  341_110677_numerical_file_5-2500.pdf 10 pages in 0.0s
+13:46:05 DONE  18_100754_general_1946-7_vol_2.pdf 28 pages in 0.2s
+13:46:06 START 38_143685_box7_incident_summaries_173-233.pdf (144 pages)
+13:46:07 START 59_214434_sp_16_19630718.pdf (6 pages)
+13:46:08 DONE  59_214434_sp_16_19630718.pdf 6 pages in 0.0s
+13:46:09 START 59_214434_sp_16_7.18.1963.pdf (6 pages)
+13:46:09 DONE  59_214434_sp_16_7.18.1963.pdf 6 pages in 0.0s
+13:46:09 START 65_HS1-834228961_62-HQ-83894_Serial_153.pdf (9 pages)
+13:46:09 DONE  65_HS1-834228961_62-HQ-83894_Serial_153.pdf 9 pages in 0.0s
+13:46:09 START 65_hs1-101634279_100-de-18221_serial_844.pdf (1 pages)
+13:46:09 DONE  65_hs1-101634279_100-de-18221_serial_844.pdf 1 pages in 0.0s
+13:46:09 START 65_hs1-101634279_100-de-26505.pdf (15 pages)
+13:46:09 DONE  65_hs1-101634279_100-de-26505.pdf 15 pages in 0.0s
+13:46:09 START 65_hs1-834228961_62-hq-83894_section_1.pdf (185 pages)
+13:48:16 DONE  342_hs1-416511228_box186_319.1-flying-discs-1949.pdf 143 pages in 131.0s
+13:48:16 START 65_hs1-834228961_62-hq-83894_section_10.pdf (184 pages)
+13:49:21 DONE  38_143685_box7_incident_summaries_173-233.pdf 144 pages in 195.2s
+13:49:21 START 65_hs1-834228961_62-hq-83894_section_2.pdf (194 pages)
+13:50:41   VLM ERROR 65_hs1-834228961_62-hq-83894_section_2.pdf p22: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Param Incorrect', 'param': 'messages[0] user content: exceeded maximum size limit for image base64 data (max: 50MB)', 'type': ''}}
+13:50:43 FAIL 65_hs1-834228961_62-hq-83894_section_2.pdf: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Param Incorrect', 'param': 'messages[0] user content: exceeded maximum size limit for image base64 data (max: 50MB)', 'type': ''}}
+13:50:43 START 65_hs1-834228961_62-hq-83894_section_3.pdf (190 pages)
+13:53:42 DONE  38_143685_box7_incident_summaries_101-172.pdf 178 pages in 455.1s
+13:53:42 START 65_hs1-834228961_62-hq-83894_section_4.pdf (214 pages)
+13:57:06 DONE  38_143685_box7_incident_summaries_1-100.pdf 209 pages in 660.6s
+13:57:06 START 65_hs1-834228961_62-hq-83894_section_5.pdf (209 pages)
+14:07:34 DONE  65_hs1-834228961_62-hq-83894_section_1.pdf 185 pages in 1284.4s
+14:07:34 START 65_hs1-834228961_62-hq-83894_section_6.pdf (271 pages)
+14:08:09   VLM ERROR 65_hs1-834228961_62-hq-83894_section_5.pdf p66: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Multimodal data is corrupted or cannot be processed.', 'param': '', 'type': 'BadRequestError'}}
+14:08:09 FAIL 65_hs1-834228961_62-hq-83894_section_5.pdf: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Multimodal data is corrupted or cannot be processed.', 'param': '', 'type': 'BadRequestError'}}
+14:08:09 START 65_hs1-834228961_62-hq-83894_section_7.pdf (205 pages)
+14:15:36 === runner v3 start === 116 PDFs queued, concurrency=5, max_pages=None, model=mimo-v2.5, prompt=v3.1-uap-archive
+14:15:36 START 18_100754_general_1946-7_vol_2.pdf (28 pages)
+14:15:36 START 059uap00012.pdf (5 pages)
+14:15:36 START 059uap00013.pdf (7 pages)
+14:15:36 START 059uap00011.pdf (5 pages)
+14:15:36 START 18_6369445_general_1948_vol_1.pdf (28 pages)
+14:15:36 DONE  059uap00012.pdf 5 pages in 0.0s
+14:15:36 START 2024-04-30-composite-sketch.pdf (1 pages)
+14:15:36 DONE  2024-04-30-composite-sketch.pdf 1 pages in 0.0s
+14:15:37 DONE  059uap00011.pdf 5 pages in 0.1s
+14:15:37 DONE  059uap00013.pdf 7 pages in 0.0s
+14:15:37 START 255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf (94 pages)
+14:15:37 START 255_t_763_r1b_transcripts.pdf (4 pages)
+14:15:37 START 331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf (17 pages)
+14:15:37 DONE  255_t_763_r1b_transcripts.pdf 4 pages in 0.0s
+14:15:37 START 341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf (7 pages)
+14:15:37 DONE  341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf 7 pages in 0.0s
+14:15:37 DONE  331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf 17 pages in 0.1s
+14:15:38 START 341_110677_numerical_file_5-2500.pdf (10 pages)
+14:15:38 START 342_hs1-416511228_box186_319.1-flying-discs-1949.pdf (143 pages)
+14:15:38 DONE  255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf 94 pages in 0.2s
+14:15:38 DONE  18_6369445_general_1948_vol_1.pdf 28 pages in 0.5s
+14:15:38 DONE  18_100754_general_1946-7_vol_2.pdf 28 pages in 0.6s
+14:15:38 START 38_143685_box7_incident_summaries_1-100.pdf (209 pages)
+14:15:38 START 38_143685_box7_incident_summaries_101-172.pdf (178 pages)
+14:15:38 START 38_143685_box7_incident_summaries_173-233.pdf (144 pages)
+14:15:39 DONE  341_110677_numerical_file_5-2500.pdf 10 pages in 0.4s
+14:15:39 DONE  38_143685_box7_incident_summaries_173-233.pdf 144 pages in 0.2s
+14:15:39 START 59_214434_sp_16_19630718.pdf (6 pages)
+14:15:39 START 59_214434_sp_16_7.18.1963.pdf (6 pages)
+14:15:39 DONE  59_214434_sp_16_7.18.1963.pdf 6 pages in 0.0s
+14:15:39 START 65_HS1-834228961_62-HQ-83894_Serial_153.pdf (9 pages)
+14:15:39 DONE  59_214434_sp_16_19630718.pdf 6 pages in 0.0s
+14:15:40 START 65_hs1-101634279_100-de-18221_serial_844.pdf (1 pages)
+14:15:40 DONE  65_hs1-101634279_100-de-18221_serial_844.pdf 1 pages in 0.0s
+14:15:40 DONE  342_hs1-416511228_box186_319.1-flying-discs-1949.pdf 143 pages in 0.6s
+14:15:40 START 65_hs1-101634279_100-de-26505.pdf (15 pages)
+14:15:40 DONE  65_HS1-834228961_62-HQ-83894_Serial_153.pdf 9 pages in 0.4s
+14:15:41 START 65_hs1-834228961_62-hq-83894_section_10.pdf (184 pages)
+14:15:41 START 65_hs1-834228961_62-hq-83894_section_1.pdf (185 pages)
+14:15:41 DONE  38_143685_box7_incident_summaries_101-172.pdf 178 pages in 0.2s
+14:15:41 DONE  65_hs1-101634279_100-de-26505.pdf 15 pages in 0.9s
+14:15:42 START 65_hs1-834228961_62-hq-83894_section_2.pdf (194 pages)
+14:15:42 DONE  38_143685_box7_incident_summaries_1-100.pdf 209 pages in 0.2s
+14:15:43 START 65_hs1-834228961_62-hq-83894_section_3.pdf (190 pages)
+14:15:43 DONE  65_hs1-834228961_62-hq-83894_section_1.pdf 185 pages in 0.6s
+14:15:43 START 65_hs1-834228961_62-hq-83894_section_4.pdf (214 pages)
+14:15:44 START 65_hs1-834228961_62-hq-83894_section_5.pdf (209 pages)
+14:20:11   VLM ERROR 65_hs1-834228961_62-hq-83894_section_3.pdf p183: TypeError: 'NoneType' object is not iterable
+14:20:11 FAIL 65_hs1-834228961_62-hq-83894_section_3.pdf: TypeError: 'NoneType' object is not iterable
+14:20:11 START 65_hs1-834228961_62-hq-83894_section_6.pdf (271 pages)
+14:20:23 DONE  65_hs1-834228961_62-hq-83894_section_10.pdf 184 pages in 282.2s
+14:20:24 START 65_hs1-834228961_62-hq-83894_section_7.pdf (205 pages)
+14:28:10 DONE  65_hs1-834228961_62-hq-83894_section_4.pdf 214 pages in 745.2s
+14:28:10 START 65_hs1-834228961_62-hq-83894_section_8.pdf (217 pages)
+14:39:36 DONE  65_hs1-834228961_62-hq-83894_section_5.pdf 209 pages in 1432.0s
+14:39:36 START 65_hs1-834228961_62-hq-83894_section_9.pdf (290 pages)
+14:43:36 DONE  65_hs1-834228961_62-hq-83894_section_2.pdf 194 pages in 1673.4s
+14:43:36 START 65_hs1-834228961_62-hq-83894_serial_130.pdf (126 pages)
+14:43:42   VLM ERROR 65_hs1-834228961_62-hq-83894_section_6.pdf p179: TypeError: 'NoneType' object is not iterable
+14:43:44 FAIL 65_hs1-834228961_62-hq-83894_section_6.pdf: TypeError: 'NoneType' object is not iterable
+14:43:44 START 65_hs1-834228961_62-hq-83894_serial_164.pdf (137 pages)
+14:48:23 DONE  65_hs1-834228961_62-hq-83894_section_7.pdf 205 pages in 1678.7s
+14:48:23 START 65_hs1-834228961_62-hq-83894_serial_220.pdf (15 pages)
+14:50:45 DONE  65_hs1-834228961_62-hq-83894_serial_220.pdf 15 pages in 142.4s
+14:50:45 START 65_hs1-834228961_62-hq-83894_serial_403.pdf (3 pages)
+14:51:17 DONE  65_hs1-834228961_62-hq-83894_serial_403.pdf 3 pages in 31.4s
+14:51:17 START 65_hs1-834228961_62-hq-83894_serial_438.pdf (40 pages)
+14:55:37   VLM ERROR 65_hs1-834228961_62-hq-83894_serial_130.pdf p84: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Multimodal data is corrupted or cannot be processed.', 'param': '', 'type': 'BadRequestError'}}
+14:55:38 FAIL 65_hs1-834228961_62-hq-83894_serial_130.pdf: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Multimodal data is corrupted or cannot be processed.', 'param': '', 'type': 'BadRequestError'}}
+14:55:38 START 65_hs1-834228961_62-hq-83894_serial_449.pdf (18 pages)
+14:56:46 DONE  65_hs1-834228961_62-hq-83894_serial_438.pdf 40 pages in 329.4s
+14:56:47 START 65_hs1-834228961_62-hq-83894_sub_a.pdf (124 pages)
+15:01:01 DONE  65_hs1-834228961_62-hq-83894_serial_164.pdf 137 pages in 1037.1s
+15:01:02 START dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf (3 pages)
+15:01:04   VLM ERROR dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf p1: TypeError: 'NoneType' object is not iterable
+15:01:04 FAIL dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf: TypeError: 'NoneType' object is not iterable
+15:01:04 START dos-uap-d2-cable-2-kazakhstan-january-1994.pdf (3 pages)
+15:01:07   VLM ERROR dos-uap-d2-cable-2-kazakhstan-january-1994.pdf p1: TypeError: 'NoneType' object is not iterable
+15:01:07 FAIL dos-uap-d2-cable-2-kazakhstan-january-1994.pdf: TypeError: 'NoneType' object is not iterable
+15:01:07 START dow-uap-d10-mission-report-middle-east-may-2022.pdf (6 pages)
+15:01:56 DONE  dow-uap-d10-mission-report-middle-east-may-2022.pdf 6 pages in 49.1s
+15:01:56 START dow-uap-d12-mission-report-iraq-may-2022.pdf (6 pages)
+15:02:26 DONE  65_hs1-834228961_62-hq-83894_serial_449.pdf 18 pages in 408.1s
+15:02:26 START dow-uap-d14-mission-report-iraq-may-2022.pdf (9 pages)
+15:02:43 DONE  dow-uap-d12-mission-report-iraq-may-2022.pdf 6 pages in 46.8s
+15:02:43 START dow-uap-d16-mission-report-syria-july-2022.pdf (7 pages)
+15:03:51 DONE  dow-uap-d14-mission-report-iraq-may-2022.pdf 9 pages in 85.1s
+15:03:51 START dow-uap-d18-mission-report-iraq-december-2022.pdf (6 pages)
+15:03:56 DONE  dow-uap-d16-mission-report-syria-july-2022.pdf 7 pages in 73.0s
+15:03:56 START dow-uap-d19-mission-report-syria-february-21-2023.pdf (10 pages)
+15:04:40 DONE  dow-uap-d18-mission-report-iraq-december-2022.pdf 6 pages in 48.4s
+15:04:40 START dow-uap-d20-mission-report-southern-united-states-2023.pdf (6 pages)
+15:05:04 DONE  65_hs1-834228961_62-hq-83894_section_8.pdf 217 pages in 2212.8s
+15:05:04 START dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf (9 pages)
+15:05:17 DONE  dow-uap-d19-mission-report-syria-february-21-2023.pdf 10 pages in 80.4s
+15:05:17 START dow-uap-d25-mission-report-greece-january-2024.pdf (7 pages)
+15:05:19   VLM ERROR 65_hs1-834228961_62-hq-83894_section_9.pdf p151: TypeError: 'NoneType' object is not iterable
+15:05:19 FAIL 65_hs1-834228961_62-hq-83894_section_9.pdf: TypeError: 'NoneType' object is not iterable
+15:05:19 START dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf (8 pages)
+15:05:29 DONE  dow-uap-d20-mission-report-southern-united-states-2023.pdf 6 pages in 49.1s
+15:05:29 START dow-uap-d28-mission-report-east-china-sea-2024.pdf (6 pages)
+15:06:14 DONE  dow-uap-d25-mission-report-greece-january-2024.pdf 7 pages in 57.0s
+15:06:14 START dow-uap-d3-mission-report-arabian-gulf-2020.pdf (7 pages)
+15:06:20 DONE  dow-uap-d28-mission-report-east-china-sea-2024.pdf 6 pages in 50.5s
+15:06:20 START dow-uap-d32-mission-report,-syria-october-2024.pdf (10 pages)
+15:06:21 DONE  dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf 9 pages in 77.4s
+15:06:21 START dow-uap-d33-mission-report-greece-october-2023.pdf (7 pages)
+15:06:26 DONE  dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf 8 pages in 66.9s
+15:06:26 START dow-uap-d35-mission-report-greece-october-2023.pdf (7 pages)
+15:07:15 DONE  dow-uap-d33-mission-report-greece-october-2023.pdf 7 pages in 54.0s
+15:07:16 START dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf (1 pages)
+15:07:20 DONE  dow-uap-d35-mission-report-greece-october-2023.pdf 7 pages in 53.6s
+15:07:20 START dow-uap-d4-mission-report-arabian-gulf-2020.pdf (5 pages)
+15:07:28 DONE  dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf 1 pages in 12.1s
+15:07:28 START dow-uap-d42-range-fouler-debrief-japan-2023.pdf (1 pages)
+15:07:28 DONE  dow-uap-d3-mission-report-arabian-gulf-2020.pdf 7 pages in 74.1s
+15:07:28 START dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf (1 pages)
+15:07:35 DONE  dow-uap-d4-mission-report-arabian-gulf-2020.pdf 5 pages in 14.8s
+15:07:35 START dow-uap-d48-report-september-1996.pdf (181 pages)
+15:07:37 DONE  dow-uap-d32-mission-report,-syria-october-2024.pdf 10 pages in 76.7s
+15:07:37 START dow-uap-d49-launch-summary-february-2000.pdf (113 pages)
+15:07:41 DONE  dow-uap-d42-range-fouler-debrief-japan-2023.pdf 1 pages in 13.4s
+15:07:42 START dow-uap-d5-mission-report-arabian-gulf-2020.pdf (6 pages)
+15:07:42 DONE  dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf 1 pages in 13.5s
+15:07:42 START dow-uap-d50-email-correspondence-indopacom-april-2025.pdf (2 pages)
+15:07:56 DONE  dow-uap-d50-email-correspondence-indopacom-april-2025.pdf 2 pages in 14.2s
+15:07:56 START dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf (6 pages)
+15:08:04 DONE  dow-uap-d5-mission-report-arabian-gulf-2020.pdf 6 pages in 22.4s
+15:08:04 START dow-uap-d52-email-correspondance-na-august-2024.pdf (2 pages)
+15:08:14 DONE  dow-uap-d52-email-correspondance-na-august-2024.pdf 2 pages in 9.1s
+15:08:14 START dow-uap-d54-mission-report-mediterranean-sea-na.pdf (7 pages)
+15:08:22 DONE  dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf 6 pages in 25.2s
+15:08:22 START dow-uap-d55-mission-report-syria-november-2016.pdf (1 pages)
+15:08:32 DONE  dow-uap-d55-mission-report-syria-november-2016.pdf 1 pages in 10.5s
+15:08:33 START dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf (1 pages)
+15:08:35 DONE  dow-uap-d54-mission-report-mediterranean-sea-na.pdf 7 pages in 21.6s
+15:08:35 START dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf (1 pages)
+15:08:47 DONE  dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf 1 pages in 14.0s
+15:08:47 START dow-uap-d58-range-fouler-debrief-na-october-2020.pdf (1 pages)
+15:08:48 DONE  dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf 1 pages in 13.0s
+15:08:49 START dow-uap-d6-mission-report-arabian-gulf-2020.pdf (7 pages)
+15:09:00 DONE  dow-uap-d58-range-fouler-debrief-na-october-2020.pdf 1 pages in 12.9s
+15:09:00 START dow-uap-d60-mission-report-persian-gulf-august-2020.pdf (6 pages)
+15:09:01   VLM ERROR dow-uap-d6-mission-report-arabian-gulf-2020.pdf p5: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Multimodal data is corrupted or cannot be processed.', 'param': '', 'type': 'BadRequestError'}}
+15:09:01 FAIL dow-uap-d6-mission-report-arabian-gulf-2020.pdf: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Multimodal data is corrupted or cannot be processed.', 'param': '', 'type': 'BadRequestError'}}
+15:09:01 START dow-uap-d61-mission-report-persian-gulf-august-2020.pdf (7 pages)
+15:09:47 DONE  dow-uap-d60-mission-report-persian-gulf-august-2020.pdf 6 pages in 47.3s
+15:09:47 START dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf (9 pages)
+15:09:55 DONE  dow-uap-d61-mission-report-persian-gulf-august-2020.pdf 7 pages in 54.5s
+15:09:55 START dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf (8 pages)
+15:10:58 DONE  dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf 9 pages in 70.3s
+15:10:58 START dow-uap-d64-mission-report-iran-november-2020.pdf (7 pages)
+15:10:59 DONE  dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf 8 pages in 63.4s
+15:10:59 START dow-uap-d65-mission-report-persian-gulf-july-2020.pdf (8 pages)
+15:11:52 DONE  dow-uap-d64-mission-report-iran-november-2020.pdf 7 pages in 54.0s
+15:11:52 START dow-uap-d7-mission-report-arabian-gulf-2020.pdf (6 pages)
+15:12:01 DONE  dow-uap-d65-mission-report-persian-gulf-july-2020.pdf 8 pages in 62.5s
+15:12:02 START dow-uap-d74-mission-report-syria-november-2023.pdf (10 pages)
+15:12:03   VLM ERROR dow-uap-d7-mission-report-arabian-gulf-2020.pdf p5: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Multimodal data is corrupted or cannot be processed.', 'param': '', 'type': 'BadRequestError'}}
+15:12:03 FAIL dow-uap-d7-mission-report-arabian-gulf-2020.pdf: BadRequestError: Error code: 400 - {'error': {'code': '400', 'message': 'Multimodal data is corrupted or cannot be processed.', 'param': '', 'type': 'BadRequestError'}}
+15:12:03 START dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf (8 pages)
+15:13:08 DONE  dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf 8 pages in 65.6s
+15:13:09 START dow-uap-d8-mission-report-djibouti-2025.pdf (7 pages)
+15:13:20 DONE  dow-uap-d74-mission-report-syria-november-2023.pdf 10 pages in 78.8s
+15:13:21 START dow-uap-pr20.pdf (1 pages)
+15:13:27 DONE  dow-uap-d8-mission-report-djibouti-2025.pdf 7 pages in 18.1s
+15:13:27 START fbi-photo-b1.pdf (1 pages)
+15:13:28 DONE  dow-uap-pr20.pdf 1 pages in 7.0s
+15:13:28 START fbi-photo-b10.pdf (1 pages)
+15:13:34 DONE  fbi-photo-b1.pdf 1 pages in 7.0s
+15:13:34 START fbi-photo-b11.pdf (1 pages)
+15:13:34 DONE  fbi-photo-b10.pdf 1 pages in 6.7s
+15:13:35 START fbi-photo-b12.pdf (1 pages)
+15:13:41 DONE  fbi-photo-b12.pdf 1 pages in 6.4s
+15:13:41 START fbi-photo-b13.pdf (1 pages)
+15:13:42 DONE  fbi-photo-b11.pdf 1 pages in 8.3s
+15:13:43 START fbi-photo-b14.pdf (1 pages)
+15:13:48 DONE  fbi-photo-b13.pdf 1 pages in 7.3s
+15:13:49 START fbi-photo-b15.pdf (1 pages)
+15:13:49 DONE  fbi-photo-b14.pdf 1 pages in 6.4s
+15:13:49 START fbi-photo-b16.pdf (1 pages)
+15:13:54 DONE  fbi-photo-b15.pdf 1 pages in 5.4s
+15:13:54 START fbi-photo-b17.pdf (1 pages)
+15:13:55 DONE  fbi-photo-b16.pdf 1 pages in 6.0s
+15:13:55 START fbi-photo-b18.pdf (1 pages)
+15:13:59 DONE  fbi-photo-b17.pdf 1 pages in 5.4s
+15:14:00 START fbi-photo-b19.pdf (1 pages)
+15:14:02 DONE  fbi-photo-b18.pdf 1 pages in 6.8s
+15:14:03 START fbi-photo-b2.pdf (1 pages)
+15:14:06 DONE  fbi-photo-b19.pdf 1 pages in 6.6s
+15:14:06 START fbi-photo-b20.pdf (1 pages)
+15:14:10 DONE  fbi-photo-b2.pdf 1 pages in 7.3s
+15:14:10 START fbi-photo-b21.pdf (1 pages)
+15:14:12 DONE  fbi-photo-b20.pdf 1 pages in 5.8s
+15:14:12 START fbi-photo-b22.pdf (1 pages)
+15:14:17 DONE  fbi-photo-b21.pdf 1 pages in 6.4s
+15:14:17 START fbi-photo-b23.pdf (1 pages)
+15:14:17 DONE  fbi-photo-b22.pdf 1 pages in 5.0s
+15:14:17 START fbi-photo-b24.pdf (1 pages)
+15:14:23 DONE  fbi-photo-b24.pdf 1 pages in 5.6s
+15:14:23 DONE  fbi-photo-b23.pdf 1 pages in 6.2s
+15:14:23 START fbi-photo-b3.pdf (1 pages)
+15:14:23 START fbi-photo-b4.pdf (1 pages)
+15:14:30 DONE  fbi-photo-b3.pdf 1 pages in 7.2s
+15:14:31 START fbi-photo-b5.pdf (1 pages)
+15:14:31 DONE  fbi-photo-b4.pdf 1 pages in 7.2s
+15:14:31 START fbi-photo-b6.pdf (1 pages)
+15:14:37 DONE  fbi-photo-b5.pdf 1 pages in 6.5s
+15:14:37 START fbi-photo-b7.pdf (1 pages)
+15:14:38 DONE  fbi-photo-b6.pdf 1 pages in 6.5s
+15:14:38 START fbi-photo-b8.pdf (1 pages)
+15:14:44 DONE  fbi-photo-b7.pdf 1 pages in 6.7s
+15:14:44 START fbi-photo-b9.pdf (1 pages)
+15:14:45 DONE  fbi-photo-b8.pdf 1 pages in 6.8s
+15:14:45 START nasa-uap-d1-apollo-12-transcript-1969.pdf (4 pages)
+15:14:50 DONE  fbi-photo-b9.pdf 1 pages in 6.2s
+15:14:50 START nasa-uap-d2-apollo-17-transcript-1972.pdf (16 pages)
+15:15:17 DONE  nasa-uap-d1-apollo-12-transcript-1969.pdf 4 pages in 32.2s
+15:15:18 START nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf (11 pages)
+15:16:39 DONE  nasa-uap-d2-apollo-17-transcript-1972.pdf 16 pages in 109.0s
+15:16:40 START nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf (3 pages)
+15:16:57 DONE  nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf 3 pages in 17.6s
+15:16:57 START nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf (2 pages)
+15:17:00 DONE  nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf 11 pages in 102.4s
+15:17:01 START nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf (11 pages)
+15:17:11 DONE  nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf 2 pages in 13.5s
+15:17:11 START serial-3_redacted.pdf (2 pages)
+15:17:30 DONE  serial-3_redacted.pdf 2 pages in 18.9s
+15:17:30 START serial-4-redacted_redacted.pdf (2 pages)
+15:17:45 DONE  serial-4-redacted_redacted.pdf 2 pages in 15.5s
+15:17:45 START serial_5_redacted_redacted.pdf (2 pages)
+15:18:03 DONE  nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf 11 pages in 62.0s
+15:18:03 START usper-statement-redacted.pdf (3 pages)
+15:18:21 DONE  serial_5_redacted_redacted.pdf 2 pages in 36.0s
+15:18:22 START western_us_event_slides_5.08.2026.pdf (4 pages)
+15:18:33 DONE  usper-statement-redacted.pdf 3 pages in 29.7s
+15:18:46 DONE  western_us_event_slides_5.08.2026.pdf 4 pages in 24.3s
+15:20:59 DONE  65_hs1-834228961_62-hq-83894_sub_a.pdf 124 pages in 1452.1s
+15:28:44 DONE  dow-uap-d49-launch-summary-february-2000.pdf 113 pages in 1266.8s
+15:37:21 DONE  dow-uap-d48-report-september-1996.pdf 181 pages in 1786.3s
+15:37:22 === runner done === 2123 pages, 8,943,471 input + 1,189,184 output tokens, 4905s elapsed
+15:37:46 === runner v3 start === 116 PDFs queued, concurrency=5, max_pages=None, model=mimo-v2.5, prompt=v3.1-uap-archive
+15:37:46 START 059uap00011.pdf (5 pages)
+15:37:46 START 059uap00012.pdf (5 pages)
+15:37:46 START 059uap00013.pdf (7 pages)
+15:37:46 START 18_100754_general_1946-7_vol_2.pdf (28 pages)
+15:37:46 START 18_6369445_general_1948_vol_1.pdf (28 pages)
+15:37:46 DONE  059uap00012.pdf 5 pages in 0.1s
+15:37:46 DONE  059uap00011.pdf 5 pages in 0.1s
+15:37:46 DONE  059uap00013.pdf 7 pages in 0.0s
+15:37:46 START 2024-04-30-composite-sketch.pdf (1 pages)
+15:37:46 START 255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf (94 pages)
+15:37:46 START 255_t_763_r1b_transcripts.pdf (4 pages)
+15:37:46 DONE  2024-04-30-composite-sketch.pdf 1 pages in 0.0s
+15:37:47 START 331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf (17 pages)
+15:37:47 DONE  255_t_763_r1b_transcripts.pdf 4 pages in 0.0s
+15:37:47 START 341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf (7 pages)
+15:37:47 DONE  341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf 7 pages in 0.0s
+15:37:47 DONE  331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf 17 pages in 0.2s
+15:37:47 START 341_110677_numerical_file_5-2500.pdf (10 pages)
+15:37:47 DONE  18_6369445_general_1948_vol_1.pdf 28 pages in 0.4s
+15:37:47 START 342_hs1-416511228_box186_319.1-flying-discs-1949.pdf (143 pages)
+15:37:47 DONE  255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf 94 pages in 0.4s
+15:37:48 START 38_143685_box7_incident_summaries_1-100.pdf (209 pages)
+15:37:48 DONE  18_100754_general_1946-7_vol_2.pdf 28 pages in 0.6s
+15:37:48 START 38_143685_box7_incident_summaries_101-172.pdf (178 pages)
+15:37:48 START 38_143685_box7_incident_summaries_173-233.pdf (144 pages)
+15:37:48 DONE  341_110677_numerical_file_5-2500.pdf 10 pages in 0.5s
+15:37:49 START 59_214434_sp_16_19630718.pdf (6 pages)
+15:37:49 DONE  38_143685_box7_incident_summaries_173-233.pdf 144 pages in 0.2s
+15:37:49 DONE  59_214434_sp_16_19630718.pdf 6 pages in 0.2s
+15:37:49 START 59_214434_sp_16_7.18.1963.pdf (6 pages)
+15:37:49 START 65_HS1-834228961_62-HQ-83894_Serial_153.pdf (9 pages)
+15:37:50 DONE  59_214434_sp_16_7.18.1963.pdf 6 pages in 0.1s
+15:37:50 DONE  65_HS1-834228961_62-HQ-83894_Serial_153.pdf 9 pages in 0.0s
+15:37:50 START 65_hs1-101634279_100-de-18221_serial_844.pdf (1 pages)
+15:37:50 DONE  342_hs1-416511228_box186_319.1-flying-discs-1949.pdf 143 pages in 0.5s
+15:37:50 DONE  65_hs1-101634279_100-de-18221_serial_844.pdf 1 pages in 0.0s
+15:37:50 START 65_hs1-101634279_100-de-26505.pdf (15 pages)
+15:37:51 START 65_hs1-834228961_62-hq-83894_section_1.pdf (185 pages)
+15:37:51 START 65_hs1-834228961_62-hq-83894_section_10.pdf (184 pages)
+15:37:51 DONE  65_hs1-101634279_100-de-26505.pdf 15 pages in 0.2s
+15:37:51 START 65_hs1-834228961_62-hq-83894_section_2.pdf (194 pages)
+15:37:51 DONE  38_143685_box7_incident_summaries_101-172.pdf 178 pages in 0.3s
+15:37:52 DONE  38_143685_box7_incident_summaries_1-100.pdf 209 pages in 0.5s
+15:37:52 START 65_hs1-834228961_62-hq-83894_section_3.pdf (190 pages)
+15:37:52 DONE  65_hs1-834228961_62-hq-83894_section_10.pdf 184 pages in 0.1s
+15:37:52 START 65_hs1-834228961_62-hq-83894_section_4.pdf (214 pages)
+15:37:53 DONE  65_hs1-834228961_62-hq-83894_section_1.pdf 185 pages in 0.1s
+15:37:53 START 65_hs1-834228961_62-hq-83894_section_5.pdf (209 pages)
+15:37:53 START 65_hs1-834228961_62-hq-83894_section_6.pdf (271 pages)
+15:37:55 DONE  65_hs1-834228961_62-hq-83894_section_5.pdf 209 pages in 1.1s
+15:37:55 START 65_hs1-834228961_62-hq-83894_section_7.pdf (205 pages)
+15:37:55 DONE  65_hs1-834228961_62-hq-83894_section_4.pdf 214 pages in 1.2s
+15:37:55 START 65_hs1-834228961_62-hq-83894_section_8.pdf (217 pages)
+15:37:57 DONE  65_hs1-834228961_62-hq-83894_section_7.pdf 205 pages in 0.7s
+15:37:57 START 65_hs1-834228961_62-hq-83894_section_9.pdf (290 pages)
+15:38:10 DONE  65_hs1-834228961_62-hq-83894_section_2.pdf 194 pages in 18.5s
+15:38:10 START 65_hs1-834228961_62-hq-83894_serial_130.pdf (126 pages)
+15:38:20 DONE  65_hs1-834228961_62-hq-83894_section_8.pdf 217 pages in 23.8s
+15:38:20 START 65_hs1-834228961_62-hq-83894_serial_164.pdf (137 pages)
+15:38:20 DONE  65_hs1-834228961_62-hq-83894_serial_164.pdf 137 pages in 0.1s
+15:38:20 START 65_hs1-834228961_62-hq-83894_serial_220.pdf (15 pages)
+15:38:20 DONE  65_hs1-834228961_62-hq-83894_serial_220.pdf 15 pages in 0.0s
+15:38:20 START 65_hs1-834228961_62-hq-83894_serial_403.pdf (3 pages)
+15:38:20 DONE  65_hs1-834228961_62-hq-83894_serial_403.pdf 3 pages in 0.0s
+15:38:20 START 65_hs1-834228961_62-hq-83894_serial_438.pdf (40 pages)
+15:38:20 DONE  65_hs1-834228961_62-hq-83894_serial_438.pdf 40 pages in 0.0s
+15:38:21 START 65_hs1-834228961_62-hq-83894_serial_449.pdf (18 pages)
+15:38:21 DONE  65_hs1-834228961_62-hq-83894_serial_449.pdf 18 pages in 0.0s
+15:38:21 START 65_hs1-834228961_62-hq-83894_sub_a.pdf (124 pages)
+15:38:21 DONE  65_hs1-834228961_62-hq-83894_sub_a.pdf 124 pages in 0.0s
+15:38:21 START dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf (3 pages)
+15:38:41 DONE  dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf 3 pages in 19.3s
+15:38:41 START dos-uap-d2-cable-2-kazakhstan-january-1994.pdf (3 pages)
+15:39:02 DONE  dos-uap-d2-cable-2-kazakhstan-january-1994.pdf 3 pages in 21.6s
+15:39:03 START dow-uap-d10-mission-report-middle-east-may-2022.pdf (6 pages)
+15:39:03 DONE  dow-uap-d10-mission-report-middle-east-may-2022.pdf 6 pages in 0.0s
+15:39:03 START dow-uap-d12-mission-report-iraq-may-2022.pdf (6 pages)
+15:39:03 DONE  dow-uap-d12-mission-report-iraq-may-2022.pdf 6 pages in 0.0s
+15:39:03 START dow-uap-d14-mission-report-iraq-may-2022.pdf (9 pages)
+15:39:03 DONE  dow-uap-d14-mission-report-iraq-may-2022.pdf 9 pages in 0.0s
+15:39:03 START dow-uap-d16-mission-report-syria-july-2022.pdf (7 pages)
+15:39:03 DONE  dow-uap-d16-mission-report-syria-july-2022.pdf 7 pages in 0.0s
+15:39:03 START dow-uap-d18-mission-report-iraq-december-2022.pdf (6 pages)
+15:39:03 DONE  dow-uap-d18-mission-report-iraq-december-2022.pdf 6 pages in 0.0s
+15:39:04 START dow-uap-d19-mission-report-syria-february-21-2023.pdf (10 pages)
+15:39:04 DONE  dow-uap-d19-mission-report-syria-february-21-2023.pdf 10 pages in 0.0s
+15:39:04 START dow-uap-d20-mission-report-southern-united-states-2023.pdf (6 pages)
+15:39:04 DONE  dow-uap-d20-mission-report-southern-united-states-2023.pdf 6 pages in 0.0s
+15:39:04 START dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf (9 pages)
+15:39:04 DONE  dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf 9 pages in 0.0s
+15:39:04 START dow-uap-d25-mission-report-greece-january-2024.pdf (7 pages)
+15:39:04 DONE  dow-uap-d25-mission-report-greece-january-2024.pdf 7 pages in 0.0s
+15:39:04 START dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf (8 pages)
+15:39:05 DONE  dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf 8 pages in 0.2s
+15:39:05 START dow-uap-d28-mission-report-east-china-sea-2024.pdf (6 pages)
+15:39:05 DONE  dow-uap-d28-mission-report-east-china-sea-2024.pdf 6 pages in 0.0s
+15:39:05 START dow-uap-d3-mission-report-arabian-gulf-2020.pdf (7 pages)
+15:39:05 DONE  dow-uap-d3-mission-report-arabian-gulf-2020.pdf 7 pages in 0.0s
+15:39:05 START dow-uap-d32-mission-report,-syria-october-2024.pdf (10 pages)
+15:39:05 DONE  dow-uap-d32-mission-report,-syria-october-2024.pdf 10 pages in 0.0s
+15:39:05 START dow-uap-d33-mission-report-greece-october-2023.pdf (7 pages)
+15:39:05 DONE  dow-uap-d33-mission-report-greece-october-2023.pdf 7 pages in 0.0s
+15:39:05 START dow-uap-d35-mission-report-greece-october-2023.pdf (7 pages)
+15:39:06 DONE  dow-uap-d35-mission-report-greece-october-2023.pdf 7 pages in 0.0s
+15:39:06 START dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf (1 pages)
+15:39:06 DONE  dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf 1 pages in 0.0s
+15:39:06 START dow-uap-d4-mission-report-arabian-gulf-2020.pdf (5 pages)
+15:39:06 DONE  dow-uap-d4-mission-report-arabian-gulf-2020.pdf 5 pages in 0.0s
+15:39:06 START dow-uap-d42-range-fouler-debrief-japan-2023.pdf (1 pages)
+15:39:06 DONE  dow-uap-d42-range-fouler-debrief-japan-2023.pdf 1 pages in 0.0s
+15:39:06 START dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf (1 pages)
+15:39:06 DONE  dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf 1 pages in 0.0s
+15:39:06 START dow-uap-d48-report-september-1996.pdf (181 pages)
+15:39:07 DONE  dow-uap-d48-report-september-1996.pdf 181 pages in 0.2s
+15:39:07 START dow-uap-d49-launch-summary-february-2000.pdf (113 pages)
+15:39:07 DONE  65_hs1-834228961_62-hq-83894_section_3.pdf 190 pages in 74.4s
+15:39:07 START dow-uap-d5-mission-report-arabian-gulf-2020.pdf (6 pages)
+15:39:07 DONE  dow-uap-d5-mission-report-arabian-gulf-2020.pdf 6 pages in 0.0s
+15:39:07 START dow-uap-d50-email-correspondence-indopacom-april-2025.pdf (2 pages)
+15:39:07 DONE  dow-uap-d50-email-correspondence-indopacom-april-2025.pdf 2 pages in 0.0s
+15:39:07 START dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf (6 pages)
+15:39:08 DONE  dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf 6 pages in 0.2s
+15:39:08 START dow-uap-d52-email-correspondance-na-august-2024.pdf (2 pages)
+15:39:08 DONE  dow-uap-d52-email-correspondance-na-august-2024.pdf 2 pages in 0.0s
+15:39:08 START dow-uap-d54-mission-report-mediterranean-sea-na.pdf (7 pages)
+15:39:08 DONE  dow-uap-d54-mission-report-mediterranean-sea-na.pdf 7 pages in 0.0s
+15:39:08 START dow-uap-d55-mission-report-syria-november-2016.pdf (1 pages)
+15:39:08 DONE  dow-uap-d55-mission-report-syria-november-2016.pdf 1 pages in 0.0s
+15:39:08 START dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf (1 pages)
+15:39:08 DONE  dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf 1 pages in 0.0s
+15:39:09 START dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf (1 pages)
+15:39:09 DONE  dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf 1 pages in 0.0s
+15:39:09 START dow-uap-d58-range-fouler-debrief-na-october-2020.pdf (1 pages)
+15:39:09 DONE  dow-uap-d58-range-fouler-debrief-na-october-2020.pdf 1 pages in 0.0s
+15:39:09 DONE  dow-uap-d49-launch-summary-february-2000.pdf 113 pages in 1.7s
+15:39:09 START dow-uap-d60-mission-report-persian-gulf-august-2020.pdf (6 pages)
+15:39:09 START dow-uap-d6-mission-report-arabian-gulf-2020.pdf (7 pages)
+15:39:09 DONE  dow-uap-d60-mission-report-persian-gulf-august-2020.pdf 6 pages in 0.2s
+15:39:10 START dow-uap-d61-mission-report-persian-gulf-august-2020.pdf (7 pages)
+15:39:10 DONE  dow-uap-d61-mission-report-persian-gulf-august-2020.pdf 7 pages in 0.0s
+15:39:10 START dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf (9 pages)
+15:39:10 DONE  dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf 9 pages in 0.0s
+15:39:10 START dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf (8 pages)
+15:39:10 DONE  dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf 8 pages in 0.0s
+15:39:10 START dow-uap-d64-mission-report-iran-november-2020.pdf (7 pages)
+15:39:10 DONE  dow-uap-d64-mission-report-iran-november-2020.pdf 7 pages in 0.0s
+15:39:10 START dow-uap-d65-mission-report-persian-gulf-july-2020.pdf (8 pages)
+15:39:10 DONE  dow-uap-d65-mission-report-persian-gulf-july-2020.pdf 8 pages in 0.0s
+15:39:11 START dow-uap-d7-mission-report-arabian-gulf-2020.pdf (6 pages)
+15:39:18 DONE  dow-uap-d7-mission-report-arabian-gulf-2020.pdf 6 pages in 7.9s
+15:39:19 START dow-uap-d74-mission-report-syria-november-2023.pdf (10 pages)
+15:39:19 DONE  dow-uap-d74-mission-report-syria-november-2023.pdf 10 pages in 0.0s
+15:39:19 START dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf (8 pages)
+15:39:19 DONE  dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf 8 pages in 0.0s
+15:39:19 START dow-uap-d8-mission-report-djibouti-2025.pdf (7 pages)
+15:39:19 DONE  dow-uap-d8-mission-report-djibouti-2025.pdf 7 pages in 0.0s
+15:39:19 START dow-uap-pr20.pdf (1 pages)
+15:39:19 DONE  dow-uap-pr20.pdf 1 pages in 0.0s
+15:39:19 START fbi-photo-b1.pdf (1 pages)
+15:39:19 DONE  fbi-photo-b1.pdf 1 pages in 0.0s
+15:39:20 START fbi-photo-b10.pdf (1 pages)
+15:39:20 DONE  fbi-photo-b10.pdf 1 pages in 0.0s
+15:39:20 START fbi-photo-b11.pdf (1 pages)
+15:39:20 DONE  fbi-photo-b11.pdf 1 pages in 0.0s
+15:39:20 START fbi-photo-b12.pdf (1 pages)
+15:39:20 DONE  fbi-photo-b12.pdf 1 pages in 0.0s
+15:39:20 START fbi-photo-b13.pdf (1 pages)
+15:39:20 DONE  fbi-photo-b13.pdf 1 pages in 0.0s
+15:39:20 START fbi-photo-b14.pdf (1 pages)
+15:39:20 DONE  fbi-photo-b14.pdf 1 pages in 0.0s
+15:39:20 START fbi-photo-b15.pdf (1 pages)
+15:39:20 DONE  dow-uap-d6-mission-report-arabian-gulf-2020.pdf 7 pages in 11.0s
+15:39:20 DONE  fbi-photo-b15.pdf 1 pages in 0.0s
+15:39:21 START fbi-photo-b16.pdf (1 pages)
+15:39:21 START fbi-photo-b17.pdf (1 pages)
+15:39:21 DONE  fbi-photo-b17.pdf 1 pages in 0.0s
+15:39:21 DONE  fbi-photo-b16.pdf 1 pages in 0.0s
+15:39:21 START fbi-photo-b18.pdf (1 pages)
+15:39:21 START fbi-photo-b19.pdf (1 pages)
+15:39:21 DONE  fbi-photo-b18.pdf 1 pages in 0.0s
+15:39:22 DONE  fbi-photo-b19.pdf 1 pages in 0.0s
+15:39:22 START fbi-photo-b2.pdf (1 pages)
+15:39:22 START fbi-photo-b20.pdf (1 pages)
+15:39:22 DONE  fbi-photo-b2.pdf 1 pages in 0.0s
+15:39:22 DONE  fbi-photo-b20.pdf 1 pages in 0.0s
+15:39:22 START fbi-photo-b21.pdf (1 pages)
+15:39:22 START fbi-photo-b22.pdf (1 pages)
+15:39:22 DONE  fbi-photo-b22.pdf 1 pages in 0.0s
+15:39:22 DONE  fbi-photo-b21.pdf 1 pages in 0.0s
+15:39:23 START fbi-photo-b23.pdf (1 pages)
+15:39:23 START fbi-photo-b24.pdf (1 pages)
+15:39:23 DONE  fbi-photo-b23.pdf 1 pages in 0.1s
+15:39:23 DONE  fbi-photo-b24.pdf 1 pages in 0.0s
+15:39:23 START fbi-photo-b4.pdf (1 pages)
+15:39:23 START fbi-photo-b3.pdf (1 pages)
+15:39:23 DONE  fbi-photo-b3.pdf 1 pages in 0.0s
+15:39:23 DONE  fbi-photo-b4.pdf 1 pages in 0.0s
+15:39:23 START fbi-photo-b5.pdf (1 pages)
+15:39:23 START fbi-photo-b6.pdf (1 pages)
+15:39:24 DONE  fbi-photo-b6.pdf 1 pages in 0.0s
+15:39:24 DONE  fbi-photo-b5.pdf 1 pages in 0.0s
+15:39:24 START fbi-photo-b7.pdf (1 pages)
+15:39:24 START fbi-photo-b8.pdf (1 pages)
+15:39:24 DONE  fbi-photo-b7.pdf 1 pages in 0.1s
+15:39:24 DONE  fbi-photo-b8.pdf 1 pages in 0.0s
+15:39:24 START fbi-photo-b9.pdf (1 pages)
+15:39:24 START nasa-uap-d1-apollo-12-transcript-1969.pdf (4 pages)
+15:39:24 DONE  fbi-photo-b9.pdf 1 pages in 0.0s
+15:39:25 DONE  nasa-uap-d1-apollo-12-transcript-1969.pdf 4 pages in 0.0s
+15:39:25 START nasa-uap-d2-apollo-17-transcript-1972.pdf (16 pages)
+15:39:25 START nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf (11 pages)
+15:39:25 DONE  nasa-uap-d2-apollo-17-transcript-1972.pdf 16 pages in 0.1s
+15:39:25 START nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf (3 pages)
+15:39:25 DONE  nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf 3 pages in 0.0s
+15:39:25 DONE  nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf 11 pages in 0.0s
+15:39:26 START nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf (2 pages)
+15:39:26 DONE  nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf 2 pages in 0.0s
+15:39:26 START nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf (11 pages)
+15:39:26 START serial-3_redacted.pdf (2 pages)
+15:39:26 DONE  serial-3_redacted.pdf 2 pages in 0.0s
+15:39:26 START serial-4-redacted_redacted.pdf (2 pages)
+15:39:26 DONE  serial-4-redacted_redacted.pdf 2 pages in 0.0s
+15:39:26 START serial_5_redacted_redacted.pdf (2 pages)
+15:39:26 DONE  serial_5_redacted_redacted.pdf 2 pages in 0.0s
+15:39:26 START usper-statement-redacted.pdf (3 pages)
+15:39:26 DONE  nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf 11 pages in 0.1s
+15:39:27 START western_us_event_slides_5.08.2026.pdf (4 pages)
+15:39:27 DONE  usper-statement-redacted.pdf 3 pages in 0.1s
+15:39:27 DONE  western_us_event_slides_5.08.2026.pdf 4 pages in 0.1s
+15:44:41 DONE  65_hs1-834228961_62-hq-83894_serial_130.pdf 126 pages in 390.4s
+15:52:54 DONE  65_hs1-834228961_62-hq-83894_section_6.pdf 271 pages in 899.5s
+15:59:32 DONE  65_hs1-834228961_62-hq-83894_section_9.pdf 290 pages in 1294.7s
+15:59:32 === runner done === 298 pages, 1,262,296 input + 125,836 output tokens, 1306s elapsed

@@ -1,0 +1,56 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 13,
+  "original_image_tags": [
+    "black-and-white photograph of a woman and a young boy looking at a cracked concrete slab on the ground. Caption: \"Mrs. Thomas and Johnny examined 'flying saucer damage.' Concrete reinforcement sheeting was broken, sand swirled.\" Photo by Harold Lane.",
+    "a rough sketch of a saucer-shaped object with a dome on top and a ring of light around the center.",
+    "black-and-white photograph of a young boy, labeled CHARLES COZENS.",
+    "photograph of a woman labeled ESTELLE C. PRINS ...talks to space men.",
+    "photograph of WESLEY H. BATEMAN ...earthquakes, saucers."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "Black and white photograph of two people, a woman and a young boy, examining a piece of damaged concrete reinforcement sheeting outdoors. Captioned 'Mrs. Thomas and Johnny examined 'flying saucer damage'. Concrete reinforcement sheeting was broken, and twisted.' Photo credit: Marvin Lee."
+      },
+      {
+        "category": "sketch",
+        "description": "Rough sketch of a saucer-shaped object. It depicts a disc shape with a row of rectangular windows around the rim. Captioned 'SAUCER SHAPE: This is a rough sketch by Phil Smith, 11, of the Unidentified Flying Object watched by Phil, his father and mother, his sister Linda and his friend, Dennis Boberg. Note the band in the center (resembling windows) gave out the bright light first when the saucer left.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Black and white headshot photograph of a young boy. Captioned 'CHARLES COZENS'."
+      },
+      {
+        "category": "photograph",
+        "description": "Black and white headshot photograph of a man wearing a suit. No caption is immediately adjacent within the same column block."
+      },
+      {
+        "category": "photograph",
+        "description": "Black and white headshot photograph of a woman. Captioned 'ESTELLE C. PRINS'."
+      },
+      {
+        "category": "sketch",
+        "description": "Sketch of a flying saucer-shaped object in the sky above a house. Captioned 'We Couldn't Live in Their Atmosphere'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict on the number and type of visual elements (Description A lists five elements including a sketch with a dome and a photo of Wesley H. Bateman, while Description B lists six elements including a different sketch above a house and no mention of Wesley H. Bateman), and they give different photographer credits for the first photograph.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph",
+    "sketch",
+    "photograph",
+    "photograph",
+    "photograph",
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:27"
+}

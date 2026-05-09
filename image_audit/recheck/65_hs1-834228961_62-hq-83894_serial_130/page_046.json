@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 46,
+  "original_image_tags": [
+    "A faint, rectangular ink stamp is visible over the signature block. The text within the stamp is partially illegible but appears to contain numbers, possibly \"0375739\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed military memorandum and indorsement from 1947 regarding 'Unidentifiable Objects'. The page contains headers, typed body text, and signatures for H. L. Crisier and S. H. Morrow. There are no photographs, sketches, diagrams, or charts present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a visual element (a faint rectangular ink stamp) while Description B explicitly states there are no photographs, sketches, diagrams, or charts, directly contradicting the existence of any such visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:02"
+}

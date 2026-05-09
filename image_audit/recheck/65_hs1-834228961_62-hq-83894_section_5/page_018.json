@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 18,
+  "original_image_tags": [
+    "This is a scan of the back (verso) of a yellowed, aged document page. The page is heavily stained and shows \"bleed-through\" text from the other side. The page is oriented with its top edge at the bottom of the image; all stamped and printed text on this side is upside down relative to the viewer. Two punched holes are visible at the top edge (which is the bottom of the image).",
+    "The back of the document is blank except for the administrative stamps listed above and the ghost text from the front side. The paper is aged, with foxing and discoloration."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamped and typed administrative markings on aged yellow paper. Notable elements include a red 'FEDERAL BUREAU OF INVESTIGATION / U.S. DEPARTMENT OF JUSTICE / COMMUNICATIONS SECTION' stamp dated 'JUL 15 1948'; a stamped 'RECEIVED - FLETCHER' with 'Aug 8 7 27 PM '48'; a stamped 'JUL 10 12 31 PM '48'; a faint red 'RECORDED - 23' and 'INDEXED - 23' stamp; and a faded red 'DIRECTOR'S OFFICE INITIATED' stamp. The main body text is printed on the reverse side of the paper and is faintly visible through the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree the page contains administrative stamps on aged paper, but Description A mentions no specific stamp text while Description B provides detailed, quoted text, representing an omission rather than a contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:58:48"
+}

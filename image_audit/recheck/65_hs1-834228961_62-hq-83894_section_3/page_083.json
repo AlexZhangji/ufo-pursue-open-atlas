@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 83,
+  "original_image_tags": [
+    "A rectangular ink stamp impression in the lower right quadrant of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular stamp or label located at the bottom right. The visible text inside reads 'FEDERAL BUREAU OF...', 'U.S. D...', 'SEP 12 1947', 'AN...', 'ROUTED TO', and 'FILE'. The full text is partially obscured by the dark background."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions identify a rectangular stamp/label at the bottom right of the page, and neither contradicts the other's specific quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:19"
+}

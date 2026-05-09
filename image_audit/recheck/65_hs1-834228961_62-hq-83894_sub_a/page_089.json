@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 89,
+  "original_image_tags": [
+    "A single, slightly aged white page with two hole-punches at the top. The page contains handwritten notations, a newspaper clipping, stamped text, and typed archival information."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping titled 'Flying saucers—N.E., S. and W.' The text details reports of flying saucers over Italy, mentioning locations such as Salo on Lake Garda, Carrara, Calabria, Sardinia, and Val d'Aosta. It is attributed to Reuters and mentions 'ROME, Wednesday'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A typed or stamped list of names on the right side, including Mr. Tolson, Mr. Ladd, Mr. Clegg, Mr. Glavin, Mr. Nichols, Mr. Rosen, Mr. Tracy, Mr. Harbo, Mr. Belmont, Mr. Mohr, Tele. Room, Mr. Noone, and Miss Gandy."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A red ink stamp reading 'OFFICE OF THE LEGAL ATTACHE AMERICAN EMBASSY LONDON, ENGLAND'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description B provides detailed visual content (newspaper clipping, stamped names, red ink stamp) that is consistent with Description A's general mention of a clipping, handwritten notations, and stamped text, but Description A omits the specific categories and details.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:48"
+}

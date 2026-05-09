@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 26,
+  "original_image_tags": [
+    "A single, aged document page with a light tan/cream tone. The page is oriented vertically. Two dark, circular punch holes are visible near the top margin. There is text printed on both sides of the page; the text from the reverse side is faintly visible and reversed (show-through). The foreground side of the page appears mostly blank, with faint, indistinct impressions of text or stamps. The most prominent features are an inverted (upside-down) blue ink stamp near the bottom center and a faint, handwritten annotation in the bottom-left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "blank_or_back_of_page",
+        "description": "Back side of a document with faint, reversed bleed-through text from the front, two black hole-punch marks at the top, a blue ink stamp near the bottom center reading 'REC'D DOM INTELL DIV. OCT 21 12 17 PM 66 03339', and faint handwritten pencil annotations in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements: a back-of-page with faint reversed text, two hole-punch marks, a blue stamp near the bottom center, and handwritten annotations in the bottom-left corner, but Description B provides specific, detailed quoted text from the stamp that Description A only notes as inverted and illegible.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "blank_or_back_of_page"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:27"
+}

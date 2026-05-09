@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 158,
+  "original_image_tags": [
+    "A scanned archival document. It is a typed memorandum from the United States Government on aged paper. There are two punch holes at the top center. The text is a carbon copy or duplicate with some faint, mirrored impressions of text from another page visible at the top. A blue stamp in the lower center reads \"INTERNAL SECURITY - FB 1\", \"RECEIVED\", and \"LIAISON SECTION\". Handwritten next to the stamp are dates \"18\", \"21\", \"29\" and times \"2:19 PM 47\", \"3:33 PM 47\", \"19/47\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A single page of a typed letter with a faded header, including 'OFFICE OF NAVAL INTELLIGENCE', 'UNITED STATES GOVERNMENT', and dates like 'August 6, 1947'. The body text discusses a flying disc sighting and includes a handwritten signature or annotation near the bottom. There are two punch holes at the top and some blue stamped text near the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A details a blue stamp with specific text ('INTERNAL SECURITY - FB 1', etc.) and handwritten dates/times, while Description B describes a different document header and content with no mention of this stamp, indicating descriptions of different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:19"
+}

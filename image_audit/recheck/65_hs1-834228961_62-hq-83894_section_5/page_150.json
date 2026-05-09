@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 150,
+  "original_image_tags": [
+    "The back of a tan or light-orange colored file folder, showing a standard two-prong fastener flap at the top and a pocket flap at the bottom. The paper has a slight texture. A vertical crease or fold line runs down the center. At the bottom right corner, on the pocket flap, there is a handwritten case number in blue and red ink: \"62-83894-229\". The \"229\" is written in red ink, while the rest is in blue. There is a small, dark, possibly stamped or smudged mark above the handwritten number. The background is a dark, nearly black surface."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint, illegible ink stamp smudge near the bottom center. Handwritten alphanumeric string '62-83894-229' in the bottom right corner. Two punched holes at the top. No photographs, sketches, diagrams, or charts are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence of a handwritten alphanumeric string '62-83894-229' and two punched holes at the top, but Description A includes additional visual details (tan folder, fastener flap, pocket flap, ink colors, fold line) while Description B mentions an illegible stamp and states no charts/diagrams are present, with no direct contradictions on the quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:33:31"
+}

@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 11,
+  "original_image_tags": [
+    "Two newspaper clippings are pasted onto the program page.",
+    "Small black and white photograph of a dark, blurry, oval-shaped object against a light background."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A hand-drawn sketch in the top right corner, depicting a lighted, saucer-shaped object hovering over a horizon with a person in the foreground and a dog."
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A small photograph or illustration in the bottom right corner of the right-hand newspaper page, showing a dark, saucer-shaped object."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B describes a hand-drawn sketch and a specific photograph of a saucer-shaped object, which fundamentally contradicts Description A's claim of only two newspaper clippings and a blurry oval-shaped object.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch",
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:18"
+}

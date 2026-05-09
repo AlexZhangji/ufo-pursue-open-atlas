@@ -1,0 +1,58 @@
+{
+  "file": "dow-uap-d6-mission-report-arabian-gulf-2020.pdf",
+  "stem": "dow-uap-d6-mission-report-arabian-gulf-2020",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "0f898352417d0447b3720c6eda131ac0cbe7e4cf90b8d1ceab60a431fa835457",
+  "size_bytes": 26847,
+  "total_pages": 7,
+  "pages_processed_in_run": 7,
+  "status": "complete",
+  "elapsed_sec": 11.0,
+  "completed_at": "2026-05-08 15:39:20",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "ok",
+      "chars": 49,
+      "input_tokens": 4301,
+      "output_tokens": 22,
+      "completed_at": "2026-05-08 15:39:13"
+    },
+    {
+      "page": 6,
+      "status": "ok",
+      "chars": 48,
+      "input_tokens": 4301,
+      "output_tokens": 22,
+      "completed_at": "2026-05-08 15:39:16"
+    },
+    {
+      "page": 7,
+      "status": "ok",
+      "chars": 266,
+      "input_tokens": 4301,
+      "output_tokens": 138,
+      "completed_at": "2026-05-08 15:39:20"
+    }
+  ]
+}

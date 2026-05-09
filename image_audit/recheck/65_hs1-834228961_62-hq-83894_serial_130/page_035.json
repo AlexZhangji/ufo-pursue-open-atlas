@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 35,
+  "original_image_tags": [
+    "A typed report on official Newfoundland Constabulary stationery. The document is aged, with visible paper texture, punch holes at the top, and staining along the left edge. A crest is visible at the top center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A scanned image of a typed police report on letterhead. The letterhead features a coat of arms and the text 'NEWFOUNDLAND CONSTABULARY'. The document is dated 'July 13th. 1947.' and the subject line reads 'Re: Strange objects seen flying over Grand Falls on night of July 9th. at approx. 11.15 and 11.40.' The body text describes a sighting of 'flying saucers' and a 'huge jelly-fish' shape. It is signed 'Eric Earnehey Constable.' at the bottom right. The word 'RESTRICTED' is stamped at the bottom center. Handwritten annotations include the number '4' in the top left margin, 'incl 4.' in the bottom left margin, and the number '26' written twice in the bottom right margin."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the main visual content: a typed report/letterhead with a crest/coat of arms and 'Newfoundland Constabulary' text; Description B adds significant detail (dates, quoted text, stamps, annotations) not mentioned by A, but there are no direct contradictions on the specific elements both describe.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:55"
+}

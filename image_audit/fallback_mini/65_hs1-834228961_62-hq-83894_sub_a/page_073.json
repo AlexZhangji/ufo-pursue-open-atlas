@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 73,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions identify a single newspaper clipping with consistent headline and footer details, but description B adds specific textual content (headline, article text, dateline) not mentioned in description A, which focuses on attachment location and typed reference.",
+  "original_image_tags": [
+    "A newspaper clipping from the \"Times-Herald, 2nd sec., 10-5 Star Edition\" (as noted in the typed list on the right) is attached to the center of the page."
+  ],
+  "gpt_mini_desc": "*Image: A document page with a pasted newspaper clipping titled “Flying Saucer” Tracked on Navy Radar Screen, surrounded by handwritten markings, typed recipient names on the right margin, and date/stamp annotations.*",
+  "gpt_mini_desc_len": 217,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 46,
+    "total_tokens": 56202,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:06"
+}

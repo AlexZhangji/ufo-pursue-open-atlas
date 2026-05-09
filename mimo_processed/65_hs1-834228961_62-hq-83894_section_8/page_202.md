@@ -1,0 +1,74 @@
+## Radio 3X - A
+
+*Image: Pink document scan of a circular arrangement of blue/purple stamped FBI office/date/time text, with two punched holes near the top edge and a handwritten number at the lower left.*
+
+**RECEIVED**
+NOV 9 12 19 PM '57
+FBI - JUSTICE
+RECEIVED -- NICHOLS
+FBI
+Nov 8 7 06 PM '57
+RECEIVED
+NOV 12 10 37 AM '57
+FBI
+ROSEN
+
+**RECEIVED**
+Nov 8 2 14 PM '57
+U.S. DEPT. OF JUSTICE
+FBI
+Nov 8 3 02 PM '57
+FBI
+
+**REC'D-TELETYPE UNIT**
+FBI
+Nov 8 12 59 PM '57
+Nov 8 1 29 PM '57
+
+**U.S. DEPT. OF JUSTICE**
+FBI
+**REC'D - BOARDMAN**
+RECEIVED
+ROSEN
+
+**FBI**
+COMMUNICATIONS SECTION
+Nov 8 12 58 PM '57
+OUT
+
+**RECEIVED**
+Nov 9 11 10 AM '57
+F.B.I.
+Nov 9 11 10 AM '57
+Nov 12 8 51 AM '57
+
+**REC'D - ESPIONAGE**
+RECEIVED
+REGISTRY - ESPIONAGE
+F.B.I.
+Nov 8 5 11 PM '57
+Nov 9 11 10 AM '57
+Nov 12 8 51 AM '57
+
+**RECEIVED**
+NO. 1 MAN
+INVESTIGATIVE DIVISION
+NOV 12 10 55 AM '57
+
+**REC'D - ESPIONAGE**
+RECEIVED
+REGISTRY
+F.B.I.
+Nov 8 5 11 PM '57
+
+**RECEIVED**
+NO. 1 MAN
+INVESTIGATIVE DIVISION
+Nov 8 1 42 PM '57
+
+**LIAISON SECTION**
+U.S. DEPT. OF JUSTICE
+FBI
+Nov 19 3 57 PM '57
+
+*[handwritten note]:* Cl-11-18

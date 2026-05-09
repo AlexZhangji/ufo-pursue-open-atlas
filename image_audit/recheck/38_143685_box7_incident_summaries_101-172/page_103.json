@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 103,
+  "original_image_tags": [
+    "A scanned, aged, beige-colored document page. The paper shows two hole-punch marks on the left margin. The text is typewritten. At the top right, \"Incident # 138 cont'd\" is typed. At the bottom right, \"T-42603 Incident # 138\" is typed. The page appears to be a continuation of a report, possibly related to Project Sign or Grudge, detailing observations involving P-80 aircraft and a sighting in the Columbus, Ohio area."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed text on a paper document. Includes typed body text and a page header 'Incident # 135 cont'd' and footer 'T-42603 Incident # 135'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions contradict each other on the specific incident number quoted in the page header and footer ('138' vs '135').",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:26:23"
+}

@@ -1,0 +1,1 @@
+*Image: Black-and-white photograph of a ceiling light fixture or lamp base mounted at a wall-ceiling corner, with dark trim beams and a small rectangular wall plate below.*

@@ -1,0 +1,34 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 161,
+  "original_image_tags": [
+    "[Left margin distribution list, handwritten annotations in red ink and pencil]",
+    "[Bottom of page, typed initials and date stamp]",
+    "[Pencil initials in bottom right margin, various illegible scribbles]"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed memo with subject 'FLYING SAUCERS' dated July 10, 1953, from John Edgar Hoover to the Director of Special Investigations, Department of the Air Force, describing a reported encounter with three small animals believed to have landed from a flying saucer near Mableton, Georgia."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Red stamped text '62-83874-334' at the top center. Black stamped text 'RECORDED-124', 'INDEXED-124', and 'EX-103' at the top left. A red rectangular stamp at the bottom right reading 'COMM - FBI JUL 1 0 1953 MAILED 27'. A small red stamp 'ENCLOSURE' is visible on the left margin above a handwritten '124'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes visual elements (handwritten annotations, pencil initials, scribbles) that are absent in Description B, which instead describes detailed stamps and labels not mentioned by A, indicating a complete mismatch in the visual content being described.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:42"
+}

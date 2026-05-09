@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 36,
+  "original_image_tags": [
+    "The reverse side of a typed document, printed on aged, yellowish paper. Two dark punch holes are visible at the top edge. Faint, mirrored text from the obverse side bleeds through the paper. A single blue ink stamp is oriented upside down near the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two dark circular holes punched at the top. Faint, illegible text bleed-through from the reverse side. A blue stamp at the bottom reads 'RECEIVE', 'SEP 14 3 18 PM', 'F.B.I', and 'DEPT OF JUSTICE'. The page is blank apart from these elements."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, legible text from a stamp ('RECEIVE', 'SEP 14 3 18 PM', 'F.B.I', 'DEPT OF JUSTICE') while Description A states the stamp text is not readable, indicating a direct contradiction on the legibility and specific content of a key visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:46"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 2,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims specific visual elements (hole punches, a distribution list with checkmarks, and the name 'Miss Gandy' in a list) that are not mentioned in Description B, which instead describes handwritten initials, numbers, and stamped labels as the only visual content.",
+  "original_image_tags": [
+    "Standard Form 64. The document has three hole punches at the top. The right margin contains a distribution list with checkmarks next to \"Mr. Tolson\" and \"Mr. E. A. Tamm\". The name \"Miss Gandy\" is visible at the bottom of this list."
+  ],
+  "gpt_mini_desc": "*No image content on this page.*",
+  "gpt_mini_desc_len": 32,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 11,
+    "total_tokens": 14903,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:12"
+}

@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 96,
+  "original_image_tags": [
+    "A document page showing faint, reversed (mirror-image) typewritten text, as if viewing the back of a thin sheet or a carbon copy. The page has two punch holes at the top center. Several stamps are visible in the bottom margin.",
+    "A faded, reversed stamp text block in the bottom right corner.",
+    "A faded, reversed stamp text block in the bottom left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned page showing the reverse side of a typed document with extensive bleed-through text visible in reverse. The text includes headers and paragraphs. The page has two punch holes at the top. Several rubber stamps are visible at the bottom, including 'FBI', 'INTERNAL SECURITY 2A', 'REC'D', and 'RECEIVED' with associated dates and times."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the page being a reversed scan with bleed-through text, two punch holes, and stamp impressions at the bottom, but B adds specific quoted stamp text (FBI, REC'D) that A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:05"
+}

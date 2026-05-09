@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 123,
+  "original_image_tags": [
+    "Document is a typed checklist on dark paper with white text. Two hole-punch marks are visible on the left margin. The word \"RESTRICTED\" is stamped in large, stencil-like letters at the top center and again at the bottom right. There is a small handwritten marking in the bottom right corner below the stamp that appears to read \"12-\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed document titled 'CHECK-LIST - UNIDENTIFIED FLYING OBJECTS' dated 20 July 1947, Incident # 57. It contains a numbered list of 26 fields detailing a UAP observation near Sidney, Newfoundland. The text 'RESTRICTED' is stamped at the top and bottom of the page. There are no photographs, sketches, or diagrams present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:42"
+}

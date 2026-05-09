@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 85,
+  "original_image_tags": [
+    "A sheet of aged, off-white paper with three hole-punch marks at the top. Pasted onto the sheet are several clippings from a yellowed newspaper or magazine article about \"flying saucers\" and pilot encounters. The text is broken into columns and sections with bold headlines."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Three separate newspaper clippings containing printed text. No embedded photographs, sketches, diagrams, or maps are visible within the clippings. The clippings feature visible headlines including 'His last report', 'Still a mystery', 'Head-on meeting', and 'Seeing's believing'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on text-based newspaper clippings without embedded visual media, but they disagree on the number of clippings and omit/include specific headline quotes without direct contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:43"
+}

@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 81,
+  "original_image_tags": [
+    "Standard typewritten US Government Office Memorandum, yellowed with age. Blue handwritten checkmarks and initials are present near the top right and center. A large red \"P\" is drawn in the bottom right margin.",
+    "A large blue handwritten initial, likely \"DAL\" or \"ML\", next to \"MR. LADD\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned United States Government Office Memorandum (Standard Form No. 64) dated October 19, 1950, regarding 'Flying Saucers'. It contains typed text, handwritten annotations, signatures, and multiple date/file stamps."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes specific visual annotations (blue checkmarks, initials, a large red 'P') that are absent from Description B, which provides no detail about the page's visual markings and only mentions a typed memo.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:36"
+}

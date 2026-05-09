@@ -1,0 +1,42 @@
+{
+  "file": "dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf",
+  "stem": "dow-uap-d51-email-correspondence-pacific-time-zone-march-2023",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "f21f4ae91e51810bfa8a6fce6c422f2bbf99c6277871846c642f987954c042f6",
+  "size_bytes": 76470,
+  "total_pages": 6,
+  "pages_processed_in_run": 6,
+  "status": "complete",
+  "elapsed_sec": 0.2,
+  "completed_at": "2026-05-08 15:39:08",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    }
+  ]
+}

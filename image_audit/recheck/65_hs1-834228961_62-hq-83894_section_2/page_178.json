@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 178,
+  "original_image_tags": [
+    "A single, aged, off-white document page. The page appears to be a carbon copy or thin paper, as the typed text is faint and appears reversed, as if it is the back side of a page with text showing through from the front, or a carbon copy. The top and right edges are irregular and torn. There are two punch holes at the top center. At the bottom are two blue ink stamps and a handwritten note. The stamps and handwritten note are oriented correctly relative to the viewer, while the faint typed body text is reversed."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned document page consisting entirely of typed text arranged in paragraphs. It includes two circular stamp impressions reading 'INTERNAL SECURITY F.B.I.' with dates and times, and a handwritten annotation 'Sage - 9-6' at the bottom left."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes an aged document with reversed text, torn edges, punch holes, and blue ink stamps, while Description B describes a page of entirely typed text with different stamp content ('INTERNAL SECURITY F.B.I.') and a different handwritten annotation, indicating they are describing different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:30:00"
+}

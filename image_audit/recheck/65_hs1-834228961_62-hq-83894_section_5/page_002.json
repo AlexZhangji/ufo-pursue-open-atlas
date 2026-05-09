@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 2,
+  "original_image_tags": [
+    "Scanned image of a worn, orange/brown manila folder or envelope. The folder shows significant age with creased corners and edges. Several handwritten annotations and stamped markings are visible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint red stamped label with the word 'FOIPA' prominently visible in large letters. Additional smaller text within the stamp is illegible."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint red grid structure located near the top left corner, resembling a filing or indexing template."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes the overall document as a worn manila folder, while Description B focuses on specific stamps and a grid, indicating they are describing fundamentally different visual content with no overlap.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:39"
+}

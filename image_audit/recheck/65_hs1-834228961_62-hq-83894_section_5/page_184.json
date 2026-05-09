@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 184,
+  "original_image_tags": [
+    "A single black-and-white photograph mounted on a backing card. The photograph itself consists of three sequential frames from a film strip, likely motion picture or still camera film, arranged vertically. The film's sprocket holes and frame borders are clearly visible as thick black bars separating the frames. The perspective is looking upwards from below, through what appears to be a window or structure with horizontal bars. The background in all frames shows a partly cloudy sky and the dark silhouettes of tree tops along the right and bottom edges."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A single vertical photograph of a sky with scattered clouds and tree branches at the bottom. The image is framed by thick black borders, with horizontal black bars dividing it into three horizontal panels. In each panel, there is one dark circular object in the sky and one small, fainter object that appears to be an airplane. The entire image is black and white."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:18"
+}

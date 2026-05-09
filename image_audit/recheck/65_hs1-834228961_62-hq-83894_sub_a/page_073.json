@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 73,
+  "original_image_tags": [
+    "A newspaper clipping from the \"Times-Herald, 2nd sec., 10-5 Star Edition\" (as noted in the typed list on the right) is attached to the center of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A single newspaper clipping with the headline 'Flying Saucer Tracked on Navy Radar Screen'. The text is a news article from Memphis, Tenn., dated July 13 (UP), describing a radar and visual sighting of a 'flying saucer' by Navy pilots and an electronics technician. The article contains no photographs, illustrations, or diagrams. It includes a dateline, body text describing the incident, and a footer with newspaper names (Times-Herald, Wash. Post, Wash. News, Wash. Star, N.Y. Mirror) and a handwritten date '7-13-50'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions identify a single newspaper clipping with consistent headline and footer details, but description B adds specific textual content (headline, article text, dateline) not mentioned in description A, which focuses on attachment location and typed reference.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:31"
+}

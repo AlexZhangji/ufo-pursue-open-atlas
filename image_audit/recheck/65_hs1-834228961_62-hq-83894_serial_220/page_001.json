@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_220",
+  "page_num": 1,
+  "original_image_tags": [
+    "A vertical barcode is present on the left side of this label. Below the barcode, the text reads:",
+    "A vertical barcode is present on the left side of this label. Below the barcode, the text reads:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Top white label with text '62- HQ-83894', 'Serials EBF 220', a barcode with numbers '62-HQ-83894-EBF 220', and a red plus sign. Black stamp below label reading 'DO NOT DESTROY' and 'FOIPA# 1254932'. Handwritten text 'ENCL. BEHIND FILE'. Handwritten red numbers '62-83894-220'. Bottom white label with text 'FBI - CENTRAL RECORDS CENTER', 'HQ - HEADQUARTERS', table entries 'Class / Case # 0082 83894', 'Sub 1', 'Vol. 220', 'Serial # ONLY', date '8/11/1274164', and a barcode with text 'RRP003IXG6'. Blue label in bottom right corner with text 'Declassification authority derived from FBI Automatic Declassification Guide, issued May 24, 2007.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A only mentions a vertical barcode and text below it, while Description B describes a complex set of multiple labels, stamps, and handwritten text with specific quoted strings, indicating the descriptions are about fundamentally different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:47"
+}

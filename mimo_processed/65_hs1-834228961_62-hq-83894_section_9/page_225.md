@@ -1,0 +1,18 @@
+*Image: A scanned document page on pink paper. The paper has two black hole-punch marks at the top. The main body of text is typed in all-caps and appears inverted (upside-down). A typed stamp at the bottom is also inverted.*
+
+## FOOTER (INVERTED STAMP)
+> REGD-TELETYPE UNIT
+> FBI
+> APR 27  5 16 AM '64
+
+## MAIN BODY (INVERTED TEXT)
+> END
+> LTD
+> FBI WASH DC
+>
+> BUREAU WILL BE ADVISED OF ANY PERTINENT DEVELOPMENTS.
+> DATE HAVE NO EXPLANATION.
+> ARE NOT A PART OF A MILITARY EXERCISE TO THEIR KNOWLEDGE AND TO
+> MILITARY OFFICERS CONTACTED ADVISED THE TWO INCIDENTS REPORTED
+> LIAISON BEING MAINTAINED.
+> ADVISED. NO INVESTIGATION BEING CONDUCTED BY FBI, ALBUQUERQUE.

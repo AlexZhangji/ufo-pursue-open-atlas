@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 174,
+  "original_image_tags": [
+    "Blue Department of Defense seal in upper right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Department of Defense seal located in the top right corner of the document."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "American Revolution Bicentennial logo located in the bottom left corner, containing a star shape and text reading 'AMERICAN REVOLUTION BICENTENNIAL 1776-1976'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B adds a specific American Revolution Bicentennial logo with quoted text that is completely absent from Description A, representing a clear contradiction in described visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:08"
+}

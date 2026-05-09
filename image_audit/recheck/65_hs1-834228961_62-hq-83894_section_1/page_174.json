@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 174,
+  "original_image_tags": [
+    "A mostly blank, off-white page, likely the back of a document. Two black binder holes are punched at the bottom edge. A handwritten note in pink or red ink is visible in the upper right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "blank_or_back_of_page",
+        "description": "A blank or mostly blank page with handwritten red text at the top reading 'EXCLOSURE 62-83894-52' and three dark circular binder punch holes along the bottom edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states there are two binder holes, while Description B states there are three, creating a direct contradiction on a specific object count.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "blank_or_back_of_page"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:24"
+}

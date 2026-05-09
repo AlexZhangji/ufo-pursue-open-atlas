@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 89,
+  "original_image_tags": [
+    "Scan of the back of a light-colored card or photographic print. The surface is mostly blank with minor smudges and spots. Typed text \"SIDE VIEW\" appears in the upper left. A handwritten case number is written vertically in blue ink on the right side."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The image shows the back of a physical document or photograph. The typed text 'SIDE VIEW' is visible in the upper left corner. There is a handwritten sequence of numbers '62-83894-24' in blue ink on the right side. The background is off-white paper with minor smudges and spots."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements (back of a card/photo, 'SIDE VIEW' text, handwritten numbers, smudges) but Description B provides the specific handwritten number sequence that Description A omits without contradicting it.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:24"
+}

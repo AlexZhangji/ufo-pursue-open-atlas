@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 142,
+  "original_image_tags": [
+    "A blank page of lined paper, possibly from a notepad, with three hole-punch marks along the right edge. There are two irregular holes near the top edge. The page contains only the handwritten number \"8\" and three stamped notations near the bottom, two of which are inverted relative to the number 8."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint blue typed or stamped text located in the bottom right corner. The top line reads 'REC'D - OCH & ICHS' (partially illegible). The bottom line reads 'MAY 19 9 52 AM '69'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A small red ink stamp located in the bottom left corner, oriented vertically along the red margin line. It contains the number '8' and the text 'MAY 1 9 69'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A identifies a single handwritten number '8' while Description B describes two distinct stamped elements with different text ('REC'D - OCH & ICHS' and 'MAY 1 9 69'), creating a direct contradiction on the specific quoted text and visual composition.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:45"
+}

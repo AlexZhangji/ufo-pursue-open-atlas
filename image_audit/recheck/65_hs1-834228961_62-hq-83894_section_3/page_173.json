@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 173,
+  "original_image_tags": [
+    "A weathered, off-white piece of paper with ragged, torn edges, showing two hole-punch marks at the top. The paper contains the typed text transcribed above. The background is dark, and a small blue rectangular box with white text reading \"This image contains all the information on the document.\" is visible in the lower-left corner, partially obscuring the typed signature block."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed document titled 'Report on a \"Flying Saucer\"'. The page contains body text describing an event on July 29, 1947, in Montana. There are punch holes at the top, minor damage along the edges, a faint red handwritten annotation at the bottom right, and a faint pink 'ENCLOSURE' stamp at the bottom right. No photographs, sketches, diagrams, or charts are visible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:50"
+}

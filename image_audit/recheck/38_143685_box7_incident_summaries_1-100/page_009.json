@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 9,
+  "original_image_tags": [
+    "A black-and-white photocopy of a typed form. A large \"CONFIDENTIAL\" stamp is at the top center and a second identical stamp is at the bottom right. There are punch holes on the left margin. A handwritten \"8\" is in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed checklist document titled 'CHECK-LIST - UNIDENTIFIED FLYING OBJECTS' regarding Incident #3, dated 7 July 1947. The page contains numbered text fields detailing an observation at Muroc Army Air Field, including details such as object description (sphere, yellowish white, 5-10 feet in diameter) and observer Major J. C. Wise. The page includes the stamped text 'COPY' in the top left, and a large 'CONFIDENTIAL' stamp at both the top and bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific typed text ('CHECK-LIST - UNIDENTIFIED FLYING OBJECTS', incident details, 'COPY' stamp) that Description A does not mention, indicating a fundamental disagreement on the visual content of the document.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:32"
+}

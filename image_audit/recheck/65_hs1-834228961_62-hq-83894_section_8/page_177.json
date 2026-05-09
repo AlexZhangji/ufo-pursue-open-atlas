@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 177,
+  "original_image_tags": [
+    "A yellowed, rectangular newspaper clipping typed on a Washington City News Service teletype form, adhered to the page with translucent tape. The text is in all-caps monospaced type. The paper shows age-related discoloration."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed document on aged paper featuring a distribution list of names in the upper right, a main body of text enclosed in a highlighted box titled 'UP73 (FLYING SAUCERS)', and handwritten annotations including a name, the number '5', and a file code '419' in the lower right. A stamped line of numbers '62-43894-374' is visible at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims the visual content is a newspaper clipping, while Description B describes a typed document with a distribution list, a highlighted box, handwritten annotations, and stamped numbers, indicating they are describing completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:02"
+}

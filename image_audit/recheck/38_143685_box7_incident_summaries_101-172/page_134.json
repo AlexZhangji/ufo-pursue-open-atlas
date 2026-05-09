@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 134,
+  "original_image_tags": [
+    "A hand-drawn map or sketch on a dark background, possibly a negative or white-on-dark drawing. The map depicts an intersection of roads, a creek, and wooded areas. A north arrow points upward. The word \"CONFIDENTIAL\" is stamped at the top right and bottom left."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A hand-drawn map on a dark background with white lines and text. It shows a geographic layout with roads, woods, a creek, and a bridge. Labels include 'CONFIDENTIAL' at the top and bottom, a north arrow, 'E 56th St', 'Fall Creek Blvd', 'Path of Object', 'Woods' (multiple instances), 'Cantilever Type Bridge', 'Clearing', 'Fall Creek', 'Lady wood School (Approx 1/4 mi f/sighting)', and a signature block '/s/ Russell J. Carey Jr., 1st Lt, USAF Intel Officer'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree the visual content is a hand-drawn sketch map on a dark background with roads, woods, a creek, a bridge, a north arrow, and 'CONFIDENTIAL' stamps; Description B adds extensive label details and a signature block that Description A omits but they do not contradict each other on any shared quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:26:33"
+}

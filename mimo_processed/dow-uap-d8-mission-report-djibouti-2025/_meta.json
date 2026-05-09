@@ -1,0 +1,46 @@
+{
+  "file": "dow-uap-d8-mission-report-djibouti-2025.pdf",
+  "stem": "dow-uap-d8-mission-report-djibouti-2025",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d12025886c",
+  "size_bytes": 29154,
+  "total_pages": 7,
+  "pages_processed_in_run": 7,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:19",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    }
+  ]
+}

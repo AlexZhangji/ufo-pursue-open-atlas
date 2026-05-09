@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 144,
+  "original_image_tags": [
+    "Blue label in top right corner reading \"Best Possible Image\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned declassified document page consisting of typed body text, form structures, redaction blocks, and various stamps. No distinct photographs, sketches, diagrams, maps, or charts are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a specific blue label with quoted text ('Best Possible Image') exists in the top right corner, while Description B states no distinct stamps or labels are present, indicating a direct contradiction on a visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:50"
+}

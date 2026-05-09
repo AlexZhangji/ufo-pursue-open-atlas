@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 136,
+  "original_image_tags": [
+    "A yellowed newspaper clipping taped to a light gray archival paper. The paper has two punched holes at the top. The clipping has visible tape marks and a thin red diagonal line drawn through it."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "One newspaper clipping taped to the page. Headline reads: 'Local Man Reports Seeing What He Believes Was \"Flying Disc\"'. Text below mentions 'Wade Harrison, Fort Smith post office employee' and 'Grand avenue at Eleventh street'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a yellowed newspaper clipping with tape marks and a red diagonal line, while Description B provides specific quoted headline and body text that is not mentioned in A, indicating a fundamental contradiction on the visual content and quoting text that the other does not see.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:15"
+}

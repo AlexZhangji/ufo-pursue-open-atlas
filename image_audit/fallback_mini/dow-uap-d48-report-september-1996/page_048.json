@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 48,
+  "categories": [
+    "diagram"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on a technical map/diagram with an oval-shaped impact pattern, a dense cluster, and a single large dot, but they disagree on the geographic location and disagree on quoted text, indicating inconsistency on visual details.",
+  "original_image_tags": [
+    "A black-and-white technical map showing the southeastern United States coastline. An oval-shaped impact dispersion pattern, composed of numerous small dots, is centered over land, likely in the region of South Carolina and North Carolina. A denser, darker concentration of dots marks the center of the oval. A single, larger black dot is located within the oval, slightly southwest of the center. The coastline is rendered with a simple outline, showing Florida, Georgia, South Carolina, and North Carolina."
+  ],
+  "gpt_mini_desc": "*Image: A technical diagram labeled “Figure 7. Atlas IIAS Impacts with No Breakup,” showing a large dotted circular impact footprint over an outlined map-like coastline, with vertical text reading “Atlas IIAS Impacts Random-Attitude Failures at 130 sec. Thrust to 280 sec. No Breakup.”*",
+  "gpt_mini_desc_len": 286,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 72,
+    "total_tokens": 56228,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:30"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 204,
+  "original_image_tags": [
+    "A single sheet of aged, lined notebook paper. The paper is cream-colored with blue horizontal rules and a single red vertical margin line on the right. It has three punched holes along the top edge and appears worn, with frayed and torn edges, particularly on the left and bottom. There are several pieces of yellowed, cracked adhesive tape securing the paper: one long diagonal strip on the left side, a smaller vertical piece on the right edge, and tape fragments at the top and bottom corners. Faint, illegible cursive handwriting in pencil or light ink is visible across the lined area, but it is too faded to read clearly."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A single piece of aged, lined paper with torn edges, three punch holes, and pieces of aged tape. At the bottom, there are two stamped impressions. The top stamp, oriented upside-down, reads 'MR. JONES. / RECEIVED / FBI / S DEPT OF JUSTICE' with the date 'Jul 24 4:19 PM '50'. Below it, a red stamp reads 'RECEIVED RECORDS SEC. / Jul 24 2 52 PM '50'. No other distinct visual elements are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, legible stamp text that Description A reports as completely illegible, which is a direct contradiction on verbatim content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:46"
+}

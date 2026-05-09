@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "341_110677_numerical_file_5-2500",
+  "page_num": 1,
+  "original_image_tags": [
+    "A blank, light gray file folder divider sheet. The top left tab has the numbers \"5-2500\" printed on it. A second tab slightly to the right has the numbers \"9-544\" printed on it. The word \"SECRET\" is stamped in black ink near the top center and near the bottom center, with both instances crossed out by a horizontal line. In the top right corner, a blue and white \"DECLASSIFIED\" sticker is affixed, bearing the text \"Authority: NND 857013\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A scanned image of the back or cover of a file folder. Visible elements include handwritten numbers '5-2500' and '9-544' at the top, two stamped instances of 'SECRET' with black redaction bars over a preceding word, and a blue 'DECLASSIFIED' stamp with authority 'NND 857013' in the top right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same visual elements: two tab numbers ('5-2500' and '9-544'), two 'SECRET' stamps with crossing-out, and a blue 'DECLASSIFIED' sticker with authority 'NND 857013'.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:45"
+}

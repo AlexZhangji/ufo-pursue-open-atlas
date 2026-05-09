@@ -1,0 +1,38 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 7,
+  "original_image_tags": [
+    "black-and-white photograph of two men. Left: Schmidt (left), wearing glasses and a suit. Right: Kearney Police Chief Nelson, wearing a suit and tie. They are seated at a table with a microphone between them. Caption: \"Schmidt (left) and Kearney Police Chief Nelson... In 'heart-to-heart' talk.\"",
+    "Hand-drawn sketches of the described craft."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black and white photograph of two men (captioned Schmidt and Kearney Police Chief Nelson) looking at a microphone."
+      },
+      {
+        "category": "sketch",
+        "description": "A line drawing labeled 'SIDE VIEW OUTSIDE' depicting a disc-shaped object with landing gear. Text inside the sketch reads 'LENGTH: APPROX. 100 FEET'."
+      },
+      {
+        "category": "diagram",
+        "description": "A floor plan diagram labeled 'FLOOR PLAN INSIDE' showing a circular layout with labeled sections including 'INSTRUMENTS', 'LOUNGE', 'SEALED COMPARTMENT', 'FAN IN ROOF', and 'CONVEYOR TO BACK OF SHIP'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on a black-and-white photograph of two men (Schmidt and Kearney Police Chief Nelson) with a microphone, and on the presence of hand-drawn sketches of a craft; the specific text quoted in the captions is consistent ('Schmidt (left) and Kearney Police Chief Nelson' and 'SIDE VIEW OUTSIDE'/'FLOOR PLAN INSIDE').",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "sketch",
+    "diagram"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:14:49"
+}

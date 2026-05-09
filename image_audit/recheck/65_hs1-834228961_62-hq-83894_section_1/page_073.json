@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 73,
+  "original_image_tags": [
+    "A faded pink paper document, likely a routing slip, bearing multiple stamped reception dates and times from July 1947. The paper shows signs of age and wear, including two punched holes at the top and tattered edges at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A pinkish-tan document back featuring multiple blue and black ink date stamps, including 'RECEIVED TELETYPE UNIT JUL 7 18 18 PM '47 F.B.I. DEPT. OF JUSTICE', 'RECEIVED U.S. DEPT. OF JUSTICE JUL 8 5 53 AM '47', 'RECEIVED INTERNAL SECURITY F.B.I. DEPT. OF JUSTICE JUL 9 5 13 PM '47', and other partially legible stamps. Two black hole-punch marks are at the top center."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (a pinkish document with hole punches and multiple date stamps), but Description B provides specific quoted text for the stamps while Description A only mentions their existence without quoting them.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:11"
+}

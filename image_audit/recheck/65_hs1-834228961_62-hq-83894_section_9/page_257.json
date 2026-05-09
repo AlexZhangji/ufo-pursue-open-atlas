@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 257,
+  "original_image_tags": [
+    "The reverse side of a weathered, off-white document page with two hole-punch marks at the top. There is significant paper aging and yellowing, particularly on the left edge. The page contains faint bleed-through text from the front side, a handwritten signature in the center, and two stamped notations at the bottom. The stamps are oriented upside-down relative to the page's current orientation."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two date stamps at the bottom: one red ink stamp reading 'NOV 1 2 1964' with partially illegible text above it, and one blue ink stamp reading 'REC'D-CORP & BUREAUS FBI NOV 12 9 31 AM '64'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (a weathered page with two stamps at the bottom), but Description A omits the specific stamp text provided by Description B without contradicting it.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:12:17"
+}

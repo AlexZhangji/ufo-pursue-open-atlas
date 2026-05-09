@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 49,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual element—a newspaper clipping with the headline 'High-Flying Bomber Caused New Disc Tale'—but Description A adds details about the page's date, source, and pasted location while Description B adds detail about the clipping's content and internal structure, with no contradictions.",
+  "original_image_tags": [
+    "A single page from a US government archive. The page is off-white with punch holes at the top. It features a newspaper clipping, handwritten annotations, stamps, and a typed distribution list.",
+    "A black-and-white newspaper clipping from The Philadelphia Inquirer, dated August 29, 1952, is pasted in the center of the page. The headline reads \"High-Flying Bomber Caused New Disc Tale\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned archival document page with a pasted newspaper clipping titled “High-Flying Bomber Caused New Disc Tale,” handwritten annotations, a stamped “NOT RECORDED 101 SEP 12 1952,” a printed name list box at upper right, and a section-routing stamp at lower right.*",
+  "gpt_mini_desc_len": 275,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 66,
+    "total_tokens": 56222,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:01"
+}

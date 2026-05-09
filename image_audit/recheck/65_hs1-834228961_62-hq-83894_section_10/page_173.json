@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 173,
+  "original_image_tags": [
+    "A scanned page showing the back side of a typed document with multiple ink stamps. The typed text is faintly visible through the paper in reverse. The stamps are mostly in blue ink and mark the document's routing and receipt within the FBI.",
+    "A faint, upside-down ink stamp that appears to read \"FBI LABORATORY DIVISION\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page containing primarily typed body text, multiple blue ink date stamps (e.g., AUG 23 2 40 PM '74, AUG 22 4 49 PM '74), and administrative routing stamps (e.g., PHYSICS & CHEMISTRY LABORATORY, ASSISTANT DIRECTOR INTELLIGENCE DIV.)."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the main visual content (scanned page with multiple blue ink stamps and faint typed text showing through), but Description A identifies a faint upside-down stamp reading 'FBI LABORATORY DIVISION' while Description B does not mention it, representing a detail addition rather than a contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:29:07"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 50,
+  "original_image_tags": [
+    "A yellowed, aged newspaper clipping is pasted or affixed to a larger, off-white document page. The clipping appears to be from a newspaper, showing some wear and a vertical crease or tear mark."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page consists of a typed or printed body of text. There are no photographs, sketches, diagrams, maps, or charts visible. A stamped 'RECORDED' label and faint handwritten numbers are present at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a pasted newspaper clipping, while Description B explicitly states there are no photographs or visual content, creating a direct factual contradiction about the presence of an image.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:42"
+}

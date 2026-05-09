@@ -1,0 +1,19 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 125,
+  "original_image_tags": [
+    "A single page of lined notebook paper, off-white with age, featuring blue horizontal lines and a red vertical margin line on the left. The page is blank except for three circular hole-punch marks on the right margin. There are minor creases, tears along the top edge, and staining in the bottom left corner. Faint, illegible impressions are visible through the paper from the reverse side."
+  ],
+  "rerun_extract": {
+    "elements": [],
+    "_parse_error": "{\n  \"elements\": [\n    {\n      \"category\": \"stamp_or_label_only\",\n      \"description\": \"A blank page of lined paper with holes punched on the left side. At the bottom, there is blue text stamped upside down that reads 'FBI', 'MAR 18 9 48 AM \\'60', and partially legible text that appears to say 'RECD-"
+  },
+  "judge": {
+    "score": 0,
+    "reason": "extract empty"
+  },
+  "categories": [],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:36"
+}

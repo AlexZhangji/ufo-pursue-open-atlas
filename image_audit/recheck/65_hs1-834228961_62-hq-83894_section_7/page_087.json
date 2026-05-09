@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 87,
+  "original_image_tags": [
+    "Aged, off-white or light-yellow paper document, likely a carbon copy or back of a page. Two hole-punch marks at the top. Faint, reversed (mirrored) typewritten text is visible through the paper from the other side, indicating this is the reverse side of a document. Several stamps and handwritten notations are present."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One inverted rectangular ink stamp with a border containing the legible text 'OCT 30 1955' and partial text 'RECEIVED'. Below it, an inverted blue ink stamp reads 'RECEIVED - MAIL ROOM / FBI / U.S. DEPT OF JUSTICE / OCT 29 11 55 AM '55'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims there are no specific, legible stamp texts, while Description B quotes two distinct inverted stamps with precise dates and text ('OCT 30 1955', 'RECEIVED', 'RECEIVED - MAIL ROOM / FBI / U.S. DEPT OF JUSTICE / OCT 29 11 55 AM '55'), creating a direct contradiction on the presence and content of visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:54"
+}

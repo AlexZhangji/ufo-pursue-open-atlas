@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 73,
+  "original_image_tags": [
+    "Reverse side of a typed document, showing bleed-through text from the front of the page. The paper is aged, off-white, with two hole-punch marks at the top. Three ink stamps are applied in the lower right quadrant.",
+    "Faint, reversed text from the other side of the page is visible through the paper, but it is not legible enough for transcription."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page shows the reverse side of a document with faint, mirrored text visible through the paper. There are two hole-punch marks at the top, a blue stamp in the lower right reading 'RECEIVED-L.A. DIV. U.S. DEPT. OF JUSTICE F.B.I. DEC 28 3 55 PM '48', and a blue stamp reading 'RECENDED JAN 6 2 54 PM '48' with partially obscured text above it."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed verbatim text from stamps that Description A says are not legible for transcription, indicating at least one side is likely hallucinating text from low-confidence pixels.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:37"
+}

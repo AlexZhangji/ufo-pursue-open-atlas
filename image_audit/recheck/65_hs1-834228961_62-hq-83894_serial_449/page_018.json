@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 18,
+  "original_image_tags": [
+    "black-and-white head-and-shoulders portrait photograph of a young man in a dark jacket and collared shirt, identified as GARY WILCOX."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper front page from the Oakland Tribune dated Tuesday, March 22, 1966. It features a masthead with the title 'Oakland Tribune', subheadings 'GOLDEN GATE Handicap---Results' and 'METRO FINAL PM', and several articles with headlines: 'Civil Defense Director Watches 'Flying Saucer'', 'Eerie 1896 Sighting', '87 Coeds Observe 'Object'', 'Than 5 Million People They Saw Flying Saucers', and 'I Know What I Saw; Egg-Shaped Craft'. There is a black-and-white portrait photograph of a man labeled 'GARY WILCOX' within the rightmost column. The text is densely packed in a multi-column layout typical of a newspaper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a simple portrait photograph, while Description B claims the image is a complex newspaper front page with multiple articles and a specific date, which are mutually exclusive visual content categories.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:35"
+}

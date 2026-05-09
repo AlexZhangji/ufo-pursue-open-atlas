@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_173-233",
+  "page_num": 113,
+  "original_image_tags": [
+    "A scan of a single page of aged, off-white paper. Two punch holes are visible at the top center. The page contains typed text in a typewriter font, centered in the upper portion. The lower two-thirds of the page is blank. A faint, curved line or mark is visible near the bottom left corner, and a vertical line along the right edge suggests the edge of the paper or a scan border."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A single page containing typed text. Visible text includes 'TT Conf 193', '23 Dec 48', 'Incident 221', 'OSAF ITEM 5 / RESTRICTED /', and a brief message regarding the 'Midland, Michigan' incident addressed to 'HQ AMC ATTENTION: PROJECT \"SIGN\"'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree the page contains only typed text with no photographs or diagrams, but Description B provides specific quoted text details absent in Description A.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:26:56"
+}

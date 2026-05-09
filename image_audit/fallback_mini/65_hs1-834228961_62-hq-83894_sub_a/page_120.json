@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 120,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions appear to refer to different visual content, with A describing a small dark disc-shaped object with a drawn white arrow, while B describes a bright white circular saucer with a trail and includes specific quoted caption text not mentioned in A.",
+  "original_image_tags": [
+    "A grainy black-and-white photograph depicting a small, dark, disc-shaped object hovering against a twilight sky filled with streaky clouds. A white arrow has been drawn on the photo pointing to the object. The object is near the top left center of the frame."
+  ],
+  "gpt_mini_desc": "*Image: Two clipped newspaper article cutouts about “flying saucers,” including a large sky photograph with a white arrow pointing to a small bright object near the top center, and a text-heavy article header and columns; handwritten names appear along the right margin.*",
+  "gpt_mini_desc_len": 271,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 56,
+    "total_tokens": 57718,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:20"
+}

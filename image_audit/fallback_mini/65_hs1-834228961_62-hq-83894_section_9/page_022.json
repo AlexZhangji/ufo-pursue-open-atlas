@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 22,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a boomerang/delta wing intersecting a sphere, while Description B describes a flying saucer with an oval over a disk; these are clearly different visual objects.",
+  "original_image_tags": [
+    "A stylized black-and-white logo featuring a sharp, angular shape resembling a boomerang or delta wing intersecting a textured sphere, set against a plain background."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typed letter on Inter-Continental Aerial Research Foundation letterhead with a circular logo and handwritten annotations, including the typed address “Missouri Filter Center, Robert T. Stone, Director, 10717 E. 27th Terr., Independence, Missouri.”*",
+  "gpt_mini_desc_len": 266,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 61,
+    "total_tokens": 56217,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:28"
+}

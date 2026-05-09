@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 51,
+  "original_image_tags": [
+    "Hand-drawn sketch on dark background (appears to be a photographic negative or blueprint-style reproduction). The sketch depicts a two-part device connected by a cable."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A hand-drawn diagram labeled 'EXHIBIT I' depicting a suspended object. The sketch shows an arched canopy at the top labeled 'SILVER' with a width of '8''. Below it, a 'DARK CABLE' labeled with a length of '5'' connects to a rectangular base labeled 'BALL OR A CANISTER' and 'SILVER'. The page also contains the word 'CONFIDENTIAL' at the top and bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree it is a hand-drawn sketch of a device; Description B adds specific labels and measurements not mentioned in A, but they do not contradict each other.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:25:59"
+}

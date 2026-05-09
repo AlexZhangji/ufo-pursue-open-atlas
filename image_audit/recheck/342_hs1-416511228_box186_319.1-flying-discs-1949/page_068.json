@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 68,
+  "original_image_tags": [
+    "A scanned document page showing the reverse side of a typed or carbon-copied document. The paper is off-white or light gray with significant noise and texture typical of older archival scans. The primary visual feature is faint, reversed (mirror-image) text showing through from the opposite side of the page. At the bottom (oriented upside down relative to the main viewing direction), there is a red ink stamp and a faint typed label."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded red ink stamp at the bottom left, oriented upside down relative to the page's current orientation. The stamp contains the words 'TRANSMITTED', 'MAR 2 1 16 PM '49', 'MARCH', and 'FLIGHT SERVICE CENTER'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the presence of a red ink stamp at the bottom left oriented upside down, but only B provides specific quoted text from it while A describes the stamp generally.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:25:10"
+}

@@ -1,0 +1,31 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 178,
+  "original_image_tags": [
+    "photograph of the Duchess of Kent presenting the men's doubles cup to a man in a blazer and white trousers, standing on a grass court. A crowd is visible in the background.",
+    "photograph of Maureen Connolly and Louise Brough at the net. Caption below reads: \"WINNING SMILE from Maureen Connolly and 'Well done!' from Louise Brough. America's Little Mo had just beaten Louise 7–5, 6–3 to win the women's singles.\"",
+    "photograph of Australia's Ken McGregor (left) covering Frank Sedgman. Caption reads: \"Australia's Ken McGregor (left) covers Frank Sedgman. The world's greatest doubles pair easily won another title.\"",
+    "photograph of two women on a tennis court. Caption reads: \"WINNERS' ACTION.—Little Mo (left) all out for a winner. LOSER'S REACTION.—Louise Brough all in after the match. Mo and the heat were too much.\"",
+    "diagram of the Brooks Appliance, showing a truss-like device.",
+    "bottle of Phosferine.",
+    "comic strip panel titled \"MUM\", showing a woman at a shop counter with a shopkeeper.",
+    "advertisement for Toni Home Perm. Caption reads: \"Because they've proved a Toni perm looks perfect from the first day.\" \"Because they've proved a Toni perm stays perfect for months and months.\" \"More women choose Toni than all other home perms combined!\" \"Whale Head Refill 9/-\" \"Toni Home Perm\"",
+    "sketch of a craft on the ground. Caption reads: \"The saucer begins to take off: the outer disk whirs faster and faster, rising up the centre 'conning-tower,' which remains stationary.\"",
+    "sketch of a craft rising into the air. Caption reads: \"Airborne, the strange craft whirls off at terrific speed, soon to be out of sight. The flame around the central tower rose again.\"",
+    "photograph of a man in uniform standing near a large concrete structure. Caption reads: \"Hole in ground\"",
+    "photograph of a man with a beard and a hat. Caption reads: \"Mr. George Edwards, Chief Designer for Vickers-Armstrongs\"",
+    "comic strip panel titled \"CAESAR\", showing a dog with a thought bubble saying \"(Ball)dogged does it!\""
+  ],
+  "rerun_extract": {
+    "elements": [],
+    "_parse_error": "{\n  \"elements\": [\n    {\n      \"category\": \"newspaper_clipping_illustration\",\n      \"description\": \"A full-page scan of a newspaper spread from the Sunday Graphic, July 6, 1952. The left page contains multiple black-and-white photographs of tennis players, a product illustration of a bottle, and a sk"
+  },
+  "judge": {
+    "score": 0,
+    "reason": "extract empty"
+  },
+  "categories": [],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:34:07"
+}

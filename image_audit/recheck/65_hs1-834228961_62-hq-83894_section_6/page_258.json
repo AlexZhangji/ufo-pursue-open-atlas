@@ -1,0 +1,30 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 258,
+  "original_image_tags": [
+    "black-and-white photograph of a show girl from behind, wearing a short, light-colored costume (corset and shorts) and high-heeled shoes, walking away towards a doorway.",
+    "black-and-white photograph of a group of people in an office setting. A woman is examining a garment held by a man, while others look on.",
+    "black-and-white photograph of a mannequin wearing a garment, with a woman adjusting it and two men standing nearby.",
+    "black-and-white photograph of a woman (Irene Sharaff) standing next to a seated man, holding up a pair of light-colored trousers and gesturing."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Newspaper clipping featuring a headline 'costumes executed by BROOKS' and three distinct photographs. The first photograph shows one woman viewed from behind, wearing a corset and garter belt, walking away from the camera, with a caption mentioning a show girl trying on a new costume. The second photograph shows three people (two men and one woman) in an office setting, with a caption identifying them as a designer and producers in an office. The third photograph shows two people (one woman and one man) discussing a garment, with a caption identifying them as discussing pants for a show. The clipping includes printed body text and a byline 'Produced by PATRICIA COFFIN'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B describes a single newspaper clipping containing three photographs with specific captions and a byline, whereas Description A describes four separate photographs with different subjects and captions, representing a fundamental disagreement on the number, layout, and visual content of the images.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:15"
+}

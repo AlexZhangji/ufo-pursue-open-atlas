@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 5,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B states specific, detailed stamp text that is absent from Description A, creating a direct contradiction on the presence and content of verifiable visual elements.",
+  "original_image_tags": [
+    "A low-quality, upside-down scan of a single typed government document page on aged, yellowed paper with two hole-punches at the top. The page contains a memo with several official stamps and handwritten annotations.",
+    "Several official stamps are visible on the lower half of the document, some upside down relative to the main text."
+  ],
+  "gpt_mini_desc": "No image content on this page.",
+  "gpt_mini_desc_len": 30,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 10,
+    "total_tokens": 14902,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:15"
+}

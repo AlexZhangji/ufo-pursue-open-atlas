@@ -1,0 +1,3 @@
+## Exhibit 1
+
+*Image: black-and-white photograph of a small, model-like flying saucer object, approximately 10-12 inches in diameter, resting on a dark surface. The object consists of a flat, white circular disc base. Mounted atop the center of the disc is a circular metallic band. Attached to this central assembly are various components including what appears to be a small electric motor, wiring, a spark plug, and other miscellaneous mechanical or electrical parts. The object appears to be a homemade or model construction, possibly a prop or a device intended to simulate a UFO.*

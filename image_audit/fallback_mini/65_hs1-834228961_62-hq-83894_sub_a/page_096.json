@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 96,
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions correctly identify the main newspaper clipping headline, the routing slip, and stamps, but Description A adds a handwritten note across the clipping that Description B does not mention, while Description B provides specific details about the routing list names and stamp text that Description A does not, with no direct contradictions on quoted text.",
+  "original_image_tags": [
+    "A yellowed newspaper clipping from the \"WASHINGTON NEWS\", page 6, is attached to a typed routing slip. The clipping headline reads \"Missing Inventor Hunted for Clue to 'Saucers'\" in large, bold, black type. The body of the article is in two columns. A handwritten note in blue ink, possibly \"Flying Discs\", is written across the middle left of the clipping. The clipping is dated at the bottom as \"WASHINGTON NEWS Page 6\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper page with a large headline reading “Missing Inventor Hunted for Clue to ‘Saucers’,” a typed list of names at upper right, and two orange-highlighted clipped article columns about flying saucers on the lower half, with handwritten annotations and date stamps on the page.*",
+  "gpt_mini_desc_len": 299,
+  "usage": {
+    "prompt_tokens": 57660,
+    "completion_tokens": 67,
+    "total_tokens": 57727,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:10"
+}

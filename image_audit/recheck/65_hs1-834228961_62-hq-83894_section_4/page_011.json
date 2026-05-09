@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 11,
+  "original_image_tags": [
+    "A page of handwritten text on aged, off-white paper. The writing is in purple ink, with a cursive, somewhat slanted style. The top right corner has a handwritten number \"2\". There are two dark, circular punch holes at the top margin, one partially obscured by a black dot. A small, dark smudge or blotch is present near the top center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A page consisting entirely of cursive handwritten text in purple ink on a light background, with no photographs, sketches, diagrams, maps, or charts present. Two dark circular punch holes are visible at the top right edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:56"
+}

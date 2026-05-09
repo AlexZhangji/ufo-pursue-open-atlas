@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 67,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions list different town names (e.g., Cullompton vs. Teignmouth) and one mentions 'coastal features and rivers' while the other does not, indicating a factual contradiction on specific locations depicted in the visual content.",
+  "original_image_tags": [
+    "Small map of coastal region in Devon, England. Shows towns including Ilfracombe, Woolacombe, Cullompton, Exeter, Sidmouth, Exmouth, Torquay, and Paignton. Water bodies are depicted with horizontal lines."
+  ],
+  "gpt_mini_desc": "*Image: A clipped newspaper article page with two columns of text, bold headings “Long Red Trail,” “Bluish Light,” and “Like Feeble Rocket,” plus a small black-and-white map of north Devon labeled with places including Ilfracombe, Woolacombe, Bideford, Exeter, Sidmouth, Exmouth, Torquay, and Paignton.*",
+  "gpt_mini_desc_len": 303,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 79,
+    "total_tokens": 54731,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:04"
+}

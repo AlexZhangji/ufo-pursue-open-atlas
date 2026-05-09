@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 62,
+  "original_image_tags": [
+    "A single, aged document page with a beige or off-white background. A blue ink stamp in the upper right corner indicates receipt by the FBI. Centered on the page is a large, faint, rectangular impression of handwritten text that appears to be a transfer or bleed-through from another document. The handwriting is in cursive script but is largely illegible due to its faintness and the texture of the paper. The page shows signs of age, including some discoloration and small dark spots or holes near the bottom edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue ink stamp at the top center. Legible text includes: 'RECEIVED', 'Nov 23 3 19 PM '43', 'INTERNAL SECURITY', 'F B I', 'U S DEPT OF JUSTICE'."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "A large rectangular area in the center of the page, appearing to be a very faint bleed-through of text from the reverse side. The text is largely illegible but appears to be multiple lines of handwritten or typed script."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states the FBI stamp is in the upper right corner and provides no legible text, while Description B places it at the top center and quotes multiple specific, legible lines of text, creating a direct contradiction on both location and verbatim content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:30"
+}

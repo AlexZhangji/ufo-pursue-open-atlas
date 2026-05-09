@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_164",
+  "page_num": 2,
+  "original_image_tags": [
+    "Two hole-punch marks visible at top of page, flanking the \"RESTRICTED\" stamp.",
+    "Handwritten note in red ink in lower left margin, written vertically: \"additional copies behind file.\"",
+    "Handwritten annotation in blue ink in bottom center margin: \"62-83894-164\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum document with a 'RESTRICTED' stamp at the top and bottom, dated 15 February 1949, regarding 'UNCONVENTIONAL AIRCRAFT'. Includes handwritten annotations in the bottom left corner and a stamped red alphanumeric string '62-83894-164' at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A reads the bottom alphanumeric as handwritten '62-83894-164' while Description B reads it as a stamped red string, creating a direct contradiction on the nature of the same visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:34"
+}

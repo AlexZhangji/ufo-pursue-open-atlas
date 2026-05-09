@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+  "page_num": 6,
+  "original_image_tags": [
+    "A white page showing a title page for a document. Along the left margin is a vertical column of black squares, indicating binding holes or marks. Centered on the page is typed text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page containing centered typed text 'UFOs and Defense' and '--The COMETA Report--' with a vertical column of 14 black rectangular punch-hole marks along the left margin. No photographs, sketches, diagrams, maps, or charts are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains only typed text and vertical binding marks with no photographs, sketches, diagrams, maps, or charts.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:29"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 15,
+  "original_image_tags": [
+    "A typewritten document on a dark background. The text is white against a black field, likely a photographic negative or a scan of a carbon copy. There are three hole-punch marks on the left margin. The text is titled 'EXHIBIT A' and attributed to 'Roy W. Cox, Director of Highways, STATE HIGHWAY COMMISSION OF KANSAS, Division 3, Norton'. The body consists of several paragraphs detailing witness statements about a large explosion and a 'missile' observed in the sky near Norcatur and Norton, Kansas, on the night of February 18."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page contains typed text on a dark background, detailing notes taken at Norcatur, Kansas regarding a bright light, smoke cloud, and explosion on Feb 18. Includes headings 'EXHIBIT A', 'Roy W. Cox, Director of Highways', 'STATE HIGHWAY COMMISSION OF KANSAS', 'Division 3', 'Norton', and 'NOTES TAKEN AT NORCATUR, KANSAS, Night of Feb 18'. Also contains a handwritten number '1018' in the top right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on typed text on a dark background and the same key headings and content, but Description B adds the detail of a handwritten number '1018' not mentioned in Description A, without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:25:46"
+}

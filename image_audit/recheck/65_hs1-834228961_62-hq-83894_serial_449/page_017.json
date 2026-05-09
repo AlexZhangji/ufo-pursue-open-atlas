@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 17,
+  "original_image_tags": [
+    "A single-panel comic strip titled \"BROTHER JUNIPER\" by Fr. Justin McCarthy & Len Reno. The cartoon shows a friar in a tattered habit standing on a sidewalk, holding a sign that says \"END OF THE WORLD IS NEAR\". A civilian man in a suit and hat is walking away, saying to him: \"These flying saucer stories are getting more ridiculous every day.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A black-and-white cartoon illustration depicting three figures (a priest, a woman, and a man) looking up at a bright, disc-shaped flying saucer in the sky. A caption below the illustration reads: 'These flying saucer stories are getting more ridiculous every day.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict each other on fundamental visual content: one describes a friar with a sign being approached by one civilian, while the other describes three figures (priest, woman, man) looking at a flying saucer.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:32"
+}

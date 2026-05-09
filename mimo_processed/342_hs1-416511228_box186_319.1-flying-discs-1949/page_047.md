@@ -1,0 +1,3 @@
+*Image: A scan of the back side of a typed document page. The paper is aged, slightly yellowed, with two hole-punch marks at the top center. The page is otherwise blank, showing only the faint, reversed impression of text from the other side (bleed-through). There is a small tear or damage in the upper right corner. No distinct, legible primary text is present on this face of the page.*
+
+*[No primary text content on this page. The faint, reversed text visible is bleed-through from the opposite side of the paper.]*

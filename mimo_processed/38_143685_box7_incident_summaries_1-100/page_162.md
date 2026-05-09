@@ -1,0 +1,13 @@
+## RESTRICTED
+
+Urie had sent his sons to the river for some tops from his boat. As they were overdue he went to look for them, when he noticed some 300 feet away some 75 feet in the air a sky-blue object silhouetted against the steep walls of the canyon on the far side. (The canyon is about 400 ft deep and 1200 ft across at that place.) The object was traveling 75 feet in the air (300 ft below the rim of the canyon) and so was plainly visible. Urie states that the sky-blue color would probably not be noticed against the sky. He states that "it did not spin like a top". However, he did say that the trees over which it passed almost directly did not just bend with the wind as if a plane had gone by but that they "spun around on top as if they were in a vacuum."
+
+Keith Urie, a son, eight years of age said he saw the machine coming down the canyon heading from east to west and following the contours of the ground. Billy, age ten, another son, saw it almost immediately. Both watched it fly out of sight behind a tree in a matter of moments.
+
+### AGENT'S NOTES:
+Urie seemed completely sincere about the incident and appeared to be a sober, middle-aged man
+The boys stated that they had never before seen one of the discs.
+
+*Image: A scanned black-and-white document page with typed narrative text at the top and a chalk-style hand-drawn sketch at the bottom showing a large elongated object with a smaller oval shape on top, a horizontal arrow labeled “200 ft,” and several small profile drawings beneath it; “RESTRICTED” is stamped at the top and bottom, and two binder hole punches are visible along the left edge.*
+
+## RESTRICTED

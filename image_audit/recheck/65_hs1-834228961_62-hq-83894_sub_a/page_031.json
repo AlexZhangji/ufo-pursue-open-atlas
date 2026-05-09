@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 31,
+  "original_image_tags": [
+    "A newspaper clipping from The Washington Daily News, dated January 5, 1954. The clipping features two black-and-white photographs. The top photograph shows two men, identified in the caption as Pfc. Norman Viets (left) and Maj. D. D. Pomerleau, smiling. The bottom photograph is a profile shot of a man pointing with his right index finger. Handwritten annotations in blue ink are visible at the top and top right of the clipping."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A vintage newspaper clipping from The Washington Daily News, dated January 5, 1954, featuring the headline 'Are They Hiding Those Lights Under a Bushel?' and two black-and-white photographs of three men. The clipping includes typed body text and is accompanied by several handwritten annotations, a stamped date 'JAN 12 1954', and the number '162-83894-A'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims three men in the photographs while Description A describes only two men across two separate photographs, creating a direct contradiction in object count.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:15:03"
+}

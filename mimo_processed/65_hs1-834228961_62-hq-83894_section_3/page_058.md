@@ -1,0 +1,6 @@
+Affidavit of EMIL J. SMITH
+
+Re: FLYING DISCS SIGHTED BY FRED CRISMAN and HAROLD A. DAHL, Tacoma, Washington
+SM - X
+
+*[handwritten note]:* 62-83894-106

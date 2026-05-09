@@ -1,0 +1,54 @@
+STANDARD FORM NO. 64
+
+## Office Memorandum • UNITED STATES GOVERNMENT
+
+**TO**: S. B. Donahoe *[handwritten signature/initials]*
+
+**DATE**: October 5, 1959
+
+**FROM**: J. F. Wacks *[handwritten signature/initials]*
+
+**SUBJECT**: UNIDENTIFIED FLYING OBJECTS
+(FLYING SAUCERS)
+
+> Memo Sanders to Donahoe 10-13-58 pointed out that our policy concerning unidentified flying objects (flying saucers) is to conduct no investigation but immediately refer facts to the Air Force (Bureau Bulletin Number 57, 10-1-47); that SAC Letter Number 38, 3-25-49, reiterated this policy and set out data desired by Air Force to be obtained when complaint received; that SAC Letter Number 83, 8-29-52, again pointed out our policy; that Air Force, as late as 11-12-57, assured Bureau would be advised of any developments in this field of interest to us; and that there appeared to be no necessity for further instructions to field or insertion in Agents' Handbook or Manual of Instructions of our policy relating to flying saucers.
+
+> During past 12 months no complaints regarding flying saucers have been referred to Bureau. During this period we have received two inquiries regarding this alleged phenomena and on both occasions the person making the inquiry has been referred to OSI.
+
+### ACTION:
+
+> For your information. At this time there appears to be no necessity for additional instructions for the field or insertion in the FBI Handbook or Manuals relative to flying saucers. This matter will again be reviewed on or about 10-5-60.
+
+1 - Mr. Donahoe
+1 - Mr. Wacks
+
+62-83894
+
+JFW:tw *[handwritten initial]*
+(3)
+
+### Distribution List (Right Margin):
+*[handwritten note with checkmarks next to some names]*
+Tolson
+Belmont
+DeLoach
+McGuire
+Mohr
+Parsons
+Rosen
+Tamm
+Trotter
+W.C. Sullivan
+Tele. Room
+Holloman
+Gandy
+*[handwritten signature/initials]*
+
+### Stamps and Handwritten Notations:
+REC- 5 *[handwritten correction: 62 - 83894 - 408]*
+*[handwritten red letter "A"]*
+
+EX-109
+14 OCT 7 1959
+*[handwritten annotation]:* 5 *[signature/initials]*
+58 OCT 9 1959 109 *[handwritten annotation]*

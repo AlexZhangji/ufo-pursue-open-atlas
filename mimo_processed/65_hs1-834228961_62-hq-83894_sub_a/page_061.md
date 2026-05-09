@@ -1,0 +1,49 @@
+O-20
+
+*Distribution list (top right corner):*
+- Tolson
+- Ladd
+- Nichols
+- Belmont
+- Clegg
+- Glavin
+- Harbo
+- Rosen
+- Tracy
+- Laughlin
+- Mohr
+- Tele. Rm.
+- Holloman
+- Gandy
+
+*[handwritten annotation, appears to be initials or signature]:* Branyan
+
+---
+
+### (SAUCERS)
+
+> CHICAGO--O'HARA AIR FORCE BASSE OFFICERS SAID TODAY "FLYING SAUCERS" REPORTS HAVE PICKED UP LATELY.
+>
+> THE PUBLIC INFORMATION OFFICE SAID IT HAS RECEIVED 16 REPORTS OF MYSTERIOUS OBJECTS IN THE SKY IN THE CHICAGO VICINITY THIS WEEK.
+>
+> BUT OFFICERS DENIED REPORTS THAT A SPECIAL "FLYING SAUCER" ALERT AS BEEN ORDERED.
+>
+> PUBLIC INFORMATION OFFICERS SAID JET PATROLS NORMALLY ARE ON THE ALERT "24 HOURS A DAY."
+>
+> OFFICERS SAID THE AIR FORCE ENCOURAGES CALLS ON OBJECTS SIGHTED. THEY AID THE REPORTS ARE "PASSED ON TO HIGHER AUTHORITY" FOR EVALUATION.
+>
+> AN OFFICER SAID SOME OF THIS WEEK'S REPORTS APPARENTLY STEMMED FROM AN ORPHANAGE PICNIC AT WHICH 5,000 TOY BALLOONS WERE RELEASED.
+>
+> 7/3--W0753P
+
+*[handwritten note, lower right]:* Mossburg
+
+*[handwritten note, lower right corner]:* 62-83894-A-
+*[stamp, lower right corner]:* NOT RECORDED
+98 JUL 14 1952
+
+*[handwritten note, bottom left]:* 229
+
+*[printed text, bottom center]:* WASHINGTON CITY NEWS SERVICE
+
+*[stamp, bottom left, partially obscured]:* REC'D JUL 10 1952

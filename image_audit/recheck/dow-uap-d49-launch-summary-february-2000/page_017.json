@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d49-launch-summary-february-2000",
+  "page_num": 17,
+  "original_image_tags": [
+    "Three hole-punch marks are visible along the top edge of the page. There is a handwritten strike-through mark over the number \"51\" in the first column."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed table containing 19 rows of data with column headers: LAUNCH SEQ, DATE, NICKNAME, OP #, FACILITY, VEHICLE TYPE, PROGRAM, CUM BY BOOSTER, COMMAND, CUM BY COMMAND. Rows are numbered 39 through 57. Includes a footnote '(*) Data not available' and page number 'PAGE 3'. No photographs, sketches, or diagrams are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description B states there are no photographs, sketches, or diagrams, which is consistent with Description A's focus on punch marks and a handwritten strike-through, though A mentions visual elements (handwriting, punch marks) that B does not explicitly describe.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:17:59"
+}

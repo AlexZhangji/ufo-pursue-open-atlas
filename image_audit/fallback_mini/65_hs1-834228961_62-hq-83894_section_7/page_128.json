@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 128,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes numerous specific visual elements (stamps, handwritten notes, signatures) while Description B claims the page contains no visual graphical content, indicating a direct contradiction on the page's content.",
+  "original_image_tags": [
+    "A typed memorandum on aged paper. The top right corner is torn. There are three hole-punch marks at the top. A handwritten note in red ink \"327\" is next to the typed case number \"62-83894\". A stamp on the left reads \"RECORDED - 47\". A stamp below the \"To\" address reads \"EX-130\". A distribution list is stamped in the lower left margin. A purple stamp reads \"MAILED 6 MAR 9 - 1953 COMM - FBI\". Below this is a handwritten notation \"EHM:eme\". A large red stamp at the bottom reads \"U U MAR 11 1953\". A handwritten signature or initials, possibly \"mb\", is in the upper right margin. Another handwritten note, possibly \"R.W.\", is in the lower right, along with a stamp reading \"RECEIVED MAR 6 7:37 PM 53\" and another note \"MISS JONES\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned FBI typewritten memorandum page dated March 6, 1953, headed “FLYING SAUCERS,” with typed address block, stamps, handwritten red annotations, and a large signature at the lower right.*",
+  "gpt_mini_desc_len": 201,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 51,
+    "total_tokens": 14943,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:59"
+}

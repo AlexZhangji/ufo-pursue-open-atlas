@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 33,
+  "original_image_tags": [
+    "Black-and-white photograph mounted on a typed page. The photograph depicts a dark, night sky. In the lower right portion of the photo, a single, bright, round, luminous object is visible. There is a faint, short streak or tail extending to the left from the bright object. The rest of the photograph is dark with no other distinct features. The photo is attached to the page with two metal fasteners visible at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black and white photograph showing a dark background with one small, perfectly round, luminous white object visible in the upper right quadrant. The photograph appears to be attached to the document with two dark pins or fasteners at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on a black-and-white photograph showing a dark background with one luminous object, but disagree on its vertical position (lower right vs upper right).",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:56"
+}

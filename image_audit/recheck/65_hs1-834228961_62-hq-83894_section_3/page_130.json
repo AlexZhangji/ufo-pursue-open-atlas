@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 130,
+  "original_image_tags": [
+    "A rectangular, off-white paper envelope or filing slip, appearing aged with some speckling. The top right corner is torn or has a dark smudge/tear mark. The text \"FEDERAL BUREAU OF INVESTIGATION\", \"UNITED STATES\", \"DEPARTMENT OF JUSTICE\", and \"OFFICIAL BUSINESS\" is printed in the upper left. In the lower right quadrant, \"ENCLOSURE TO BUREAU\" and \"Butte File 65-480\" are typed. Below this, a large handwritten number \"62-83894-115\" is written in red ink across the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scan of a beige paper slip with typed text: 'FEDERAL BUREAU OF INVESTIGATION', 'UNITED STATES DEPARTMENT OF JUSTICE', 'OFFICIAL BUSINESS', 'ENCLOSURE TO BUREAU', and 'Butte File 65-480'. A handwritten number '62-83894-115' is written in red ink at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the visual elements: an aged rectangular paper slip/enclosure with specific printed text in the upper left, typed text in the lower right, and a handwritten number in red ink at the bottom, with no contradictory verbatim claims.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:36"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 64,
+  "original_image_tags": [
+    "A handwritten letter on off-white paper, slightly torn at the top left corner. The letter is written in blue ink with some additions in red ink and pencil. A black circular ink blot covers part of the return address at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A handwritten letter with multiple stamped or handwritten annotations overlaid on the text. Visible text includes the address 'Firhill Bridge, Glengarriff Co Cork, October 27, 1954' at the top right, and various stamps/annotations such as 'RECORDED-45', '27 DEC 1 1954', 'CRIME REG', and red ink markings including '62-883894-331'. The main body text is handwritten in blue ink."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific verbatim text ('Firhill Bridge, Glengarriff Co Cork, October 27, 1954', 'RECORDED-45', '27 DEC 1 1954', 'CRIME REG', '62-883894-331') that Description A does not mention, and Description A mentions a 'black circular ink blot' that Description B does not, creating irreconcilable differences in the described visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:03"
+}

@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 167,
+  "original_image_tags": [
+    "Hand-drawn sketch. Top view: A roughly oval or saucer-like shape with a small notch or indentation on the left side. The shape is labeled \"Top\" inside. An arrow points to the right, labeled \"traveling this way\". An arrow points from text on the right to the shape.",
+    "Hand-drawn sketch. Side view: A thin, elongated, spindle-like or disc-edge shape. An arrow points to the right, labeled \"traveling this way\". A smaller arrow points to the left, labeled \"Side view\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "Hand-drawn sketch of a circular or saucer-shaped object labeled 'Top' with an arrow indicating 'Traveling this way'. Below it is a 'Side view' sketch of a similar elongated object. Accompanying typed text reads: 'They seemed longer than wide, their thickness was about 1/20th of their width' and 'Mirror Bright'. Another note reads: 'They did not appear to me to whirl or spin but seemed in fixed position, traveling as I have made drawing.' Signature '/s/ Kenneth Arnold' is present below the sketch."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions correctly identify two hand-drawn sketches (a top view and a side view) of a saucer-like object with consistent arrows and labels ('Top', 'traveling this way', 'Side view'), but Description B adds specific typed text and a signature not mentioned in Description A, which does not contradict A.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:57"
+}

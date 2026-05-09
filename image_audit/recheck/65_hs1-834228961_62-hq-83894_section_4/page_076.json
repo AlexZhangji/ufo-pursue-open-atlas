@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 76,
+  "original_image_tags": [
+    "Faded red stamp at bottom center reads \"DEC 30 1949 3:22 PM\" and below it \"FBI RECEIVED-TVD\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed document page with a faint, upside-down blue stamp at the bottom reading 'FBI RECEIVED - TVD' followed by an illegible date."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "One description reads the stamp text as 'DEC 30 1949 3:22 PM FBI RECEIVED-TVD' while the other quotes it as 'FBI RECEIVED - TVD' with an illegible date, contradicting on the specific quoted text of the stamp.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:40"
+}

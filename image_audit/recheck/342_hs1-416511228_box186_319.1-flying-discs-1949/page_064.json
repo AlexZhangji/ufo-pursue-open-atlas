@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 64,
+  "original_image_tags": [
+    "A pink-colored form with pre-printed headers and typed content. There are two large black holes at the top, likely from a binder or punch. The word \"SECRET\" is crossed out with a single line. A large stamp reads \"ACTION COPY\" with \"MATS\" above it. A handwritten note \"23 Feb MATS\" appears in the top right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Department of the Army Staff Message Center incoming classified message. Typed text includes From: CO Airfield Goose Bay Labrador; To: COMGENAMC Wright Patterson AFB Dayton Ohio; Info: CSUSAF attn Dir of Intell Wash DC; COMMATS attn Chief Intell Div MATS Andrews AFB Md; CO NBC attn AC/S Intell Ft Pepperrell Nfld; DTG: 211930Z 21 February 1949. Report details sound of slow running aircraft engines heard on 19 Feb 1949 at about 1840 hours from a southwesterly direction, heard for 15 to 20 minutes with no objects or lights observed. Bottom text includes: ACTION: AF; INFO: ID, PO; CM IN 5140 (22 Feb 49) DTG 211930Z mcs/D RC 23/22. Header and footer text includes: SECRET, PRIORITY, PARAPHRASE NOT REQUIRED, ACTION COPY, ASSIGNED TO PL/INT, MATS, 23111, GPO c6-16-53108-1, THE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN, COPY NO., and a handwritten '23 Feb' with 'MATS'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a form with visual elements like two black holes, a crossed-out 'SECRET' word, and an 'ACTION COPY' stamp, while Description B provides only typed text content with no mention of any of these specific visual features, indicating they are describing different content or one is hallucinating.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:25:08"
+}

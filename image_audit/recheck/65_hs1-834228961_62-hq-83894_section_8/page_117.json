@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 117,
+  "original_image_tags": [
+    "Scanned document page showing multiple overlapping purple ink stamps on a light-colored paper background. There are two visible hole-punches at the top left and top center, with minor dark specks and stains scattered across the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue and green ink stamps indicating receipt by the FBI, U.S. Dept. of Justice, and U.S. Dept. of Justice. One stamp reads 'RECEIVED-FBI' with a date and time. Another stamp reads 'RECEIVED-SGEMORLHICHOLS' and 'FBI' with a date and time. A third stamp reads 'RECEIVED FBI' and 'U.S. DEPT. OF JUSTICE' with a date and time. A fourth stamp reads 'U.S. DEPT. OF JUSTICE FBI PRECEIVED' with a date and time. A fifth stamp reads 'MR. JONES' with a date and time. The stamps overlap in the center-right area of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims purple ink stamps and specific hole-punch locations, while Description B describes blue and green stamps with detailed, conflicting text readings (e.g., 'RECEIVED-FBI', 'RECEIVED-SGEMORLHICHOLS', 'U.S. DEPT. OF JUSTICE FBI PRECEIVED', 'MR. JONES'), indicating a fundamental disagreement about the visual content and likely hallucination.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:27"
+}

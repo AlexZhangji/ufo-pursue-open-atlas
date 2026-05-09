@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 87,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions are factually inconsistent on the page's visual content: Description A claims the page has hole punches, while Description B states it is a typed memorandum form with no real visual content, leading to a direct contradiction on the presence of specific visual elements.",
+  "original_image_tags": [
+    "Aged, tan-colored typewritten document with visible hole punches at the top. The text is clear and legible. Handwritten annotations and stamps are present in the margins and at the bottom.",
+    "Bottom of page showing filing codes and handwritten annotations."
+  ],
+  "gpt_mini_desc": "*Image: A scanned United States Government Office Memorandum page dated November 9, 1950, with typed text and handwritten notations; subject line reads “FLYING DISCS” and “AARON L. HITCHENS, INFORMANT,” with visible stamps, handwritten marks, and a red index/date stamp near the bottom.*",
+  "gpt_mini_desc_len": 287,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 73,
+    "total_tokens": 14965,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:48"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 122,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content: a hand-drawn sketch of a mechanical pulley system with handwritten annotations, and while B adds specific quoted labels and a date not mentioned in A, there is no direct contradiction on the visual elements described.",
+  "original_image_tags": [
+    "A single sheet of aged, slightly yellowed paper with handwritten notes and a hand-drawn diagram in pencil or dark ink. The page has two hole-punch marks at the top. The main content is a sketch illustrating a mechanical assembly involving weights, cables, sheaves (pulleys), plates, and a swivel mechanism. Annotations in cursive handwriting label the various components and provide explanatory notes."
+  ],
+  "gpt_mini_desc": "*Image: A handwritten engineering sketch on lined paper showing a cable-and-pulley/sheave mechanism with several circled components, arrows, and numbered labels (including 2, 3, 4, 5), plus explanatory handwritten notes across the page.*",
+  "gpt_mini_desc_len": 237,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 56,
+    "total_tokens": 57709,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:03"
+}

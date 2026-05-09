@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 60,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the graph's title, axis labels, scales, number of lines, and general trend, but Description B adds specific legend details (A/B values and line styles) that Description A omits without contradicting.",
+  "original_image_tags": [
+    "A line graph titled \"Figure 15. Mode-5 Density-Function Values at Three Miles\". The Y-axis is labeled \"Mode-5 Density-Function Value\" and ranges from 10⁻⁵ to 10⁻². The X-axis is labeled \"Theta (deg)\" and ranges from 0 to 180. The graph contains five plotted lines representing different values of constants A and B. The legend indicates:"
+  ],
+  "gpt_mini_desc": "*Image: A line graph labeled “Figure 15. Mode-5 Density-Function Values at Three Miles,” with five plotted curves and a legend listing A and B values; x-axis “Theta (deg)” from 0 to 180, y-axis “Mode-5 Density-Function Value” on a logarithmic scale from 10^-5 to 10^-2.*",
+  "gpt_mini_desc_len": 270,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 80,
+    "total_tokens": 56236,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:34"
+}

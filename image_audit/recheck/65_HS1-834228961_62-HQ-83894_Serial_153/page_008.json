@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_HS1-834228961_62-HQ-83894_Serial_153",
+  "page_num": 8,
+  "original_image_tags": [
+    "Black-and-white photograph depicting a residential neighborhood scene, likely from the mid-20th century. The view is across a street or large lawn, showing several single-story houses with pitched roofs. A utility pole with multiple crossbars stands prominently in the center mid-ground. In the background, a ridge of hills or low mountains is visible under a dark sky. A bright, circular object is visible in the upper right portion of the sky, positioned above the roofline of the houses. The photograph shows signs of age, including numerous scratches, creases, and surface damage, particularly a large vertical crease or tear in the lower center foreground. There is no visible text, stamps, or labels on the photograph itself."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A grainy, damaged black-and-white photograph depicting a landscape. In the mid-ground, there is one utility pole with cross-arms and wires, and several houses with visible windows and roofs. In the sky, there is one bright, circular object. The background features hills or low mountains. The photograph itself shows significant physical damage, including numerous scratches, creases, and a large tear near the bottom center."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the core visual content: a damaged black-and-white photograph of a residential neighborhood with hills, a utility pole, houses, a bright circular object in the sky, and physical damage including a large tear near the bottom center.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:54:17"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+  "page_num": 1,
+  "original_image_tags": [
+    "Close-up of a brown paper folder or envelope flap. A large, dark ink-stamped or handwritten number \"78078\" is visible on the right side."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The back of a brown paper folder. There is handwritten text at the top edge: 'Carol Rosin and Stan Cypher' followed by '4/30/2001'. There is a large printed or stamped number '78078' in black ink on the right side of the folder."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (brown paper folder, stamped number '78078'), but Description B adds handwritten text at the top edge that Description A does not mention, creating a non-contradictory detail difference.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:29"
+}

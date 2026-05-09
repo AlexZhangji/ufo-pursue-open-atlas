@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 148,
+  "original_image_tags": [
+    "The page is a very thin, translucent paper, likely from a file folder. The primary text is a typed routing slip or administrative form, but it is very faint. The reverse side of the page has a dense block of typed text that has bled through, making it the most prominent feature. The page has two hole punches at the top, each reinforced with a white square sticker. A piece of aged, brown tape runs horizontally across the center of the page, obscuring part of the bleed-through text. A smaller piece of tape is in the lower right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular strip of dark adhesive tape or paper fragment placed horizontally across the middle of the page. Faint, partially obscured text is visible on and around it, including 'Research and Development Board' and 'General Staff'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular ink stamp in the lower right area. The visible text includes 'FBI', 'RECEIVED-HAND ROOM', 'U.S. DEPT. OF JUSTICE', and dates/times 'SEP 19 7 00PM 56' and 'SEP 20 10 37 AM 56'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint, rectangular ink stamp in the lower middle-left area. The visible text includes 'FBI JUSTICE' and 'Record'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a faint page with hole punches and bleed-through text, while Description B describes three distinct stamp/label elements with specific quoted text like 'FBI' and 'RECEIVED-HAND ROOM' that A does not mention at all, indicating they are about different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:42"
+}

@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 282,
+  "original_image_tags": [
+    "Scanned back of a thin, yellowish paper document. Multiple ink stamps and faint bleed-through text from the front side are visible. Three hole-punch circles are at the top edge. The paper appears to be a routing slip or back of a memo.",
+    "A red ink stamp that is partially illegible, possibly reading \"144\" or similar, stamped at an angle."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faintly visible reverse text and multiple ink stamps on aged paper, including 'REC'D MAIL ROOM F.B.I. Jul 21 5 27 PM '66', 'RECEIVED DIRECTOR F.B.I. Jul 20 3 27 PM '66', and 'REC'D DETACH FBI Jul 20 10 09 AM '66'. Two black circular hole-punches at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a single, partially illegible red stamp possibly reading '144', while Description B quotes three distinct, legible stamps with specific text and dates, representing a major contradiction on the verbatim content of the stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:41"
+}

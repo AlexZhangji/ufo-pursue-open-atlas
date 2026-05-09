@@ -1,0 +1,45 @@
+## CONFIDENTIAL
+
+FLIGHT-PATTERSON AIR FORCE BASE
+WRIGHT-PATTERSON AIR FORCE BASE
+DAYTON, OHIO
+
+*[handwritten in margin:]* B
+A.I
+
+CEG/DJS/deg
+
+29 June 1949
+
+SUBJECT: Report of Unidentified Flying Object
+
+TO: Commanding General
+    Air Materiel Command
+    Wright-Patterson AF Base, Ohio
+    ATTN: MCIA XO-5
+
+The following report of an unidentified flying object is submitted in compliance with Flight Service Regulation 200-4.
+
+### a. LOCATION AND TIME OF SIGHTING: 1750E - 1755E, 28 June 1949, Fairfield, Ohio.
+
+### b. WEATHER AT THE TIME: 3,000 thin scattered, 10 miles visibility, temperature 92, dew point 62, wind north-northwest 4, altimeter 29.94.
+
+### c. NAMES, OCCUPATIONS, AND ADDRESSES OF WITNESSES:
+(1) Major R. L. Long, Wright-Patterson AFB, Dayton, Ohio.
+(2) Unidentified Civilian, resident of Fairfield, Ohio.
+
+### d. PHOTOGRAPHS OF OBJECTS, IF AVAILABLE: None available.
+
+### e. SKETCHES OF OBJECT'S CONFIGURATION: None.
+
+### f. OBJECT SIGHTED:
+(1) NUMBER: 1.
+(2) SHAPE: Long tail of flame accompanied by a long tail of smoke.
+(3) SIZE: Undetermined.
+(4) COLOR: Flame and smoke.
+(5) SPEED: High rate.
+(6) HEADING: West to East
+
+***
+
+## CONFIDENTIAL

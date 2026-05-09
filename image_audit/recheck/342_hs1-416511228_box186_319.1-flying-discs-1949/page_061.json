@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 61,
+  "original_image_tags": [
+    "Pinkish paper document, appears to be the back of a carbon copy or routing slip. Two hole-punch marks are visible at the top edge. Faint reversed text from the front of the page bleeds through in the center. The paper shows age discoloration and minor foxing."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The back of a pinkish paper page showing two hole-punches at the top. Faint, inverted ink stamps are visible, including a line of text, the word 'ROUTING', and a block at the bottom containing inverted text such as 'U.S.A.F.', 'MILITARY AIR TRANSPORT SERVICE', and a date stamp 'MAR 26 12 PM 1949'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims specific verbatim text ('ROUTING', 'U.S.A.F.', 'MILITARY AIR TRANSPORT SERVICE', 'MAR 26 12 PM 1949') inside stamps or images that Description A does not see at all, reading only faint reversed text bleeds.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:25:03"
+}

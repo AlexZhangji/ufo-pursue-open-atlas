@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 52,
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the presence of a newspaper clipping with multiple columns and annotations at the bottom, but Description B adds specific headline text, sub-headlines, and stamp details not mentioned in A, without contradiction.",
+  "original_image_tags": [
+    "Yellowed newspaper clipping, multi-column layout, with black headline text.",
+    "Stamped and handwritten annotations at the bottom of the clipping."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping collage mounted on a beige document page, headed “Planes Chasing Disks Find Only Empty Sky,” with multiple text columns about flying saucer reports and several stamped/handwritten archive markings at the bottom.*",
+  "gpt_mini_desc_len": 249,
+  "usage": {
+    "prompt_tokens": 54650,
+    "completion_tokens": 51,
+    "total_tokens": 54701,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:21"
+}

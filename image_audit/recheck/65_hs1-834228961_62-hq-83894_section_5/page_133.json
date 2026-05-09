@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 133,
+  "original_image_tags": [
+    "Back of a light-green/grey document sheet, heavily stained and faded. Contains multiple rubber stamp impressions and faint, partially illegible handwritten or typed text showing through from the front side. The page has two hole-punch marks at the top and appears to be part of a larger file folder.",
+    "A rectangular rubber stamp impression in red/pink ink, partially illegible due to bleeding and fading. Text appears to be \"RECEIVED\" with a date and possibly a name or department below."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A page consisting primarily of bleed-through typed text from the reverse side, two black ink blotches at the top, a small white rectangular patch with a black ink blotch, an upside-down 'INDEXED RECORDED' stamp, a faint upside-down purple rectangular stamp, and a faint upside-down typed block at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions are about fundamentally different visual content: A describes a stained back of a document with a rectangular red 'RECEIVED' stamp, while B describes bleed-through text, ink blotches, and multiple upside-down stamps including 'INDEXED RECORDED'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:14"
+}

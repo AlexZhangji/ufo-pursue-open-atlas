@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 203,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions are about fundamentally different visual content: one describes a notebook page with hole-punches and a date stamp, while the other describes a letter to the F.B.I. with a different date and a red 'RECORDED' stamp.",
+  "original_image_tags": [
+    "A handwritten, lined notebook page. The paper is aged, with torn edges and two hole-punch marks at the top. There are some handwritten annotations in the margins and at the bottom, including what appears to be a date stamp \"JUL 14 1950\" and some initials. The main text is written in blue ink with several spelling errors."
+  ],
+  "gpt_mini_desc": "*Image: A scanned, handwritten letter page on worn, yellowed paper with multiple punched holes and a torn right edge; blue handwritten text fills the page, with a date at the top right and “Recorded-108” stamped near the bottom.*",
+  "gpt_mini_desc_len": 229,
+  "usage": {
+    "prompt_tokens": 16437,
+    "completion_tokens": 53,
+    "total_tokens": 16490,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:44"
+}

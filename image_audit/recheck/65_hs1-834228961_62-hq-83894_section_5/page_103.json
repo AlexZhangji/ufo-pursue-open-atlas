@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 103,
+  "original_image_tags": [
+    "A faded, partially obscured circular stamp reading \"FBI\" is visible. A handwritten note, oriented diagonally, reads: \"Enc & trans. w/ letter to / [illegible name], 9, / 5-17-50 / EN M/Kel\". Below this is a green ink stamp: \"UNCLASSIFIED FILE BEHIND FILE\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed United States Government Office Memorandum dated April 11, 1950, from SAC New York to the Director, FBI, regarding a letter from Miguel Angel Garcia Macias containing four hand-drawn designs."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a circular FBI stamp, a handwritten note with specific date and text, and a green UNCLASSIFIED stamp, while Description B describes only a typed memorandum with no mention of these visual elements, indicating they are describing different content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:34"
+}

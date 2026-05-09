@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 137,
+  "original_image_tags": [
+    "Hand-drawn sketch on dark paper, depicting a rounded, dome-like object with a flattened base. The sketch is in white or light-colored ink. A vertical dimension is marked as \"6' to 8'\". A horizontal dimension across the base is marked as \"20'\". An arrow points to hatched lines on the right slope of the object, with a handwritten annotation: \"NOTED SHADOW.\" Below the sketch, centered: \"(Ration approx. 3:1)\". In the lower right corner: \"/s/ Russell J. Carey Jr., / RUSSELL J. CAREY JR. / 1st Lt., USAF / Intel Officer\". In the lower left margin, handwritten: \"93\". In the right margin, handwritten: \"157\". The word \"CONFIDENTIAL\" is stamped at the top and bottom of the page, both crossed out with a diagonal line."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The word 'CONFIDENTIAL' stamped at the top and bottom of the page, with a horizontal line drawn through the top stamp. Two hole-punch marks are visible at the top."
+      },
+      {
+        "category": "sketch",
+        "description": "A white-line sketch on a dark background depicting a saucer-shaped object. Handwritten annotations on the sketch include a vertical dimension arrow labeled '6 to 8'', a horizontal dimension arrow labeled '20'', the text '(Ration approx. 3:1)' below the horizontal line, and an arrow pointing to the object's base with the text 'NOTED SHADOW'. In the bottom right corner of the image, typed text reads '/s/ Russell J. Carye Jr., RUSSELL J. CAREY JR., 1st Lt., USAF, Intel Officer'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions disagree on the location of the 'NOTED SHADOW' text, the signature line's spelling (Carey vs. Carye), and the description of the 'CONFIDENTIAL' stamp crossing.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:26:34"
+}

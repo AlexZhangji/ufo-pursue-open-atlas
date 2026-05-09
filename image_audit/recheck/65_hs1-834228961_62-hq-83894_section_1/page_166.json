@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 166,
+  "original_image_tags": [
+    "The reverse side of a document. The paper is aged and off-white. At the top, faint reversed text is visible, which reads: \"Office of Assistant Secretary / UNITED STATES GOVERNMENT\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A page containing several stamped annotations. Visible text includes 'RECEIVED AUG 8 11 24 AM. INTERNAL SECURITY F.B.I.', 'AUG 8 1947', and 'AUG 8 1947'. The page appears to be the back of a document with faint, illegible bleed-through text from the other side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes the reverse side of a document with faint reversed text, while Description B describes a page with several stamped annotations and specific dates, indicating they are describing different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:21"
+}

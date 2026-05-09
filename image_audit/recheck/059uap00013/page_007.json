@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "059uap00013",
+  "page_num": 7,
+  "original_image_tags": [
+    "*"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed text document with headers including 'Released By:', 'Info:', and 'XMT:'. The text lists various US government departments and agencies. The word 'UNCLASSIFIED' appears at the top and bottom. A page number 'Page 7 of 7' is in the bottom right corner."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular box containing the typed text 'Released in Full' located near the bottom center of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains only typed text and a stamp/label, with no photographs, sketches, or other visual elements present.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:15"
+}

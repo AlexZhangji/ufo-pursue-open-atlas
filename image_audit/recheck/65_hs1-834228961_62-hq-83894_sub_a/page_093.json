@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 93,
+  "original_image_tags": [
+    "A small, yellowed newspaper clipping from a larger page, with text about a flying saucer sighting in Venice. A handwritten arrow points from the right margin to the clipping with the annotation \"file\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "One small, rectangular, yellowed newspaper clipping centered on the page. Headline text reads 'VENICE REPORTS FLYING SAUCER'. Body text below reads 'Venice, Monday Morning. - A silver-coloured \"flying saucer\" was reported above the fishing port of Caigoggi, near here, early today travelling \"at great speed\" about 6,000ft. up. - Reuter.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on a yellowed newspaper clipping about a flying saucer in Venice, but B provides specific quoted headline and body text that A does not mention, and A includes a handwritten arrow annotation that B does not.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:48"
+}

@@ -1,0 +1,5 @@
+## ATTENTION LEGAL ATTACHE, LONDON:
+
+> You may desire to advise your sources concerning the receipt of this communication from Mattan and concerning the type of information he is desirous of receiving.
+
+- 2 -

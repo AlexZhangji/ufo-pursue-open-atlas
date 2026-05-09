@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 146,
+  "original_image_tags": [
+    "A faded, pink-colored index card or routing slip, horizontally oriented. It has two hole-punch marks at the top center. The text is faint and appears to be typed or stamped in purple or faded ink. A prominent vertical stamp is on the left side, and the main text is a telex routing slip. The paper shows age and wear."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint, pinkish-beige paper back showing two black hole-punch marks at the top. A typed label at the top center reads 'RECEIVED TELETYPE UNIT' followed by a date stamp 'AUG 14 9 29 PM '47'. On the left side, there is an arched blue ink stamp that reads 'RECEIVED 9 31 AM 15 AUG 1947 INTERNAL SECURITY F. B. I.' Faint, mirrored reverse text is visible through the paper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "One side quotes specific verbatim text ('RECEIVED TELETYPE UNIT', 'RECEIVED 9 31 AM 15 AUG 1947 INTERNAL SECURITY F. B. I.') while the other does not, and the descriptions are contradictory regarding the presence and content of typed/stamped text versus a telex routing slip.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:44"
+}

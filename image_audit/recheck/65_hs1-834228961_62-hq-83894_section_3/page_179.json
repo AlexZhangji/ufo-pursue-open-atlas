@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 179,
+  "original_image_tags": [
+    "The back of a typewritten document on United States Government stationery. The text from the front side is faintly visible through the paper. The stationery header at the top is upside down and reversed. A blue ink stamp is visible at the bottom right. A handwritten signature or annotation is at the bottom left."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue ink stamp containing the words 'RECEIVED LIAISON SECTION' and 'INTERNAL SECURITY F.B.I.' along with a date stamp 'SEP 10 2 19 PM '47' and a handwritten annotation '9-17-47' next to it. The stamp is positioned at the bottom right of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the existence and location of a blue ink stamp, but B provides extensive specific quoted text that A does not mention or contradict.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:51"
+}

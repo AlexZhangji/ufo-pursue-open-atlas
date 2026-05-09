@@ -1,0 +1,5 @@
+## NEW SAUCER PHOTOS
+
+*Image: Six black-and-white photographs arranged in a 2-by-3 grid, each showing a disc-shaped flying saucer/UFO in the sky above landscapes or treetops; one image includes a small dark object hanging beneath the saucer, and the page has a printed caption below beginning “NEW SAUCER PHOTOS.”*
+
+> NEW SAUCER PHOTOS: These remarkable photos of Flying Saucers were taken by Dr. Daniel W. Fry, President of Understanding, Inc., of P. O. Box 76, Merlin, Oregon 97532. Your editor enlarged them from the original 16mm color movie film. Spots on the photos are due to the extreme enlargement of scratches and dust spots on the film. Of special interest is the fact that the same type of craft was photographed near Merlin, Oregon in a wooded section, and again near Joshua Tree, Calif. on the desert.

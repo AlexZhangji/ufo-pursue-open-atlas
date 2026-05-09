@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 117,
+  "original_image_tags": [
+    "Greenish-tinted paper document. At the top, there are two punch holes. A white rectangular patch covers a section at the top right. On the left side, there is a vertical distribution list with names:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter dated April 11, 1950, addressed to Miss Laura McClaskey regarding an enclosed communication from April 4, 1950. The page contains typed body text and standard memorandum structure."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims specific visual content (greenish paper, punch holes, white patch, vertical distribution list) that is completely absent from Description B, which describes only a typed memorandum.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:51"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_438",
+  "page_num": 40,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content: a hand-drawn diagram with four numbered squares/rectangles and four numbered ovals/circular areas, distances in feet/inches, and some labels, but B adds specific quoted labels ('Gray Area', 'APPARENT DIRECTION OF BURN OR HEAT') that A does not mention, without direct contradiction.",
+  "original_image_tags": [
+    "A hand-drawn diagram on aged, tan-colored paper (possibly construction paper or cardstock). The diagram depicts a spatial layout of numbered points, showing distances between them in feet and inches. The lines are drawn in black ink. There are four rectangular markers numbered #1, #2, #3, and #4, and four circular areas, three of which are labeled \"Burn\"."
+  ],
+  "gpt_mini_desc": "*Image: Hand-drawn diagram on a tan page showing four numbered boxes at the corners (#1, #2, #3, #4), three circled labels for burned areas, connecting lines and arrows between them, and handwritten distance notations such as 9'4\", 6'4\", 20', 10'8\", and 4'4\", including the note “APPARENT DIRECTION OF BURN OR HEAT.”*",
+  "gpt_mini_desc_len": 317,
+  "usage": {
+    "prompt_tokens": 59166,
+    "completion_tokens": 95,
+    "total_tokens": 59261,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:46"
+}

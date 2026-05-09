@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents",
+  "page_num": 4,
+  "original_image_tags": [
+    "A large, faint handwritten annotation in pencil spans the right side of the \"FROM\" and \"TO\" fields. It appears to read \"File\" or \"Fila\".",
+    "The entire form is printed on aged, yellowish-tan paper. A dark, irregular ink blot obscures the letters \"M\" and \"E\" in the top \"MESSAGE FORM\" title. The paper shows signs of wear, including creases and minor tears at the edges."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A filled-out military message form (R.A.F. Form 96) dated 5 March 1945. The document contains typed text, handwritten annotations, a purple ink stamp reading 'SIGNALS OFFICE - 5 MAR 1945 SIGNALS HEADQUARTERS', and a stamped 'IMPORTANT' priority mark. There are no photographs, sketches, diagrams, maps, or charts present on the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B explicitly states there are no visual elements on the page, directly contradicting Description A's detailed description of a pencil annotation, an ink blot, and paper condition, indicating a fundamental disagreement about the presence and nature of the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:41"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 46,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B incorrectly states all three lines peak near 100% breakup, while Description A correctly describes different peak heights (near 100%, 100%, and 80-85%) for the three lines.",
+  "original_image_tags": [
+    "A line graph titled \"Atlas IIAS\". The y-axis is \"Breakup Percent (%)\" ranging from 0 to 100 in increments of 10. The x-axis is \"Failure Time (sec)\" ranging from 0 to 280 in increments of 40. The graph contains three curves representing different \"q-alpha in deg-lb/ft²\": a solid line for \"q-alpha = 5,000\", a long-dashed line for \"q-alpha = 10,000\", and a short-dashed line for \"q-alpha = 20,000\". All three curves start near 0% at 0 seconds, rise sharply to peaks between 40-120 seconds (with the 5,000 curve peaking highest near 100%, followed by the 10,000 curve, and the 20,000 curve peaking lowest near 80-85%), and then decline back towards 0% by 280 seconds. The curves intersect and vary in relative position as failure time increases."
+  ],
+  "gpt_mini_desc": "*Image: A black-and-white line chart titled “Atlas IIAS,” plotting Breakup Percent (%) versus Failure Time (sec) from 0 to 280, with three curves labeled q-alpha = 5,000, 10,000, and 20,000 deg-lb/ft².*",
+  "gpt_mini_desc_len": 202,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 65,
+    "total_tokens": 56221,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:29"
+}

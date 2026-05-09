@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 151,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific stamped text ('RECEIVED', 'INTERNAL SECURITY', 'F.B.I.', dates, times, '47') and handwritten notations that Description A does not mention at all, indicating the descriptions are about different visual content.",
+  "original_image_tags": [
+    "A tan or manila-colored document folder or file jacket. The surface is largely blank. The bottom portion contains several faded ink stamps, applied upside-down relative to the folder's orientation. There are two dark, irregular holes near the top edge, likely from a fastener. Some small dark marks or ink smudges are visible in the upper right corner."
+  ],
+  "gpt_mini_desc": "*Image: A blank tan document folder cover or manila envelope with two punched holes at the top, dark smudges and scuffs, and several faded purple/green office stamps near the lower center reading “RECEIVED / INTERNATIONAL SECURITY” with dates including “22 Sep 12 AM,” “25 Sep 48 P.M.,” and “23 Sep 48.”*",
+  "gpt_mini_desc_len": 304,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 80,
+    "total_tokens": 14972,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:25"
+}

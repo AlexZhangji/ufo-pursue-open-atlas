@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 113,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific headlines ('Flying Discs Interest AAF', 'Flying Saucers Traced To Wife's Pitching Arm') not present in Description A, which describes the clipping only as having dense text in a serif typeface, indicating a major factual contradiction about the textual content within the image.",
+  "original_image_tags": [
+    "A single, aged newspaper clipping is affixed to a larger piece of light-colored paper or file folder. The paper is creased and has a torn upper edge with two distinct hole-punch marks. The clipping is a vertical column with a thin orange or yellow border. The text is dense and set in a classic serif typeface."
+  ],
+  "gpt_mini_desc": "*Image: A narrow vertical newspaper clipping pasted on a blank page, headed “SAUCERS—From Page 1” and “Flying Discs Interest AAF,” with additional article text below including the subheading “Flying Saucers Traced To Wife’s Pitching Arm.”*",
+  "gpt_mini_desc_len": 239,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 61,
+    "total_tokens": 54713,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:17"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 57,
+  "categories": [
+    "map"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content categories (a hand-drawn sketch map, a trajectory/altitude diagram, a data table) and their general subject matter, but Description B provides numerous specific quoted labels and text inside the images that Description A omits or only partially mentions, without direct contradiction on those quoted specifics.",
+  "original_image_tags": [
+    "Hand-drawn sketch map and profile diagram showing an \"atmospheric disturbance\" flight path over a coastal area in Alaska.",
+    "A hand-drawn map of a coastal region showing islands, bays, and an airport. A thick black line with arrows indicates a flight path moving from right to left (east to west). Key locations are labeled, and a table of data is included on the left side.",
+    "A hand-drawn side-view diagram showing altitude and trajectory. The horizontal axis is not labeled. The vertical axis shows altitude in feet."
+  ],
+  "gpt_mini_desc": "*Image: Photostatic copy of a hand-drawn map/diagram with handwritten annotations and arrows, showing a plotted flight path or trajectory over a river and bay area; includes a boxed “Data” note, a small “possible error (maximum)” trajectory graph, a north arrow, and the printed word “CONFIDENTIAL” at upper left.*",
+  "gpt_mini_desc_len": 314,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 74,
+    "total_tokens": 56230,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 19:59:59"
+}

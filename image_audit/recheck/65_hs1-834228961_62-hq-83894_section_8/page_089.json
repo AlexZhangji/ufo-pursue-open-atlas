@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 89,
+  "original_image_tags": [
+    "A single, yellowed, vertical document page. The page is heavily creased, with three hole-punch marks at the top. The text on the page appears reversed, indicating this is the back of a document with bleed-through or reverse-side printing.",
+    "A faint red stamp or handwritten note is visible near the center of the page, but the reversed text is largely illegible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page shows the back side of a typed document with faint, reversed text bleeding through from the front. Visible elements include several stamped markings and a faint signature."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the main visual content (a single document page showing the reverse side with faint, reversed text/bleed-through), and neither provides specific, contradictory visual details or quotes.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:09:16"
+}

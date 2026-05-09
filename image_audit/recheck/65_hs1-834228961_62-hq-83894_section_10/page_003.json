@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 3,
+  "original_image_tags": [
+    "yellowish, aged paper document with multiple receipt stamps and handwritten annotations. Two black hole punches are visible at the top edge. Faint reverse text from the front side is visible through the thin paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Yellowed paper page containing multiple ink stamps and faint reversed typed text visible from the reverse side. Stamps include red rectangular stamp reading 'COMSEC 441-4438', blue stamp reading 'REC'D DE LACH FBI', and several date stamps with text like 'RECEIVED-DIRECTOR F.B.I.', 'SEP 6 11 26 AM '66', 'SEP 7 11 56 AM '66', and 'SEP 6 2 59 PM '66'. Two dark circular binder holes at top. Faint handwritten annotation at bottom left. Reversed text includes fragments like 'Bernard E. Drake', 'New Hampshire 03045', 'Mrs. Alice W. Dow', and 'John B. Hollister'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (yellowed paper, multiple stamps, two binder holes, faint reversed text) but B adds extensive quoted text details that A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:55:19"
+}

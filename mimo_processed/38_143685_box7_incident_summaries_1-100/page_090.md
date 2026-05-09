@@ -1,0 +1,36 @@
+## RESTRICTED
+
+### CHECK-LIST - UNIDENTIFIED FLYING OBJECTS
+
+**Incident #** 43
+
+1.  **Date** 29 June 1947
+2.  **Time** 1645 - 4:45 - 100? P. M. *[Note: The time is typed as "1645 - 4:45 P. M." with a handwritten insertion of "4:45" above "1645" and a crossed-out portion that appears to read "100?5".]*
+3.  **Location** 7 miles out of Clarion Iowa in direction of Mason City, Iowa
+4.  **Name of observer** Dale Bays
+5.  **Occupation of observer** Had been bus driver
+6.  **Address of observer** Box 12, Crocker, Mo.
+7.  **Place of observation** 7 miles out of Clarion - 42° 43' N - 93° 44' W
+8.  **Number of objects** 5 in first group; 13 in second
+9.  **Distance of object from observer** N/S
+10. **Time in sight** several minutes
+11. **Altitude** 1200 ft
+12. **Speed** 300 MPH
+13. **Direction of flight** South by Southeast and North Northwest
+14. **Tactics** Observed single file
+15. **Sound** sound like that of an electric motor or dynamo
+16. **Size** From 175 to 250 ft in diameter by 12 feet in thickness
+17. **Color** "dirty" white
+18. **Shape** between a circle and an oval - inverted saucer
+19. **Odor detected** N/S
+20. **Apparent construction** N/S
+21. **Exhaust trails** N/S
+22. **Weather conditions** N/S
+23. **Effect on clouds** N/S
+24. **Sketches or photographs** N/S
+25. **Manner of disappearance** N/S
+26. **Remarks:** (over)
+
+## RESTRICTED
+
+*[Handwritten annotation in bottom right corner:]* r9

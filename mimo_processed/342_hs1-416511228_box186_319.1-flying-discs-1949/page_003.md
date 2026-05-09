@@ -1,0 +1,42 @@
+# CONFIDENTIAL
+
+## OLMSTED FLIGHT SERVICE CENTER
+Olmsted Air Force Base
+MIDDLETOWN, PENNSYLVANIA
+
+**BAM/lc**
+**22 September 1949**
+
+**MDT 000.92**
+**SUBJECT:** Unidentified Flying Objects
+
+**TO:** Commanding General
+Air Materiel Command
+Wright-Patterson Air Force Base
+Dayton, Ohio
+
+1.  In compliance with FSR 200-4 dated 2 November 1949, and letter, Headquarters USAF, Subject: "Reporting of Information on 'Flying Discs'", dated 6 February 1948, the following information is submitted.
+
+### ESSENTIAL ELEMENTS OF INFORMATION
+
+1.  Date of Sighting: 20 September 1949
+
+2.  Time of Sighting: 0905E
+
+3.  Where Sighted: Thirty North East, Griffiss Air Force Base, Rome, New York
+
+    a.  **Ground**
+    Not applicable
+
+    b.  **Air**
+
+    (1) Type aircraft, speed, altitude, direction of flight:
+
+    | C-45 | 160 | 10,000 | 250 degrees |
+    | :--- | :--- | :--- | :--- |
+
+    (2) Distance and direction from city, town or known landmark:
+
+    Thirty North East, Griffiss Air Force Base, Rome, New York
+
+# CONFIDENTIAL

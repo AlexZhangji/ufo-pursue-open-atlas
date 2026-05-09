@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 85,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content (a black-and-white photograph of a circular mechanical device with a central fan-like pattern, attached components, wires, and a ruler for scale), but they disagree on specific details such as the ruler's label ('Eagleline' vs 'Starrett') and the exact arrangement and number of attached components.",
+  "original_image_tags": [
+    "A black-and-white photograph of a circular, metallic object resembling a lid or cover, approximately 8-10 inches in diameter based on the ruler at the bottom. The object has a central, darker circular depression with a five-bladed propeller or fan visible inside. A smaller, black component is attached at the 4 o'clock position, and another small component is at the 1 o'clock position. The word \"RUSSIA\" is handwritten in white on a black block attached at the 8 o'clock position. Wires or threads are visible connecting parts. A wooden ruler marked \"Eagleline\" is positioned at the bottom of the frame for scale."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white photograph of a circular mechanical part or disk with a central hub, attached components, and a cable or wire; a ruler is placed along the bottom edge for scale.*",
+  "gpt_mini_desc_len": 186,
+  "usage": {
+    "prompt_tokens": 22427,
+    "completion_tokens": 42,
+    "total_tokens": 22469,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:44"
+}

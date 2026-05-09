@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 39,
+  "original_image_tags": [
+    "Scanned yellowed paper document showing the reverse side of a page. Text from the front side is visible through the paper in reverse (mirror image). The page contains several ink stamps and handwritten notations."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A scanned document page containing various administrative stamps, handwritten annotations, and bleed-through text from the reverse side. Visual elements include a red rectangular stamp in the upper left with reversed text starting with 'APPROPRIATE AGENCIES', multiple date and routing stamps in the lower half (e.g., 'OCT 3 1958', 'REC'D BELMON FBI - JUSTICE', 'FBI CPD', 'OCT 1 6 25 PM 58', 'OCT 2 11 39 AM 58'), a red stamp in the lower right with 'U.S. GOV'T S' and 'OWN - FBI' visible, handwritten signatures or initials in ink, and two dark punch holes near the top edge. The majority of the page consists of faint, reversed typed text showing through from the other side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the presence of stamps, handwritten annotations, and bleed-through text; Description B adds specific quoted stamp text and details (like 'OCT 3 1958') that Description A omits but does not contradict.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:10:46"
+}

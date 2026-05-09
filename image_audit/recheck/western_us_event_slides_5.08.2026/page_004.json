@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "western_us_event_slides_5.08.2026",
+  "page_num": 4,
+  "original_image_tags": [
+    "Line drawing recreation of an observation. The main object is an irregular, elongated quadrilateral (kite) shape, oriented diagonally. The shape is defined by thin black lines. Inside the shape, four circular points are visible: one solid black circle near the top corner, and three empty circles (outlines only) spaced along the length and width of the shape. A note in the upper right corner states: \"Note: Outline was not definitive, but location of lights stayed in exact formation.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A simple black outline drawing of a large, elongated, kite-shaped or triangular object tilted at an angle. Four small, circular lights or markers are positioned along the outline of the shape. Accompanying text above the drawing reads: 'Note: Outline was not definitive, but location of lights stayed in exact formation.' The drawing is labeled below as 'Image 2: Recreation of drawing provided by USPER6 of object seen with the bare eye.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the sketch type, the elongated kite/triangular object, the four circular markers, and the quoted note text, but Description B adds a specific label below the drawing that Description A does not mention.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:19:18"
+}

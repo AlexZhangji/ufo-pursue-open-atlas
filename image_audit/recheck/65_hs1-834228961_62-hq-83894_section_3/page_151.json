@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 151,
+  "original_image_tags": [
+    "A tan or manila-colored document folder or file jacket. The surface is largely blank. The bottom portion contains several faded ink stamps, applied upside-down relative to the folder's orientation. There are two dark, irregular holes near the top edge, likely from a fastener. Some small dark marks or ink smudges are visible in the upper right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Aged tan paper page with three black punched holes along the top edge, minor corner damage, and several blue ink receiving stamps at the bottom. Visible stamped text includes 'RECEIVED', 'INTERNAL SECURITY', 'F.B.I.', dates such as 'SEP 22' and 'SEP 23', times like '3:27 PM' and '8:57 AM', and the number '47'. There are also handwritten ink notations at the bottom left."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamped text ('RECEIVED', 'INTERNAL SECURITY', 'F.B.I.', dates, times, '47') and handwritten notations that Description A does not mention at all, indicating the descriptions are about different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:47"
+}

@@ -1,0 +1,554 @@
+{
+  "schema_version": 1,
+  "release": "PURSUE Release 01",
+  "release_date": "2026-05-08",
+  "total_records": 161,
+  "corrections_count": 61,
+  "corrections_breakdown": {
+    "location_fix": 4,
+    "date_fix": 1,
+    "year_inferred": 56
+  },
+  "corrections": [
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_10",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_2",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_3",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_4",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_5",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_6",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_7",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_9",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Serial_130",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Serial_153",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Serial_164",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Serial_220",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Serial_403",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Serial_438",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Serial_449",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_SUB_A",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "255_413270_UFO's_and_Defense_What_Should_we_Prepare_For",
+      "source_field": "Incident Date",
+      "source_value": "",
+      "inferred_year": 1965,
+      "label": "~1960s (CIA/USAF analytical paper)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "38_143685_box_Incident_Summaries_101-172",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1955,
+      "label": "~1952–1969 (Project Blue Book era)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "38_143685_box_Incident_Summaries_173-233",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1955,
+      "label": "~1952–1969 (Project Blue Book era)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "38_143685_box7_Incident_Summaries_1-100",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1955,
+      "label": "~1952–1969 (Project Blue Book era)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_1",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "65_HS1-834228961_62-HQ-83894_Section_8",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 1957,
+      "label": "~1947–1968 (FBI 62-HQ-83894 case file)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-D3, Mission Report, Arabian Gulf, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-D4, Mission Report, Arabian Gulf, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "location_fix",
+      "record_title": "DOW-UAP-D42, Range Fouler Debrief, Japan, 2023",
+      "source_field": "Incident Location",
+      "corrected_to": "Japan",
+      "reason": "CSV title↔location mismatch caught in spot-check"
+    },
+    {
+      "kind": "location_fix",
+      "record_title": "DOW-UAP-D5, Mission Report, Arabian Gulf, 2020",
+      "source_field": "Incident Location",
+      "corrected_to": "Arabian Gulf",
+      "reason": "CSV title↔location mismatch caught in spot-check"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-D5, Mission Report, Arabian Gulf, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "location_fix",
+      "record_title": "DOW-UAP-D6, Mission Report, Arabian Gulf, 2020",
+      "source_field": "Incident Location",
+      "corrected_to": "Arabian Gulf",
+      "reason": "CSV title↔location mismatch caught in spot-check"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-D6, Mission Report, Arabian Gulf, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-D7, Mission Report, Arabian Gulf, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "location_fix",
+      "record_title": "DOW-UAP-D8, Mission Report, Djibouti, 2025",
+      "source_field": "Incident Location",
+      "corrected_to": "Djibouti",
+      "reason": "CSV title↔location mismatch caught in spot-check"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-D8, Mission Report, Djibouti, 2025",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2025,
+      "label": "~2025 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR19, Unresolved UAP Report, Middle East, May 2022",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2022,
+      "label": "~2022 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR20, Unresolved UAP Report, Kuwait, May 2022",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2022,
+      "label": "~2022 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2022,
+      "label": "~2022 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR22, Unresolved UAP Report, Syria, July 2022",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2022,
+      "label": "~2022 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2022,
+      "label": "~2022 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR26, Unresolved UAP Report, United Arab Emirates, October 2023",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2023,
+      "label": "~2023 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR27, Unresolved UAP Report, United Arab Emirates, October 2023",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2023,
+      "label": "~2023 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2024,
+      "label": "~2024 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2024,
+      "label": "~2024 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR31, Unresolved UAP Report, Syria, October 2024",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2024,
+      "label": "~2024 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR32, Unresolved UAP Report, Syria, October 2024",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2024,
+      "label": "~2024 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2024,
+      "label": "~2024 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR34, Unresolved UAP Report, Greece, October 2023",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2023,
+      "label": "~2023 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR35, Unresolved UAP Report, Greece, October 2023",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2023,
+      "label": "~2023 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR37, Unresolved UAP Report, Middle East, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2013,
+      "label": "~2013 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR39, Unresolved UAP Report, Middle East, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR40, Unresolved UAP Report, Middle East, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR42, Unresolved UAP Report, Middle East, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR43, Unresolved UAP Report, Africa, 2025",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2025,
+      "label": "~2025 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR44, Unresolved UAP Report, Middle East, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR45, Unresolved UAP Report, Middle East, 2020",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2020,
+      "label": "~2020 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR46, Unresolved UAP Report, INDOPACOM, 2024",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2024,
+      "label": "~2024 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2023,
+      "label": "~2023 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR48, Unresolved UAP Report, INDOPACOM, 2024",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2024,
+      "label": "~2024 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "year_inferred",
+      "record_title": "DOW-UAP-PR49, Unresolved UAP Report, Department of the Army, 2026",
+      "source_field": "Incident Date",
+      "source_value": "N/A",
+      "inferred_year": 2026,
+      "label": "~2026 (filename)",
+      "reason": "CSV said N/A; year recovered from filename pattern"
+    },
+    {
+      "kind": "date_fix",
+      "record_title": "State Department UAP Cable 5, Mexico, September 16, 2003",
+      "source_field": "Incident Date",
+      "corrected_to": "2023-09-16",
+      "label": "Sep 16, 2023 (corrected from CSV's 2003)",
+      "reason": "CSV year disagreed with PDF header / filename"
+    }
+  ]
+}

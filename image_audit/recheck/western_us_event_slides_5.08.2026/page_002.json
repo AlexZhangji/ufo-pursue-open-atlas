@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "western_us_event_slides_5.08.2026",
+  "page_num": 2,
+  "original_image_tags": [
+    "artist rendering of a large, glowing, red-orange orb. The orb has a bright, horizontal, yellow-white band across its center and appears to be set against a dark, possibly rocky or mountainous, background. The orb has a soft, glowing aura."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "One artist rendering depicting a glowing orange orb with a bright central core and a horizontal line across the middle, set against a dark background. Labeled 'Artist Rendering' below the image."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the core visual content of a glowing orange orb with a horizontal element against a dark background and consistent captioning.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:19:15"
+}

@@ -1,0 +1,48 @@
+RESTRICTED
+CONFIDENTIAL
+
+*Classification cancelled or changed to Restricted*
+*Authority of CC, AD-ATC*
+*[handwritten name and signature] (Rank) 6 May 48 (Date)*
+
+INTELLIGENCE OFFICE
+HEADQUARTERS 136TH AAF BASE UNIT
+NEWFOUNDLAND BASE COMMAND, ATLD-ATC
+APO 554, c/o Postmaster, New York, N. Y.
+
+25 July 1947
+
+Interrogation of ROBERT W. LEHR, Station Mechanic, Pan American Airways, Harmon Field, Newfoundland, taken at 1450 NFT, 16 July 1947, by Captain William H. Smith, AC, Intelligence Officer.
+
+Q. Were you with Mr. Woodruff and Mr. Nehrman on the evening when they saw an object or flying disk passing over the sky on 10 July 1947?
+A. Yes, I was.
+
+Q. Were you or any members of the party drinking?
+A. No, I had one can of beer, that was about half hour before that.
+
+Q. Can you tell me the circumstances under which you saw the object or its trail?
+A. Well, Mr. Woodruff saw it first and said he saw the thing travelling through the sky. We did not believe him at first but when he was so concerned about it we stepped the car and got out. I had my camera so took a picture of it. There was a blueish streak left in the sky which could not have been a cloud formation. It was a definite trail and caused the clouds to break open as it went through.
+
+Q. Did it cut a path through the cloud?
+A. Yes, it was very clear, and you could see the trail right through the cloud, it looked to be travelling in a big circle and it left sharp edges to the clouds.
+
+Q. What was the trail like?
+A. I would not say it was exhaust, it looked as if an object passed through similar to that of a pebble leaving a ring in the pond.
+
+Q. Was there any difference in the color?
+A. No, it looked as if the object broke the cloud and left this opening.
+
+Q. Was the trail horizontal, going up, or coming down?
+A. It looked horizontal.
+
+Q. What was the altitude of the clouds?
+A. I don't know, sir, they were pretty high though.
+
+Q. What time was this?
+A. I don't know exactly sir, but it was between three and five o'clock in the afternoon, we were coming back from fishing.
+
+RESTRICTED
+CONFIDENTIAL
+*handwritten initials: R W L*
+
+*19*

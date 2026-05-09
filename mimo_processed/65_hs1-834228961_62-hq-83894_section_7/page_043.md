@@ -1,0 +1,25 @@
+## SAC Letter #83
+8-29-52
+
+### (C) FLYING DISCS
+Reference is made to Bureau Bulletin #57, Paragraph D, dated October 1, 1947, and SAC Letter #38, dated March 25, 1949, in the captioned matter.
+
+It is noted that some Bureau field offices are not furnishing to OSI locally complaints regarding flying discs, pursuant to existing Bureau instructions.
+
+Upon receipt of information by your office relating to the sighting of a flying disc, you should endeavor to determine from the complainant details of the type referred to in the Air Force memorandum, which was furnished to your office as an enclosure to SAC Letter #38. The information should then be promptly furnished to OSI locally by your office. As you are aware, the investigation of so-called flying discs is the responsibility of the Department of the Air Force.
+
+*Stamp:* ALL INFORMATION CONTAINED HEREIN IS UNCLASSIFIED
+DATE 6/20/83 BY Sp. 8 BK/Dlg
+
+*Handwritten annotation, vertical, right margin:* ORIGINAL FILED IN 66-04-1649
+
+*Handwritten annotation, near stamp:* 80
+
+### File Information
+162-83894
+NOT RECORDED
+80 SEP 3 1952
+
+*Handwritten annotation, bottom left:* 277
+
+*Stamp, bottom left:* 66 SEP 5 1952

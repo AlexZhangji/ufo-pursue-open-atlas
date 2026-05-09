@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 83,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific text (headline, author, date) not seen in Description A, which only describes physical paper and annotations, indicating a fundamental disagreement about the visual content of the clipping.",
+  "original_image_tags": [
+    "A single page document consisting of a newspaper clipping glued onto a larger sheet of paper. The paper shows signs of age with discoloration, staple holes at the top, and various handwritten annotations and stamps. A faint distribution list is visible in the top right corner."
+  ],
+  "gpt_mini_desc": "*Image: A scanned document cover page with a large pasted newspaper headline reading “The Case for the FLYING SAUCER,” a subheading and byline “by RICHARD GRENOUGH,” plus typed date/location text “THE DAILY MAIL APRIL 3, 1950 LONDON, ENGLAND,” red stamped “OFFICE OF THE LEGAL ATTACHE AMERICAN EMBASSY LONDON, ENGLAND,” blue handwritten notes, and several file markings/stamps.*",
+  "gpt_mini_desc_len": 378,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 103,
+    "total_tokens": 56259,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:08"
+}

@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 130,
+  "original_image_tags": [
+    "Large faded stamp in upper left corner reading \"COPY\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large, faded stamp in the upper left corner with the word 'COPY' inside a double-lined rectangular border. Below the rectangle, the text 'SUBJECT: Reporting of Information on \"Flying Discs\"' is typed, followed by a list of addressees and several paragraphs of typed text detailing reporting procedures."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A 'RESTRICTED' stamp appears at the top center and bottom center of the page. The top stamp is slightly faded. The bottom stamp is clear and centered."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large, slanted, handwritten annotation in cursive ink on the right side of the page reads 'Rescinded per ltr 11g USAF dated 16 Jan 45'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A mentions only a 'COPY' stamp, while Description B describes multiple distinct stamps ('COPY' in a border, 'RESTRICTED' stamps) and a handwritten annotation, indicating different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:27"
+}

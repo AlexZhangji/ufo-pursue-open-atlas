@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 198,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific verbatim text (stamp '8 JUL 2 1963', number 'REG-36 62-83894-428', handwritten 'acd 6/27/63') not mentioned by Description A, and Description A claims a 'red stamped date' while Description B specifies the exact date, creating a contradiction in the specificity of quoted text.",
+  "original_image_tags": [
+    "A scanned document, a typed letter on white paper with several handwritten annotations and a red stamped date. The letter is addressed to the FBI and asks questions about the withholding of information regarding unidentified flying objects and captured extraterrestrial craft."
+  ],
+  "gpt_mini_desc": "*Image: Scanned typed letter on FBI letterhead, dated 8 Jul 1963, addressed to the FBI in Washington, D.C.; no photograph or diagram, with handwritten signatures/notations and red archival stamps/marks.*",
+  "gpt_mini_desc_len": 203,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 50,
+    "total_tokens": 14942,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:20"
+}

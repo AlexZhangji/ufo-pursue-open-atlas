@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 104,
+  "original_image_tags": [
+    "A single archival page, appearing to be the back or routing sheet of a document. It is a light beige/cream colored paper with visible texture and some fading. The main content consists of several stamped ink impressions in blue and black, indicating receipt by various government sections. There is faint, unreadable text or impressions from the other side of the page visible through the paper. At the very top right, there is a handwritten note in pencil or light ink. The page has three punched holes along the left edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page containing three blue ink stamps and two handwritten annotations. The stamps read: 'RECEIVED ATOMIC ENERGY SECTION JUL 23 4 26 PM '47 F.B.I. U.S. DEPT. OF JUSTICE'; 'RECEIVED INTERNAL SECURITY JUL 24 9 03 AM '47 F.B.I. DEPT. OF JUSTICE'; and 'RECEIVED ATOMIC ENERGY SECTION JUL 28 9 20 AM '47 F.B.I. U.S. DEPT. OF JUSTICE'. Handwritten notes in the top right read 'forwarded to Div 5 7-23ed' and 'forwarded 7-29ed'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence of stamps and handwritten annotations on the page, but Description B provides specific verbatim text for the stamps that Description A omits.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:37"
+}

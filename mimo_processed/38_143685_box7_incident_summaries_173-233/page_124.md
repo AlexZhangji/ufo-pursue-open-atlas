@@ -1,0 +1,33 @@
+## INCIDENT SUMMARY SHEET
+
+Incident No. 226
+
+1. **Date and Time of Observation:** 6 December 1948 approx 2255 in the evening
+2. **Where Sighted:** Sandia Base, Albuquerque, N. M.
+3. **Observer's Position:** Ground - while driving west on "D" St.
+   (i.e., ground, air, control tower, etc.)
+4. **Name and Address of Observer:** Mr Joe Toulouse, Security Section, Sandia Base, Albuquerque, N. M.
+5. **Occupation and/or hobbies:** N/S - see above
+6. **Attention Attracted by:** Saw light on windshield
+7. **Number of Object(s) Seen:** 1
+8. **Size of Object(s):** Approximately 1/3 the diameter or the moon
+9. **Color of Object(s):** Greenish
+10. **Shape (Sketch if Possible):** N/S - like flare
+11. **Nature of Luminosity:** Like flare
+    (Directed beam of light?)
+12. **Altitude of Object:** N/S
+    (estimated)
+13. **Estimated Distance of Object from Observer:** N/S
+14. **Estimated Speed of Object:** N/S
+15. **Time in Sight:** 2 to 3 seconds
+16. **Tactics:** Slight arc falling from east to west
+17. **Sound Made by Object(s):** N/S
+18. **Direction of Flight of Object(s):** east to west
+19. **Apparent Construction:** like flare
+20. **Effect on Clouds:** N/S
+21. **Exhaust Trail (Color of):** flashing tail appeared during arc
+22. **Manner of Disappearance:** N/S
+23. **Weather Conditions at Time of Sighting:** N/S
+24. **Peculiarities Noted:** Greenish hue
+25. **Summary of Incident:** (over)
+    (See attached page)

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 196,
+  "original_image_tags": [
+    "Stamped mark \"MAILED 31 / JUN 2 7 1963 / COMM-FBI\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter from John Edgar Hoover regarding UFO jurisdiction, with handwritten annotations and stamps."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a specific stamped mark with verbatim text, while Description B makes no mention of this visual element and instead refers to an entirely different document type, indicating a clear contradiction in the visual content described.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:43"
+}

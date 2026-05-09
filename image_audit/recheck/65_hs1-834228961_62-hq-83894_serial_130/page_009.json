@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 9,
+  "original_image_tags": [
+    "Black-and-white newspaper photograph showing a dark, grainy night sky. A faint, dark, saucer-shaped or disc-shaped object is visible, highlighted by a hand-drawn white arrow pointing toward it from the lower left. The object appears as a dark silhouette against a slightly lighter background."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black-and-white photograph published in a newspaper clipping. The photograph depicts a dark night sky with a small, faint, bright, circular object located in the center-right area. A large, hand-drawn white arrow points from the bottom center toward the object. The clipping includes a caption below the photo that reads: 'CAMERA HERE CATCHES \"FLYING SAUCER\"—Robert Crossland, Age-Herald copy reader, has camera proof that the much-discussed flying discs were over Birmingham last night. The picture above was made by Mr. Crossland at 8:37 p.m. last night at his home at 29th Street and Highland Avenue. He said he gave the film a 15-second exposure.' The newspaper masthead partially shows 'n News', 'THE WEA...', 'PRICE: 5 CENTS', and a headline: \"'Flying Saucers' Reported From 39 States, But Seem To Be Concentrated Here\". Handwritten numbers '62-93894-130' and 'see 130' are visible on the clipping."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content—a black-and-white newspaper photograph of a dark night sky with a faint circular object and a hand-drawn white arrow—but Description B adds extensive detail (caption text, newspaper masthead, headline, handwritten numbers) not mentioned in Description A, while Description A calls the object 'saucer-shaped or disc-shaped' and 'dark silhouette' versus Description B's 'bright, circular object', creating a minor inconsistency on the object's appearance.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:12:50"
+}

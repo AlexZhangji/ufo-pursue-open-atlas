@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 144,
+  "original_image_tags": [
+    "Pinkish-salmon colored paper document, likely a routing slip or file folder cover, oriented vertically. The paper shows signs of age and wear. Two dark punch holes are visible at the top edge. Multiple ink stamps are present, some oriented correctly and others reversed (upside down), indicating they were stamped from different sides or when the paper was flipped."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Pink page featuring two distinct ink stamp impressions. One stamp includes the text 'RECEIVED INTERNAL SECURITY F. B. I. DEPT. OF JUSTICE AUG 15 9 01 AM'. The second stamp includes the text 'RECEIVED-TAMM FBI U.S. DEPT. OF JUSTICE AUG 6 9 18 AM '47', alongside another stamp reading 'RECEIVED INTERNAL SECURITY F. B. I. DEPT. OF JUSTICE JUG 15 2 26 P.M. '47'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence of ink stamps on pink paper, but Description B adds specific quoted text from the stamps that Description A omits, without direct contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:28:04"
+}

@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 101,
+  "original_image_tags": [
+    "A detailed, hand-drawn map on beige paper depicting the Fairfield-Suisun Air Force Base layout. A bold red line with cross markers traces a flight path from the upper right, down over the base, and off the bottom edge. Handwritten annotations in blue ink describe the object's movements. A red signature is visible at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "map",
+        "description": "A large, detailed architectural site plan or base layout map titled 'MILITARY CONSTRUCTION FAIRFIELD-SUISUN AIR FORCE BASE NEAR FAIRFIELD, CALIFORNIA BASIC LAYOUT PLAN', dated OCTOBER 1946. The map depicts the layout of an airfield including runways, taxiways, buildings, and a 'CONTROL TOWER' labeled '3'. A prominent red line is drawn across the map, annotated with numbered points (1, 2) and text describing the 'TRACK OF UNIDENTIFIED AERIAL OBJECT'. Text includes: 'OBJECT CAME INTO VIEW AT AN ALT. OF 500-1000 FEET TRAVELLING AT AN ESTIMATED SPEED OVER 400 MPH', 'OBJECT CLIMBED ON A LOW TRAJECTORY TO 1500 ALT.', 'OBJECT SLOWED TO AN ESTIMATED 200 MPH', 'OBJECT CLIMBED TO AN ESTIMATED 3000 FEET AND LEVELED OFF MOMENTARILY THEN STARTED TO CLIMB AGAIN', 'OBJECT MAINTAINED A FAST CLIMB TO 20,000 FEET', and 'OBJECT LOST FROM VIEW AT AN ESTIMATED 20,000 FEET ALT.'. The map also contains a signature at the bottom center and a 'CONFIDENTIAL' stamp."
+      },
+      {
+        "category": "diagram",
+        "description": "A small circular diagram in the top right corner labeled 'SURFACE WINDROSE' with various wind direction indicators. To its left is a small inset map labeled 'VICINITY MAP' showing the location of Fairfield-Suisun AFB relative to surrounding areas."
+      },
+      {
+        "category": "diagram",
+        "description": "A small inset map in the top left labeled 'AIRFIELD' showing the layout of runways. Below it is a section labeled 'LOCATION OF DIVERSION DAM', 'WATER WELLS & RADIO RANGE'. In the bottom left is a cross-section diagram labeled 'GASOLINE SUPPLY WHARF' with locations 'FAIRFIELD' and 'SUISUN' marked."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements—a hand-drawn map of Fairfield-Suisun AFB with a prominent red line, annotations, and a signature—but Description B provides extensive specific quoted text and details (e.g., dates, object movement descriptions, inset diagrams) that Description A omits, without direct contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "map",
+    "diagram",
+    "diagram"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:22"
+}

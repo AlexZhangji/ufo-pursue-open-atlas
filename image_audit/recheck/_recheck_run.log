@@ -1,0 +1,33 @@
+Targets: 1236 pages with image tags
+MuPDF error: format error: No common ancestor in structure tree
+
+  25/1236 | scores 3=10 2=4 1=11 0=0 | fallback=11
+  50/1236 | scores 3=15 2=12 1=19 0=4 | fallback=24
+  75/1236 | scores 3=15 2=12 1=19 0=29 | fallback=30
+  100/1236 | scores 3=22 2=17 1=24 0=37 | fallback=37
+  125/1236 | scores 3=29 2=24 1=34 0=38 | fallback=49
+  150/1236 | scores 3=29 2=27 1=35 0=59 | fallback=58
+  175/1236 | scores 3=29 2=27 1=35 0=84 | fallback=58
+  200/1236 | scores 3=31 2=30 1=38 0=101 | fallback=61
+  225/1236 | scores 3=35 2=37 1=51 0=102 | fallback=77
+  250/1236 | scores 3=37 2=45 1=57 0=111 | fallback=86
+  275/1236 | scores 3=37 2=45 1=57 0=136 | fallback=86
+  300/1236 | scores 3=38 2=47 1=61 0=154 | fallback=91
+  325/1236 | scores 3=41 2=59 1=71 0=154 | fallback=104
+  350/1236 | scores 3=42 2=66 1=77 0=165 | fallback=120
+  375/1236 | scores 3=42 2=66 1=77 0=190 | fallback=121
+  400/1236 | scores 3=44 2=70 1=87 0=199 | fallback=135
+  425/1236 | scores 3=49 2=74 1=100 0=202 | fallback=150
+  450/1236 | scores 3=50 2=76 1=106 0=218 | fallback=159
+  475/1236 | scores 3=50 2=76 1=106 0=243 | fallback=159
+  500/1236 | scores 3=54 2=87 1=112 0=247 | fallback=168
+  525/1236 | scores 3=57 2=94 1=123 0=251 | fallback=185
+  550/1236 | scores 3=57 2=95 1=125 0=273 | fallback=192
+  575/1236 | scores 3=57 2=95 1=125 0=298 | fallback=192
+  600/1236 | scores 3=59 2=99 1=136 0=306 | fallback=205
+  625/1236 | scores 3=63 2=106 1=147 0=309 | fallback=222
+  650/1236 | scores 3=64 2=109 1=149 0=328 | fallback=231
+  675/1236 | scores 3=64 2=109 1=149 0=353 | fallback=231
+  700/1236 | scores 3=69 2=114 1=154 0=363 | fallback=238
+  725/1236 | scores 3=71 2=120 1=167 0=367 | fallback=254
+  750/1236 | scores 3=72 2=123 1=174 0=381 | fallback=266

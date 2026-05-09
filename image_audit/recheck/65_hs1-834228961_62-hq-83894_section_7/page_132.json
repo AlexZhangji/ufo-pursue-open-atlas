@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 132,
+  "original_image_tags": [
+    "The page appears to be the reverse side of a document, showing faint, mirrored text bleeding through from the other side. Visible at the bottom is an upright blue ink stamp with the text:",
+    "Two dark, circular hole-punch marks are visible near the top edge of the page. A faint blue pencil mark or checkmark is visible on the right margin. The paper shows signs of age and handling."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded ink stamp upside down at the bottom of the page with legible text including 'U.S. DEPT OF JUSTICE', 'F.B.I.', 'SEC'D ESPIONAGE', and 'MAR 10 9 34 AM '53'. There is also a faint, illegible red stamp near the bottom edge. The rest of the page contains faint, illegible reversed text showing through from the other side and two hole-punch marks at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a blue upright stamp with no specific text, while Description B reads a detailed, upside-down stamp with specific, contrasting text like 'U.S. DEPT OF JUSTICE' and a date, indicating a direct contradiction in the core visual content being described.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:17"
+}

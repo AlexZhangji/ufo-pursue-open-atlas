@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 31,
+  "original_image_tags": [
+    "A typed form on a dark background, likely a microfilm or negative print. Two punch holes are visible on the left margin. The text is light-colored against the dark background. The number \"30\" is typed in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The word 'RESTRICTED' stamped twice on the page, once at the top and once at the bottom."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "A typed checklist titled 'CHECK-LIST - UNIDENTIFIED FLYING OBJECTS' with 'Incident # 13' in the top right corner. The document contains 26 numbered fields with typed entries, including Date (4 July 1947), Time (1400), Location (Portland, Oregon), Name of observer (E. A. Evans), and other observation details. There are no photographs, sketches, or diagrams."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains no actual visual content (photographs, sketches, etc.), describing only typed text and stamps.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:53:33"
+}

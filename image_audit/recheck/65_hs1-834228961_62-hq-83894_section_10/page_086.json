@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 86,
+  "original_image_tags": [
+    "black-and-white photograph depicting a dark, blurred sky. In the lower portion, a series of white, bright lights or a single fragmented object is visible against the dark background. Faint horizontal lines, likely power lines, are visible in the foreground."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A rectangular black and white photograph showing a light-colored, disc-shaped object hovering in the sky above a dark, indistinct landscape. The heading 'UFO - PICTURES' is printed above the image."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a fragmented object or lights and power lines, while Description B describes a disc-shaped object and a caption 'UFO - PICTURES' which A does not mention.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:48"
+}

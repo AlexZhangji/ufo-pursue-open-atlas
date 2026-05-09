@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 142,
+  "original_image_tags": [
+    "Circular ink stamp, partially illegible, appears to read \"RECEIVED\" at top, \"OCT 26 1948\" in center, and \"DRAPVLICHED\" or similar text at bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded circular stamp or seal located in the lower right area, partially obscured by typed text, with legible text including 'OCT 25 1948' and 'DISPATCHED'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Both sides quote a stamp but give contradictory dates ('OCT 26 1948' vs 'OCT 25 1948') and contradictory bottom text ('DRAPVLICHED' vs 'DISPATCHED'), indicating at least one side is fabricating specific verbatim text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:28"
+}

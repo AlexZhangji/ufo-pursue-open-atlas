@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 90,
+  "original_image_tags": [
+    "A standard US Government Office Memorandum (Form No. 64). The top right date \"October 8, 1952\" has a black mark over the \"2\". In the top left corner, there is a handwritten notation \"MY\" and a checkmark over the \"TO\" field. The document contains typed paragraphs regarding an inquiry into a \"The New Yorker\" article by Daniel Lang about FBI investigations into flying saucers, mentioning OSI, Air Intelligence, and Wright-Patterson Air Force Base. At the bottom, handwritten file number \"62-83894\" and \"32 Q\" are visible in red ink, along with a signature over \"OCT 14 1952\". In the bottom left corner, there is a red stamp \"RECEIVED OCT 29 1952\" with handwritten initials \"30/\". There is a distribution list checklist on the right margin with names like \"Telep\", \"Ladd\", \"Clech\", \"Mitch\", \"Rose\", \"Tracy\", \"Hunt\", \"Holmes\", \"Tele. Room\", \"Sease\", \"Cloyd\". Several names have checkmarks next to them."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular date stamp in red ink reading 'OCT 29 1952' located near the bottom left."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular ink stamp reading 'RECORDED - 116' and 'INDEXED - 116' located at the bottom center."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular ink stamp reading 'OCT 14 1952' and 'EX-60' located at the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions are about entirely different visual content: Description A describes a memorandum with handwritten notations, a signature, and a distribution list, while Description B describes three distinct stamps that are not mentioned in A, and A's described stamps and markings are not mentioned in B.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:00"
+}

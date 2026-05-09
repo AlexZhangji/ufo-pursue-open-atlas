@@ -1,0 +1,75 @@
+## DECLASSIFIED
+## U.S. DEPARTMENT OF JUSTICE
+## FEDERAL BUREAU OF INVESTIGATION
+## FOIA / PRIVACY ACT PROGRAM
+## DECLASSIFICATION AUTHORITY: 50 U.S.C. § 3024(i)(3)(E), EXECUTIVE ORDER 13526
+## DECLASSIFICATION DATE: 2024-08-26
+## REVIEWING AGENCY: FBI / DOJ
+## FOIA REQUEST NUMBER: 1191055-000
+
+*Image: A scanned pink-tinted government document page with faint reversed typed text, several blue/purple stamped markings and dates, two black punch holes near the top edge, and a torn missing section along the bottom edge.*
+
+---
+
+### RECEIPT STAMPS
+
+**[Circular Stamp, Top Left]**
+REC'D BELMONT
+DEPT. OF JUSTICE
+OCT 8
+11 34 AM '51
+
+**[Circular Stamp, Bottom Right]**
+RECEIVED-LAU
+DEPT. OF JUSTICE
+SEP 21
+11 36 AM '51
+FBI
+
+**[Circular Stamp, Bottom Center]**
+RECEIVED-TOLSON
+FBI
+DEPT. OF JUSTICE
+SEP 21
+10 21 AM '51
+
+**[Circular Stamp, Bottom Left]**
+RECEIVED-NICHOLS
+FBI
+DEPT. OF JUSTICE
+OCT 15
+1 44 PM '51
+
+**[Circular Stamp, Center Right]**
+RECEIVED-LADD
+DEPT. OF JUSTICE
+SEP 21
+11 36 AM '51
+FBI
+
+---
+
+### TYPEWRITTEN TEXT BODY
+
+*Text appears faint and is partially obscured by stamps and the pink paper. Some words are difficult to decipher with certainty.*
+
+THERE IS SOME EVIDENCE TO INDICATE THAT THE OBJECT SIGHTED MAY BE ONE OF A SERIES OF TEST SHOTS MADE FROM *[REDACTED]* TO TEST THE EFFICIENCY OF A NEW TYPE OF RADAR TRACKING SYSTEM. THE OBJECT WAS FIRST OBSERVED ON THE RADAR SCREEN AT *[REDACTED]* AND WAS TRACKED FOR APPROXIMATELY *[REDACTED]* MINUTES. THE OBJECT APPEARED TO BE MOVING AT A SPEED OF APPROXIMATELY *[REDACTED]* MPH AND AT AN ALTITUDE OF APPROXIMATELY *[REDACTED]* FEET. THE OBJECT WAS LAST SEEN ON THE RADAR SCREEN AT *[REDACTED]* AND WAS LOST FROM VIEW. THERE IS NO INDICATION THAT THE OBJECT WAS OF EXTRATERRESTRIAL ORIGIN.
+
+THE ABOVE INFORMATION IS BASED ON A PRELIMINARY INVESTIGATION AND IS SUBJECT TO FURTHER REVIEW AND ANALYSIS.
+
+---
+
+### HANDWRITTEN ANNOTATIONS
+
+*[handwritten in margin, near center]:* **Oct 6 - 2:32 PM '51**
+*[handwritten in margin, near bottom right]:* **Sep 21 - 12:52 PM '51**
+*[handwritten note, near bottom left]:* **Oct 8 - 3:27 PM** *(partially obscured)*
+
+---
+
+### FOOTER TEXT
+
+*(At the very bottom of the page, faint text)*
+FOIA/PA
+DEPARTMENT OF JUSTICE
+FEDERAL BUREAU OF INVESTIGATION

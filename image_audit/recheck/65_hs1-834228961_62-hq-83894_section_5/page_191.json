@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 191,
+  "original_image_tags": [
+    "A scanned page from a US government archive file. The page contains a newspaper clipping from \"The Louisville Times\" of Louisville, Kentucky, dated June 28, 1950, mounted on a backing sheet. Two punch holes are visible at the top. A red-ink stamp reads \"ENCLOSURE\" with the handwritten file number \"62-83894-240\" below it.",
+    "A black-and-white photograph from the newspaper clipping, oriented vertically. It shows a dark, disk-shaped object in the sky to the left of a twin-engine propeller plane (identified as a DC-3). The object is relatively large compared to the plane in this perspective. Below is a horizon with trees and buildings."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A vertical sequence of four black-and-white newspaper photographs showing a bright, circular object in the sky above a horizon line with trees. The object appears in different positions across the frames. The clipping includes the newspaper header 'THE LOUISVILLE TIMES', the headline 'Movies Snapped of Sky Disk By Alert Times Photographer', body text, and a caption below the photos: 'Here's Real Flying Saucer, If There Is One' with a sub-caption describing a 'flying saucer' photographed by Al Hixenbaugh. The date 'June 28, 1950' is visible at the bottom."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A pinkish-red stamp at the bottom left reading 'ENCLOSURE' with a handwritten number '62-83 894-240' beneath it. A small black arrow symbol is drawn next to the number."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual elements: a newspaper clipping from The Louisville Times with a vertical photograph of a disk-shaped object in the sky near an airplane, and a red 'ENCLOSURE' stamp with file number 62-83894-240; the inconsistency is that Description B describes a sequence of four photographs while Description A describes a single photograph, a factual disagreement about image count.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:24"
+}

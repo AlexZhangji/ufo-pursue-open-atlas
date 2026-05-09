@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 93,
+  "original_image_tags": [
+    "Faint stamp at bottom reads: \"[illegible] HAND OFF [illegible] ...\" and other illegible text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum page with header 'Incident LAF 1208 I 16 July 1947'. The body text includes a 'MEMORANDUM FOR THE OFFICER IN CHARGE' and 'AGENT'S NOTES' detailing an interview with Mr. Kenneth Arnold regarding a report of strange objects. There are two black hole-punch marks at the top and a handwritten annotation 'Incl #1' at the bottom left."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims there is a visual element (a faint stamp) while Description B states the page is a typed memorandum with no mention of any stamp, creating a direct contradiction on the presence of visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:22"
+}

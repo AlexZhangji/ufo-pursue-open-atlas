@@ -1,0 +1,7 @@
+## RESTRICTED
+
+On the evening of June 12 about 6:15, a neighbor and I returning home from another neighbors, glanced into the sky toward the West, and saw what we thought was smoke from an airplane. She mentioned that she had never seen that before, so we stopped to look and listen, thinking we would see the plane. But there was no sound, so we kept looking until we saw a tiny object from which the vapor was emitting. It was so far away we could not determine the size or even the shape. Its only identity was a glisten in the sun. We had watched this one for a few seconds, when from the general direction of the sun, another object shot into the sky. It followed the general direction of the first, shooting up and down before settling to a south-easterly course across the sky, where we followed them until they were only a glisten and the vapor could no longer be seen. After the objects were gone, we continued to look and to watch the vapor that had been left which now looked like clouds but kept a shape, and this shape seemed to glide across the sky to the East where there was a black streak leading to the horizon. The vapor stayed in the sky for over an hour.
+
+*Image: Black-and-white scan of a typed report page on dark, textured paper. The page is marked "RESTRICTED" in stamped or printed white text at the top right and bottom center. Two hole-punch circles are visible on the left edge. Two additional hole-punch circles are visible at the bottom edge. A handwritten number "46" appears in the bottom right corner.*
+
+## RESTRICTED

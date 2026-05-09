@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 43,
+  "original_image_tags": [
+    "A vertical, rectangular, aged newspaper clipping with a yellowed hue, mounted on a black background. The left edge of the clipping is cut off, obscuring the beginning of several words. The top portion shows part of a large headline in a serif font. The body text is in a standard newspaper column format."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A single newspaper clipping fragment with typed text. The top shows partial large capital letters spelling 'REER'. Below this is a column of text, with fragments like 'pattern which other', 'ed here in pictures.', 'costuming by making', 'anikin doll. Her col-', 'especial interest in the', 'ely-assorted sources as', 'y studied and histori-', 'd but fashionable lady', 'standing, giving pains-', 'As coiffure was shown', 'shown below, doesn't', 'carranged to the style'. A red handwritten annotation runs vertically along the right edge, partially overlapping the text column."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific verbatim text fragments ('REER', 'pattern which other', etc.) that Description A does not mention at all, creating a major factual inconsistency regarding the presence and content of quoted text within the image.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:26"
+}

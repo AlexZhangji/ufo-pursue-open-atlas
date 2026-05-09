@@ -1,0 +1,29 @@
+[project]
+name = "pursue-open-atlas"
+version = "0.1.0"
+description = "PURSUE Open Atlas — pipeline for extracting, auditing, and rendering the U.S. Department of War PURSUE Release 01 UAP declassification."
+readme = "README.md"
+license = { text = "CC0-1.0" }
+authors = [{ name = "Ji Zhang" }]
+requires-python = ">=3.10"
+
+# Runtime deps for rebuilding the corpus from source PDFs.
+# Consumer-side `datasets` (for load_dataset) is not pinned here —
+# install separately if you only want to read corpus.jsonl.
+dependencies = [
+    "pymupdf>=1.24",
+    "openai>=1.40",
+    "Pillow>=10.0",
+    "datasets>=4.0",   # parquet shard builder
+    "pyarrow>=15.0",   # parquet writer backend
+]
+
+[project.urls]
+Homepage = "https://github.com/AlexZhangji/ufo-pursue-open-atlas"
+Atlas    = "https://ufo.gpt2077.com/"
+Dataset  = "https://huggingface.co/datasets/alex-zhang42/ufo-pursue-open-atlas"
+
+# This repo is a scripts collection, not an importable Python package —
+# uv resolves and installs deps but does not try to build a wheel.
+[tool.uv]
+package = false

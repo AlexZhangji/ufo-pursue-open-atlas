@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 201,
+  "original_image_tags": [
+    "A single, aged sheet of off-white paper, oriented vertically. The top edge has two large, irregular, punched holes. The right edge is torn and uneven. The paper appears to have been folded horizontally across the middle. The bottom of the page contains several stamped and possibly handwritten markings, oriented upside-down relative to the main page view."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Bottom right area contains two blue stamps. One reads 'REC'D-COORD. & TOURS' and 'FBI'. Below it is a date stamp: 'JUL 15 9 19 AM '63'. Bottom left area contains a red stamp with 'JUL 15 1963' and a handwritten annotation '3/' or '31'. There are black ink holes/spots along the top edge. Faint, illegible text or markings are visible through the paper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description B provides specific, detailed content for the stamps and markings that Description A describes only as 'several stamped and possibly handwritten markings', but the two descriptions do not contradict each other on any specific quoted text or visual element count.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:46"
+}

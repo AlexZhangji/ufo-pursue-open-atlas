@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "059uap00011",
+  "page_num": 1,
+  "original_image_tags": [
+    "Seal of the United States Department of State."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular seal of the United States Department of State featuring an eagle."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the visual content is a circular seal of the United States Department of State, and description B simply adds the detail of an eagle which is consistent with such a seal.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:15"
+}

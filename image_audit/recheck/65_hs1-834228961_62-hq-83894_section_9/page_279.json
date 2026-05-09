@@ -1,0 +1,51 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 279,
+  "original_image_tags": [
+    "Typed letter on paper, showing the address block at top right:",
+    "Stamped postmark at top right:",
+    "Red \"FLYING SAUCERS\" stamp near top left.",
+    "Vertical red stamp along right edge:",
+    "Distribution list at top right margin (partially cut off):",
+    "Handwritten note at left margin:",
+    "Handwritten annotation at bottom left:",
+    "Stamped registration info at bottom right:",
+    "Stamped \"CORRESPONDENCE\" at bottom right.",
+    "Faint pencil notation at very bottom left:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular postmark stamp in the upper right corner reading 'RAYNHAM, MA PM APR 19 1966 02761'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical list of names in the upper right margin, starting with 'Mr. Tolson' and ending with 'Miss Gandy'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical red stamped text on the right edge reading 'ED PROG.' with an associated date stamp 'APR 13-1966' and the number '68'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamped text at the bottom right reading 'REC 20' followed by handwritten numbers '62-83 894-445', a date stamp '5 APR 1966', and a stamp reading 'CORRESPONDENCE'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, contradictory verbatim text for stamps (e.g., 'RAYNHAM, MA PM APR 19 1966 02761' vs. a general 'postmark'), and adds named entities (e.g., 'Mr. Tolson') not mentioned in A, indicating hallucination.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:39"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 77,
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific stamp text ('MR. JONES', 'JUL 8 1:50 PM '47', etc.) that Description A does not mention and describes as only four lines of text, creating a direct contradiction in the quoted content of the same visual element.",
+  "original_image_tags": [
+    "A scan of the back of a document, which is mostly blank, off-white paper. It has two large, black circular hole-punch marks at the top edge and some faint creasing. In the bottom left corner, there is a handwritten number in pencil or faded ink. In the bottom right quadrant, there is a blue ink stamp applied upside down relative to the page's primary orientation.",
+    "A blue ink stamp, oriented upside down, in the lower right quadrant of the page. The stamp text is arranged in four lines.",
+    "In the bottom left corner, a handwritten number is visible, written in a faint, dark medium (pencil or faded ink). The number appears to be \"9389\"."
+  ],
+  "gpt_mini_desc": "*Image: Blank off-white document cover page with two black binder-hole punch marks near the top, faint handwritten marking in the lower left, and a blue inverted stamp near the lower center reading “MR. JONES,” “AUG 8 50 PM 47,” “RECEIVED,” “FBI,” and “S Dept of Justice.”*",
+  "gpt_mini_desc_len": 273,
+  "usage": {
+    "prompt_tokens": 13346,
+    "completion_tokens": 75,
+    "total_tokens": 13421,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:01"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 11,
+  "original_image_tags": [
+    "Typed letter on light-colored, aged paper. Two hole-punch marks are visible at the top, one with a dark stain next to it. The text is typewritten in a serif font. Page is numbered \"- 2 -\" at the bottom center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter addressed to the Director of Special Investigations, containing four paragraphs discussing U.F.O. investigations and 'Flying Saucers', signed '/S/ R. T. STONE' for the 'Inter Continental Aerial Research Foundation'. The page is numbered '- 2 -' at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains no photographs, sketches, or diagrams, only typewritten text and page numbering, so there is no visual content to disagree about.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:10:27"
+}

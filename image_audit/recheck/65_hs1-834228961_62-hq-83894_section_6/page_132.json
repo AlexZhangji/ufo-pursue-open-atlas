@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 132,
+  "original_image_tags": [
+    "Reverse side of the document page, showing faded reverse text from the front side, a large red \"CLASSIFIED\" stamp, and a typed notation at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A page consisting entirely of typed text on paper, oriented upside-down. It features a large, mirrored 'RECEIVED' stamp at the bottom with the text 'U S DEPT OF JUSTICE', 'F B I', 'Apr 7 3 52 PM 1959', and 'MR. JONES'. There are also some black ink blots and a small, faint red stamp near the bottom right edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a red 'CLASSIFIED' stamp while Description B describes a mirrored 'RECEIVED' stamp with specific text, which are contradictory claims about the same visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:48"
+}

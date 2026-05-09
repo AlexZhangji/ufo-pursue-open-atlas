@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 53,
+  "original_image_tags": [
+    "A single page of handwritten notes in cursive ink on lined paper. There is a circled number \"5\" at the top right corner. There are two small black ink blots or censor marks obscuring a few letters in the second line of the first paragraph. The handwriting fills the page vertically."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Handwritten text in blue ink on a piece of paper. There are two black redaction dots near the top. The text discusses 'Push' and 'Pull' forces in relation to stars, the sun, and planets."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes handwritten notes in cursive ink with a circled '5' and ink blots, while Description B describes handwritten text in blue ink discussing scientific concepts, indicating they are likely describing different visual content or one is hallucinating details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:27"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 160,
+  "original_image_tags": [
+    "Official seal of the Federal Bureau of Investigation, United States Department of Justice."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One official seal in the top left corner for the 'DEPARTMENT OF JUSTICE FEDERAL BUREAU OF INVESTIGATION', featuring a shield inside a circle with text around the border. The page also contains two punched holes at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree there is one official seal for the Department of Justice / FBI, but Description B adds details about its design and the presence of punched holes, which Description A omits, without contradicting each other.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:33"
+}

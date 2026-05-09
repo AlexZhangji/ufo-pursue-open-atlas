@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 16,
+  "categories": [
+    "sketch",
+    "photograph",
+    "sketch",
+    "photograph",
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B invents a photograph of 'GABRIEL GREEN Head Saucerer' and detailed photo captions that are entirely absent from Description A, while Description A lists multiple images (two cartoons, two photographs, one more cartoon) that Description B combines or omits differently, creating contradictions in both content and structure.",
+  "original_image_tags": [
+    "black-and-white cartoon. A man stands near a tree looking at a flying saucer hovering in the sky with a beam of light shining down. Caption: \"Parking between my ball and the green—I'd hardly call THAT intelligent life from another planet.\" Cartoon by Flitcroft. 4-12-66.",
+    "single-panel cartoon. A flying saucer hovers over a swamp at night. Caption: \"THE SWAMP GAS IS RESTLESS TONIGHT.\" From B.C., the Post, May 9, 1966.",
+    "black-and-white photograph of a blurry, light-colored, circular object in the sky. The object appears to be a disc or hat shape.",
+    "black-and-white photograph of a blurry, light-colored, circular object in the sky. The object appears to be a disc shape.",
+    "cartoon of a man sitting in a chair looking out a window. Caption: \"It's flying-saucer-sighting time and I'm determined to see one!\" 3-25-66."
+  ],
+  "gpt_mini_desc": "*Image: A collage page of newspaper clippings and cartoon illustrations about UFO/saucer sightings, including a headline “Who’s in All Those Saucers?” with a black-and-white cartoon of a flying saucer over two people, a large black-background cartoon panel with a speech bubble “THE SWAMP GAS IS RESTLESS TONIGHT.”, a grayscale head-and-shoulders portrait labeled “GABRIEL GREEN Head Saucier,” a newspaper clipping masthead “Saucer Sighting Report,” a small photo-like image of a dark object in the sky, and a large line drawing of a person crouching at an open window with the caption “It’s flying-saucer-sighting time and I’m determined to see one!”*",
+  "gpt_mini_desc_len": 652,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 154,
+    "total_tokens": 57816,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:52"
+}

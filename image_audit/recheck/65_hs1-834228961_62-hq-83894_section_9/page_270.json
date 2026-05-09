@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 270,
+  "original_image_tags": [
+    "Single page of aged, off-white paper, likely the reverse side of a document. The page is blank except for physical characteristics. Two dark, round hole-punch marks are visible at the top center and top right. Minor speckling and a faint, yellowish stain are present in the lower right quadrant. The right edge shows minor wear and a small tear. The page appears to be part of a bound or stapled document."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "blank_or_back_of_page",
+        "description": "Blank page with two hole-punch marks at the top edge and faint scattered specks."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page is essentially blank with two hole-punch marks and minor specks, indicating no real visual content beyond the page's physical state.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "blank_or_back_of_page"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:12:26"
+}

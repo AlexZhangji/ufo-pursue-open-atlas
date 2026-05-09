@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 273,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B explicitly states no photographs, sketches, or diagrams are present, directly contradicting Description A's description of stamps and handwritten notes as visual content, and they also conflict on the file number ('83891' vs '83894') and ink color ('red' vs 'blue').",
+  "original_image_tags": [
+    "The bottom of the page contains several stamps and handwritten notes. A red \"EX 109\" stamp is visible. A stamp reading \"REC 7\" is near a redacted section. A handwritten file number \"62 - 83891- 444\" is written in red ink, with the last three digits underlined. A date stamp reads \"16 APR 30 1965\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typed letter page headed “TRUE COPY” and “LONG GROVES COUNTY CLUB ESTATES,” with visible handwritten annotations including “SAUCERS,” red “CLOSED,” and date/file markings near the bottom.*",
+  "gpt_mini_desc_len": 206,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 49,
+    "total_tokens": 14941,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:24"
+}

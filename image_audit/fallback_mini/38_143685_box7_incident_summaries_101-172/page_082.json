@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 82,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions disagree on the specific text content of the document page, with Description A focusing on stamps and structure while Description B quotes specific typed body text about a speeding object and explicitly states 'No photographs, sketches, or diagrams are visible.'",
+  "original_image_tags": [
+    "The document page appears heavily blacked out or on dark paper with white text and stamps. The word \"RESTRICTED\" is stamped in large, faint block letters near the top center and again in the lower half of the page. There are two punch holes on the left margin. A small handwritten number \"866\" is visible in the bottom right corner."
+  ],
+  "gpt_mini_desc": "*Image: A dark, mostly blank page scan with two circular binder holes along the left edge, partial stamped words “RESTRICT” at the top and “STRICTED” near the lower center, and a small line of typewritten text near the top margin.*",
+  "gpt_mini_desc_len": 231,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 56,
+    "total_tokens": 14948,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:54"
+}

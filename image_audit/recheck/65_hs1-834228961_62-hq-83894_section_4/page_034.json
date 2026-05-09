@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 34,
+  "original_image_tags": [
+    "Back of a document, aged paper, with multiple stamps and markings. Two punch holes at the top. Text on the reverse side is faintly visible through the paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded paper with a red rectangular stamp at the bottom right containing the text 'U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF INVESTIGATION' at the top, a star symbol, and 'FEB 6 1950 11:42 AM 40' in the center, with 'COMPUTATIONS' and 'MA RECEIVED-MAIL ROOM' and 'FBI' at the bottom. Above this is a blue stamp with 'Feb 9 5:33 PM '40' and 'FBI RECEIVED-LADD:'. To the left is a purple stamp with '8 11 30 AM' and 'FBI INTERNAL SECURITY' reversed. A faded 'AB-13' is on the left edge. A hole punch at the top is covered by a yellow square label with a black circle."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims the page is the back of a document with stamps and punch holes, while Description B provides extensive, specific, and contradictory verbatim text for multiple stamps (red, blue, purple) and a hole punch label that Description A does not mention at all, indicating they are describing fundamentally different visual content or one is fabricating details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:09"
+}

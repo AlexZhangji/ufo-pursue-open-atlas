@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 133,
+  "original_image_tags": [
+    "A single page of aged, off-white paper with two punched holes at the top center. The page is oriented upside-down relative to the viewer. The top half (as displayed) contains faint, mirrored text from the reverse side of the paper (show-through). The bottom half contains several blue ink stamps and a handwritten annotation in the lower-left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Aged paper page with multiple faded rubber stamps at the bottom. Stamps include 'RECEIVED LIAISON SECTION Aug 18 11:44 AM '47', 'MR. JONES', 'FBI RECEIVED Jul 30 9:47 AM '47', 'INTERNAL SECURITY F.B.I.', and 'FBI RECEIVED'. Faint reversed text from the reverse side is visible through the paper. A small handwritten annotation is visible on the left edge. The main body consists of faint, largely illegible reversed typed text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific verbatim text for multiple stamps (e.g., 'RECEIVED LIAISON SECTION Aug 18 11:44 AM '47', 'MR. JONES', 'FBI RECEIVED Jul 30 9:47 AM '47', 'INTERNAL SECURITY F.B.I.', 'FBI RECEIVED'), while Description A states the stamps are 'several blue ink stamps' with no specific quoted text and claims the page is oriented upside-down, contradicting the stamp legibility and orientation implied by Description B.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:27:58"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 62,
+  "original_image_tags": [
+    "The back of a pink/salmon-colored document page. It is heavily creased and has two punched holes at the top. Multiple blue ink receipt stamps are visible in various orientations. Faint, mirrored text from the front side of the document bounces through the paper. The top right corner is cut off at an angle."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Pink paper page with several blue ink stamps. Top left stamp: 'RECEIVED DIRECTOR F.B.I. U.S. DEPT. OF JUSTICE Aug 20 6 11 PM '47'. Top right stamp: 'RECEIVED TELETYPE UNIT Aug 20 5 34 PM '47' U.S. DEPT. OF JUSTICE'. Middle left stamp (vertically oriented): 'RECEIVED 11 02 AM AUG 21 INTERNAL SECURITY F.B.I.'. Bottom stamp (inverted relative to top stamps): 'SEP 29 3 16 PM '47 INTERNAL SECURITY F.B.I.'. Two hole punches at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific, verbatim text for multiple stamps that Description A does not read at all, indicating a major discrepancy in the level of detailed visual content extracted from the images.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:32"
+}

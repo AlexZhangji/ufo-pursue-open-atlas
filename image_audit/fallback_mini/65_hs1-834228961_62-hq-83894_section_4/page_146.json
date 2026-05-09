@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 146,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B claims specific visual elements (handwritten signature with date '4/15', two 'U.S. DEPT. OF JUSTICE' stamps) that are not mentioned in Description A, which instead describes general stamps and notations, indicating a potential hallucination of specific text content.",
+  "original_image_tags": [
+    "A single page from a US government document archive. The page is oriented with its bottom edge facing the left of the image, showing a reversed, faint carbon copy or bleed-through of typed text on the verso. The page is aged, with two punched holes at the top edge and a torn corner at the top left. The bottom portion contains several official stamps and handwritten notations."
+  ],
+  "gpt_mini_desc": "*Image: A single scanned beige typed document page photographed or reproduced at a slight angle, with two punched holes near the top edge, faint typewritten text visible, and blue stamped markings near the lower right reading “RECEIVED ATOMIC ENERGY DIVISION SECTION … APR 5 2 PM ’49” and “U.S. DEPT. OF JUSTICE.”*",
+  "gpt_mini_desc_len": 314,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 78,
+    "total_tokens": 14970,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:35"
+}

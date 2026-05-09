@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 58,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content of the line graph (axes, ranges, five labeled lines, 'Atlas IIAS' text), but Description A adds a detail (vertical dashed line at x ≈ 7,500) that Description B omits.",
+  "original_image_tags": [
+    "A line graph with a grid background. The y-axis is labeled \"Mode-5 Constant A\" and ranges from 2.5 to 6.5 in increments of 0.5. The x-axis is labeled \"Breakup q-alpha (deg-lb/ft²)\" and ranges from 0 to 25,000 in increments of 5,000. There are five downward-sloping lines on the graph, each labeled with a different B value. From top to bottom, the lines are labeled: \"B = 5,000,000\", \"B = 500,000\", \"B = 100,000\", \"B = 50,000\", and \"B = 1,000\". Near the bottom left of the graph, the text \"Atlas IIAS\" is present. A vertical dashed line is drawn at an x-axis value of approximately 7,500."
+  ],
+  "gpt_mini_desc": "*Image: A line graph labeled “Figure 14. Effects of Breakup q-alpha on A for Atlas IIAS,” showing five downward-sloping lines annotated B = 5,000,000; 500,000; 100,000; 50,000; and 1,000, with axes “Mode-5 Constant A” and “Breakup q-alpha (deg-lb/ft²)” and the text “Atlas IIAS” inside the plot.*",
+  "gpt_mini_desc_len": 296,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 100,
+    "total_tokens": 56256,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:34"
+}

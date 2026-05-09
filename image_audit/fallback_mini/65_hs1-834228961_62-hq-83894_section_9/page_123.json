@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 123,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific verbatim text ('Film of Flying Saucer Up in Air', 'Allan R. Wilhelm') inside a newspaper clipping that Description A does not mention at all, indicating a significant factual inconsistency on visual content.",
+  "original_image_tags": [
+    "A page from a government file. A newspaper clipping is affixed to the page. To the right of the clipping, there is typed and handwritten text. At the bottom of the page, there is handwritten file information."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping with the headline “Grand Blanc Man Makes Plea to Ike” and large subhead “Film of Flying Saucer Up in Air,” plus a narrow article column and red/purple typewritten archive markings on the right including “DETROIT DIVISION, Detroit, Mich.” and handwritten editor/date notes.*",
+  "gpt_mini_desc_len": 310,
+  "usage": {
+    "prompt_tokens": 54659,
+    "completion_tokens": 71,
+    "total_tokens": 54730,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:32"
+}

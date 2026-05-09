@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 75,
+  "original_image_tags": [
+    "Aged, yellowed document page, likely the reverse side or cover sheet. The paper is heavily damaged along all edges, with numerous tears and missing pieces. There are two dark, irregular punched holes near the top edge. The majority of the page is blank. In the lower half, there are two overlapping ink stamps, oriented upside-down relative to the main page view."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page shows the back of a document with a faded, partially legible purple stamp in the bottom right corner. The stamp includes visible text: 'U.S. DEPARTMENT OF JUSTICE', 'FEDERAL BUREAU OF INVESTIGATION', 'COMMUNICATIONS SECTION', 'MAILED', and a date 'JUL 11 1947 P.M.' There is also a faint, inverted blue stamp partially visible to the left of the purple stamp. The rest of the page is blank, aged paper with two punch holes at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, legible verbatim text from the stamps (including department names and a date), while Description A describes the stamps only as dark, irregular, and overlapping, with no mention of any readable content, indicating a clear contradiction on the visual detail present in the stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:27:11"
+}

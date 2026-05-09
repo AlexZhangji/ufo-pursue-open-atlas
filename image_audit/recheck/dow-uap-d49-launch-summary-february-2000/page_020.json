@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d49-launch-summary-february-2000",
+  "page_num": 20,
+  "original_image_tags": [
+    "Three black circular hole-punch marks are visible along the bottom edge of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed table listing launch sequences 96 through 114 from September to December 1961, with columns for Launch Seq, Date, Nickname, Op #, Facility, Vehicle Type, Program, Cum by Booster, Command, and Cum by Command. Includes a footnote stating 'Data not available' and the page number 'PAGE 6' at the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes visual elements (three hole-punch marks) while Description B describes a typed table, indicating they are describing completely different visual content on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:17:59"
+}

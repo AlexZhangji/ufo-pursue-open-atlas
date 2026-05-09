@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 105,
+  "original_image_tags": [
+    "Hand-drawn sketch on a piece of paper, likely a page from a report. The sketch depicts a sky map and a trajectory. The paper has two punch holes at the top left. At the top right, the word \"RESTRICTED\" is stamped. At the bottom right, the word \"RESTRICTED\" is stamped again, along with the number \"94\". The sketch is oriented with cardinal directions: N (top), S (bottom), W (left), E (right). In the upper left quadrant, a cluster of seven asterisk-like symbols representing stars is drawn. To the right of this cluster, a single star symbol is labeled"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "Hand-drawn sketch depicting a sky observation. Includes compass directions N, E, S, W; a star group with one star labeled 'Polaris'; a dashed line representing the 'Course of light' coming from the West; an 'X' marked 'Observation'; a small oval object; a dashed, jagged line extending from West to East; and a small circle labeled 'Moon' near the bottom. Two stamped 'RESTRICTED' markings are visible at the top right and bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict each other on the specific labels and visual elements within the sketch, with Description A omitting key elements (like 'Polaris', 'Course of light', 'Observation', 'Moon') and Description B not mentioning the star cluster or cardinal directions as described, while both quote 'RESTRICTED' but describe different visual content overall.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:29"
+}

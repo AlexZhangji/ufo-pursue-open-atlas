@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 71,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B lists additional visual elements (e.g., 'SECRET' stamps, 'PL/INT' and 'X-0165' annotations) not mentioned in A, while A cites a 'TIME ONE ONE FEBRUARY FOUR NINE' text that B does not, creating contradictions in the specific quoted visual text.",
+  "original_image_tags": [
+    "A red stamp \"ACTION COPY\" with a smaller \"PRIORITY\" stamp overlapping the top right corner. Handwritten annotation in red ink above reads \"13 Feb.\" with initials \"S.H\" below.",
+    "Handwritten numbers \"655\" appear above the text line \"TIME ONE ONE FEBRUARY FOUR NINE\"."
+  ],
+  "gpt_mini_desc": "No image content on this page.",
+  "gpt_mini_desc_len": 30,
+  "usage": {
+    "prompt_tokens": 15665,
+    "completion_tokens": 10,
+    "total_tokens": 15675,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:41"
+}

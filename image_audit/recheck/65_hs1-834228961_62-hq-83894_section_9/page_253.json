@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 253,
+  "original_image_tags": [
+    "A single, aged, and folded page from a US government file. The paper is off-white or light tan, with visible creases from being folded into quarters. Two punch holes are at the top center. A large, faint, reddish-pink stamp is centered at the top, oriented upside-down relative to the primary text block. The stamp text, when read upside-down, appears to say: \"INTERDEPARTMENTAL COMMITTEE / FLYING F.O. OBJECTS / OKLAHOMA CITY, OKLA\". Below this stamp, there are faint, handwritten annotations. The main body of the page contains a typewritten letter, which is also oriented upside-down relative to the viewer. At the bottom of the page (the top, as it's oriented for reading the letter), there are two clear ink stamps and a handwritten date. The page shows signs of wear, including smudges and light soiling."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page showing the reverse side of a typed document. Faint, reversed text is visible through the paper, including 'INTERPRETIVE INTELLIGENCE UNIT', 'FLYING DISC OBJECTS', 'OKLAHOMA CITY, OKLA', and a list of names. A small red stamp near the top reads '18 JUL 8 1964'. At the bottom are two blue ink stamps: one reads 'REC'D-COORD & TOURS FBI Jul. 9 3 12 PM '64' and the other reads 'REC'D-COORD & TOURS FBI Jul 10 10 58 AM '64'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A quotes stamp text as 'FLYING F.O. OBJECTS' while Description B quotes 'FLYING DISC OBJECTS' and also lists additional specific text like 'INTERPRETIVE INTELLIGENCE UNIT' and specific FBI received stamps that are not mentioned in A, creating contradictions on verbatim text content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:14"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 106,
+  "original_image_tags": [
+    "The word \"COPY\" is stamped in red ink in an outline font across the bottom two lines of the text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page 2 of a typed document describing an aerial observation near Mt. Rainier. Contains a red 'COPY' stamp at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a specific red 'COPY' stamp in outline font across the bottom two lines of text, while Description B only states a red 'COPY' stamp at the bottom without specifying the outline font detail, creating a direct contradiction on the visual detail of the stamp's typography.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:27"
+}

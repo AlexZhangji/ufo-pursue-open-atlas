@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 68,
+  "original_image_tags": [
+    "Aged, yellowed document page with visible back-side text bleed-through. Several ink stamps are present on the right side. The page appears to be a reverse side or carbon copy.",
+    "The text on this page is extremely faint and reversed, indicating it is a bleed-through from the opposite side. The faint text appears to be a typed memorandum. Visible reversed text fragments include:",
+    "The page shows three hole-punch marks at the top. There is a faint, red, rectangular stamp near the bottom right corner with text that appears to be \"WATERLOO\" and a date \"20 OCT 1925\", though the context of this stamp relative to the 1952 document is unclear and may be from a different source or time."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page consists entirely of faint, legible typed text, visible handwritten annotations, and ink stamps. There are no photographs, sketches, diagrams, or charts present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes visual content including hole-punch marks, bleed-through text, and a specific stamp ('WATERLOO' and date '20 OCT 1925'), while Description B states there are no images and that the page consists entirely of faint typed text, handwritten annotations, and stamps, creating a direct contradiction on the presence of visual elements and their content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:39"
+}

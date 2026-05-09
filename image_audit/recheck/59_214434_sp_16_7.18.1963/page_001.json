@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "59_214434_sp_16_7.18.1963",
+  "page_num": 1,
+  "original_image_tags": [
+    "Document page with various stamps and handwritten annotations. A red stamp at top reads \"OFFICIAL USE ONLY\". A blue stamp in the upper right reads \"Sp 1 - NASC / ISA FILE COPY\". A box stamped \"DECLASSIFIED\" contains handwritten entry \"NARS 939551\". A vertical handwritten note on the right margin reads \"RR / EMJK / [circled \"rft\"] / TN / EOS / CED / KMM / National / Aeronautics & Space Council / From - H.H. / Personnel\". A large circled \"Y\" is drawn near the date.",
+    "At the bottom of the page, a stamped \"OFFICIAL USE ONLY\" and a signature block. A signature appears to read \"[signed: Hadwell W. Hunt]\". Below is a date stamp \"JUL 22 1953\" (likely 1963 based on context) and a time stamp \"AM 7,8,9,10,11,12,1,2,3,4,5,6 PM\". A circular stamp reads \"INTERNATIONAL SCIENTIFIC AFFAIRS ISA\". A handwritten note near the signature appears to say \"(signed)\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular stamp box near the top left containing the word 'DECLASSIFIED' at the top and a handwritten number 'NND 93955' inside."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular stamp near the bottom right with 'INTERNATIONAL SCIFIC AFFAIRS', '(Signed)', and the handwritten name 'Wellington Kuhnhardt' inside."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a stamp with 'NARS 939551' while Description B describes a different stamp with 'NND 93955', indicating a direct contradiction in quoted text content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:17"
+}

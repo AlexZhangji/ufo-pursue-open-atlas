@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+  "page_num": 44,
+  "original_image_tags": [
+    "A vertical strip of black, rectangular sprocket holes is visible along the right margin of the page, indicating the original document was likely stored in a punched binder or folder."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A page of typed text consisting of four paragraphs and a new chapter heading. The text discusses theories about extraterrestrial life, SETI, and UFO research in the United States, specifically mentioning a 1997 Time magazine survey, Dr. Mack of Harvard, and the Air Force's study of UFOs from 1948 to 1969."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a specific visual element (sprocket holes) on the page, while Description B provides only typed text content and ignores the sprocket holes, indicating the descriptions are about different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:31"
+}

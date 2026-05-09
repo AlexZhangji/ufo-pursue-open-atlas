@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 90,
+  "original_image_tags": [
+    "The page appears to be the reverse side of a typed memorandum on aged, off-white paper with two hole-punches at the top edge. Faint, mirrored \"bleed-through\" text from the front of the page is visible but illegible. A prominent, large, hand-drawn pencil arc or loop spans the lower-middle section of the page. At the bottom, two distinct ink stamps are present, oriented upright relative to the page's current scan."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page is the reverse side of a typed document, showing faint, reversed text. It contains two hole punches at the top and several ink stamps at the bottom, including 'INTERNAL SECURITY F.B.I.' and 'RECEIVED' with partially legible dates. There are no photographs, sketches, diagrams, maps, or charts."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the reverse side of a typed document with two hole punches at the top and ink stamps at the bottom; Description B adds specific stamp text details that Description A omits, but there is no direct contradiction on the visual content described.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:20"
+}

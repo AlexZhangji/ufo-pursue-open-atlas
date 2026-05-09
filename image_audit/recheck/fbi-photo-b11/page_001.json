@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "fbi-photo-b11",
+  "page_num": 1,
+  "original_image_tags": [
+    "Black-and-white infrared sensor still, likely FLIR (Forward-Looking Infrared), depicting a sky scene with a terrain horizon (hills or mountains) visible in the lower portion of the frame. The image features a central crosshair reticle (vertical and horizontal axes with graduated tick marks). A small, dark, circular object is visible in the upper right quadrant relative to the crosshair center. A timestamp is overlaid in the lower-left corner. Multiple rectangular black redaction blocks obscure text overlays in the upper-left, upper-right, center-left, center-right, lower-left, and lower-right quadrants."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "Grayscale photograph featuring a central crosshair reticle with a vertical and horizontal scale marked in increments of 5 from 15 on the left to 15 on the right. A small dark dot is visible just above the horizontal axis and to the right of the center. The image is heavily redacted with a large black bar across the top and eight black rectangular blocks obscuring details on both sides. The bottom right shows an indistinct, blurry terrain feature. Text at the bottom left reads '12/31/99 18:11:06'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual elements: a central crosshair reticle, a small dark dot/object above the horizontal axis to the right of center, heavy redaction blocks, a timestamp/text at the bottom left, and an indistinct terrain feature at the bottom right, though they disagree on the exact wording of the timestamp and the count of redaction blocks.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:30"
+}

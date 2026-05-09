@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 83,
+  "original_image_tags": [
+    "A single page document consisting of a newspaper clipping glued onto a larger sheet of paper. The paper shows signs of age with discoloration, staple holes at the top, and various handwritten annotations and stamps. A faint distribution list is visible in the top right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping from The Daily Mail, April 3, 1950, London, England. The clipping contains the headline 'The Case for the FLYING SAUCER' in large, bold, black capital letters, followed by a summary paragraph: 'From America, the 'home' of flying saucers, comes this up-to-the-minute summary of report and rumour about the modern mystery of the skies. by RICHARD GREENOUGH'. The clipping is pasted onto the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific text (headline, author, date) not seen in Description A, which only describes physical paper and annotations, indicating a fundamental disagreement about the visual content of the clipping.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:15:42"
+}

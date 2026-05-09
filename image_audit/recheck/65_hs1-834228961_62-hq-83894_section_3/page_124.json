@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 124,
+  "original_image_tags": [
+    "A scanned document page showing a typed memo on aged, yellowish paper. The text is visible from the reverse side through the thin paper, appearing reversed. Several stamps are visible in the lower right corner, including \"RECEIVED\" and \"INTERNAL SECURITY\" stamps with dates \"AUG 28 1947\" and \"SEP 3 1947\". Handwritten initials appear in the lower left corner. The document has punch holes at the top and appears to be part of a larger file."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Single page of typed text with visible bleed-through from the reverse side. No distinct visual elements such as photographs, sketches, diagrams, maps, or charts are present. The page contains typed body text, several stamped ink labels with dates and times, a handwritten annotation, and physical artifacts like hole punches."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree there are no distinct visual images (photographs, sketches, etc.) on the page, only typed text with stamps, a handwritten annotation, and physical artifacts.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:35"
+}

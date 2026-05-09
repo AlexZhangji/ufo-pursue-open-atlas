@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 270,
+  "original_image_tags": [
+    "A typed letter on light-colored paper with several handwritten annotations, stamps, and punch holes at the top. The letter is addressed to Miss Florence Whitish regarding \"Flying SAUCERS\" and is signed by John Edgar Hoover. The page shows significant signs of archival processing, including multiple dates, stamps (e.g., \"RECEIVED FBI AUG 11 1952\", \"RECORDED - 68\", \"INDEXED 68\"), and a distribution list at the bottom left."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page contains several administrative stamps and handwritten annotations, including 'AUG 6 1952', 'RECORDED INDEXED 68 AUG 13 1952', 'COMM = FBI AUG 11 1952 MAILED 28', and various handwritten initials and notes."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter dated August 8, 1952, addressed to Miss Florence Whitish regarding 'Flying Saucers', signed by John Edgar Hoover, Director."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same core visual elements—a typed letter addressed to Miss Florence Whitish about Flying Saucers signed by John Edgar Hoover, with multiple stamps (including specific shared dates like AUG 11 1952 and RECORDED INDEXED 68) and handwritten annotations—and do not contradict each other on any quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:08:23"
+}

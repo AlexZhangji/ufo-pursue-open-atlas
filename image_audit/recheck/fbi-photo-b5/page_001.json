@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "fbi-photo-b5",
+  "page_num": 1,
+  "original_image_tags": [
+    "A grainy, grayscale infrared (IR) or sensor still. A white crosshair reticle with graduated markings is centered on the screen. The horizontal axis of the reticle has numerical markings: 15, 10, 5, [center], 5, 10, 15. The vertical axis has unnumbered graduated tick marks. Several large, solid black rectangular redaction blocks obscure portions of the image, primarily on the left and right sides, in two horizontal rows. The background appears to be a uniform, slightly textured gray, possibly sky or atmospheric haze. In the bottom left corner, a white digital timestamp reads \"12/31/99 18:12:20\". A faint, indistinct, darker smudge or object is visible just below and slightly left of the crosshair's center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A grayscale photograph, likely from a thermal or night-vision camera, showing a crosshair or reticle overlay centered in the frame. The reticle has horizontal markings numbered '15', '10', '5', '5', '10', '15'. The background is mostly uniform gray, possibly sky or a featureless surface, with a faint, blurry horizontal structure visible at the very bottom. There are multiple black rectangular redaction boxes obscuring parts of the image in the upper-left, mid-left, lower-left, upper-right, mid-right, and lower-right areas. White text in the lower-left corner reads '12/31/99 18:12:20'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on all key visual elements: a grayscale thermal/IR image with a centered crosshair reticle having horizontal numerical markings (15, 10, 5, center, 5, 10, 15), a uniform gray background, black rectangular redaction blocks, a white digital timestamp reading '12/31/99 18:12:20' in the lower-left, and a faint darker smudge below the crosshair center.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:18:59"
+}

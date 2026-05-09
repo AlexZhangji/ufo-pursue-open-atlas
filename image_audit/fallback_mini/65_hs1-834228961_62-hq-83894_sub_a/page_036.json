@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 36,
+  "categories": [
+    "newspaper_clipping_illustration",
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions are clearly about different visual content, with Description A citing a simple note and stamp while Description B describes a complex newspaper clipping, typed list, and multiple other stamps not mentioned by A.",
+  "original_image_tags": [
+    "A handwritten note in the top right corner reads \"Brown Paper\".",
+    "A stamp in the bottom left corner reads \"50 JAN 13 1954 GJ\"."
+  ],
+  "gpt_mini_desc": "*Image: A document page with four taped newspaper article clippings about “flying saucers” and Major Donald E. Keyhoe, plus a typed clipping index with publication names and handwritten date notations/stamps.*",
+  "gpt_mini_desc_len": 209,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 47,
+    "total_tokens": 56203,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:59"
+}

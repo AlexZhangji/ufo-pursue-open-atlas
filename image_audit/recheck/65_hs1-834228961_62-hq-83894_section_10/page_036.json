@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 36,
+  "original_image_tags": [
+    "A scan of the back or front of a single, aged document page. The page is mostly blank with significant \"ghosting\" or faint text visible through the paper, suggesting it is a carbon copy or the ink from the other side is showing through. Two dark hole-punch marks are visible at the top edge. The primary, legible markings are stamps and a handwritten note at the very bottom. The paper shows age-related discoloration and spotting."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Red stamp: '2 XEROX COPIES DATE 11-29-66'. Blue inverted stamp: 'NOV 29 9 32 AM '66 FBI REC'D-CURR & TOURO'. A faint, illegible red stamp is visible in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the primary visual elements (hole-punches, stamps at the bottom), but Description B adds specific quoted stamp text that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:55:31"
+}

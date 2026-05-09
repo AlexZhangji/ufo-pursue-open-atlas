@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 158,
+  "original_image_tags": [
+    "The page appears to be the reverse side of a carbon copy or a thin, translucent document (like onion skin paper), with text from the other side bleeding through and appearing as a mirror image. The page is light blue/grey, worn, with several punched holes at the top and a torn corner at the top right. There are several stamps visible on this side of the page.",
+    "A blue stamp, partially obscured and at an angle, reads \"RECEIVED OCT 3 4 26 PM\" and below that, \"INTERNAL SECURITY - F.B.I.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Faded, semi-legible typed text visible on the paper, with some reversed text due to bleed-through. Two blue rubber stamps are visible at the bottom: one inverted reading 'RECEIVED INTERNAL SECURITY F.B.I. OCT 3 4 26 PM', and one reading 'RECEIVED MAIL ROOM F.B.I. SEP 28 1947'. A rectangular purple stamp reading 'RECORDS DIVISION' is also present at the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims a 'RECEIVED MAIL ROOM F.B.I. SEP 28 1947' stamp and a 'RECORDS DIVISION' stamp, which are specific visual elements entirely absent from Description A, which only mentions one stamp.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:46"
+}

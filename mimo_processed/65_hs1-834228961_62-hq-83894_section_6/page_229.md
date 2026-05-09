@@ -1,0 +1,5 @@
+## Fliegende Untertasse.
+
+Seit 1944 – ausprobierte Waffe welche jetzt wohl schon des öfteren hergestellt wird und zum Teil viel von sich reden macht ist eine V. Waffe, welche einen scheiben- ründen Körper hat, der im Durchmesser etwa 42-50 m Durchmesser hat, steht am Umfang etwa 45-50 automatische Gestschützen, die nach Zündung der Scheibe, um eine im Zentrum befindliche Plexiglas Kugel kreisen, in der befinden sich die drei und Kontrollgeräte für Fernsteuerung befinden. Anstatt der Kugel ist nach genug Raum für hochexplosive Atombomben. Diese Waffen befindet sich in Russischer Hand und kann einen Absprung aus von 30-35000 km entwerfen. V. Waffen Expertes Riedel in Deutschland sagt es ist eine Apparci V. 7 daran er selber gearbeitet hat.
+
+*[handwritten note]:* Ich bin sicher das die Wahrheit besser sich als eine Kurzuk mit dem Volk bei Kriegszeitheit. H. Sch.

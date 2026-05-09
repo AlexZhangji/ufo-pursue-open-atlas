@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 192,
+  "original_image_tags": [
+    "A standard typewritten government memorandum on aged paper. There are several handwritten annotations and official stamps.",
+    "The bottom right of the page contains several stamped and handwritten notations. A purple stamp reads \"RECORDED - 103\". Next to it, a red stamp with a date reads \"AUG 4 1950\". Handwritten in red ink next to this is \"162-83 894 - 241\". Below these is a handwritten note in black ink, \"EX-71\". At the bottom left, a large red stamp reads \"63 AUG 10 1950\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A standard US government office memorandum form (Standard Form No. 64). The page contains typed text, a red stamp reading 'RECORDED - 103', a red handwritten date stamp 'AUG 4 1950', a pink date stamp '63 AUG 10 1950', and various handwritten annotations. There are no photographs, sketches, diagrams, or other graphical visual elements."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the presence and text of three stamps (purple 'RECORDED - 103', red 'AUG 4 1950', and red '63 AUG 10 1950') and handwritten annotations, but B omits the specific handwritten text '162-83 894 - 241' and 'EX-71' described by A, which is an omission, not a contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:21"
+}

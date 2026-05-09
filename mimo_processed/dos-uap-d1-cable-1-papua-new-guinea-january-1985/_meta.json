@@ -1,0 +1,42 @@
+{
+  "file": "dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf",
+  "stem": "dos-uap-d1-cable-1-papua-new-guinea-january-1985",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "74032ed145b1badbb1049005b4b77ba95351cb573c3cf6578a77ca25f4033220",
+  "size_bytes": 301285,
+  "total_pages": 3,
+  "pages_processed_in_run": 3,
+  "status": "complete",
+  "elapsed_sec": 19.4,
+  "completed_at": "2026-05-08 15:38:41",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "ok",
+      "chars": 1735,
+      "input_tokens": 4301,
+      "output_tokens": 692,
+      "completed_at": "2026-05-08 15:38:31"
+    },
+    {
+      "page": 2,
+      "status": "ok",
+      "chars": 1374,
+      "input_tokens": 4301,
+      "output_tokens": 442,
+      "completed_at": "2026-05-08 15:38:37"
+    },
+    {
+      "page": 3,
+      "status": "ok",
+      "chars": 135,
+      "input_tokens": 4301,
+      "output_tokens": 66,
+      "completed_at": "2026-05-08 15:38:41"
+    }
+  ]
+}

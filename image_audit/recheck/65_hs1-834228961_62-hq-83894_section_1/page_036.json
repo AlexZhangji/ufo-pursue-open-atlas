@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 36,
+  "original_image_tags": [
+    "Stylized logo featuring a domed building with a flag at the apex and large wings extending horizontally to the left and right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Newspaper header for 'THE ALAMO REGISTER'. The masthead features a large stylized illustration of an architectural pediment or roofline with a small flag at the peak. Text above the illustration reads 'MEMBER OF AUDIT BUREAU OF CIRCULATIONS' followed by a paragraph listing news services. Below the masthead, the title 'THE ALAMO REGISTER' is printed in large block letters. Below the title, text in parentheses reads '(Name Registered in the U. S. Patent Office)'. The date 'OCTOBER 4, 1946' and 'SECTION TWO' are visible at the bottom edge. Handwritten annotations are present along the top and right margins."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a stylized logo with wings, while Description B describes a newspaper masthead with a pediment/roofline, indicating they are describing different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:36"
+}

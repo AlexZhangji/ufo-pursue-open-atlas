@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 19,
+  "original_image_tags": [
+    "Aged, off-white envelope, torn at the top left corner and showing a small hole/puncture at the bottom right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One purple United States postage stamp depicting a profile bust, labeled 'UNITED STATES POSTAGE' and '3 CENTS 3'. A black circular postmark is stamped over it reading 'NEW YORK, N.Y. JUL 11 930PM 1947'. A horizontal cancellation stamp reads 'GRAND CENTRAL STATION'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A discusses an envelope with specific damage, while Description B describes a postage stamp with text, which are entirely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:31"
+}

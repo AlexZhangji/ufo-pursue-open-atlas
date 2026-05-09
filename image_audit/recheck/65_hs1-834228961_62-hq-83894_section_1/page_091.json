@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 91,
+  "original_image_tags": [
+    "A largely blank, aged, off-white page with visible paper texture, minor speckling, and a few smudges. The phrase \"BOTTOM VIEW\" is typed in the upper-left corner. There are no other discernible marks, text, or illustrations. The page appears to be a back or separator page from a bound document or report."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed text 'BOTTOM VIEW' in the upper left corner. The rest of the page is blank with some faint stains and minor dark specks."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page is largely blank with no real images, only the typed text 'BOTTOM VIEW' and minor stains/specks.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:29"
+}

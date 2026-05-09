@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 98,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims the main area of the page is blank, while Description B describes multiple purple date stamps, handwritten annotations, and tape marks, indicating a direct factual contradiction about the presence of visual content on the page.",
+  "original_image_tags": [
+    "A single, aged, off-white document page. The top edge is torn and irregular, with a piece of yellowed adhesive tape horizontally across the upper portion. The paper has two punch holes at the bottom. The main area of the page is blank."
+  ],
+  "gpt_mini_desc": "*Image: Blank off-white document page or folder cover with a purple date stamp “52 APR 20 1950,” a smaller pink stamp near the top center reading “APR 14 1950,” and handwritten notes at the upper right including “File in Flying Disc file” and a file number.*",
+  "gpt_mini_desc_len": 258,
+  "usage": {
+    "prompt_tokens": 14119,
+    "completion_tokens": 65,
+    "total_tokens": 14184,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:39"
+}

@@ -1,0 +1,19 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 34,
+  "original_image_tags": [
+    "A vertically oriented newspaper clipping from the \"D-TIMES\", printed on aged, brown newsprint. The top portion is torn. The paper shows multiple articles, with headlines in bold, black type. The main headline is \"FIRST ITS FLYING DISKS — NOW ITS 'FIRE BALLS' PEOPLE SEE\". Other visible headlines include \"Sweet Home Boy Winner In Essay Contest\", \"Revealing Flying Disk Data May Bring Prosecution\", \"Growing Amateur's Display Excellent Form\", \"Gas Truck Hits Local Station\", \"Lions To Make Farmer Award\", and \"Cuero Residents See Flying Disc\"."
+  ],
+  "rerun_extract": {
+    "elements": [],
+    "_parse_error": "{\n  \"elements\": [\n    {\n      \"category\": \"newspaper_clipping_illustration\",\n      \"description\": \"A single, aged, and torn newspaper clipping from the 'D-TIMES', Page 1, featuring several articles and headlines about flying disks and fire balls. Visible headlines include 'FIRST ITS FLYING DISKS - N"
+  },
+  "judge": {
+    "score": 0,
+    "reason": "extract empty"
+  },
+  "categories": [],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:35"
+}

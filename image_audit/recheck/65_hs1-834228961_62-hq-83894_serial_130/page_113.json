@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 113,
+  "original_image_tags": [
+    "A hand-drawn sketch on a white, slightly aged paper page with two hole-punch circles at the top. The page appears to be a diagram or map sketch. A small, crude drawing of an airplane is positioned near the center. There are handwritten cardinal direction labels and other markings scattered across the page.",
+    "A faint, partial sketch of a sun or light source is visible in the bottom left corner, near the word \"SUN\". The page has a slightly yellowed tone consistent with aged paper. Two dark circles at the top indicate where it was likely hole-punched for a binder."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A simple line sketch in the center depicting a cross or plus-shaped object with small circular details at the ends of the arms. Handwritten letters 'W', 'S', 'N', and 'T' are visible around the sketch, along with two circled numbers ('1' and '2')."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes an airplane sketch and cardinal direction labels, while Description B describes a cross/plus-shaped object and different letters ('W','S','N','T'), representing a fundamental disagreement on the main visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:29"
+}

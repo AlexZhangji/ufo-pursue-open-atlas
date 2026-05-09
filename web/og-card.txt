@@ -1,0 +1,9 @@
+A wide editorial-poster style social-card image, 16:9 aspect ratio (rendered at 1536x1024). Subject: a sophisticated data-visualization aesthetic. Dark space-like deep navy background (#050811 to #0a1228 radial gradient), with a partial 3D night-Earth globe centered slightly to the left, photorealistic but subtle (the kind of dark Earth render you see in NASA dashboards — continents barely visible as muted dark teal landmasses with tiny city lights, surrounded by a faint cool-blue atmospheric glow). Across the visible Earth surface, scattered small luminous dots in warm amber (#E8A861), pale cyan (#7AB8D9), mint (#79D9C3), and rose (#D4A8A8) — small glowing points like satellite tracks, no labels, with subtle pulse rings around each. A soft horizontal timeline strip at the bottom edge, very subtle, showing small histogram-like luminous bars in cool blue.
+
+On the right side of the image, large clean editorial typography in IBM Plex Sans / Mono in soft white:
+"PURSUE Release 01" as small uppercase eyebrow text in muted grey
+"UNIDENTIFIED ANOMALOUS PHENOMENA" as the main headline in a clean sans serif, slightly tracked
+"161 declassified records · 1948 – 2026 · Department of War" as a small monospace caption underneath
+"lab.gpt2077.com/ufo" as a final small line at the bottom right
+
+The whole composition is sober, sophisticated, sharp — like a New York Times graphics desk piece or a NASA mission card, NOT a UFO conspiracy poster. No alien imagery, no flying saucers, no green text, no sci-fi tropes. Just data, globe, color-coded dots, restrained typography. A scattering of small star-like points in the deep space background. Wide horizontal composition.

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 22,
+  "categories": [
+    "map"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content (a vintage 'World Aeronautical Chart' for the Illinois River region covering the US Midwest with Lake Michigan visible), but Description B adds specific details like a handwritten arrow and 'LILY LAKE' text that Description A omits.",
+  "original_image_tags": [
+    "A large, vintage U.S. Government \"World Aeronautical Chart\" for the Illinois River region. The chart is aged, showing wear, tape repairs, and significant fold creases. It covers a large portion of the Midwest, centered on Illinois, Wisconsin, and Indiana, with Lake Michigan clearly visible on the right. Numerous cities, towns, airways, and geographical features are detailed."
+  ],
+  "gpt_mini_desc": "*Image: A scanned world aeronautical chart map labeled “ILLINOIS RIVER,” showing Illinois, Iowa, Wisconsin, Indiana, Lake Michigan, and surrounding airways, with numerous route lines, city names, and handwritten blue and red annotations across the center-right.*",
+  "gpt_mini_desc_len": 262,
+  "usage": {
+    "prompt_tokens": 54659,
+    "completion_tokens": 58,
+    "total_tokens": 54717,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:42"
+}

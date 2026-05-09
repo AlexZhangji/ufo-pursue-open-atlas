@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 145,
+  "original_image_tags": [
+    "A small blue 'X' has been handwritten over the typed name \"ENGLISH\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed memo page on pink paper with two hole-punch marks at the top and a red handwritten underline under the name 'ENGLISH'. No photographs, sketches, or diagrams present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions contradict each other on the specific visual element: Description A claims a handwritten blue 'X' over the name 'ENGLISH', while Description B claims a handwritten red underline under the name 'ENGLISH'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:41"
+}

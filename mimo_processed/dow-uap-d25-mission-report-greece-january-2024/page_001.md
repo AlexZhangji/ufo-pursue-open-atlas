@@ -1,0 +1,48 @@
+Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 24 October 2025
+
+*[SECRET/REL TO USA, FVEY]*
+
+# Misrep undefined-9629373
+
+## Narrative
+
+*[SECRET/REL TO USA, FVEY]*
+
+AT 0109Z, *[REDACTED — (b)(1)1.4a]* CONDUCTED SLR TAKE OFF FROM LGLR. *[REDACTED — (b)(1)1.4a]* PROCEEDED TO FRAGGED TASKING TO SUPPORT *[REDACTED — (b)(1)1.4a]*.
+
+AT 0509Z, *[REDACTED — (b)(1)1.4a]* OBSERVED AN UNIDENTIFIED AERIAL PHENOMENON (SEE UAP 1).
+
+AT 0135Z, *[REDACTED — (b)(1)1.4a]* WAS 7-LINED TO SUPPORT *[REDACTED — (b)(1)1.4a]* ARRIVED ON-STATION AT 0635Z, CHECKED IN WITH *[REDACTED — (b)(1)1.4a]* AND PERFORMED FMV/SIGINT COLLECTION AT 36R XV 19 *[REDACTED — (b)(1)1.4a]* 63 *[REDACTED — (b)(1)1.4a]* (SEE ISR 1).
+
+AT 1504Z, *[REDACTED — (b)(1)1.4a]* RETURNED TO BASE. AT 2149Z, *[REDACTED — (b)(1)1.4a]* LANDED AT LGLR. FULL MOTION VIDEO WAS EXPLOITED BY GET. 20:40 MISSION HOURS, 08:29 FMV HOURS, 1X FMV TASKINGS PROSECUTED, 08:27 SIGINT HOURS, 1X SIGINT TASKINGS.
+
+*[SECRET/REL TO USA, FVEY]*
+
+*[SECRET//NOFORN] Mission Narrative*
+
+## Admin
+
+*CLASSIFICATION*
+
+*   Classification: *[REDACTED — SECRET]*
+*   Associated Caveats: *[REDACTED — REL TO USA, FVEY]*
+*   Classification Source (MS or Classification Guide ID): MS
+*   Declassification Date (YYYYMMDD): 20490125
+
+*OPERATION*
+
+*   Operation: *[REDACTED — (b)(1)1.4a]*
+*   Domain: AIR
+*   Operations Center: 603rd
+*   Major Command (MAJCOM): AFSOC
+*   Combatant Command (COCOM): USCENTCOM
+
+*[3.5c, FOIA Exemption (b)(6)]*
+
+*[SECRET/REL TO USA, FVEY]*
+
+USCENTCOM MDR 25-0100 thru 25-0103 / JS-250710-TM8S
+Approved for Release to AARO
+10/28/25 001

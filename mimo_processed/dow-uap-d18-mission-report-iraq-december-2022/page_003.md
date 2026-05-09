@@ -1,0 +1,57 @@
+## ~~SECRET//NOFORN~~
+
+Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 8 October 2025
+
+- Rank:
+- Full Name:
+- Unit:
+- Wing:
+- Phone Number:
+- Email:
+- Service:
+- Operations Center:
+
+## ACEQUIIP
+
+### ACEQUIIP
+
+- Aircraft Callsign: *[REDACTED — 1.4(a)]*
+- Radar Name or Destination: -
+- Radar Software Load or Mission Data: -
+- Radar Warning Receiver (RWR) Name or Designator: -
+- RWR Software Load or Mission Data: -
+- MWS Name or Designator: -
+- MWS Software Load or Mission Data: -
+- IRCM Name or Designator: -
+- IRCM Software Load or Mission Data: -
+- ECM Name or Designator: -
+- ECM Software Load or Mission Data: -
+- CMD Name or Designator: -
+- Chaff Designator: -
+- Num Chaff or Cartridges: -
+- Flare Designator: -
+- Num Flares:
+- Towed Decoy Name or Designator: -
+- Towed Decoy Software Load or Mission Data: -
+- Num Towed Decoys: -
+- Type of Radar-Guided AAM: -
+- Num Radar-Guided AAM: -
+- Type of IR-Guided AAM: -
+- Num IR-Guided AAM: -
+- Gun Name or Designator: -
+- Num Gun Rounds: -
+- Air-to-Ground Wpn to Include Num of Each: -
+
+*[Entire page redacted under 1.4(c)]*
+
+- Data Link: -
+
+*[Redacted block: 3.5c, FOIA Exemption (b)(6)]*
+
+## ~~SECRET//NOFORN~~
+
+MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S
+10/17/25 003
+Approved for Release to AARO

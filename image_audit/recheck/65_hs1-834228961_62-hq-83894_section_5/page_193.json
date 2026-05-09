@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 193,
+  "original_image_tags": [
+    "The back of a document, appearing to be the reverse side of a filing folder or heavy paper sheet. It is beige/aged paper with two hole-punch marks at the top, one of which has a torn edge. A piece of yellowed tape is attached horizontally near the top right corner. There is faint, reversed text bleeding through from the other side of the paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "blank_or_back_of_page",
+        "description": "Back of a document page. Two hole-punch marks are visible at the top edge. A faded, illegible block of typed text is visible from the reverse side. There is no front-facing photograph, sketch, diagram, or map."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions consistently identify the page as the back of a document with two hole-punch marks and faint reversed text from the other side, describing the same visual content with no substantive disagreement.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "blank_or_back_of_page"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:22"
+}

@@ -1,0 +1,52 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 157,
+  "original_image_tags": [
+    "A scanned, aged document on pinkish paper. It is an FBI teletype message dated July 8, 1953. The top has a stamp for the FBI Communications Section. The main body is typed in all caps, with a subject line regarding a report from a reporter at the Atlanta Constitution about a flying saucer encounter involving small animals. There are handwritten notes in the left margin and at the bottom left."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A pink 'FEDERAL BUREAU OF INVESTIGATION' header stamp with 'U.S. DEPARTMENT OF JUSTICE' and 'COMMUNICATIONS SECTION'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A red date stamp reading 'JUL 8 1953' over a 'TELETYPE' stamp."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A pink routing label with a list of names including 'Mr. Tolson', 'Mr. Ladd', 'Mr. Nichols', 'Mr. Belmont', 'Mr. Clery', 'Mr. Clavin', 'Mr. Harbo', 'Mr. Brennan', 'Mr. Tracy', 'Mr. Gearty', 'Mr. Mohr', 'Mr. Winterrowd', 'Tele. Room', 'Mr. Hollman', 'Mr. Rosen', and 'Miss Randy'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Handwritten cursive annotations in black ink, including the word 'Investigating'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Handwritten notes in the margins and bottom left corner, including '7/9/53 OSI order is head need [illegible] from local OSI with complete details', 'JB', and 'OSI LHM-wb 7-10-53'."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "A multi-paragraph FBI teletype message from 'FBI ATLANTA' dated '7-8-53' regarding 'FLYING SAUCERS' and 'MR. TOM MCRAE'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions identify the same visual categories (stamps, handwritten notes, typed message) and agree on key elements like the date stamp, header, and presence of handwriting, but Description B provides extensive specific quoted text (e.g., list of names in routing label, specific handwritten annotations) that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:51:41"
+}

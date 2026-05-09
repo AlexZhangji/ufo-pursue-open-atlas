@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 112,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content—a hand-drawn sketch of a circle with radiating lines containing the text '30\"'—but B adds a claim about a surrounding typed label ('Object') that A omits without contradiction.",
+  "original_image_tags": [
+    "Hand-drawn sketch of a circle with short lines radiating outward from its perimeter, resembling a sun. A horizontal line is drawn across the center of the circle. Inside the circle, above the line, is handwritten text \"30\\\"\"."
+  ],
+  "gpt_mini_desc": "*Image: Typed report page with a hand-drawn circular sketch labeled “30\"” and short radiating lines around the circle, plus visible typewritten text and “CONFIDENTIAL” stamps at top and bottom.*",
+  "gpt_mini_desc_len": 194,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 47,
+    "total_tokens": 57700,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:07"
+}

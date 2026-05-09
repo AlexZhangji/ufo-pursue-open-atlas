@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 22,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "One description mentions printed text ('CONFIDENTIAL') and handwritten text ('Ind #4') that the other does not see, creating a contradiction about specific textual content within the image.",
+  "original_image_tags": [
+    "black-and-white photograph of a heavily corroded, irregularly shaped metallic fragment or artifact. The object is dark, textured with corrosion or encrustation, and features multiple protrusions, twisted forms, and what appears to be a segment of a mesh or woven material protruding from the top. The background is a plain, light-colored surface. The photograph itself is mounted or printed on a card."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white photograph of a single irregular, charred-looking mass or debris fragment on a plain white background, with “CONFIDENTIAL” stamped at the top and bottom.*",
+  "gpt_mini_desc_len": 178,
+  "usage": {
+    "prompt_tokens": 59166,
+    "completion_tokens": 41,
+    "total_tokens": 59207,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:49"
+}

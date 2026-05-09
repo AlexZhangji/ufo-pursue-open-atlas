@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 171,
+  "original_image_tags": [
+    "A faded, handwritten note in blue ink on white paper, oriented vertically, reading \"For Harbo - No Action\" with the initials \"J.E.H.\" below it."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A page containing typed text, handwritten annotations, and two stamped labels. One stamp reads '17 JUN 1 1949' and is crossed out. Another partially illegible stamp in blue ink is located at the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions refer to completely different visual content: Description A describes a handwritten note, while Description B describes a page with stamps and typed text, with no overlapping quoted text or object categories.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:18"
+}

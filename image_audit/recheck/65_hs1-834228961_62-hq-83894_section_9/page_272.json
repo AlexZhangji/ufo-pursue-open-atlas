@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 272,
+  "original_image_tags": [
+    "A yellowed, aged paper document with two hole-punch marks at the top and a torn upper-right corner. The text is primarily faint and appears to be a carbon copy or onion skin paper with ink bleed-through from the reverse side. Most of the central text is illegible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page containing faint, reversed typed text bleeding through from the reverse side, two punch holes at the top, and two blue stamped labels at the bottom. The right stamp reads 'REC'D MAIL ROOM' and 'Apr 29 9 48 AM '65'. The left stamp reads 'RECEIVED-DIRECTOR' and 'F.B.I.' and 'APR 28 5 23 PM '65'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on faint reversed text, two punch holes, and two stamped labels at the bottom, but only Description B provides the specific verbatim text of those stamps without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:12:29"
+}

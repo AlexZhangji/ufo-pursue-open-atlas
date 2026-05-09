@@ -1,0 +1,15 @@
+## CONFIDENTIAL
+
+Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)       Page 14
+
+| Number | Date | Time | Number of Observers | *Reliability of Observers | General Area of Occurrence | Apparent Direction of Flight | Apparent Altitude | Course (Horizontal to Vertical) | Color | Train or Trail | Duration of Observation | Sound | Shape | Apparent Size | Apparent Speed | Manner of Disappearance |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 75 | 1949<br>24 Jun | 1545<br>1630 | 2 | Unk | Mesa, Arizona | 1 to SE<br>2 to E<br>3 to NE<br>4 vertical<br>5 to E | | 4 Horizontal<br>1 Vertical | Steel gray | | 4 at 30 mts<br>1 at 25 secs | None | Disc w/2 flanges | | Max of 400 mph | Faded from view |
+| 76 | 27 Jun | 0138 | 1 | R | Albuquerque, New Mexico | W to E | 30° to 90° above horizon | | Similar to star<br>Slightly more orange | Yes | 2 mts | None | Round | Slightly larger than brightest star | 140° in 2 mts. | Went behind building | (3) |
+| 77 | 29 Jun | 2010 | 1 | Unk | Flagstaff, Arizona | E to W | 30° from vertical | | Yellow in front<br>Red behind | None | | None | Bullet shaped | 1/2 size of small airplane | Relatively slow | Over a hill | (1)<br>(2) |
+| *8* | 30 Jun | 1630 | 1 | R | Seligman, Arizona | N | 30° above horizon | | Dull grey | None | 8 secs | None | Circle | Appeared 1 1/2" diameter at 10,000' altitude | 2,000 mph or faster | Disappeared in distance | (2) |
+| 79 | 11 Jul | 2110 | 1 | Unk | Camp Hood, Texas | W by SW | 30° above horizon | | Pale red | None | 2 secs | None | Ball - but not a perfect circle | Twice as large as evening star | | Such as turning off flashlight | (3) |
+
+## CONFIDENTIAL
+
+*[Handwritten note in bottom right corner]:* (3)

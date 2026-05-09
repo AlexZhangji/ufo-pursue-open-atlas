@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 95,
+  "original_image_tags": [
+    "Aged typewritten document on light-colored paper, appearing to be a photocopy or carbon copy. The page shows a diagonal tear across the lower right section, which has been repaired with two strips of aged, translucent tape. The top edge has two punch holes. A faint, reversed \"Office Memorandum\" watermark is visible at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter dated August 27, 1947, addressed to the Director of the FBI regarding 'Flying Discs - Tacoma, Wn.' The text discusses an investigation into the flying discs story and mentions individuals named Johnson, Lieutenant Brown, and Captain Davidson."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint reversed watermark text visible at the top of the page, reading 'Office Memorandum' and 'UNITED STATES GOVERNMENT'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Underlined text at the bottom left reading 'AIR MAIL' and 'SPECIAL DELIVERY'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the 'Office Memorandum' watermark and page condition, but B adds 'UNITED STATES GOVERNMENT' and 'AIR MAIL' text not mentioned by A, without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:26"
+}

@@ -1,0 +1,49 @@
+## Distribution List
+*Top right corner, numbered "O-20"*
+
+Tolson ________
+Ladd ________
+Nichols ________
+Belmont ________
+Clegg ________
+Glavin ________
+Harbo ________
+Rosen ________
+Tracy ________
+Laughlin ________
+Mohr ________
+Tele. Rm. ________
+Holloman ________
+Gandy ________
+
+*[Handwritten note, possibly "By Jules [illegible]":]* 
+*[Handwritten initials, possibly "E[illegible]":]*
+
+***
+
+## Embedded Text Clipping (Newspaper Telex)
+*A typed telex or news service copy, pasted onto the page.*
+
+SANTA FE, N.M.--THE SANTA FE NEW MEXICAN SAID TODAY THAT "FANTASTIC" STRIDES HAVE BEEN MADE IN THE FIELD OF GUIDED MISSILE RESEARCH AND THAT IT IS "POSSIBLE" THE DEFENSE DEPARTMENT MAY SOON CLEAR UP THE MYSTERY OF THE FLYING SAUCERS.
+THE NEWSPAPER SAID "SOME WRAPS MAY BE REMOVED FROM SOME ASPECTS OF THE HUSH-HUSH PROGRAM" AT A SPECIAL DEMONSTRATION TENTATIVELY SCHEDULED AT THE WHITE SANDS PROVING GROUNDS SOUTH OF HERE LATER THIS SPRING.
+"IT IS POSSIBLE THAT THE DISCLOSURE SOON TO BE MADE BY THE DEPARTMENT OF DEFENSE MAY, IN PART AT LEAST, EXPLAIN SOME OF THE 'THINGS' SIGHTED IN SOUTHWESTERN SKIES BY BEWILDERED OBSERVERS WHO HAVE TERMED THEM 'FLYING SAUCERS' FOR LACK OF A BETTER NAME," THE PAPER SAID.
+(HOWEVER COL. M. G. HENDRICKS, COMMANDANT OF THE PROVING GROUNDS, SAID TODAY THAT RESEARCH THERE "HAS NOTHING TO DO WITH ANYING LIKE THE SO-CALLED FLYING SAUCER. WE ARE STRICTLY IN THE GUIDED MISSILE BUSINESS. THERE CERTAINLY WON'T BE ANYTHING LIKE A FLYING SAUCER DEMONSTRATED.")
+
+1/8--N1134P
+
+***
+
+## Annotations and Stamps
+*Bottom of the page*
+
+*[Handwritten signature/stamp, possibly "File 5 [illegible]":]*
+
+**62-83894-A**
+
+*[Stamp:]* NOT PROCESSED
+*[Date Stamp:]* 98 JAN 1 8 1953
+
+*[Stamp:]* 19 JAN 1953
+*[Handwritten initials, possibly "RA":]*
+
+*[Bottom center text:]* WASHINGTON CITY NEWS SERVICE

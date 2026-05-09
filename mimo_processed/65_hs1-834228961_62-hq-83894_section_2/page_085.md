@@ -1,0 +1,1 @@
+*Image: Black-and-white photograph of a circular mechanical part or disk with a central hub, attached components, and a cable or wire; a ruler is placed along the bottom edge for scale.*

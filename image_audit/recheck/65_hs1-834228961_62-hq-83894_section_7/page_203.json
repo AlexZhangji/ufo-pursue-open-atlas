@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 203,
+  "original_image_tags": [
+    "Aged, yellowed, and creased document page, likely the back of a form or a routing slip. The page is heavily stained and torn at the top edge, with three punched holes. The text is largely faded, with some ink stamps and faint typing visible. The page appears to be oriented with the top at the bottom of the image."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded document page with two black holes punched at the top. Contains faint reversed typed text visible through the paper, along with several legible ink stamps including 'RECEIVED-MAIL ROOM FBI U.S. DEPT. OF JUSTICE', 'EX-113', 'REORDERED DO', 'JUN 28 1954', and a red 'FBI JUN 29 1954 COMM' stamp. No photographs, sketches, or other graphical elements are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamp text ('RECEIVED-MAIL ROOM FBI U.S. DEPT. OF JUSTICE', etc.) that Description A does not see or describe, indicating a factual contradiction about visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:52:00"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 275,
+  "original_image_tags": [
+    "Back of a yellowed, off-white document page. Two binder holes are visible at the top. The page is mostly blank, showing faint, reversed bleed-through text from the other side. At the bottom, there are two date stamps and a small piece of yellowed tape. One stamp reads \"8 APR 26 1955\". The other reads \"APR 25  11 50 AM '65\". Above the second stamp, faint text appears to read \"ACCD-CCCP Y IURS\". A very faint, reversed word \"CONFIDENTIAL\" is visible near the bottom left corner, and reversed text \"SECRET RESTRICTED\" and \"EYES ONLY\" is visible near the bottom right corner. A small, rectangular piece of yellowed tape with two horizontal slits is affixed to the right margin near the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page appears to be the back of a document. There are two dark holes at the top. There is faint reversed text visible through the paper, which is illegible. At the bottom, there is an upside-down blue date stamp reading 'APR 26 11 50 AM '65' and an upside-down faint line of text below it that is illegible. There is also a faint red stamp at the bottom left that reads 'APR 26 1955' and a letter 'B'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions give significantly different verbatim text for the stamps at the bottom of the page, with one side providing additional quoted text ('ACCD-CCCP Y IURS') that the other omits entirely, indicating a contradiction on specific visual details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:35"
+}

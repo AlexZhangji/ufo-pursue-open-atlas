@@ -1,0 +1,25 @@
+{
+  "total": 1236,
+  "score_counts": {
+    "0": 72,
+    "1": 551,
+    "2": 388,
+    "3": 225
+  },
+  "fallback_count": 731,
+  "error_count": 1,
+  "category_counts": {
+    "stamp_or_label_only": 696,
+    "typed_text_only": 366,
+    "photograph": 154,
+    "other": 37,
+    "newspaper_clipping_illustration": 156,
+    "sketch": 85,
+    "diagram": 21,
+    "blank_or_back_of_page": 26,
+    "map": 8,
+    "chart_or_graph": 36,
+    "redacted_only": 11
+  },
+  "completed_at": "2026-05-08 19:35:05"
+}

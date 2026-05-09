@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 43,
+  "original_image_tags": [
+    "A single, aged page of typewritten text, likely carbon copy, with a slightly skewed scan angle. The paper shows age-related discoloration and speckling. In the upper left corner, a handwritten numeral \"8\" is circled. In the lower left, the word \"COPY\" is typed vertically, with each letter on a new line. In the bottom right corner, a handwritten annotation reads \"see115\" above the typed numeral \"35\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A page consisting entirely of typewritten text reporting interviews and witness statements. No photographs, sketches, diagrams, or other visual elements are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes specific handwritten and typed annotations on the page, while Description B claims the page consists entirely of typewritten text with no other visual elements, creating a direct factual contradiction about the page's visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:58"
+}

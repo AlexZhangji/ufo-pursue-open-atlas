@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 132,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B claims specific titles ('OUT OUR WAY', 'SIDE GLANCES', 'CARNIVAL') and a copyright line ('COPR. 1946 BY NEA SERVICE, INC.') that are not mentioned in Description A, while also describing different activities (e.g., 'holding a broom' vs. 'holding a shovel') and omitting details like the calendar, creating contradictions on specific visual elements and quoted text.",
+  "original_image_tags": [
+    "Newspaper comic strip panel, part of a vertical column. In the top panel, a man in a cap and work clothes holds a shovel. Another man is partially visible in the background.",
+    "Newspaper comic strip panel. A man in a cap stands in profile, smoking a pipe and holding a coiled rope or leash. A house and another figure are in the background.",
+    "Newspaper comic strip panel. Shows the back of a man's head and shoulders as he looks out a window at a domed building. A calendar hangs on the wall."
+  ],
+  "gpt_mini_desc": "*Image: A narrow scanned newspaper clipping showing three black-and-white comic-strip panels stacked vertically, with visible panel titles “OUT OUR WAY,” “SIDE GLANCES,” and “CARNIVAL,” plus partial speech balloons and caption text.*",
+  "gpt_mini_desc_len": 233,
+  "usage": {
+    "prompt_tokens": 12316,
+    "completion_tokens": 50,
+    "total_tokens": 12366,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:52"
+}

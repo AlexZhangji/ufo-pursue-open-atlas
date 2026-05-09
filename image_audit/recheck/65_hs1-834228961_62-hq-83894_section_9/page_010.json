@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 10,
+  "original_image_tags": [
+    "A single, aged, yellowish-tan document page showing the reverse side of a typed memo. The page has two hole-punch marks at the top edge and general wear. The typed text from the obverse side bled through, making it faintly visible in reverse. The primary content consists of multiple stamped markings, dates, and handwritten annotations in the margins."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned image of the back of a document page. The paper is aged, yellowed, and torn at the edges. The typed text from the front side is faintly visible in reverse through the paper. The page is covered with numerous stamped ink annotations in various orientations, including 'REC'D BELMON', 'FBI - JUSTICE', 'RECEIVED - BOARDMAN', 'DEPT. OF FBI', 'REC'D - ESPIONAGE', and several date stamps from January 1958 (e.g., 'JAN 27 1 13 PM '58', 'JAN 22 10 22 AM '58'). There are two small, dark circular holes near the top edge, and the top right corner is missing."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the core visual elements: an aged, yellowed back of a typed memo with reversed bleed-through text, two hole-punch marks at the top, and multiple stamped ink annotations, with no contradictions on specific quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:10:23"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 81,
+  "original_image_tags": [
+    "black-and-white photograph or cutout of a high-heeled women's shoe (a pump style with an open toe) positioned vertically alongside the text column. The shoe has a dark, possibly patent leather finish, a curved heel, and visible stitching. The word \"Haymaker\" is overlaid in large, stylized script across the heel and sole area."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "A single high-heeled shoe (pump) depicted in a black-and-white illustration or advertisement cutout. The shoe is shown in a three-quarter view, featuring a curved stiletto-style heel, a pointed toe, and a visible top stitching along the opening. Below the shoe is a large stylized handwritten word ending in 'Hays', followed by small, partially legible text: 'FOR STORE NEAR YOU WRITE HAYMAKERS BY AVON, ... 47 WEST 34TH ST., NEW YORK ... OR SEND CHECK OR MONEY ORDER DIRECTLY TO ...'. The cutout is pasted onto a typed document and has two punch holes at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A quotes the word 'Haymaker' on the shoe, while Description B quotes different text ('Hays', 'HAYMAKERS BY AVON') below the shoe, representing contradictory readings of the same image text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:51"
+}

@@ -1,0 +1,34 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 91,
+  "original_image_tags": [
+    "Vertical red stamp reading \"ENCL. 37\" with a large handwritten \"Y\" in red ink next to it.",
+    "Red stamp date \"24 FEB 16 1959\" with a handwritten \"17\" above the date.",
+    "Red stamp reading \"EX-\" with a handwritten checkmark and \"12\" next to it.",
+    "Ink stamp reading \"ENCLOSURE\" and below it in blue/green ink \"ENCLO. BEHIND FILE\".",
+    "Handwritten signature, appears to be \"David [illegible]\".",
+    "Circular stamp partially visible at bottom right reading \"NAT'L SEC.\" and \"J. EDGAR [hoover]\".",
+    "Red stamp at bottom left \"51 FEB 26 1959\".",
+    "Faint stamp near bottom center \"20 12... 9. SE...\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The image is a scanned page of a typed Office Memorandum. It contains several stamps, handwritten annotations, and signatures. Visible stamps include 'REC- 75', '62-83894-403', '24 FEB 18 1959', 'EX. - 133', 'ENCLOSURE', 'ENCLO. BEHIND FILE', and a faded red stamp at the bottom left reading '51 FEB 26 1959'. There are handwritten signatures in blue and black ink, and a vertical red stamp on the right side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements (multiple stamps, handwritten annotations, specific dates like '24 FEB 16/18 1959' and '51 FEB 26 1959', and the 'ENCLOSURE/ENCLO. BEHIND FILE' stamp), but Description A includes details not mentioned in B (e.g., 'ENCL. 37', 'Y' in red ink, 'David [illegible]', circular 'NAT'L SEC.' stamp), while B includes details not mentioned in A (e.g., 'REC- 75', '62-83894-403', 'EX. - 133'), without direct contradictions on shared elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:03"
+}

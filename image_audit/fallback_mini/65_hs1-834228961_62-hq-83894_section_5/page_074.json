@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 74,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "The page is a beige, lined routing slip. It features multiple stamped ink markings and one handwritten annotation. The stamps indicate receipt by various FBI divisions and the date. The text at the top is oriented normally, while the stamped markings are rotated 90 degrees clockwise."
+  ],
+  "gpt_mini_desc": "*Image: A scanned, mostly blank lined document page with faint mirrored typewritten text and several blue U.S. Department of Justice/FBI received date stamps, including “RECEIVED-FBI U.S. DEPT. OF JUSTICE,” “Mar 27 10 59 AM '50,” “Mar 27 11 58 AM '50,” and “Apr 3 5 43 PM '50,” plus a small black hole-like tear near the top center.*",
+  "gpt_mini_desc_len": 333,
+  "usage": {
+    "prompt_tokens": 12573,
+    "completion_tokens": 107,
+    "total_tokens": 12680,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:38"
+}

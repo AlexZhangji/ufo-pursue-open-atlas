@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 159,
+  "original_image_tags": [
+    "A two-part page. The upper section contains a faint, hand-drawn sketch. The sketch depicts two disc-shaped objects in the sky. One object, on the left, is shown from a side/three-quarter angle, appearing as a classic saucer with a dome-like top. The other object, on the right, is shown from a top-down or angled top view, revealing concentric circles or rings on its upper surface. Curving motion lines trail below both objects, suggesting a flight path. Below the sketch, there are faint handwritten annotations in cursive. The annotations are difficult to read but appear to include the words \"miles per hour\" and possibly \"18000 ft.\" and \"MIG\". The lower section of the page is a typed note titled \"TYPOGRAPHICAL ERRORS\". At the very bottom, there is a handwritten alphanumeric code."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed text titled 'TYPOGRAPHICAL ERRORS' listing corrections for page numbers 2, 3, and 4, followed by a handwritten number '62-83894-371' at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a hand-drawn sketch of UFOs in the upper section, while Description B omits any mention of the sketch and only describes typed text, indicating a clear disagreement on the page's primary visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:49"
+}

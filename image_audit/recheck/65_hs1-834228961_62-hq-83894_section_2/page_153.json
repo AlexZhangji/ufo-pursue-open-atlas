@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 153,
+  "original_image_tags": [
+    "Pink paper document, likely a routing slip or receipt page. Two hole-punch marks at the top center. Multiple blue-ink stamps are visible in various orientations, primarily upside-down relative to the top of the page. The stamps indicate receipt by different FBI units in September 1947."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Pink paper page with multiple ink stamps and two dark holes at the top. Stamps include: 'RECEIVED TELETYPE UNIT / SEP 10 12 56 PM '47 / F.B.I. DEPT. OF JUSTICE'; 'RECEIVED / SEP 11 9 14 AM '47 / INTERNAL SECURITY / F.B.I. DEPT. OF JUSTICE'; 'RECEIVED-TAMS / 15 12 56 PM '47 / FBI U.S. DEPT. OF JUSTICE'; 'SEP 10 2 00 PM '47 / U.S. DEPT. OF JUSTICE / FBI'; 'SEP 10 4 54 PM '47'; 'SEP 10 1 08 PM '47 / FBI / U.S. DEPT. OF JUSTICE'; 'RECEIVED LIAISON SECTION'; 'BEFORE RECEIVED-LAHO / FBI / U.S. DEPT. OF JUSTICE'. Some text is faint or partially illegible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the core visual elements: a pink page with two holes and multiple ink stamps indicating FBI receipt in September 1947, with no contradictory claims about specific stamp text or object counts.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:29:46"
+}

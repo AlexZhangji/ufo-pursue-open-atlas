@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 61,
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific, different verbatim text for stamps ('DEC 5 3:53 PM', 'DEC 5 3:18 PM') that is not present in Description A, which describes different stamp content and placement.",
+  "original_image_tags": [
+    "A single page of aged, off-white paper with two hole-punch marks at the top center. The paper shows significant bleed-through of text from the reverse side (which appears to be typed upside down). Faint, partially legible letterhead text is visible at the top.",
+    "A circular, embossed seal or stamp is partially visible in the upper right corner. The words \"FEDERAL BUREAU OF INVESTIGATION\" are legible around the perimeter.",
+    "At the bottom of the page, there are several stamps and a handwritten note in pink/red ink, oriented upright relative to the page."
+  ],
+  "gpt_mini_desc": "*Image: Scanned blank/off-white document page with faint reversed typed text, two punch holes near the top edge, a circular stamp at upper right, and a red/purple approval or filing stamp near the lower center.*",
+  "gpt_mini_desc_len": 211,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 48,
+    "total_tokens": 14940,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:16"
+}

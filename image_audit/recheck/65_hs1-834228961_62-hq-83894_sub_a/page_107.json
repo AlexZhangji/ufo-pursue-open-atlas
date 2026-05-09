@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 107,
+  "original_image_tags": [
+    "Aged newspaper clipping from the Washington Post, dated July 6, 1947, mounted on off-white paper with three hole-punch marks along the left edge. The clipping is slightly yellowed and shows two main columns of text with a large headline. A small section in the upper right corner appears to be a continuation or separate snippet."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A single newspaper clipping with a multi-column layout and the headline 'VFW Chief Awaiting Message From Capital on Flying Discs'. The article text discusses UAP sightings and quotes various officials. A date stamp at the bottom reads 'JUL 6 1947 WASHINGTON POST Page 1-M & 3-M'. There are no photographs, sketches, or diagrams embedded within the clipping."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual element (a newspaper clipping) and its date, but they differ on whether specific headline text and a date stamp are visible, which is a minor inconsistency without clear contradiction on quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:16:07"
+}

@@ -1,0 +1,11 @@
+## Memorandum for Mr. A. H. Belmont, 10/8/52
+
+is ordinarily given to newspaper reporters or writers who make inquiry in the Office of Public Information.
+
+### ACTION:
+None. For your information.
+
+*[handwritten initial: G]*
+*[handwritten initial: EL]*
+
+- 3 -

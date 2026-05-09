@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 65,
+  "original_image_tags": [
+    "A technical line plot showing ship-hit probability contours for the Atlas IIAS rocket. The chart is titled \"Atlas IIAS All Mode P_I\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "A line graph showing 'Atlas IIAS All-Mode Ship-Hit Contours'. The y-axis is 'Crossrange Distance (nm)' ranging from -15 to 15. The x-axis is 'Downrange Distance (nm)' ranging from -5 to 25. A legend indicates three contour lines: a solid line for '10^-4', a dashed line for '10^-5', and a dotted line for '10^-6'. Text within the graph area reads 'Atlas IIAS', 'All Mode P_I', 'B = 1,000', and 'A = 3.45'. Below the graph is the caption: 'Figure 19. Atlas IIAS All-Mode Ship-Hit Contours with A = 3.45'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the chart title, type, and key quoted text ('Atlas IIAS All-Mode Ship-Hit Contours' / 'All Mode P_I'), with only minor differences in axis labels and the omission of some details by Description A, indicating no factual contradiction on visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:17:11"
+}

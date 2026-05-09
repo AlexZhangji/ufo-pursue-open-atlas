@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 98,
+  "original_image_tags": [
+    "A single, aged, off-white document page. The top edge is torn and irregular, with a piece of yellowed adhesive tape horizontally across the upper portion. The paper has two punch holes at the bottom. The main area of the page is blank."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blank or back of a document page with multiple purple date stamps ('52 APR 20 1950', 'APR 14 1950'), handwritten annotations ('62-8389-', 'File in Flying Disc file', 'file 5 IHm'), and visible tape marks at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims the main area of the page is blank, while Description B describes multiple purple date stamps, handwritten annotations, and tape marks, indicating a direct factual contradiction about the presence of visual content on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:28"
+}

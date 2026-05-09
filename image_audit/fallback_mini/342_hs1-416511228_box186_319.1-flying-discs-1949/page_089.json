@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 89,
+  "categories": [
+    "map"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual elements of a hand-drawn weather map with grid lines, coastline outlines, and shaded areas, but Description A adds specific details like blue isobars and punch-holes not mentioned by B, while B notes wind barbs not explicitly detailed by A.",
+  "original_image_tags": [
+    "Hand-drawn weather or plotting map on white graph paper, showing the outlines of Japan and surrounding regions. The map is heavily annotated with handwritten numerical data, meteorological station plots, and hand-drawn isobars (dark curved lines). Several areas are shaded in green, yellow, and blue. Dark circular punch-holes are visible near the top margin. Numbers are written in black ink. Grid lines (brown/red) and coastline outlines are visible.",
+    "Large blue hand-drawn lines (likely isobars or flight paths) traverse the map from left to right.",
+    "Areas of green shading are visible near the center and top right.",
+    "Areas of yellow shading are visible near the bottom left.",
+    "Reddish-brown coastline outlines depict the Japanese archipelago.",
+    "Grid lines divide the map."
+  ],
+  "gpt_mini_desc": "*Image: A hand-drawn annotated map of Japan and surrounding waters, overlaid with contour-like curved lines, grid lines, shaded green and yellow areas, and numerous numbered circles, marks, and handwritten notes.*",
+  "gpt_mini_desc_len": 213,
+  "usage": {
+    "prompt_tokens": 59166,
+    "completion_tokens": 46,
+    "total_tokens": 59212,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:06"
+}

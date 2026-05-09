@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_164",
+  "page_num": 1,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B provides extensive specific quoted text and visual details (FBI label, barcodes, stamps, handwritten annotations) not present in the generic Description A, creating a contradiction in the level of visual content described.",
+  "original_image_tags": [
+    "Color photograph of a tan manila file folder, slightly worn, lying flat. The folder has several labels and handwritten markings."
+  ],
+  "gpt_mini_desc": "*Image: Photograph of a tan FBI Central Records Center file folder cover with two white barcode labels, large stamped text “DO NOT DESTROY,” a blue declassification sticker, and handwritten red/black file numbers.*",
+  "gpt_mini_desc_len": 214,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 46,
+    "total_tokens": 14938,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:29"
+}

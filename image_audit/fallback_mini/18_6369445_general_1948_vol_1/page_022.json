@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "18_6369445_general_1948_vol_1",
+  "page_num": 22,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A details multiple visual elements (stamps, hole-punches, handwritten notes) while Description B explicitly states there are no photographs or visual content, creating a direct contradiction on the presence and categories of visual material.",
+  "original_image_tags": [
+    "A green carbon-copy paper document. At the top, a stamped \"SECRET\" is crossed out with a single line. In the bottom left, a red circular stamp with \"Col Taylor\" inside. In the bottom center, a blue stamp with \"May Gen. USAF\" inside. Handwritten notes in pencil and blue ink are scattered across the page. The paper shows signs of age and has three hole-punch marks on the left."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typewritten government memorandum cover page with visible stamps, handwritten initials, and a printed coordination table at the bottom; no photograph or illustration.*",
+  "gpt_mini_desc_len": 185,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 35,
+    "total_tokens": 14927,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:34"
+}

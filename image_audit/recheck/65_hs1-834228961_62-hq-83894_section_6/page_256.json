@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 256,
+  "original_image_tags": [
+    "Black-and-white photograph of a dark background with multiple luminous, disc-shaped objects. One large object at the top center has vertical light rays extending downward, resembling a jellyfish or a light fixture. To its left and right are smaller, similar luminous shapes. The overall effect is a blurry, long-exposure-like image of bright lights against a dark sky. The image is grainy and shows signs of aging or photocopy degradation.",
+    "A small, square, black-and-white headshot photograph of a man wearing glasses and a suit. He is looking slightly to his right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "One black-and-white photograph depicting a bright, glowing, saucer-shaped object with a wider top and narrower base, emitting light. Caption reads: 'This might be a picture of flying saucers taken at night over Arizona or New Mexico. It was in fact taken in Dr. Menzel's laboratory at Harvard University.'"
+      },
+      {
+        "category": "photograph",
+        "description": "One small black-and-white portrait photograph of a man wearing glasses and a suit, captioned 'Donald H. Menzel is professor of astrophysics and associate director of solar research at Harvard University.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a group of luminous objects in a long-exposure-like image, while Description B quotes a caption stating the image is of a single flying saucer taken in a laboratory, presenting contradictory visual and textual information about the same image.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:00:37"
+}

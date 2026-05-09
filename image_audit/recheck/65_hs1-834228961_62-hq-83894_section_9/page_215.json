@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 215,
+  "original_image_tags": [
+    "A typed letter on \"Storm - Jade Mountain Mines\" letterhead, dated November 22, 1963. The document is heavily annotated with handwritten notes and stamped with FBI tracking numbers and dates. The letterhead lists various minerals and stones. The letter is addressed to NASA regarding \"Flying Discs.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter on 'Storm-Jade Mountain Mines' letterhead with handwritten annotations and stamps. Includes a list of minerals and a typed letter to NASA."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the document is a typed letter on Storm-Jade Mountain Mines letterhead with handwritten annotations, stamps, and a list of minerals, and neither describes any other distinct visual content like photographs or sketches.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:58"
+}

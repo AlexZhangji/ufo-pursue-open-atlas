@@ -1,0 +1,15 @@
+## Page 2 - Handwritten Witness Statement
+
+*(2)*
+
+straighter until it disappeared into space in the South East.
+
+It looked half as big as the Moon and was a pale yellow, but since it was much closer I know it was much smaller.
+
+A man above 70 sat here and saw it. He said his ancestors had seen them generations back and had called them "Omens" and also "Jack O Lanterns"
+
+I was very much concerned about how this body had fallen half way to Earth [from where I had first seen it] and had then risen and vanished into space.
+
+I knew it was to far in Earth's gravity to be pulled out by the gravity of the Sun or Moon, as they were on the opposite side of the Earth. This object had gone in an entirely different direction than either of them.
+
+*[Page contains two punched holes at the top. Paper shows signs of age with slight discoloration.]*

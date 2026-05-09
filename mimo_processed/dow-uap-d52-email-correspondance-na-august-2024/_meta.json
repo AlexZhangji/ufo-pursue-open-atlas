@@ -1,0 +1,26 @@
+{
+  "file": "dow-uap-d52-email-correspondance-na-august-2024.pdf",
+  "stem": "dow-uap-d52-email-correspondance-na-august-2024",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "90570293e61c9b228e557b2e83f6e32821f5cf13879b0c5b83c1b8b58153f510",
+  "size_bytes": 66874,
+  "total_pages": 2,
+  "pages_processed_in_run": 2,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:08",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    }
+  ]
+}

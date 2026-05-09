@@ -1,0 +1,31 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 202,
+  "original_image_tags": [
+    "A red rectangular stamp in the center of the lower half of the page.",
+    "A large red numerical stamp with date on the lower left.",
+    "A faint blue stamp at the very bottom center.",
+    "A typed list of names on the lower left edge.",
+    "Small boxes for routing at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed letter dated July 17, 1963, addressed to Mr. John L. Black in Sacramento, California. The letter states that UFO investigations are not within the Bureau's authority and refers the matter to the Department of the Air Force. It is signed by John Edgar Hoover, Director. The page includes various handwritten annotations, stamps, and names in the margins."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A lists multiple specific visual elements (stamps, boxes) while Description B focuses on typed text and mentions stamps only generically, showing the descriptions are about different visual content or one is hallucinating details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:45"
+}

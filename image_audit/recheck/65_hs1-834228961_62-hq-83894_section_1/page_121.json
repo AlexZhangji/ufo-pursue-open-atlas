@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 121,
+  "original_image_tags": [
+    "Typed document, page 2 of Bureau Bulletin No. 42, Series 1947. The paper is aged and yellowed, with visible staple holes and tape marks on the left margin."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page contains typed text on two sheets of paper. Includes a heading '(B) FLYING DISCS --', the date '7-30-47', and 'BUREAU BULLETIN NO. 42 Series 1947'. No photographs, sketches, diagrams, maps, or charts are present. Contains some handwritten annotations, a vertical stamp 'ORIGINAL COPY FILED', and a stamped date 'AUG 18 1947' with a number '58'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains no actual visual content like photographs or sketches, consisting only of typed text and document markings.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:49"
+}

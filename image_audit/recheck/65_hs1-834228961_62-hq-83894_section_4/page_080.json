@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 80,
+  "original_image_tags": [
+    "A typewritten telex message on a \"FEDERAL BUREAU OF INVESTIGATION U.S. DEPARTMENT OF JUSTICE COMMUNICATIONS SECTION\" form, dated DEC 29 1948, with the header \"TELEMETER\". The page contains handwritten annotations, stamps, and a distribution list in the upper right. The main text details an investigation into a \"flying disk\" report from Lonnie Edward Noack, concluding that parts found were from a model tow target constructed by Claude L. Wolford. There are several redaction marks over words like \"COMPASS\" and \"PLASTICS MOLDING CO., LA.\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned page of a typed government communication. The page contains typed body text, multiple red rubber stamps (including 'FEDERAL BUREAU OF INVESTIGATION', 'DEC 29 1948', 'TELEMETER', and 'RECORDED'), handwritten annotations in pen and pencil, a red routing list box with names on the right side, and two punch holes at the top. There are no photographs, sketches, diagrams, maps, or charts present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains no photographs, sketches, diagrams, maps, or charts, and both describe the same non-photographic visual elements (stamps, annotations, routing list) with no contradictions.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:31:42"
+}

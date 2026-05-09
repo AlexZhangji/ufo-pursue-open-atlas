@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 82,
+  "original_image_tags": [
+    "A scanned image of the front of a used, brownish paper envelope. It features a handwritten return address and addressee, a circular postmark, and a partial slogan cancellation stamp."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A brown envelope front with a circular postmark, a rectangular stamp, and a white address label. The postmark reads 'STOKE NEWINGTON / 7.15 PM / 26 OCT. / 1954 / N.16.'. To its right is a rectangular stamp with the text 'CIVIL D / JOIN'. The white label is handwritten in purple ink: 'THE CITY MAYOR / TUCSON. / ARIZONA / U. S. A.'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states a 'partial slogan cancellation stamp' while Description B provides a specific 'rectangular stamp' with text 'CIVIL D / JOIN'—these are contradictory descriptions of the same stamp element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:10"
+}

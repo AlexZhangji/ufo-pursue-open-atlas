@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 74,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual elements (line graph, title, axes, three curves with specific q-alpha values and line styles), but Description A includes specific claims about curve behavior and a caption ('Figure 26. Titan IV Breakup Percentages') that Description B omits.",
+  "original_image_tags": [
+    "Line graph titled \"Titan IV\" plotting \"Breakup Percent (%)\" on the y-axis against \"Failure Time (sec)\" on the x-axis. The y-axis ranges from 0 to 100 in increments of 10. The x-axis ranges from 0 to 280 in increments of 40. Three curves are shown, representing different \"q-alpha in deg-lb/ft²\" values as per the legend: solid line for \"q-alpha = 5,000\", dashed line for \"q-alpha = 10,000\", and dotted line for \"q-alpha = 20,000\". All three curves show a rapid increase in breakup percentage, peaking near 100% between 40 and 80 seconds, followed by a sharp decline to near 0% by 200 seconds. The q-alpha = 5,000 curve has the broadest peak."
+  ],
+  "gpt_mini_desc": "*Image: A line graph titled “Titan IV” showing breakup percent versus failure time (sec), with three plotted curves labeled q-alpha = 5,000, 10,000, and 20,000 deg-lb/ft², and the caption “Figure 26. Titan IV Breakup Percentages.”*",
+  "gpt_mini_desc_len": 231,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 69,
+    "total_tokens": 56225,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:37"
+}

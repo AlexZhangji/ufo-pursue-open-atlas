@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 42,
+  "original_image_tags": [
+    "The image shows the back side of a typed document, which is now blank and aged to a light tan color. The paper is slightly worn, with frayed edges and two hole-punch marks at the top. A piece of yellowed adhesive tape is partially stuck to the top edge, covering the right hole-punch. The ink from the typed text on the front side has bled through and is faintly visible in reverse. Several blue ink stamps are present in the lower left quadrant, oriented upside down relative to the rest of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint reverse impression of typed text and stamps is visible on the back of a page, along with a dark blue stamped date and time reading 'MAR 1 11 15 AM '48' and 'RECEIVED-LADO F B I'. There are two punch holes at the top and a piece of yellowed tape attached near the right hole."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements (back of a page, two hole-punches, yellowed tape, reverse impressions of text/stamps, and a blue ink stamp), but Description B provides specific quoted stamp text ('MAR 1 11 15 AM '48' and 'RECEIVED-LADO F B I') while Description A mentions stamps only generally.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:31:11"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 167,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions correctly identify two hand-drawn sketches (a top view and a side view) of a saucer-like object with consistent arrows and labels ('Top', 'traveling this way', 'Side view'), but Description B adds specific typed text and a signature not mentioned in Description A, which does not contradict A.",
+  "original_image_tags": [
+    "Hand-drawn sketch. Top view: A roughly oval or saucer-like shape with a small notch or indentation on the left side. The shape is labeled \"Top\" inside. An arrow points to the right, labeled \"traveling this way\". An arrow points from text on the right to the shape.",
+    "Hand-drawn sketch. Side view: A thin, elongated, spindle-like or disc-edge shape. An arrow points to the right, labeled \"traveling this way\". A smaller arrow points to the left, labeled \"Side view\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typed letter page with “CONFIDENTIAL” stamped at top and bottom, “COPY” stamped diagonally in the upper right, and two handwritten sketches near the lower half showing a hexagonal object labeled “Top,” a side-view outline labeled “side view,” arrows indicating “traveling this way,” and typed notes including “Mirror Bright” and “They seemed longer than wide, their thickness was about 1/20th of their width.”*",
+  "gpt_mini_desc_len": 428,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 98,
+    "total_tokens": 56254,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:46"
+}

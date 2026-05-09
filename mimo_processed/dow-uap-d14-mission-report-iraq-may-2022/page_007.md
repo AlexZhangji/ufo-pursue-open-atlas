@@ -1,0 +1,58 @@
+## SECRET/REL TO USA, FVEY
+
+### Precoord Effectiveness: -
+
+## WEATHER
+
+*   **Weather:** ~~(S/REL)~~ WAS NOT A FACTOR
+
+## EFFECTIVENESS
+
+*   **Tasker:**
+*   **Intel Gap Filled?:** No
+*   **Gentext:**
+
+## REACTION
+
+*   **Initial Contact DTG:** 292147:00ZMAY22
+*   **Friendly Aircraft Location:** 37S BV 34*[REDACTED — 1.4(a)]*14*[REDACTED — 1.4(a)]*
+*   **Friendly Aircraft Heading:** 300
+*   **Friendly Aircraft Altitude:** FL243
+*   **Friendly Aircraft Airspeed:** 148KIAS
+*   **# of Enemy Aircraft:** 2
+*   **Enemy Aircraft Type:** SU-30
+*   **Enemy Aircraft Nationality:** RUSSIAN
+*   **Source of ID:** NTIG
+*   **Enemy Aircraft Location:** *[REDACTED — 1.4(a)]*
+*   **Enemy Aircraft Heading:** 270
+*   **Enemy Aircraft Altitude:** FL 190
+*   **Enemy Aircraft Airspeed:** -
+*   **Description of Enemy Formation:** -
+*   **ESM (Yes, No):** No
+*   **Countermeasures Employed:** NONE
+
+## RSLTREACTION
+
+*   **REACTION DTG:**
+*   **Num AA Weapons Employed:**
+*   **Num Enemy Aircraft Engaged:**
+*   **Friendly Weapons Employed:**
+*   **Num Enemy Aircraft Damaged:**
+*   **Num Enemy Aircraft Destroyed:**
+*   **Enemy Weapons Employed:**
+*   **Results Observed:**
+
+***
+
+*[boxed text at bottom]* 3.5c, FOIA Exemption (b)(6)
+
+~~SECRET/REL TO USA, FVEY~~
+
+MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S
+Approved for Release to AARO
+10/17/25 007
+
+*[top right corner text in red]*
+Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 8 October 2025

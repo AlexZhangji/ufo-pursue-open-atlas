@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 89,
+  "original_image_tags": [
+    "Aged, off-white paper page with two dark punch holes at the top. The top section contains a typed name and address. Below it is a handwritten postscript in cursive. The bottom third of the page is covered with multiple blue ink stamped marks. One vertical stamp on the right reads: \"OCT 24 5 06 PM '52 RECE'D ESPIONAGE FBI U.S. DEPT. OF JUSTICE\". A diagonal stamp below it reads: \"RECEIVED INTERNAL SECURITY NS FBI OCT 24 2 28 PM '52\". Another diagonal stamp to the left reads: \"NOV 3 5 03 PM '52 RECE'D ESPIONAGE FBI U.S. DEPT. OF JUSTICE\". The word \"RECEIVED\" is partially visible at the very bottom edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue ink stamps at the bottom of the page. One stamp reads 'RECEIVED OCT 24 2:28 PM '52 INTERNAL SECURITY SN FBI'. Another stamp reads 'RECEIVED OCT 24 5:06 PM '52 FBI DEPT OF JUSTICE SEC'D ESPIONAGE'. A third stamp reads 'NOV 3 5:03 PM '52 FBI DEPT OF JUSTICE SEC'D ESPIONAGE'. The top of the page has two hole-punch marks."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions give different specific verbatim text for the same stamps (e.g., 'RECEIVED INTERNAL SECURITY NS FBI' vs 'RECEIVED ... INTERNAL SECURITY SN FBI', and 'RECEIVED ESPIONAGE FBI' vs 'SEC'D ESPIONAGE FBI').",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:58"
+}

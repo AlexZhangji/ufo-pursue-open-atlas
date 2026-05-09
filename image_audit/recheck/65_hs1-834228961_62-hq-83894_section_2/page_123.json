@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 123,
+  "original_image_tags": [
+    "The main body of the document consists of very faint, blurry, and reversed text, appearing to be a carbon copy or an imprint from another page. The text is largely illegible but appears to be a standard typewritten report. Visible fragments include reversed words such as \"PENNSYLVANIA\", \"OBSERVATION\", \"APPROXIMATELY TWO\", \"ALTITUDE\", \"WITHOUT\", \"SECRETARY\", \"CONFIDENTIAL\", and \"DEPARTMENT OF JUSTICE\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue ink received stamps on pink paper, including text such as 'RECEIVED TELETYPE UNIT Sep 13 5 19 PM '47 F.B.I. DEPT. OF JUSTICE', 'INTERNAL SECURITY F.B.I. DEPT. OF JUSTICE', and several other partially overlapping and inverted date stamps with times from September 1947."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A reports illegible reversed text, while Description B reports specific blue ink received stamps with clear text, indicating they are describing completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:52"
+}

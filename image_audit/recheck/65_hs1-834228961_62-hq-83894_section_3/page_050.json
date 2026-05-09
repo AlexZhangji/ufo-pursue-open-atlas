@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 50,
+  "original_image_tags": [
+    "A scan of a worn, tan manila envelope or folder. The top edge is rounded. A black circular hole punch is visible near the top center. Two similar hole punches are visible near the bottom edge. The right edge is tattered and shows staple marks."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Manila paper enclosure cover. Red stamped text reads 'ENCLOSURE' twice at the top. Handwritten annotation reads '62-8389X-106'. Shows signs of wear, staple holes, and tape residue. No photographs, sketches, or diagrams are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes specific visual elements (hole punches, tattered edge) absent from B, while B describes a specific red stamped label and handwritten annotation not mentioned by A, indicating they are describing different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:30:44"
+}

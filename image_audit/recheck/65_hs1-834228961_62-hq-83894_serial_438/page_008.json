@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_438",
+  "page_num": 8,
+  "original_image_tags": [
+    "Official seal of the Federal Bureau of Investigation, United States Department of Justice, positioned in the upper left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The FBI Department of Justice seal in the upper left corner. Below the seal, text reads 'In Reply, Please Refer to File No.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the presence and location of the FBI seal, but description B adds a specific quoted caption text that description A omits, without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:14:10"
+}

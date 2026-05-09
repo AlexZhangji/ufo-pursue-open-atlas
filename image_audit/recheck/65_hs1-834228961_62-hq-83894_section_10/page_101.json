@@ -1,0 +1,26 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 101,
+  "original_image_tags": [
+    "Stamp of small figure (Statue of Liberty?) in bottom right corner",
+    "Stamp of small figure (Statue of Liberty?) in bottom right corner"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A reversed (upside-down and mirrored) typewritten document with multiple text blocks and stamped annotations. The top block includes a memo header with 'MEMORANDUM' and 'UNITED STATES GOVERNMENT'. Below it are fields: 'TO: DIRECTOR, FBI', 'FROM: SAC, DALLAS (65-0)', 'SUBJECT: UNIDENTIFIED FLYING OBJECTS: ANONYMOUS INFORMATION DALLAS, TEXAS, 10/8/67 INFORMATION CONCERNING'. The body text mentions enclosed copies of JHM containing information for 'OSI, Tinker AFB, Oklahoma' and states 'The information in the enclosed JHM was received by SA ERVIN O. CULLUM.' and 'No further information is being taken.' Multiple red and blue ink stamps are visible, including 'Exh. B50C.', 'REC'D', 'Oct 12 | 30 PM '67', 'DOM INTELL DIV. REC'D.', 'MILIT. INTELL. SEC.', and a stamp with a figure of a soldier labeled 'OCT 18 1967'. A typed block at the bottom lists distribution: 'FEC: jeb (3) 1 - Dallas 2 - Bartlett (enclose-6)'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:59"
+}

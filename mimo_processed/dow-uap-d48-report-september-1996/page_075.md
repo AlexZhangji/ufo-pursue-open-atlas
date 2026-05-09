@@ -1,0 +1,7 @@
+Figure 27 shows the percentages of malfunction-turn impacts in 5° sectors for no breakup and for breakup qα’s of 20,000, 10,000, and 5,000 deg-lb/ft². For B = 1,000, theoretical Mode-5 impact distributions are also plotted in the figure using best-fit values of A. This value of B was chosen since it is currently used by RTI in making launch-area risk studies for 45 SW/SE. Within the sectors from ±60° to ±180°, where most population centers are located, data fits are reasonably good. As seen in the next figure, the divergence for the no-breakup case can be greatly reduced by selecting other values for B and A.
+
+*Image: A line graph titled "Titan IV Random-Attitude Failures through 300 sec". The y-axis is labeled "Percent in 5-deg sector (%)" on a logarithmic scale from 0.1 to 100. The x-axis is labeled "Angle From Flight Path (deg)" from 0 to 180. The graph plots several data series and theoretical curves. A legend indicates symbols for "Breakup q-alpha in deg-lb/ft²": inverted triangle for "no breakup", solid circle for "20,000", open circle for "10,000", and open square for "5,000". A second legend indicates theoretical curves for "B = 1,000" with solid lines for "A = 2.00", "A = 2.95", "A = 3.25", and "A = 3.50". All plotted lines show a decreasing trend as the angle increases.*
+
+### Figure 27. Titan Simulation Results with B = 1,000
+
+9/10/96                                                                                      66                                                                                      RTI

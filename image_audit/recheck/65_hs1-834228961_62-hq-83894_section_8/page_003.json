@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 3,
+  "original_image_tags": [
+    "A purple stamped date at bottom left."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed United States Government Office Memorandum form (Standard Form No. 64). The page contains structured typed text including header fields, a subject line, body paragraphs, and administrative notations. There are various handwritten annotations in red and blue ink, as well as several stamps (e.g., 'JUL 26 1954', 'EX-127', 'AUG 4 1954 COPIES DESTROYED', 'NOV 19 1954')."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description B adds several specific stamps with dates that are absent from Description A, but they do not contradict each other on the single stamp mentioned by A.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:08:35"
+}

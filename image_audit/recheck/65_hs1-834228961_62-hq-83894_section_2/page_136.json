@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 136,
+  "original_image_tags": [
+    "A handwritten letter on \"The Ryan Funeral Home\" letterhead. The text is written in black ink. There are several annotations and stamps overlaid on the letter. A blue stamp reads \"KINGDOM VOICE - THE MARCH AHEAD OF TIME\". A red stamp reads \"FLYING DISC\". A large red numerical stamp reads \"62-83894-84\". A blue rectangular stamp reads \"RECORDED INDEXED 31 SEP 23 1947 EX-64\". There are various handwritten checkmarks, lines, and initials in blue, red, and black ink throughout the document."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A single page containing a handwritten letter on letterhead from 'The Ryan Funeral Home' in Bieber, California, dated Sept 19-1947. The page features handwritten text in black ink, typed letterhead text, and various administrative markings including a blue ink stamp reading 'RECORDED', a red ink stamp reading 'INDEXED', and a date stamp 'SEP 23 1947'. There are also handwritten annotations and redaction markings. No photographs, sketches, diagrams, maps, or charts are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A quotes specific stamp text (e.g., 'KINGDOM VOICE - THE MARCH AHEAD OF TIME', 'FLYING DISC', '62-83894-84', 'RECORDED INDEXED 31 SEP 23 1947 EX-64') that Description B either misquotes (e.g., 'RECORDED', 'INDEXED') or omits entirely, creating direct contradictions on the specific verbatim text present in the visual stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:52"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 289,
+  "original_image_tags": [
+    "A vertical, off-white page with a fine grid pattern. The page is heavily aged and textured. At the top, there are two hole-punch marks. The main body of the page is blank except for a faint, vertical, dotted line running down the center. At the bottom right, there is a blue ink stamp oriented upside down. At the bottom left, there is a partial purple ink stamp."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two black circular hole punches at the top edge. A vertical fold line or crease down the center. A red date stamp reading 'JUL 19' near the bottom left corner. A blue upside-down ink stamp near the bottom center with text including 'REC'D-OD/RAB & TOURS', 'FBI', and 'Jul 19 4 07 PM '66'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a blue upside-down ink stamp at the bottom right and a partial purple ink stamp at the bottom left, while Description B quotes specific text for a blue upside-down ink stamp near the bottom center and a red date stamp at the bottom left, contradicting each other on the stamp colors, locations, and quoted text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:46"
+}

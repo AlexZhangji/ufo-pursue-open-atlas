@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 23,
+  "original_image_tags": [
+    "A faded, ghosted impression of text and a stamped label, visible in reverse through the paper from the other side (show-through). At the top, a faint, ghosted stamp reads \"SECRET\" in reverse. Below it, a faint, sketch-like image of a disc-shaped object with a central dome or cupola is visible. Below the image, blocks of text are visible in reverse, including what appears to be a letterhead or signature block reading \"RESEARCH INFORMATION FOR THE INTER-COMMITTAL AERIAL\" in reverse."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A page containing primarily typed text, including a heading and a list of addresses or names. There are no photographs, sketches, or diagrams. A handwritten signature or annotation is visible at the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a visible sketch of a disc-shaped object and a reversed 'SECRET' stamp, while Description B states there are no photographs, sketches, or diagrams, indicating a direct contradiction on visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:34"
+}

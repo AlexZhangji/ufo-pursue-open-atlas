@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 175,
+  "original_image_tags": [
+    "The page is primarily composed of multiple overlapping blue and black ink time/date stamps on a light-colored paper. The paper has two punched holes at the top. The stamps are oriented in various directions, indicating the document's receipt and processing through different offices. The visible text consists entirely of these stamps and their associated dates and times from March 1957. The main, legible stamps are listed above."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamped ink markings in blue and green text indicating FBI receipt dates and times from March 15 to March 21, 1957, across various departments including 'NICHOLS', 'BELMONT', 'TOLSON', 'BOARDMA[N]', 'DIRECTOR', and 'DESPATCH'. Two black hole-punch marks are visible at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content of multiple blue and black ink stamps and two hole-punch marks, but they provide different and partially contradictory details about the stamp colors (blue/black vs. blue/green) and the specific quoted stamp text (e.g., 'NICHOLS', 'BELMONT' etc. in B vs. a different list in A).",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:58"
+}

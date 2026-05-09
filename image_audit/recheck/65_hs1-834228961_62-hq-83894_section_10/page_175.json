@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 175,
+  "original_image_tags": [
+    "A single page of off-white paper with visible age, two punch holes at the top, and several dark stains. The main body of the page contains heavily faded, light-gray, typed text that is largely illegible, appearing as faint, ghostly impressions. Near the bottom center, there is a faint, handwritten annotation in blue ink: \"Mr. B.\" and a red-ink stamp: \"REC'D\". At the very bottom, there are multiple purple ink date stamps.",
+    "Faint blue handwritten annotation:",
+    "Faint red ink stamp:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page with faint bleed-through text from the reverse side, two dark circular punch holes at the top edge, and three stamped text labels near the bottom right. The stamps read 'JAN 17 1 54 PM 1977 REC'D-CORR & TOURS', 'JAN 17 3 08 PM 1977 REC'D-CORR & TOURS', and 'JAN 25 2 12 PM 1977'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes faded illegible typed text, a blue handwritten 'Mr. B.', a red 'REC'D' stamp, and purple date stamps, while Description B describes three specific dated stamps ('JAN 17 1 54 PM 1977 REC'D-CORR & TOURS' etc.) and no handwritten text, representing contradictory visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:10"
+}

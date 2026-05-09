@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 67,
+  "original_image_tags": [
+    "Scanned document page. The page is dark, almost black, with white typed text centered near the top. The words \"RESTRICTED\" appear as faint, large watermark-style stamps—one at the top header and one in the center of the page. There are two hole-punch marks on the left margin and two white circular marks (possibly hole-punch reinforcements or scanner artifacts) at the bottom edge. In the bottom right corner, a small handwritten annotation in white reads \"1194\". In the top left corner, a faint handwritten number \"597\" is visible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Dark page with white typed text and faint 'RESTRICTED' stamps. No photographs, sketches, diagrams, maps, or charts are visible. The typed text reads: 'Perceived a disc giving off an intense green color. Witness reports that the object traveled from west to east at a speed less than that of a plane and at an altitude of approx 1000 ft. Along its edges it gave off an aureola with the color green predominant.' Handwritten numbers '292' and '119' appear at the top and bottom right edges respectively."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a different page layout with specific handwritten numbers '597' and '1194' in different corners, while Description B quotes a substantial block of typed text about a UFO sighting and cites completely different handwritten numbers '292' and '119'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:26:07"
+}

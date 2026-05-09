@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 125,
+  "original_image_tags": [
+    "A black-and-white 2-cent United States Postage stamp featuring a profile portrait of Thomas Jefferson. The stamp is affixed to the page. A circular postal cancellation mark is stamped over the stamp and surrounding area; the text within the cancellation is partially legible, showing fragments such as \"AIR MAIL\" and \"CONN.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One United States postage stamp, 2 cents, featuring a portrait of a profile head. A circular postmark cancellation is stamped over the left side of the stamp, with the visible letters 'BRI' and 'ONI' and the number '2'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions quote contradictory text from the postmark cancellation: one reads 'AIR MAIL' and 'CONN' while the other reads 'BRI' and 'ONI' and '2'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:10"
+}

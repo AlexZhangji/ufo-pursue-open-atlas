@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+  "page_num": 4,
+  "original_image_tags": [
+    "A scanned page from a white notepad with a gold circular logo at the top center containing an interlocking \"R\" and \"C\". The page contains a handwritten note in black ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular brown logo containing a stylized white 'R' and a triple spiral design."
+      },
+      {
+        "category": "other",
+        "description": "Handwritten text in black ink inside a rectangular border. The text includes a quote referencing 'Hamlet's \"There are more things twixt heaven and hell than are dreamed of in your philosophy, Horatio.\"' and contact information 'THE RENAISSANCE AT 999 9th NW - 202 898-9000'. A cursive signature is at the bottom of the handwritten section."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a gold logo with interlocking 'R' and 'C', while Description B describes a brown logo with a stylized 'R' and a triple spiral, and also adds specific quoted text and contact information not mentioned in A, indicating a clear contradiction in the visual content described.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:31"
+}

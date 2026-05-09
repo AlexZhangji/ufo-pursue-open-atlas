@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "341_110677_numerical_file_5-2500",
+  "page_num": 5,
+  "categories": [
+    "sketch",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "hand-drawn sketch of a horizontal line representing the diameter of a disc. Two arrows point to specific positions on the line. Text annotation reads \"RELATIVE POSITION OF 2 LIGHTS\". The arrows point to the division points between the center segment and the outer segments."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typewritten report page with a small hand-drawn sketch labeled “RELATIVE POSITION OF 2 LIGHTS,” showing a simple curved disc-like outline with two arrowed light positions above it.*",
+  "gpt_mini_desc_len": 199,
+  "usage": {
+    "prompt_tokens": 44097,
+    "completion_tokens": 46,
+    "total_tokens": 44143,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 19:59:56"
+}

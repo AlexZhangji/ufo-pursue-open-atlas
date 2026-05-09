@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "fbi-photo-b21",
+  "page_num": 1,
+  "original_image_tags": [
+    "black-and-white infrared sensor still, likely from a forward-looking infrared (FLIR) system. A small, dark, horizontal, oval-shaped object is centered just above the horizontal axis of a white crosshair reticle. The background is a uniform, grainy grey, suggesting a clear sky or distant atmospheric background. The crosshair has numbered tick marks on the horizontal axis: 15, 10, 5 to the left, and 5, 10, 15 to the right. A vertical crosshair line is also present. Multiple large, solid black rectangular redaction blocks are placed over areas of the image, obscuring what appears to be on-screen telemetry, sensor data, or location information. One long redaction spans the top edge. Two pairs of redactions are positioned on the left and right sides, roughly aligned with the horizontal axis. A single long redaction is on the bottom right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "One infrared or thermal image showing a crosshair scale with tick marks and numbers '5', '10', and '15' on the horizontal axis. One small dark object is visible near the center crosshair. Several black and grey rectangular redaction blocks are present across the image. Text '12/31/99 18:19:06' is visible in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims to quote specific text ('12/31/99 18:19:06') inside the image that is not mentioned in Description A, and the two descriptions disagree on the number and placement of redaction blocks.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:46"
+}

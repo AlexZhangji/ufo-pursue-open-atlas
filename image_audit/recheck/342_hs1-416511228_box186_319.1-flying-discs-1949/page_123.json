@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 123,
+  "original_image_tags": [
+    "A high-resolution scan of the back of a weathered, light-blue or grey government document. The paper is aged with visible texture and two hole-punch marks at the top center. The primary text is faded, inverted at the bottom, and contains administrative stamps and handwritten notations in the margins."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page showing a faint, upside-down letterhead for 'MIDDLETOWN, PENNSYLVANIA' at the top. The body contains faint, illegible typed text. At the bottom, a clear typed stamp reads 'TRANSMITTED DEC 13 3 53 PM '48'. There are two punch holes at the top and faint handwritten markings in the top left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual elements (aged paper, two punch holes, faint/imprint text, handwritten markings) without directly contradicting each other on quoted text, though B provides specific stamp text while A does not.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:53:25"
+}

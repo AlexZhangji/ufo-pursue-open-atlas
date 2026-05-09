@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 24,
+  "original_image_tags": [
+    "Black-and-white photograph of a dark, heavily textured, and irregularly shaped object, possibly slag, residue, or a fragment of material. It has a rough, pitted surface with some smoother, possibly melted or fused areas. The object appears to have a hole or depression near the center-left. Attached to the top of the main mass is a smaller, distinct piece that looks like a woven or mesh-like fabric, possibly a strap or filter material. The object is photographed against a plain, light-colored background, likely paper or a lab surface. A faint shadow is cast to the left and slightly below the object."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph depicting a single large, irregular, dark, textured mass or fragment resting on a light-colored surface. A small mesh-like piece is attached to the top. Handwritten text at the bottom left reads 'Sample #6'. The word 'CONFIDENTIAL' is stamped and crossed out at the top and bottom of the image."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific handwritten and stamped text ('Sample #6', 'CONFIDENTIAL') that Description A does not mention, creating a direct contradiction on the presence of quoted visual text elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:30:33"
+}

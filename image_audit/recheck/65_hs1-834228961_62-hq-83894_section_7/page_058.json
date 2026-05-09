@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 58,
+  "original_image_tags": [
+    "A handwritten note on lined paper, written in cursive with blue ink. Two black dots are visible at the top, likely from a hole punch. A handwritten number \"10\" is in the top right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Handwritten letter in blue ink. Includes two black circular holes near the top margin. Number 'L10' in upper right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both describe a handwritten note in blue ink with two black holes near the top and a number in the upper right, but they differ on the specific number ('10' vs 'L10') without clear contradiction as the core visual elements are consistent.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:50:32"
+}

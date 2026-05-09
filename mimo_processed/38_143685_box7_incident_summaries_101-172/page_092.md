@@ -1,0 +1,32 @@
+INCIDENT 132
+Evaluation A-3
+CHECK-LIST - UNIDENTIFIED FLYING OBJECTS
+
+1. Date: 12 Dec 1947
+2. Time: 2205 & 2208
+3. Location: Oslo, Norway
+4. Name of observer: Daughter to MA Kai E. Rasmussen, Col GSC
+5. Occupation of observer: N/S
+6. Address of observer: Same as MA, Oslo, Norway
+7. Place of observation: Oslo, Norway (Ground)
+8. Number of objects: 1
+9. Distance of object from observer: N/S
+10. Time in sight: Between two and three seconds
+11. Altitude: N/S (Apparently traveling fairly close to ground or would be visible to more people)
+12. Speed: Not quite as fast as a meteor
+13. Direction of flight: SSE-SSW to NNW-(?)
+14. Tactics: Performed arc of circle, curvature-very great
+15. Sound: None
+16. Size: N/S
+17. Color: Luminous white with greenish-yellow tail *[handwritten note]:* *Inversely* *[handwritten note above 'Luminous white']*
+18. Shape: N/S
+19. Odor detected: None
+20. Apparent construction: Meteor-like
+21. Exhaust trails: Greenish-yellow trail
+22. Weather conditions: No fog, sky clear and star-lit
+23. Effect on clouds: none
+24. Sketches or photographs: none
+25. Manner of disappearance: Trees obscured vision
+26. Remarks: Office employee reports unusual no. of falling stars night of 13 Dec. Univ Observatory has no record of incident.
+
+*[handwritten annotation at bottom right]:* *65*

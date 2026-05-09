@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 64,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual elements: a graph titled 'Atlas IIAS' with two nested contour shapes, a legend for '10^-5' and '10^-6', and axes for crossrange/downrange distance, but they differ on some quoted text and additional internal labels.",
+  "original_image_tags": [
+    "A technical plot within a rectangular border. The plot title or legend area at the top left contains \"Atlas IIAS\" and \"Mode 5 P_I\". A legend indicates two contour lines: a dashed line labeled \"10⁻⁵\" and a dotted line labeled \"10⁻⁶\". The plot shows two nested, asymmetrical, roughly elliptical contour shapes centered near the origin (0,0), extending primarily in the positive downrange direction."
+  ],
+  "gpt_mini_desc": "*Image: A plotted chart titled “Figure 18. Atlas IIAS Mode-5 Ship-Hit Contours with A = 3.45,” showing two dashed contour shapes on x-y axes labeled “Downrange Distance (nm)” and “Crossrange Distance (nm),” with annotations “Atlas IIAS,” “Mode 5 P1,” “10^-5,” “10^-6,” and “B = 1,000 / A = 3.45.”*",
+  "gpt_mini_desc_len": 297,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 101,
+    "total_tokens": 56257,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:37"
+}

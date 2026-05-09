@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 188,
+  "original_image_tags": [
+    "A single page of carbon copy paper, light blue/grey in color, with typed text and several stamped annotations. The page has three punched holes along the top edge and is slightly worn at the edges. The text is faint and appears to be a carbon copy. There are several red and blue stamps at the bottom, and some handwritten annotations. The top of the page has a header that is partially obscured and reversed, reading \"UNITED STATES GOVERNMENT\" and \"OFFICIAL BUSINESS\".",
+    "Several red and blue ink stamps are visible at the bottom of the page. A red stamp reads \"AUG 4 1958\". A blue stamp reads \"RECEIVED\" with a date that is partially obscured. Another blue stamp reads \"NATIONAL SECURITY\" with \"NS\" below it and \"AUG 3 1958 P.M. 5:30\". There is also a purple stamp that reads \"RECEIVED\" with \"AUG 8 1958\" below it. A handwritten note in the bottom right corner reads \"7-8 JUN 11\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A reverse-image scan of a typed document titled 'Office of Intelligence Coordination, United States Government'. The text is mirrored and includes details about a July 28, 1950, article in the Longville Times regarding a 'flying saucer' or 'moving picture projector'. It features a date of 8/3/50, is addressed to the Director FBI from J. Edgar Hoover, and contains several blue ink stamps such as 'RECEIVED', 'AUG 1 1950', 'NATIONAL SECURITY', and 'ATTORNEY GENERAL'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions quote conflicting text for the same stamped content (e.g., dates and phrases like 'NATIONAL SECURITY' vs. 'ATTORNEY GENERAL') and describe different visual elements (e.g., 'July 28, 1950' vs. 'AUG 3 1958').",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:21"
+}

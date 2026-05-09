@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 83,
+  "original_image_tags": [
+    "A large, handwritten circle containing the number \"3\" is stamped in the center bottom portion of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Large dark 'RESTRICTED' stamp at the top center of the page."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large handwritten number '3' inside a circle, located in the lower right section of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a stamped number '3' in a circle at the bottom center, while Description B adds a 'RESTRICTED' stamp at the top center not mentioned in A, and relocates the circle/number to the lower right, indicating disagreement on both the presence and location of visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:19"
+}

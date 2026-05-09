@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents",
+  "page_num": 2,
+  "original_image_tags": [
+    "A blue circular stamp is partially visible over the \"To\" and \"From\" fields. Handwritten annotations in blue ink include \"62A\" circled in the top right, \"6C\" and \"A 37153\" written near the subject line, and a date stamp \"5 MAR 1945\". A typed number \"2355 4337\" is at the bottom left. The document shows signs of age with creases and small holes."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple overlapping stamps and handwritten annotations on a typed document. Includes a red 'SECRET' stamp at the top, a blue circular stamp with '62A' inside, a red stamp with 'SHAEF F.D. 15 MAR 1945', and handwritten blue ink annotations including 'BC A 37153', '13/45/DD12', and a signature at the bottom. The typed text mentions 'BALLOONS OF FIRE - RED' and references Me. 262 and flak rockets."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B hallucinates specific visual elements (red 'SECRET' stamp, red 'SHAEF F.D. 15 MAR 1945' stamp, 'BALLOONS OF FIRE - RED' text) and misidentifies the blue circular stamp's content ('62A' vs '6C'), contradicting Description A on multiple verbatim text claims and object details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:43"
+}

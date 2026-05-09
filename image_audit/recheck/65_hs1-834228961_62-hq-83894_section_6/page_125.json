@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 125,
+  "original_image_tags": [
+    "A pink paper document, likely a carbon copy or file page. It features multiple circular and rectangular date stamps, typewritten text, and some handwritten annotations. The top of the page has two punched holes."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The page is a scanned document showing the reverse side of a typed report. The primary visual content consists of mirrored, faint text visible through the paper. Several ink stamps are present, including 'REC'D BELMONT F.B.I. DEPT OF JUSTICE OCT 8 11 34 AM '51', 'RECEIVED-LOS F B I DEPT OF JUSTICE SEP 21 11 36 AM '51', 'RECEIVED-MICHAEL'S DEPT OF JUSTICE OCT 15 1 44 PM '51', 'RECEIVED-TOLSON F B I DEPT OF JUSTICE OCT 6 2 51 PM '51', and 'REC'D BELMONT F.B.I. DEPT OF JUSTICE SEP 21 12 52 PM '51'. There are no photographs, sketches, or diagrams on this page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes multiple specific ink stamps with distinct text (e.g., 'REC'D BELMONT...'), while Description A makes no mention of these stamps and describes a 'pink paper document' with 'circular and rectangular date stamps' without any quoted text, creating a direct contradiction on the presence and content of the visual stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:48"
+}

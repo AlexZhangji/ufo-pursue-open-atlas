@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 34,
+  "original_image_tags": [
+    "A single page of a handwritten letter on off-white paper, oriented vertically. The paper shows a hole punch at the top center and minor wear. The text is written in blue ink cursive."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "A handwritten note on a rectangular piece of paper with a hole punch at the top center. The text is written in cursive ink and reads: 'Tired of human nonsense / Don't await Atomic War. / Disrupting order solar? / system so sent flying / discs and will set up / world order under --- / late this year. / Please advise / Very sincerely / Mildred Sarbanis'. Below the signature is an address block: 'ADDRESS / MRS. A. G. SARBANIS / 66 NOTRE DAME AVE. / HICKSVILLE, L.I., N.Y. / TEL. 15281 HICKSVILLE, L.I. (NOT LISTED)'. There are blue and red ink annotations correcting the name to 'MILDRED SARBANIS'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes extensive specific text from the image (including names, address, and phone number) that Description A does not see or mention at all, creating a major factual inconsistency on visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:19"
+}

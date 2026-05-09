@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents",
+  "page_num": 6,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A details specific ink stamps and handwritten annotations (purple 'IMMEDIATE' stamp, circular date stamp '25 MAR 1945', red '56A', blue '90'), while Description B claims the page contains only typed text with no mention of these visual stamps, contradicting the visual content.",
+  "original_image_tags": [
+    "A faded purple ink stamp with text \"IMMEDIATE\" angled upward.",
+    "A circular date stamp, partially legible: \"25 MAR 1945\". Inside, handwritten in red ink: \"56A\". To the right, handwritten in blue ink: \"90\"."
+  ],
+  "gpt_mini_desc": "*Image: Scanned cover page of a typed military telegram with punched file holes, a small printed “AIR STAFF DISTRIBUTION” box with check marks, and handwritten red/black annotations including circled “56A” and “55A.”*",
+  "gpt_mini_desc_len": 217,
+  "usage": {
+    "prompt_tokens": 18756,
+    "completion_tokens": 54,
+    "total_tokens": 18810,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:36"
+}

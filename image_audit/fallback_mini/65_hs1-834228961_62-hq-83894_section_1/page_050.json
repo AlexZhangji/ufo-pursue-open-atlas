@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 50,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a pasted newspaper clipping, while Description B explicitly states there are no photographs or visual content, creating a direct factual contradiction about the presence of an image.",
+  "original_image_tags": [
+    "A yellowed, aged newspaper clipping is pasted or affixed to a larger, off-white document page. The clipping appears to be from a newspaper, showing some wear and a vertical crease or tear mark."
+  ],
+  "gpt_mini_desc": "*Image: A scanned beige document page with a small clipped newspaper text excerpt centered in the page, held by a vertical staple or pin, and faint handwritten marks near the lower right.*",
+  "gpt_mini_desc_len": 188,
+  "usage": {
+    "prompt_tokens": 14119,
+    "completion_tokens": 40,
+    "total_tokens": 14159,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:59"
+}

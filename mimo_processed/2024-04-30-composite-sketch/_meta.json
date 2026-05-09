@@ -1,0 +1,22 @@
+{
+  "file": "2024-04-30-composite-sketch.pdf",
+  "stem": "2024-04-30-composite-sketch",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "7768268e837325333be0ea00ce5c00f571de3190e0c390f33e098f183cbf19a5",
+  "size_bytes": 109275,
+  "total_pages": 1,
+  "pages_processed_in_run": 1,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:37:46",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    }
+  ]
+}

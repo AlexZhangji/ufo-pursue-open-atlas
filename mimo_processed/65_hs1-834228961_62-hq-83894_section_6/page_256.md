@@ -1,0 +1,26 @@
+*Image: A full-page magazine article page with one large black-and-white photograph at the top showing a bright oval light with several downward light beams, plus a small portrait headshot of a man in the lower left and the headline “THE TRUTH ABOUT FLYING SAUCERS” below.*
+
+*Image caption:* This might be a picture of flying saucers taken at night over Arizona or New Mexico. It was in fact taken in Dr. Menzel's laboratory at Harvard University.
+
+Look
+VOLUME 16, NUMBER 13
+JUNE 17, 1952
+
+# THE TRUTH ABOUT FLYING SAUCERS
+
+One of America's leading astronomers goes into his laboratory at Harvard and disposes of the flying-saucer myth. He adds simple instructions for making flying saucers in your own kitchen
+
+By **Dr. DONALD H. MENZEL**
+Donald H. Menzel is professor of astrophysics and associate director of solar research at Harvard University. His work on flying saucers was done in response to a request from LOOK. The Air Force has expressed a lively interest in it.
+
+I SUPPOSE that I should be especially well qualified to write about flying saucers since I happen to be one of the few persons who has actually seen one.
+
+My solar studies take me frequently to Colorado and New Mexico, and I was at the Holloman Air Base, near Alamogordo, N. M., at the height of the flying-saucer scare. That very morning, I had glimpsed what seemed to be several saucers moving overhead—until I focused my eyes more clearly and recognized the objects as weather balloons. That afternoon, I expressed my belief that most of the saucers could be thus explained. But others in the group—including several well-known scientists—indicated that there was probably more to the saucer story than that.
+
+Early that evening, I had my second attack of saucers. I was in the back seat of an automobile, being driven toward Alamogordo and admiring the full moon as it rose over Sacramento Peak toward the east. A few degrees north of the moon, I noticed what seemed to be a bright star, and then a second star not far from the first. Casually, I assumed that they were Castor and Pollux in the constellation of
+
+CONTINUED
+
+35
+
+*[Handwritten in margin along left edge of page]:* 62-83894-281

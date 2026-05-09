@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "059uap00012",
+  "page_num": 4,
+  "original_image_tags": [
+    "A rectangular stamp with a thick border. Inside, the text reads \"Released in Full\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two rectangular stamps at the bottom of the page. The left stamp contains the text 'Released in Full' inside a double-lined box. The right stamp contains the text 'Page 4 of 5' inside a single-lined box."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions disagree on both the number of stamps (one vs. two) and the specific text contained within the described stamp(s), with side B providing detailed but uncorroborated text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:15"
+}

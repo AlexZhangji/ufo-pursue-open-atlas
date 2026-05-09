@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 96,
+  "original_image_tags": [
+    "A scanned historical document, a \"Standard Form No. 64 Office Memorandum,\" dated September 8, 1947. The page shows signs of age with slight yellowing and includes multiple handwritten annotations in blue and black ink, as well as official stamps. There are two punched holes at the top, one of which is completely blacked out."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "United States Government Office Memorandum, Standard Form No. 64. Dated September 8, 1947. Subject: FLYING DISCS. Contains typed text referencing a memorandum dated August 22, 1947, regarding Army Air Forces experiments near Twin Falls, Idaho. Includes a distribution list on the right margin with names such as Mr. Tolson and Mr. Ladd. Features a redacted black rectangular bar near the bottom and handwritten signatures in blue ink over the 'TO' and 'FROM' fields. Visible stamps include 'EX-30' and dates 'SEP 22 1947' and 'SEP 16 1947'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims two punched holes (one blacked out), while Description B describes a redacted black rectangular bar and specific stamps/text not mentioned in A, indicating contradictory visual content details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:43"
+}

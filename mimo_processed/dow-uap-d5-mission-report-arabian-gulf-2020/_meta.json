@@ -1,0 +1,42 @@
+{
+  "file": "dow-uap-d5-mission-report-arabian-gulf-2020.pdf",
+  "stem": "dow-uap-d5-mission-report-arabian-gulf-2020",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "af150a6b5139abc632446c9d5999fd5abc4f3c476c6245f173faabb6e2132d10",
+  "size_bytes": 30588,
+  "total_pages": 6,
+  "pages_processed_in_run": 6,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:07",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    }
+  ]
+}

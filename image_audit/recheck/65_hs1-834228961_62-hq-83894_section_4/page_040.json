@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 40,
+  "original_image_tags": [
+    "Aged, yellowed, torn document page with visible foxing and holes at the top. Text from the reverse side of the page is bled through and visible as mirrored, faint text. A purple stamp is oriented upside down at the bottom center.",
+    "The document shows significant bleed-through text from the opposite side of the paper, appearing as mirrored, illegible ghost text across the upper two-thirds of the page. The paper is heavily aged with a yellowish-brown tint, water damage or foxing spots, two punch holes at the top edge, and a torn right edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Aged, yellowed paper with torn edges and two hole-punches at the top. Contains inverted, faded blue stamped text reading 'MAR 2 1948', 'FEB 21 2 44 PM '48', 'RECEIVED-MAIL ROOM', 'FBI', and 'U.S. DEPT. OF JUSTICE'. Faint, illegible text is visible in reverse, suggesting bleed-through from the other side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, structured verbatim text from the stamp ('MAR 2 1948', 'FBI', etc.) which Description A does not mention and instead describes only as a generic 'purple stamp', indicating a direct contradiction on the readability and content of a key visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:10"
+}

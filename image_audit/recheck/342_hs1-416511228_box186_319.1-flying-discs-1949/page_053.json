@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 53,
+  "original_image_tags": [
+    "Hand-drawn map and trajectory diagram on aged paper. The map depicts a coastal area, likely in New England, showing islands labeled \"Puffin I.\", \"Bear I.\", \"Egg Rock\", \"Duck I.\", \"Little Duck I.\", \"Englishman Bay\", and \"Bass Harbor Head Light\". A trajectory line with arrows indicates an object's path from right to left (East to West). A circle is drawn around \"St. Paul Light\". A smaller diagram in the lower left shows altitude vs. distance. A compass rose points North to the right. A point is marked \"Gerhune residence - Keduck\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "Hand-drawn map depicting a coastline with islands labeled 'Graham Is.', 'Maud I.', and 'Berry I.' A dark line representing a trajectory runs across the map with annotations including 'path of flight - approx 2 miles', 'possible error of course', and 'flame went out here'. A cross-shaped symbol represents an airfield labeled 'Sparwood B.C.'. Handwritten data lists details such as 'Duration of flight - app 10 seconds', 'Speed of object - 1000 to 1200 m.p.h.', and 'Time and date - April 8-49 4:15 PM'. A small graph at the bottom plots 'Trajectory' against altitude markers (500' to 2500')."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Descriptions A and B are entirely about different visual content: A describes a New England coastal map with specific island names and a trajectory from East to West, while B describes a different map of a flight path over Sparwood B.C. with different labels, dates, and annotations, indicating they are analyzing two completely different images.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:24:57"
+}

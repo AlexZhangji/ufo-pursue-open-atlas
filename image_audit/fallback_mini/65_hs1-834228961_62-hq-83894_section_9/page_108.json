@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 108,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions quote different verbatim text for the same FBI seal, with Description A not mentioning the 'United States of America' line present in Description B, and they describe entirely different additional visual elements (Description B mentions a red classification stamp and handwritten text not present in Description A).",
+  "original_image_tags": [
+    "Scanned document page. Top left shows the circular seal of the Federal Bureau of Investigation, Department of Justice. Below the seal is typed text: \"In Reply, Please Refer to File No.\" followed by a blank space."
+  ],
+  "gpt_mini_desc": "*Image: A scanned FBI memorandum page with typed text and a red/purple handwritten notation and date stamp near the bottom; circular FBI seal mark is visible at the upper left.*",
+  "gpt_mini_desc_len": 177,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 39,
+    "total_tokens": 14931,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:17"
+}

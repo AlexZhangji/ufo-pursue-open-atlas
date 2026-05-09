@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "western_us_event_slides_5.08.2026",
+  "page_num": 3,
+  "original_image_tags": [
+    "A simple line drawing inside a rectangular frame. A horizontal line represents a baseline or ground. At the left end, a red circle is labeled \"Red light\". To its right, connected by a short horizontal line, is a small white square labeled \"White light\". A black horizontal line extends from the white square to the right side of the frame."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A simple diagram inside a rectangular box. It shows a horizontal line with a red circle labeled 'Red light' on the left end and a white square labeled 'White light' on the right end. Below the box is the caption: 'Image 1: Recreation of drawing provided by USPER6 of object seen in night vision goggles.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims the white square is on the right end, contradicting Description A which correctly places it to the right of the red circle and before a black line extending to the right side.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:19:18"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 110,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a mostly blank page with stamps and a tape remnant, while Description B quotes specific, different stamps and text content, indicating contradictory visual content.",
+  "original_image_tags": [
+    "A single page of aged, off-white paper with visible creases and two hole-punch marks at the top. The page appears to be the back of a document, as faint, reversed text from the other side is visible through the thin paper. There are two prominent blue stamped markings at the bottom, and a small, yellowed, rectangular tape remnant is adhered to the top right corner."
+  ],
+  "gpt_mini_desc": "*Image: A scanned blank manila file folder cover, shown upside down, with two punched holes near the top edge and faint stamped/typed archival markings near the lower right and lower center.*",
+  "gpt_mini_desc_len": 191,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 42,
+    "total_tokens": 14934,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:42"
+}

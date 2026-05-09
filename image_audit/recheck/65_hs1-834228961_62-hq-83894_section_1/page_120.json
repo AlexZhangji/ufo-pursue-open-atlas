@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 120,
+  "original_image_tags": [
+    "A single, faded pink or salmon-colored page from a government file. The paper appears aged and has two punch holes at the bottom edge. The main body of the page is covered in faint, almost illegible carbon copy or typewritten text. The most prominent features are two blue ink stamps."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page is a faint, pink-colored document with illegible reversed typed text showing through from the reverse side. There is a clearly legible blue ink stamp on the right side reading 'RECEIVED AUG 15 -9 31 AM '47 INTERNAL SECURITY F.B.I. DEPT. OF JUSTICE.' There is also a reversed blue ink stamp at the bottom reading 'RECEIVED TELETYPE UNIT AUG 14 8 29 PM '47'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A mentions two blue ink stamps but does not quote any text, while Description B quotes specific legible text for two stamps ('RECEIVED AUG 15...' and 'RECEIVED TELETYPE UNIT...'); this is a direct contradiction on the legibility and specific content of the stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:27:45"
+}

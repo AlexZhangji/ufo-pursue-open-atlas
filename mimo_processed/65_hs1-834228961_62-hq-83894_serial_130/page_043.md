@@ -1,0 +1,21 @@
+*Image: A single, aged page of typewritten text, likely carbon copy, with a slightly skewed scan angle. The paper shows age-related discoloration and speckling. In the upper left corner, a handwritten numeral "8" is circled. In the lower left, the word "COPY" is typed vertically, with each letter on a new line. In the bottom right corner, a handwritten annotation reads "see115" above the typed numeral "35".*
+
+As the machine went by the URIE place, the trees over which it almost directly passed (Norman Popolare) did not just bend with the wind as if a plane had gone by, but in URIE's words, "spun around on top as if they were in a vacuum."
+
+KEITH URIE, eight years of age, said he first saw the machine coming down the canyon, heading from east to west and following the contours of the ground. MILLY, age ten, saw it almost immediately. Both watched it fly out of sight behind a tree in a matter of moments. They said they then ran to their Father and learned that he too had seen the machine.
+
+URIE seemed completely sincere about the incident. He said his wife and daughter were in the house at the time and had not seen the machine. He questioned his brother, who also lives in the canyon, but his brother had been eating at the time and had seen nothing. URIE and his two boys maintained that they had never before seen one of the discs. URIE, when interviewed, appeared to be a sober, middle-aged man.
+
+JOHN BROSHAN, the "Times News" reporter who originally furnished Special Agents with information about the incident, likewise stated that URIE appeared completely sincere about the machine.
+
+No further attempt was made to locate L. W. HAWKINS, inasmuch as J. H. BROWN, who was with HAWKINS at the time, was interviewed. BROWN's name was withheld from the newspaper because HAWKINS and BROWN were fishing at Salmon dam while BROWN was supposed to have been working in Twin Falls.
+
+BROWN said simply that he and HAWKINS could hear a roar. They looked up and could see two instruments flying at a great height, which BROWN mentioned might have been between four thousand and six thousand feet. However, he said he had no idea how large the devices were and consequently, they may have been several miles away. He said that he and HAWKINS were satisfied they had seen something and they were very doubtful that they had seen two planes.
+
+C
+O
+P
+Y
+
+*[handwritten in lower right]: see115*
+35

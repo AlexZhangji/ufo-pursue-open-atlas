@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 126,
+  "original_image_tags": [
+    "The page appears to be the reverse side or a multi-generation copy of a typewritten memorandum. The text is faded, with significant ghosting and bleed-through from another page. The paper is aged, yellowed, with two punch holes at the top and some tearing/damage at the top edge. Multiple blue-purple rubber stamps are applied at various angles, overlapping the text and each other. A large black ink smudge or redaction obscures the right margin of the text body. The heading \"Memorandum UNITED STATES GOVERNMENT\" is visible in reverse at the top, suggesting bleed-through."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue ink stamps from the U.S. Dept. of Justice / F.B.I. with dates and times, including 'RECEIVED-TAMM', 'RECEIVED-HINCHL', 'RECEIVED-FOCSON', and 'RECEIVED-MUTUR'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific quoted stamp text that Description A does not, creating a contradiction on visual content where one side hallucinates text the other does not see.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:27:57"
+}

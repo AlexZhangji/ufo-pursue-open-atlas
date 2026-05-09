@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 153,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A details two stamps with specific quoted text (e.g., 'DECLASSED', 'Authority: NND 90986'), while Description B states there are no photographs, sketches, diagrams, maps, or charts present on the page, contradicting the visual content described in A.",
+  "original_image_tags": [
+    "A rectangular stamp in the bottom left corner. The top half is blue with white text \"DECLASSIFIED\". The bottom half is white with black text \"Authority: NND 90986\".",
+    "A rectangular stamp in the bottom right corner. Text reads \"SEARCHED / INDEXED / SERIALIZED / FILED / MAY 2 4 1950 / FBI - NEW ORLEANS\". There is a handwritten initial or mark in the \"INDEXED\" line."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typewritten FBI document page titled “SUMMARY OF INFORMATION,” with a red “CONFIDENTIAL” marking at the top and bottom, dated 23 May 1950, and a blue “DECLASSIFIED” sticker near the lower left; no photograph is visible on the page.*",
+  "gpt_mini_desc_len": 250,
+  "usage": {
+    "prompt_tokens": 15665,
+    "completion_tokens": 64,
+    "total_tokens": 15729,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:44"
+}

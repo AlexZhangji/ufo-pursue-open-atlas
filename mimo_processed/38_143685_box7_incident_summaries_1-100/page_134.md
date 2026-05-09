@@ -1,0 +1,9 @@
+## RESTRICTED
+
+Mr. & Mrs. Anderson stated that they in company with a Mr. & Mrs. Gaylon Caldwell saw approximately 12 objects flying in group formation at about 2,000 or 3,000 ft in the air. In size they resembled pigeons but seemed to be white and illuminated. They were certain they were not birds as they appeared to be moving faster than birds and they circled the city in approximately one to two minutes. Saw no wing movement during the flight. They couldn't make up their minds as to exactly what they saw.
+
+*[Page is heavily faded and obscured. Faint, illegible lines of text visible below the main paragraph, appearing to be part of a form or structured list. The text is too degraded to transcribe.]*
+
+## RESTRICTED
+
+*[Handwritten in bottom right corner]:* 133

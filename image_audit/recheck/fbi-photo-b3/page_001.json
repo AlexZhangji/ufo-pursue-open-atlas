@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "fbi-photo-b3",
+  "page_num": 1,
+  "original_image_tags": [
+    "Grayscale sensor still, likely infrared (IR) or low-light television, showing a wide field of view. A white crosshair reticle with graduated tick marks is centered. The horizontal axis is labeled with numbers: 15, 10, 5, [center], 5, 10, 15. The vertical axis has unlabeled tick marks. A small, dark, dot-like object is visible just above the horizontal axis and slightly to the right of the vertical axis (approximately at coordinates [2, 1] relative to the center crosshair). The background is a uniform gray with visible sensor noise. The bottom of the frame shows a hazy, lighter-toned horizon line. Multiple black rectangular redaction blocks obscure text or data fields across the image: one large block across the top, and three pairs of smaller blocks on the left and right sides, positioned above and below the horizontal axis. A timestamp is overlaid in white digital font in the bottom left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A grayscale image displaying a centered crosshair reticle with horizontal tick marks labeled 5, 10, and 15 on both the left and right sides. A small, dark circular object is visible just above the horizontal axis near the center. A timestamp '12/31/99 18:11:34' is visible in the bottom-left corner. There are seven solid black rectangular redaction blocks obscuring portions of the image: one wide block across the top, and three on each side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements (grayscale image, crosshair reticle, dark object, timestamp location, black redaction blocks), but Description B quotes a specific timestamp string ('12/31/99 18:11:34') that Description A omits, and Description A provides more detail about the crosshair labels and object position without contradicting B.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:53"
+}

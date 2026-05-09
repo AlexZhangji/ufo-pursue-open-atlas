@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 129,
+  "original_image_tags": [
+    "Back of a manila document folder or envelope, showing two hole-punches at the top center and a smaller staple or fastener mark between them. A rectangular, lighter-colored paper or adhesive residue strip is visible vertically down the center. Two blue ink stamps are present, both upside down relative to the folder orientation."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two blue ink stamps on a light-colored paper surface. The top stamp is oriented upside down and reads: 'RECEIVED / REC'D ESPIONAGE / FBI / U.S. DEPT. OF JUSTICE / APR 21 1 14 PM '49'. The bottom stamp is oriented right-side up and reads: 'RECEIVED / REC'D ESPIONAGE / FBI / U.S. DEPT. OF JUSTICE / APR 4 5 05 PM '49'. There are two punch holes at the top edge and faint red text at the bottom right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the presence of two blue ink stamps, two punch holes, and a light-colored surface, but Description B adds extensive quoted stamp text that Description A does not mention or contradict.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:32:10"
+}

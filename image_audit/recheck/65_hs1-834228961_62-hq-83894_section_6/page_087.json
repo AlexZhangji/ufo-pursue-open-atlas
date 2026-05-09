@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 87,
+  "original_image_tags": [
+    "Aged, tan-colored typewritten document with visible hole punches at the top. The text is clear and legible. Handwritten annotations and stamps are present in the margins and at the bottom.",
+    "Bottom of page showing filing codes and handwritten annotations."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The entire page is a single United States Government Office Memorandum form containing typed text describing an informant's report on a 'sphere-like object' sighted on October 20, 1950. There are handwritten annotations and stamps, but no photographs, sketches, diagrams, maps, or charts."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions are factually inconsistent on the page's visual content: Description A claims the page has hole punches, while Description B states it is a typed memorandum form with no real visual content, leading to a direct contradiction on the presence of specific visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:59"
+}

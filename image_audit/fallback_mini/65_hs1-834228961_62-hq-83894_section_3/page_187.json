@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 187,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific, verbatim text from two ink stamps and a handwritten annotation that Description A describes only as 'mostly illegible' and 'two official ink stamps' without any legible text, creating a direct factual contradiction on the visual content of the images.",
+  "original_image_tags": [
+    "Aged, light brown or manila document page with visible foxing and age spots. The top of the page shows two hole-punch circles and a torn edge. The main body of the page contains faint, mostly illegible typed text that appears to be the reverse side of a document showing through, or very faded text. Two official ink stamps are visible at the bottom."
+  ],
+  "gpt_mini_desc": "*Image: A faded scanned document page with no discernible picture content, showing two punched holes at the top, faint typewritten text, and several reversed ink stamps near the bottom.*",
+  "gpt_mini_desc_len": 186,
+  "usage": {
+    "prompt_tokens": 14119,
+    "completion_tokens": 40,
+    "total_tokens": 14159,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:26"
+}

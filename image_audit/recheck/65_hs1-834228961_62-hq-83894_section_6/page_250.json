@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 250,
+  "original_image_tags": [
+    "A faint, almost illegible, typed memo on thin, aged paper. The document has two hole punches at the top, showing it was once filed. Red and purple ink stamps are visible at the bottom and top right corner, indicating receipt and routing by various government offices. The text is partially faded and shows through from the other side, creating a complex visual of overlapping characters."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Reverse side of a typed document showing bleed-through text. Includes two rectangular paper punch-hole reinforcements at the top, a faint red circular stamp, and a clear red rectangular ink stamp in the lower right corner labeled 'RECEIVED MAIL ROOM BOND FBI U.S. DEPT OF JUSTICE' with the date 'AUG 3 10 PM '52'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements (punch holes, stamps, aged paper) but differ on specific quoted stamp text and date details without contradiction.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:34:41"
+}

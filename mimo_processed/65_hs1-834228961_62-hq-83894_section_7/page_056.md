@@ -1,0 +1,8 @@
+## Handwritten Note — Page 8
+
+*Image: A single page of handwritten notes in blue ink on off-white, aged paper. The text is written in cursive. There are two small black circles punched near the top center. The number "(8)" is written in the top right corner.*
+
+> The Pull G of the Moon is much greater than its Push. This Pull causes higher tides here on Earth than the Pull of the Sun. Not because it is greater than the Pull of the Sun [the Sun may be many times greater] but because it is much greater in proportion to its Push. The greatest Pull of the Moon is centered on the side facing the Earth. This great Pull keeps the moon from turning, except as it rotates around Earth. This great Pull is locked with Earths G Pull at Equator and so the moon hangs over our Equator. But the great Push of Earths G combines with that of the moon & holds them apart.
+> Another moon, or a comet, or any small G body, coming into the Solar system from Space; at the right angle; and with the right proportion of P + P G. Could attach itself to the Sun or any of its Planets. If it were the Earth it would circle us at
+
+*[handwritten note]:* (8)

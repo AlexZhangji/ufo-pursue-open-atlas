@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 62,
+  "original_image_tags": [
+    "A line graph showing ship-hit contours for the Atlas IIAS with Mode 5 P1, with parameter A = 3.00. The Y-axis is \"Crossrange Distance (nm)\" from -15 to 15, with major ticks every 5 units. The X-axis is \"Downrange Distance (nm)\" from -5 to 25, with major ticks every 5 units. Two dashed contour lines are plotted centered around the origin. The legend indicates \"--- 10⁻⁵\" and \"----- 10⁻⁶\". The outer dashed contour (10⁻⁵) extends to approximately -1 to 13 nm downrange and -5 to 5 nm crossrange. The inner dashed contour (10⁻⁶) is smaller, extending to approximately 0 to 8 nm downrange and -3 to 3 nm crossrange. Text labels inside the plot area read: \"Atlas IIAS\", \"Mode 5 P1\", \"B = 1,000\", \"A = 3.00\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "A 2D line plot titled 'Figure 16. Atlas IIAS Mode-5 Ship-Hit Contours with A = 3.00'. The y-axis is labeled 'Crossrange Distance (nm)' ranging from -15 to 15. The x-axis is labeled 'Downrange Distance (nm)' ranging from -5 to 25. The chart features two dashed-line contour plots (ellipses), a legend indicating 'Atlas IIAS' and 'Mode 5 P_I' with line styles for '10^-5' and '10^-6', and text inside the plot area stating 'B = 1,000' and 'A = 3.00'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the chart type, axes labels and ranges, the presence and values of two dashed contour lines, the legend content, and the specific quoted text within the plot area ('B = 1,000', 'A = 3.00'), with only minor variations in phrasing that do not alter factual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:17:06"
+}

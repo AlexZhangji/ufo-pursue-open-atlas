@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 25,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions depict entirely different visual content: Description A describes a blank, aged page with watermark text, while Description B describes a page covered with specific ink stamps and handwritten annotations.",
+  "original_image_tags": [
+    "A faded, off-white document page, appearing to be the reverse side of a form or a cover sheet. The paper shows signs of aging, with two punched holes at the top and torn edges on the left. At the top, faint watermark text reads \"EAGLE-A TROJAN BOND\" and \"100% COTTON CONTENT U.S.A.\""
+  ],
+  "gpt_mini_desc": "*Image: Blank off-white document page with faint embossed header text near the center, two black punch holes along the top edge, a torn strip of tape on the left margin, and several rotated receipt/date stamps in blue, green, and red near the lower right and lower edge.*",
+  "gpt_mini_desc_len": 271,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 60,
+    "total_tokens": 14952,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:03"
+}

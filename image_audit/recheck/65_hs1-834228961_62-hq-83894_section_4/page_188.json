@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 188,
+  "original_image_tags": [
+    "A single, aged, off-white paper document page. The paper has a torn upper right corner and a punched hole near the top edge. The majority of the page contains text that is extremely faint and illegible, appearing as ghosting or bleed-through from the reverse side. The text is mirrored and too faded to transcribe. A rectangular, brownish stain or tape residue covers the right-center portion of the page. At the bottom, several official stamps are visible, some oriented upside-down relative to the faint text above."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamped ink impressions in blue and purple on the back of a document. Visible text includes: 'RECEIVED MAY 19 10 31 AM '46', 'FBI INTERNAL SECURITY', 'RECEIVED MAY 20 10 06 AM '46', 'U.S. DEPT. OF JUSTICE', and 'RECEIVED MAY 21 10 31 AM '46'. A torn corner at the top right reveals a dark background."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states the stamp text is illegible and mirrored, while Description B quotes specific, clear, and distinct verbatim text from those stamps, creating a direct contradiction on the readability and content of the same visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:32"
+}

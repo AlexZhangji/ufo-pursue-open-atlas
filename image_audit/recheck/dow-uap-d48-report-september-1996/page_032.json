@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 32,
+  "original_image_tags": [
+    "A line graph titled \"Figure 4. Filter Factor Results for Representative Configurations of Atlas\". The y-axis is labeled \"Filtered Failure Probability\" and ranges from 0.00 to 0.12 in increments of 0.01. The x-axis is labeled \"Sample Index (newer -->)\" and ranges from 0 to 160 in increments of 20. Three data series are plotted with different line styles, corresponding to a legend in the top right corner: a dashed line for \"F = 0.97\", a solid line for \"F = 0.98\", and a dotted line for \"F = 0.99\". All three lines show a similar jagged, generally decreasing trend, with a sharp peak just after index 20 and a broad, lower peak between indices 80 and 100."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "Line chart plotting 'Filtered Failure Probability' (y-axis, 0.00 to 0.12) against 'Sample Index (newer -->)' (x-axis, 0 to 160). The chart contains three distinct lines representing different 'F' values: a dot-dash line for 'F = 0.97', a solid line for 'F = 0.98', and a dashed line for 'F = 0.99'. All three lines show a general downward trend with a sharp spike occurring around the sample index of 25."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main chart elements (title, axes, three data series, and general trend), but they disagree on the specific line styles for the 'F = 0.97' and 'F = 0.99' data series.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:46"
+}

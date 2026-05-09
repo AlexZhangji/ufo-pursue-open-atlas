@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 5,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a government form with handwritten annotations and stamps, while Description B describes only a newspaper clipping with a specific headline and body text, representing different visual content.",
+  "original_image_tags": [
+    "A white government form (Form 0-19, Rev. 10-29-57) with two punch holes at the top. A newspaper clipping is pasted in the center. There are multiple handwritten annotations in blue and black ink, including routing marks and file numbers. At the bottom are stamped dates \"AUG 1 1958\" and \"67 AUG 1 1958\"."
+  ],
+  "gpt_mini_desc": "*Image: A document scan of a newspaper clipping pasted onto a form, showing the headline “Flying Discs Show Sign Of Guidance, Jung Says,” with handwritten initials/notations, a list of newspaper titles with blank lines on the right, and stamped date markings near the bottom.*",
+  "gpt_mini_desc_len": 276,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 59,
+    "total_tokens": 56215,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:51"
+}

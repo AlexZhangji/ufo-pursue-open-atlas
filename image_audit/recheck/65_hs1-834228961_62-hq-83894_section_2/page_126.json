@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 126,
+  "original_image_tags": [
+    "A single page of aged, off-white paper with typewritten text. The page appears to be the back of a carbon copy or a thin onion-skin paper, as the main text is faint, reversed (mirrored), and difficult to read. There are four dark hole-punch marks at the top edge. The bottom of the page contains several blue ink \"RECEIVED\" stamps from various government departments, oriented at different angles."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamped markings including 'RECEIVED' stamps with dates (e.g., 'SEP 23 9 48 AM '47', 'SEP 16 4 06 PM '47', 'SEP 17 9 11 AM '47'), 'DEPT OF JUSTICE FBI', 'U.S. DEPT. OF JUSTICE', 'INVESTIGATIVE DIVISION', 'RECEIVED-LAHO', 'F.B.I.', and 'INTERNAL SECURITY'. The stamps are in black and blue ink and are scattered across the lower half of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions correctly identify multiple 'RECEIVED' stamps and other departmental stamps in the lower half of the page, but Description A omits specific quoted text while Description B provides detailed quoted text without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:56:51"
+}

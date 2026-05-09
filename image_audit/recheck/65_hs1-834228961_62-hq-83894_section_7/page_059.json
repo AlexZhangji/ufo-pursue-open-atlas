@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 59,
+  "original_image_tags": [
+    "A single sheet of aged paper with blue handwritten cursive text. There are two hole-punch marks near the top center. The text appears to be a personal note or letter discussing theories of gravity, \"G units,\" and flying saucers."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Handwritten note in blue ink on paper. Contains a circled number '(11)' in the top right corner. Two black circular marks are present near the top center. Text includes phrases such as 'bombarded with a cyclotron.', 'these may be the first G units made by man.', 'every planet or grain of sand containing a center of Gravity sends out a repelling force as well as a pulling force.', and 'Since this idea (or theory) fits in and explains many of the flying saucers seen here in the States I am'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions appear to be about different visual content, as A describes a page with only handwritten text and hole-punch marks, while B describes a page with handwritten text, a circled number, and specific quoted phrases not mentioned in A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:34"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 71,
+  "original_image_tags": [
+    "A semi-logarithmic plot titled \"Delta-GEM Random-Attitude Failures through 270 sec\". The vertical axis is labeled \"Percent in 5-deg sector (%)\" and ranges from 0.01 to 100 on a log scale. The horizontal axis is labeled \"Angle From Flight Path (deg)\" and ranges from 0 to 180. The plot contains data points and lines for different breakup conditions and theoretical fits. A legend includes: \"Breakup q-alpha in deg-lb/ft²\" with symbols for: \"no breakup\" (inverted triangle), \"20,000\" (filled circle), \"10,000\" (open circle), \"5,000\" (open square). Another legend section for \"B = 1,000\" shows lines for theoretical fits: \"A = 1.90\" (solid line), \"A = 2.90\" (dashed line), \"A = 3.10\" (dash-dot line), \"A = 4.30\" (solid line). The data shows a general decreasing trend in percentage as the angle from flight path increases, with the \"no breakup\" case having the highest values and the \"5,000\" case the lowest."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "Line plot titled 'Delta-GEM Random-Attitude Failures through 270 sec'. Y-axis is logarithmic, 'Percent in 5-deg sector (%)' from 0.01 to 100. X-axis is 'Angle From Flight Path (deg)' from 0 to 180. Plot contains multiple data series: points labeled 'Breakup q-alpha in deg-lb/ft²' for 'no breakup', '20,000', '10,000', and '5,000'; and solid/dashed lines for 'B = 1,000' with different 'A' values: 'A = 1.90', 'A = 2.90', 'A = 3.10', 'A = 4.30'. Caption below: 'Figure 24. Delta-GEM Simulation Results with B = 1,000'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions correctly identify the same line plot with identical title, axis labels, scales, data series categories, legend entries, and theoretical fit lines, with no contradictions on quoted text or visual elements.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:17:21"
+}

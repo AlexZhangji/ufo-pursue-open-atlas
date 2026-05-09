@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 22,
+  "original_image_tags": [
+    "black-and-white photograph of a heavily corroded, irregularly shaped metallic fragment or artifact. The object is dark, textured with corrosion or encrustation, and features multiple protrusions, twisted forms, and what appears to be a segment of a mesh or woven material protruding from the top. The background is a plain, light-colored surface. The photograph itself is mounted or printed on a card."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black and white photograph depicting one dark, irregularly shaped, textured, mummified or charred object with protrusions resting on a plain surface. The word 'CONFIDENTIAL' is printed at the top and bottom center. Handwritten text 'Ind #4' is visible in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "One description mentions printed text ('CONFIDENTIAL') and handwritten text ('Ind #4') that the other does not see, creating a contradiction about specific textual content within the image.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:30:26"
+}

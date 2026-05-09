@@ -1,0 +1,55 @@
+## Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 8 October 2025
+
+## ~~SECRET//NOFORN~~
+
+* Num IR-Guided AAM:
+* Gun Name or Designator:
+* Num Gun Rounds:
+* Air-to-Ground Wpn to Include Num of Each: *[REDACTED — 1.4a]*
+  *[REDACTED — 1.4c]*
+* Data Link:
+* Gentext:
+
+## Timeline
+
+*Takeoff*
+
+* Callsign: *[REDACTED — 1.4a]*
+* Number of Aircraft: 1
+* Asset Type (Aircraft): *[REDACTED — 1.4a, 1.4g]*
+* Aircraft Tail Number(s): *[REDACTED — 1.4a, 1.4g]*
+* Takeoff Location (ICAO Code): OJMS
+* Takeoff Time DTG: 301822:00ZJUL22
+* Mode 3 (IFF Codes):
+* Gentext/Additional Details: -
+* Mission Canceled:
+
+*On Station*
+
+* Time On Station DTG: 301925:00ZJUL22
+* Callsign: *[REDACTED — 1.4a]*
+* JTAR Number:
+* Killbox (Location):
+* Mission Type: AREC
+* JTAC Callsign:
+* Gentext/Additional Details: -
+* Did not Arrive On Station:
+
+*Off Station*
+
+* Time Off Station DTG: 311409:00ZJUL22
+* Total Time On Station: 18 hours 44 minutes
+* Gentext/Additional Details:
+
+*Landing*
+
+*[REDACTED — 3.5c, FOIA Exemption (b)(6)]*
+
+## ~~SECRET//NOFORN~~
+
+MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S
+Approved for Release to AARO
+
+10/17/25 004

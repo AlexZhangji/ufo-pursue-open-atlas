@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 174,
+  "original_image_tags": [
+    "A typed page with two hole punches at the top. There is a small, faded, vertical stamp or mark at the bottom center, partially obscured by what appears to be a small piece of brown tape or residue."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed document titled 'TRANSLATION FROM GERMAN', dated '12-21-53', addressed to 'Mr. ALOIS PIWETZ'. Includes typed body text and handwritten annotations at the bottom reading 'TRANSLATED BY: FRIEDRICH G. NEUHAUSER: jen MAY 6, 1954'. A red stamp at the bottom left reads 'COPIES DESTROYED 270 NOV 19 1964'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a small faded stamp at the bottom center, while Description B specifies a red stamp at the bottom left with completely different verbatim text, indicating contradictory claims about the visual content of the stamp.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:48"
+}

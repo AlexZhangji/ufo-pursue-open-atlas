@@ -1,0 +1,36 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 43,
+  "original_image_tags": [
+    "A scanned image of the reverse side of a yellowed, aged document page. Two dark, irregular holes or punched holes are visible near the top center. The paper shows signs of aging and wear.",
+    "Handwritten or stamped text, partially obscured and faint.",
+    "Faint, reversed text from the opposite side of the page is visible through the paper. The text is largely illegible due to the bleed-through effect, appearing as a mirror image.",
+    "A series of stamped dates and times, oriented vertically along the left margin.",
+    "A series of stamps, oriented horizontally at the bottom of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A faintly visible, largely illegible typed document on aged paper. The text is oriented upside down relative to the primary stamped text. Two punched holes are visible at the top of the page."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamped annotations in various orientations. One vertical stamp reads 'RECD-COMM & COURS FBI' and 'Dec 28 11 4-AM '66'. Another vertical stamp reads 'Dec 28 1 48 PM '66'. Two horizontal stamps at the bottom read 'RECEIVED-DIRECTOR F.B.I DEC 27 4 03 PM. 66' and 'REC'D DE LATCH FBI DEC 27 11 29 AM. 66.'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims specific, legible stamped text (e.g., 'RECD-COMM & COURS FBI') while Description A states the text is largely illegible or faintly visible, indicating a direct contradiction on the readability of the same visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:34"
+}

@@ -1,0 +1,31 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 137,
+  "original_image_tags": [
+    "Large red stamp \"AIRTEL\" at bottom left of form.",
+    "Purple stamp, partially legible: \"BEG... NAT. INT. SEC.\" with signature line and illegible initials.",
+    "Purple date stamp at bottom left: \"25 APR 12 1960\"",
+    "Another purple date stamp overlapping the first at bottom left: \"25 APR 21 1960\"",
+    "Handwritten note in bottom right corner: \"EK-107\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint red stamp near the center containing partially legible text including 'ALL INFORMATION CONTAINED... ORIGIN UNCLASSIFIED' and a date that appears to be '5/1/85'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A details multiple specific stamps and a handwritten note at defined locations, while Description B describes a single, faint, different red stamp with entirely different text and location, indicating the two descriptions are of different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:25"
+}

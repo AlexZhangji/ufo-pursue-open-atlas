@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+  "page_num": 89,
+  "categories": [
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a single black-and-white photograph of a man in a suit seated, while Description B describes three separate photographs with different subjects (a man in naval uniform, a man in a suit with a flag, a man's face in a circular frame) and detailed captions, representing entirely different visual content.",
+  "original_image_tags": [
+    "black-and-white photograph of a man in a suit and tie, presumably Willard H. Miller, seated."
+  ],
+  "gpt_mini_desc": "*Image: A newspaper-style page with one large color portrait of a uniformed naval officer at center and one smaller black-and-white portrait of a man in a suit at lower right; both are embedded within surrounding columns of text and headings.*",
+  "gpt_mini_desc_len": 243,
+  "usage": {
+    "prompt_tokens": 47124,
+    "completion_tokens": 51,
+    "total_tokens": 47175,
+    "cached_tokens": 1280
+  },
+  "ts": "2026-05-08 19:59:50"
+}

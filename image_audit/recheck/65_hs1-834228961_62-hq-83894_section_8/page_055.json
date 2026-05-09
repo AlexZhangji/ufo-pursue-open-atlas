@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 55,
+  "original_image_tags": [
+    "A typewritten document on aged paper. A faint blue handwritten number \"54\" and \"20\" are visible in the left margin. A blue pen mark crosses out the \"S\" in \"STRINGFIELD\" in the first paragraph. A small red handwritten note, possibly \"Ok. J.D.\", is in the right margin next to the second paragraph."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two red rubber stamp impressions near the bottom: 'COPIES DESTROYED 270 NOV 19 1964' and '62-83894-350'. A pink/red rectangular stamp with text 'NO CLOSURE' partially visible. Blue ink handwritten annotations at the bottom including 'INTERNAL SECURITY - 1 -' and a signature/initials. A red ink handwritten notation 'obto' in the right margin."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions are about entirely different visual content; Description A describes a typewritten document with handwritten margin notes, while Description B describes rubber stamps and handwritten annotations at the bottom of a page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:55"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 165,
+  "original_image_tags": [
+    "A single, aged, yellow-green sheet of paper. The page is largely blank except for hole-punch marks at the top, a faint inverted ghost image of text in the center, and several stamps/markings in the bottom right corner. The paper shows signs of age and discoloration."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint red stamp in the center, text is backwards and partially illegible. Another stamped area in the bottom right corner contains multiple lines of backwards text, including 'CORRESPONDENCE REVIEW', 'F.B.I.', 'REC'D', and 'OCT 25 11:18 AM 73'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states the paper is largely blank with faint inverted ghost text, while Description B claims there are specific red stamps with quoted text like 'CORRESPONDENCE REVIEW' and 'F.B.I.', presenting contradictory visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:03"
+}

@@ -1,0 +1,55 @@
+## Office Memorandum · UNITED STATES GOVERNMENT
+
+**TO :** D. M. LADD
+**DATE:** 7/24/47
+**FROM :** E. G. Fitch
+**SUBJECT:** FLYING DISCS
+
+---
+
+Reference is made to my memorandum to you in the above captioned matter dated July 10, 1947, indicating that Brigadier General George F. Schulgen of the Army Air Corps Intelligence had requested that the Bureau cooperate with the Army Air Corps Intelligence in connection with the above captioned matter. The Director noted on the referenced memorandum, "I would do it but before agreeing to it we must insist upon full access to discs recovered. For instance in the Ia. case the Army grabbed it and would not let us have it for cursory examination."
+
+This is to advise that Special Agent Reynolds has recontacted General Schulgen and advised him in connection with the Director's notation. General Schulgen indicated to Mr. Reynolds that he desired to assure Mr. Hoover of complete cooperation in this matter and stated that he would issue instructions to the field directing that all cooperation be furnished to the FBI and that all discs recovered be made available for the examination by the FBI Agents. General Schulgen pointed out to Mr. Reynolds that he will from time to time make the results of the studies of his scientists available to the Bureau for the assistance of the FBI Field Offices. General Schulgen indicated to Mr. Reynolds that there has been a decrease in the reported sightings of the discs which might be because of the fact that it has lost much of its publicity value. He indicated, however, that he believed it necessary to follow this matter through to determine as near as possible if discs were in fact seen and to determine their origin.
+
+General Schulgen inquired of Mr. Reynolds the method by which the Bureau would make the information obtained from the Bureau's inquiries, known to the Air Corps, in the Field as well as at the War Department level. Mr. Reynolds pointed out to General Schulgen that the best procedure appeared to be through the regular established channels. It was pointed out to General Schulgen that the Bureau Field Offices maintain close liaison with the Intelligence Divisions of the various Armies as well as close liaison with the Intelligence Division of the War Department. General Schulgen indicated that he would be satisfied to receive information through this means.
+
+General Schulgen indicated to Mr. Reynolds that he believed that there was a possibility that this entire matter might have been started by subversive individuals for the purpose of creating a mass hysteria. He suggested that the Bureau keep this in mind in any interviews conducted regarding reported sightings. General Schulgen stated to Mr. Reynolds that he would make available to the Bureau all information in the possession of the Air Corps regarding the sightings which were first reported so that the Bureau could conduct some investigation regarding these individuals to ascertain their motives for reporting that they had observed flying discs. When General Schulgen makes the information available regarding these individuals, it will be promptly brought to your attention.
+
+---
+
+*[handwritten in margin, top left]:* Fm
+
+*[handwritten in margin, left of FROM line]:* O [signature/initials: *illegible*]
+
+*[handwritten at bottom right]:* Df [signature/initials: *illegible*]
+
+*[handwritten at bottom left]:* SW:ahr
+*[handwritten at bottom center]:* 252
+*[handwritten/stamped at bottom left]:* **50** SEP 30 1947
+
+*[stamped at bottom center]:* **COPIES DESTROYED**
+**270 NOV 18 1964**
+
+*[stamped near bottom right]:* **62-83894**
+*[stamped over 62-83894]:* **RECORDED**
+
+*[Distribution list at top right]:*
+Mr. Tolson
+Mr. E. A. Tamm
+Mr. Clegg
+Mr. Coffey
+Mr. Glavin
+Mr. Ladd
+Mr. Nichols
+Mr. Rosen
+Mr. Tracy
+Mr. Mohr
+Mr. Carson
+Mr. Hendon
+Mr. Mumford
+Mr. Jones
+Mr. Quinn Tamm
+Tele. Room
+Mr. Nease
+Miss Beahm
+Miss Gandy

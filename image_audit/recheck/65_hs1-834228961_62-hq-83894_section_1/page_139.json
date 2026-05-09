@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 139,
+  "original_image_tags": [
+    "A reddish-pink carbon copy of an FBI teletype message. The paper shows age spots and three hole-punch marks at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typewritten teletype message on pinkish paper, featuring a header from the Federal Bureau of Investigation Communications Section dated AUG 6 1947. The text discusses reports of 'flying discs' and mentions military personnel. The page contains handwritten annotations, a distribution list on the right margin, and several black circular smudges."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions describe different visual content: A describes an aged pink carbon copy with hole-punch marks, while B describes a teletype with specific dated header, handwritten annotations, and distribution list not mentioned in A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:03"
+}

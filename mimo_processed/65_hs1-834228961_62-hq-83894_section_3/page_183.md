@@ -1,0 +1,20 @@
+## Memo to Director, FBI
+
+**Date:** 9/19/47
+
+**RE:** REPORTS OF FLYING DISCS
+
+In the event the Bureau decides to discuss the matter further with the Army Air Forces, it is recommended that no indication whatsoever be given indicating this letter was referred to me by Lieutenant Colonel SPRINGER inasmuch as it would undoubtedly cause him serious embarrassment and would certainly cause the excellent personal relationship which exists between Lieutenant Colonel SPRINGER and this office to be endangered.
+
+Very truly yours,
+
+*[signed: Harry M. Kimball]*
+
+Harry M. Kimball
+Special Agent in Charge
+
+**HMK:mhr**
+
+**62-2938**
+
+*Image: Faint, ghostly watermark or watermark impression centered on the lower half of the page, depicting the Great Seal of the United States (eagle with shield).*

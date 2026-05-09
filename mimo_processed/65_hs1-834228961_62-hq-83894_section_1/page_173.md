@@ -1,0 +1,30 @@
+## CONFIDENTIAL
+
+### HEADQUARTERS FOURTH AIR FORCE
+Office of the Assistant Chief of Staff, A-2
+Intelligence
+Hamilton Field, California
+
+4AFDA
+333.5 ID
+
+4 August 1947
+
+**SUBJECT:** Investigation of "Flying Discs"
+
+**TO:** Special Agent in Charge, FBI, U. S. Dept of Justice, Suite 426,
+111 Sutter Street, San Francisco 4, California.
+
+Inclosed herewith is information copy of MOIC and newspaper clipping re subject.
+
+**2 Incls:**
+1. MOIC Sorensen 7 Jul 47.
+2. Newspaper clipping dtd 5 Jul 47.
+
+WILLIAM R. GRAHAM
+Major, Air Corps
+Deputy AC of S, A-2
+
+*Image: A rectangular ink stamp at the bottom right reads "FEDERAL BUREAU OF INVESTIGATION / U. S. DEPARTMENT OF JUSTICE". Below this, "AUG 7 1947" is stamped. Below the date, "SAN FRANCISCO" is typed, followed by "ROUTED TO" and a typed line ending in "FILE".*
+
+### CONFIDENTIAL

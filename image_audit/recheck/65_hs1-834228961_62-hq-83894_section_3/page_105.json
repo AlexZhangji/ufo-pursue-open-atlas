@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 105,
+  "original_image_tags": [
+    "Large, red, hollow-letter stamp of the word \"COPY\" placed over the final two lines of text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed document containing the narrative of Kenneth Arnold. A red outline of the word 'COPY' is stamped over the text at the bottom of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same visual content: a red stamp of the word 'COPY' over the bottom text, with no contradictory details about visual elements.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:27"
+}

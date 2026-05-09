@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 176,
+  "original_image_tags": [
+    "Typed letter on paper, page numbered \"- 3 -\" at the bottom center. Two punch holes at the top. A faint blue handwritten annotation or stamp is visible in the lower left margin, partially illegible, possibly reading \"13 20 0000\" or similar."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint, partially legible blue ink stamp or handwritten annotation near the left margin; text appears to include '13' and '30'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states the annotation reads '13 20 0000' while Description B states it reads '13' and '30', creating a direct contradiction on the specific quoted text of the same visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:50"
+}

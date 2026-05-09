@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 64,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content: a hand-drawn map of the North Pacific with labeled coastlines, a 'SAUCER' BASE, a 'Possible Route of \"Saucers\"' dotted line, a large shaded storm area, and a signature; however, Description B adds an extra quoted text ('So on & all over U.S.A.') not mentioned in A, but this is an addition, not a contradiction.",
+  "original_image_tags": [
+    "A hand-drawn map on aged, off-white paper with two punched holes at the top. The map depicts the northwestern region of North America and the northeastern tip of Asia. The landmasses are outlined in black ink. A north arrow is drawn on the left margin. Key geographic labels are written in capital letters: \"SIBERIA\", \"ALASKA\", \"CANADA\". A heavy, dark shaded area, created with dense concentric pencil or crayon lines, covers most of the Pacific Ocean, the Gulf of Alaska, and extends over western Canada and the northwestern United States. This shaded area is labeled \"All:- Heavier is storm area\". A dotted line with arrows indicates a path from Siberia, across the Bering Strait, across Alaska, and southeast into Canada and the U.S. This path is labeled \"Possible Route of 'Saucers'\". A specific point on the Siberian coast is marked with a black dot and labeled \"'SAUCER' BASE\". A handwritten text block is centrally placed over the map. A separate handwritten note is in the bottom right corner. The author's signature and location are in the bottom left corner."
+  ],
+  "gpt_mini_desc": "*Image: Hand-drawn map diagram of Alaska and adjacent Siberia and Canada, with a shaded circular route and arrows, labeled “SIBERIA,” “ALASKA,” “CANADA,” “SAUCER BASE,” “Possible Route of Saucerfs,” “All:- Heavier is storm area,” and “by: Florence Pervier, Tulsa, Okla.”*",
+  "gpt_mini_desc_len": 271,
+  "usage": {
+    "prompt_tokens": 65184,
+    "completion_tokens": 82,
+    "total_tokens": 65266,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:59"
+}

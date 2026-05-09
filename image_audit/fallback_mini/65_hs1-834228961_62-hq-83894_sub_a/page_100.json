@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 100,
+  "categories": [
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on two photographs showing uniformed men examining aircraft wreckage and a circular structure, but they provide different quoted caption text for the same visual elements.",
+  "original_image_tags": [
+    "A yellowed newspaper clipping from the \"Washington Star\" mounted on a larger, light-colored backing sheet. The clipping features two black-and-white photographs with captions, showing the wreckage of an aircraft. A date stamp and a handwritten number are visible at the bottom of the clipping.",
+    "A black-and-white photograph showing two men in uniform examining the large, crumpled wreckage of an aircraft. The aircraft appears to have a large, circular, fabric-covered rotor structure and a tail section with the visible marking \"NX 91Y\". The wreckage is in an outdoor, wooded area.",
+    "A black-and-white photograph showing two men in uniform examining a large, circular, wooden or metal ring-like structure. The structure has some internal framing and appears to be the \"flying cheesebox\" mentioned in the caption."
+  ],
+  "gpt_mini_desc": "*Image: Two sepia-toned newspaper photographs clipped on a page, both showing a damaged helicopter wreckage; the top photo shows two uniformed police officers standing beside a crumpled rotor section, and the bottom photo shows two uniformed police officers standing over bent helicopter rotor/frame parts inside a shed.*",
+  "gpt_mini_desc_len": 321,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 65,
+    "total_tokens": 56221,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:13"
+}

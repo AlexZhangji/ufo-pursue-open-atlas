@@ -1,0 +1,38 @@
+# RESTRICTED
+
+## CHECK-LIST - UNIDENTIFIED FLYING OBJECTS
+
+1.  **Date**: 7 January 1948
+2.  **Time**: ~~1515~~ 1445
+3.  **Location**: Godman Field, Ky.
+4.  **Name of observer**: Flight Leader NG 869 (Capt. Thomas F. Mantell)
+5.  **Occupation of observer**: Flight Leader
+6.  **Address of observer**
+7.  **Place of observation**: Over Godman Field, Ky.
+8.  **Number of objects**: 1
+9.  **Distance of object from observer**: Not stated
+10. **Time in sight**: ~~Not stated~~ ~~xxxxxxxxx~~ Apparently over 1 hour and a half
+11. **Altitude**: above ~~15000~~ 20,000 ft
+12. **Speed**: Approximately 500 mph
+13. **Direction of flight**: approximately 210° from Godman Field
+14. **Tactics**: None
+15. **Sound**: Not stated
+16. **Size**: Tremendous
+17. **Color**: Metallic
+18. **Shape**: Not stated
+19. **Odor detected**: Not stated
+20. **Apparent construction**: metallic
+21. **Exhaust trails**: Not stated
+22. **Weather conditions**: Not stated
+23. **Effect on clouds**: Not stated
+24. **Sketches or photographs**: None
+25. **Manner of disappearance**: Not stated
+
+### 26. Remarks:
+This information taken from a report describing a radio conversation between Flt. leader NG 869 who investigated the object at the request of Godman Field Tower. The Flt. Leader Capt. Thomas F. Mantell crashed and was killed after his last radio contact with Godman Field at 1515 hrs.
+
+*Incident # 33F*
+
+**(over)**
+
+# RESTRICTED

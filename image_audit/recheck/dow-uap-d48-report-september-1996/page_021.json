@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 21,
+  "original_image_tags": [
+    "A line-drawn map depicting a geographical area with a coastline (likely a cape or peninsula) and various roads and facilities. The map is overlaid with contour lines labeled \"10^-6\", \"10^-5\", and \"10^-4\", indicating risk levels for inner-ear injury. The contour lines originate from a central point within the facility complex. There are numerous small structures and facility icons depicted on the map."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "diagram",
+        "description": "A line-drawn map titled 'Atlas IIAS Inner Ear Injury Mode-5 A = 3.5' displaying three labeled risk contour lines (10^-6, 10^-5, 10^-4) over a complex schematic of structures, roads, and various symbols. The caption below reads 'Figure 3. Atlas IIAS Risk Contours for Inner-Ear Injury with A = 3.5'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual elements (a line-drawn map with three contour lines labeled 10^-6, 10^-5, 10^-4 over structures and roads), but Description B adds the specific title and caption text that A omits, without any contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "diagram"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:44"
+}

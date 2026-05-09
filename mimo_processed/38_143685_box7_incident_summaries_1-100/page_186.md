@@ -1,0 +1,7 @@
+## RESTRICTED
+
+Charles Casella, Jr. and William Truex, US Army, Ft. Dix, N. J. sighted a flying disc in late afternoon 3 August 47. Claimed it was 200 yrds in air, revolving slowly but moving rapidly and was neither a kite nor a balloon.
+
+## RESTRICTED
+
+*[page number handwritten in bottom right corner]:* 186-

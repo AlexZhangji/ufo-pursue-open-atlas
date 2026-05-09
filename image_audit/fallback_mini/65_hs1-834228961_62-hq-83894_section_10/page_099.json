@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 99,
+  "categories": [
+    "sketch",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content: a hand-drawn sketch of a humanoid figure with outstretched arms in a rocky setting, a blue 'Best Possible Image' label in the top left, and a red 'ENCLOSURE' stamp, but Description B adds details about handwritten numbers that Description A does not mention.",
+  "original_image_tags": [
+    "A faded, black-and-white pencil or charcoal sketch. The drawing depicts a humanoid figure, seemingly female, with both arms raised high above its head. The figure appears to be wearing a short, possibly striped or textured tunic. The background consists of indistinct, shaded areas that might represent clouds, smoke, or a rocky landscape. Above the figure's raised right hand, there is a faint, small, circular or spherical object drawn in the sky. The entire image is heavily creased and shows signs of age, with a dark circular punch hole at the top center. A blue rectangular label with the text \"Best Possible Image\" is affixed to the top left corner."
+  ],
+  "gpt_mini_desc": "*Image: A pale, low-contrast scan of a single page showing a faint full-body skeletal figure with both arms raised overhead, centered on the page, with two dark circular punch marks near the top and a red “ENCLOSURE” stamp plus handwritten blue/red numbers along the bottom edge.*",
+  "gpt_mini_desc_len": 280,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 63,
+    "total_tokens": 54715,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:40"
+}

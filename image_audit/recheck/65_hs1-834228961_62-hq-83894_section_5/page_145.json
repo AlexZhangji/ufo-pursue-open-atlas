@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 145,
+  "original_image_tags": [
+    "Aged, typed memorandum on off-white paper with visible punch holes at top. Text shows signs of typewriter impact. Multiple handwritten annotations in blue and pencil. Red stamps indicate mailing and date actions."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typewritten memorandum on aged paper. It contains typed body text, two punched holes at the top, and various handwritten annotations and stamps."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the main visual content (an aged typewritten memorandum with punched holes, handwritten annotations, and stamps), but Description A adds specific details about colors and stamp purpose not mentioned in B, while B does not contradict these details.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:33:27"
+}

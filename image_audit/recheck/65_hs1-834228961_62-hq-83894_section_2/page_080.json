@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 80,
+  "original_image_tags": [
+    "A photograph of a small, light-colored rectangular index card or label. The card has typed text and a stamped number. The card is oriented horizontally against a dark background."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A blank off-white card with typed text in the upper-left corner. The text reads: '8 1 9', followed by '\"Flying Disc\" Found Saybrook, Ill. 7-26-47'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the visual content: a single light-colored, off-white card with typed text in the upper-left corner and a stamped number, viewed as a photograph.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:56:36"
+}

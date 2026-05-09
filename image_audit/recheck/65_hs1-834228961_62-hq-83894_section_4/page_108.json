@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 108,
+  "original_image_tags": [
+    "A faded, off-white government routing slip or receipt form, oriented vertically. The text is in a light blue ink, much of it stamped or typed. The top of the form is partially cut off. Several lines of text and names are listed, with most names having a corresponding set of initials in a column to the left. The bottom section contains multiple date/time stamps. The document shows signs of age, with some discoloration and faint marks."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A document page containing primarily faint, mirrored typed text. Visible elements include a list of names preceded by 'Mr.' and 'Miss', a signature line for 'F. B. T. Giffin', and the name 'F. B. T. Giffin' typed at the bottom. Several stamped markings are present, including 'MAR 24 10 59 AM 49', 'FBI', 'DEPT. OF JUSTICE', 'RECEIVED-TOLOSON', 'MAR 23 3 18 PM 49', and 'DIVISION DIRECTOR'. A hand-drawn arrow points to the word 'Director' at the top of the list."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a faded government routing slip with blue stamped/typed text, date stamps, and age discoloration, while Description B describes a page with faint mirrored typed text, a specific hand-drawn arrow, and specific stamped text like 'FBI' and 'MAR 24 10 59 AM 49', which are completely different visual contents.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:59"
+}

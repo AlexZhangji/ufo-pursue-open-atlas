@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 116,
+  "original_image_tags": [
+    "A pinkish-red paper routing slip or teletype receipt with typed text and three ink stamps. Two hole-punch marks are visible at the top. The typed text is faded and appears to be a carbon copy or impression from the reverse side, reading from right-to-left and appearing mirrored."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Pink paper document showing reverse-side text and multiple stamps. Contains three stamped annotations: 'RECEIVED Aug 15 9 31 AM '47 INTERNAL SECURITY F.B.I.', 'RECEIVED Aug 14 9 20 PM '47 F.B.I. DEPT. OF JUSTICE', and a third inverted 'RECEIVED' stamp at bottom left. Faint reversed text from the document's front side is visible through the paper. Two punched holes at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the pink paper, two hole-punches, three stamps, and reversed/mirrored text, but B provides specific stamped text content that A does not quote, creating an omission rather than a contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:29"
+}

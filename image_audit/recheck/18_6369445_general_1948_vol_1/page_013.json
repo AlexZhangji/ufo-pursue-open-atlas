@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "18_6369445_general_1948_vol_1",
+  "page_num": 13,
+  "original_image_tags": [
+    "blue stamp:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed government document with the header 'Reporting of Information on \"Flying Discs.\"' and 'HQ. USAF - AFOIR'. The document contains numbered paragraphs (1-6) outlining Air Force policy and reporting procedures for sightings. Paragraph 6 includes a sub-list (a-g) detailing required reporting information. At the bottom, there is a signature block for 'C. P. CABELL', 'Major General, U.S.A.F.', 'Chief, Air Intel. Req. Div.', 'Directorate of Intelligence', and a table labeled 'OFFICE SYMBOL' with handwritten signatures and dates. A red 'RESTRICTED' stamp is visible at the top and bottom. A blue stamp reads 'HQ. USAF 27 FEB 1948 OAG-MAIL BRANCH'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A mentions a 'blue stamp' while Description B provides a specific, detailed verbatim text for that stamp ('HQ. USAF 27 FEB 1948 OAG-MAIL BRANCH'), creating a direct contradiction on the quoted text content of a key visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:24"
+}

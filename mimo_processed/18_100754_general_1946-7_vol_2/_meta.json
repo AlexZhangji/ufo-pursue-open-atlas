@@ -1,0 +1,130 @@
+{
+  "file": "18_100754_general_1946-7_vol_2.pdf",
+  "stem": "18_100754_general_1946-7_vol_2",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "85d659d6b2208610ac55e6c82cfed0315002f4b6d43963a29fb8e973258bfdd2",
+  "size_bytes": 61464225,
+  "total_pages": 28,
+  "pages_processed_in_run": 28,
+  "status": "complete",
+  "elapsed_sec": 1.5,
+  "completed_at": "2026-05-08 15:37:48",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    },
+    {
+      "page": 8,
+      "status": "skip"
+    },
+    {
+      "page": 9,
+      "status": "skip"
+    },
+    {
+      "page": 10,
+      "status": "skip"
+    },
+    {
+      "page": 11,
+      "status": "skip"
+    },
+    {
+      "page": 12,
+      "status": "skip"
+    },
+    {
+      "page": 13,
+      "status": "skip"
+    },
+    {
+      "page": 14,
+      "status": "skip"
+    },
+    {
+      "page": 15,
+      "status": "skip"
+    },
+    {
+      "page": 16,
+      "status": "skip"
+    },
+    {
+      "page": 17,
+      "status": "skip"
+    },
+    {
+      "page": 18,
+      "status": "skip"
+    },
+    {
+      "page": 19,
+      "status": "skip"
+    },
+    {
+      "page": 20,
+      "status": "skip"
+    },
+    {
+      "page": 21,
+      "status": "skip"
+    },
+    {
+      "page": 22,
+      "status": "skip"
+    },
+    {
+      "page": 23,
+      "status": "skip"
+    },
+    {
+      "page": 24,
+      "status": "skip"
+    },
+    {
+      "page": 25,
+      "status": "skip"
+    },
+    {
+      "page": 26,
+      "status": "skip"
+    },
+    {
+      "page": 27,
+      "status": "skip"
+    },
+    {
+      "page": 28,
+      "status": "skip"
+    }
+  ]
+}

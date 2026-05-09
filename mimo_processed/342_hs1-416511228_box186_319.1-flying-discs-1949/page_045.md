@@ -1,0 +1,3 @@
+*[Image: A scanned document page with severe fading, low contrast, and significant visual noise. The text is almost entirely illegible. Two black circular hole-punch marks are visible at the top. A horizontal black line is near the top left margin. Faint, ghosted lines of typed text are barely discernible throughout the page, but no specific words, stamps, or labels can be made out. Another horizontal black line is near the bottom right. The overall appearance is of a very poor-quality copy or a heavily degraded original.]*
+
+*[Entire page text is illegible due to severe fading and low contrast.]*

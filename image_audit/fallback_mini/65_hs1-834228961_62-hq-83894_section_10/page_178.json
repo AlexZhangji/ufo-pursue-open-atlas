@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 178,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a simple typed table with two dark circles, while Description B describes a specific titled table with detailed data and handwritten red annotations, indicating the two descriptions are about different visual content.",
+  "original_image_tags": [
+    "Typed table on a white page with hole-punch marks at the top. Two dark circles, possibly punch reinforcements or ink smudges, are visible at the top center and top right."
+  ],
+  "gpt_mini_desc": "*Image: Typed table titled “TOTAL UFO SIGHTINGS, 1947 - 1969” listing years 1947 through 1969 with columns for “TOTAL SIGHTINGS” and “UNIDENTIFIED,” plus totals of 12,618 and 701.*",
+  "gpt_mini_desc_len": 180,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 59,
+    "total_tokens": 14951,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:11"
+}

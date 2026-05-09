@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 148,
+  "original_image_tags": [
+    "A typed FBI memorandum on official letterhead. Two hole-punch marks are visible at the top center. The seal of the Department of Justice / Federal Bureau of Investigation is in the top left corner. A red \"ENCLOSURE\" stamp is in the lower right. A handwritten file number is in blue ink. A \"COPIES DESTROYED\" stamp is in the bottom left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Top left corner: United States Department of Justice / Federal Bureau of Investigation seal."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Bottom right: Large handwritten red number '62-83894-418' above a red stamp 'ENCLOSURE'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Bottom left: A redacted or faded stamp block containing 'COPIES DESTROYED' and partially legible text including '270' and 'NOV 19 1964'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same visual elements (seal, stamp, handwritten number) and identical quoted text ('ENCLOSURE', 'COPIES DESTROYED'), with only minor detail differences that do not contradict.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:32"
+}

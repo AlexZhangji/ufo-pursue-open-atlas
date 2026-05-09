@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 68,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual elements of a line graph with the same title, axis labels, and scales, but Description B adds detail about the legend entries and a feature at the 350 nm mark that Description A omits, without contradiction.",
+  "original_image_tags": [
+    "A line graph titled \"Atlas IIAS\" plotting \"Percent Impacts in 10-nm Interval\" (y-axis, logarithmic scale from 0.1 to 100) against \"Impact Range (nm)\" (x-axis, linear scale from 0 to 350). The graph displays four curves:"
+  ],
+  "gpt_mini_desc": "*Image: A line graph titled “Atlas IIAS” showing “Percent Impacts in 10-nm Interval” versus “Impact Range (nm),” with four labeled curves: “Theoretical,” “Breakup q-alpha = 5,000 deg-lb/ft²,” “Breakup q-alpha = 20,000 deg-lb/ft²,” and “No Breakup”; caption below reads “Figure 22. Impact-Range Distributions.”*",
+  "gpt_mini_desc_len": 310,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 99,
+    "total_tokens": 56255,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:38"
+}

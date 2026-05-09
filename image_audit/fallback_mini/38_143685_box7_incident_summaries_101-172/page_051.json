@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 51,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both sides agree it is a hand-drawn sketch of a device; Description B adds specific labels and measurements not mentioned in A, but they do not contradict each other.",
+  "original_image_tags": [
+    "Hand-drawn sketch on dark background (appears to be a photographic negative or blueprint-style reproduction). The sketch depicts a two-part device connected by a cable."
+  ],
+  "gpt_mini_desc": "*Image: Hand-drawn technical sketch on a dark background showing a curved object labeled “8'” across the top, connected by a slanted line labeled “5'” and “DARK CABLE” to a rectangular block labeled “BALL OR A CANISTER”; several arrows label parts as “SILVER,” with “EXHIBIT I” and “CONFIDENTIAL” stamped on the page.*",
+  "gpt_mini_desc_len": 318,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 86,
+    "total_tokens": 57748,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:12"
+}

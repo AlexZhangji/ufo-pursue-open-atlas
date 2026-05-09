@@ -1,0 +1,43 @@
+{
+  "pdf_stem": "nasa-uap-d4-apollo-11-technical-crew-debriefing-1969",
+  "page_num": 1,
+  "original_image_tags": [
+    "NASA insignia logo in upper left corner.",
+    "Circular schematic or symbol, possibly a mission patch or technical diagram, consisting of intersecting lines forming a cross shape over a grid pattern, with a smaller circular element containing what appears to be a lunar surface view."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "NASA circular logo (the 'meatball' insignia) located in the upper left corner."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular text block in the middle right containing a notice about the Freedom of Information Act and NASA Policy Directive 1382.2."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular diagram in the bottom left corner with intersecting lines and crosshairs, resembling a targeting or alignment symbol."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular text box in the lower center containing 'GROUP 4 Downgraded at 3-year intervals; declassified after 12 years'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the NASA logo in the upper left corner and a circular diagram with intersecting lines and crosshairs, with no contradictions on visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:19:06"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 202,
+  "original_image_tags": [
+    "A pink paper routing slip with numerous stamped dates and department names in black ink, oriented vertically and diagonally. The text is faint and appears to be the reverse of a document. Handwritten notation \"Cl-11-18\" is in the bottom left corner. Two hole-punch marks are at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page is a pink 'DECORDED COPY' featuring numerous overlapping blue ink stamps, including circular and rectangular dates from November 1957 and labels such as 'FBI', 'U.S. DEPT. OF JUSTICE', 'ESPIONAGE', and 'TELETYPE UNIT'. There is also a small handwritten annotation in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Descriptions contradict on specific quoted stamp text (e.g., 'Cl-11-18' vs. 'DECORDED COPY', 'FBI' vs. 'U.S. DEPT. OF JUSTICE', 'ESPIONAGE' vs. 'TELETYPE UNIT') and on the color of the ink stamps (black vs. blue), indicating at least one side is fabricating content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:13"
+}

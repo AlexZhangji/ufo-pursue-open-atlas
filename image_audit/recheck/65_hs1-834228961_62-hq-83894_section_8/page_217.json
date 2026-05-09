@@ -1,0 +1,102 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 217,
+  "original_image_tags": [
+    "A faded, aged paper document, appearing to be the back of a routing slip or form. It is oriented upside down relative to the viewer. There are two hole-punch tears at the top (original bottom). Faint, reversed text from the front side bled through the paper. Multiple date-time group stamps and distribution markings are visible in blue and black ink, some oriented correctly, some reversed."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Back of a document page showing faint, reversed bleed-through text from the front side. The page contains multiple official stamps and handwritten annotations."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical stamp reading 'RECEIVED BUREAU CHIEF INTELLIGENCE ROOM 9 30 AM'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical stamp reading 'REC'D 9 25 AM 57'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical stamp reading 'ARCHIVE ROOM'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A horizontal stamp reading 'RECEIVED 11 30 AM 57'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'B I - DIRECTOR 11 00 AM 57'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'REC'D BELMONT FBI - JUSTICE NOV 13 6 36 PM 57'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'REC'D BELMONT FBI - JUSTICE NOV 14 12 46 PM 57'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'RECEIVED NOV 15 9 57 AM 57'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A vertical stamp reading 'L.R. 10A M 814 - C5'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'CIVIL AERONAUTICS BOARD 8 L.R.'"
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'U.S. GOVT. PROPERTY' over 'PASSED FOR MAILING' over 'FBI - Justice'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'MISS 106 ROSEWOOD'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'RECEIVED BUREAU CHIEF INTELLIGENCE ROOM 14 PM 57'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'FBI 10A'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamp reading 'NOV 14 12:30'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the page being the back of a document with bleed-through text and multiple stamps, with no contradictions on the specific stamp text that B lists.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:10:23"
+}

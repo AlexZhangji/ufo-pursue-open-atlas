@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 106,
+  "original_image_tags": [
+    "A piece of aged, yellowish-brown tape is affixed vertically to the left edge of the page. It is rectangular and shows signs of discoloration.",
+    "Two dark, irregular circular spots or punch holes are visible at the top of the page, slightly left of center and near the center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint, reversed red stamp text reading 'ATF INFORMATION CLASSIFIED' near the top. Faint, reversed blue stamped text reading 'REC'D' and handwritten date 'MAR 10 1 20 PM 61' near the bottom. Faint red stamped date 'MAR 17 1960' in the bottom left corner. Faint red stamped date '21 MAR 24 1960' in the bottom right corner. A piece of yellowed tape is attached to the left edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions describe completely different visual content: A describes tape and punch holes, while B describes multiple stamped dates and text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:10"
+}

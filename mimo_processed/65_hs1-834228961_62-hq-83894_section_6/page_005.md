@@ -1,0 +1,12 @@
+## CONCLUSIONS
+
+The Albuquerque Office, in a letter dated August 10, 1950, advised that there have been no new developments in connection with the efforts to ascertain the identity of the strange aerial phenomena referred to as green fireballs and discs. The Albuquerque Office advised that Dr. Anthony O. Mirarchi, Project Engineer, had been informed of the Bureau's jurisdiction relative to espionage and sabotage and arrangements have been made so that the Bureau will be promptly advised in the event additional information relative to this project indicates any jurisdiction on the part of the Bureau.
+
+## ACTION
+
+None. The above is for your information.
+
+*[handwritten note]:* fpm; JAL
+*[handwritten note]:* V.
+
+- 3 -

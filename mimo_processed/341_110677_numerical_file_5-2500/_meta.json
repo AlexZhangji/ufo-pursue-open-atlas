@@ -1,0 +1,58 @@
+{
+  "file": "341_110677_numerical_file_5-2500.pdf",
+  "stem": "341_110677_numerical_file_5-2500",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "2cbbb33f9917d45c8b6009ee6ec5b958bc9c7d28b4a0f04edd261e7bf2f3d2f6",
+  "size_bytes": 57343984,
+  "total_pages": 10,
+  "pages_processed_in_run": 10,
+  "status": "complete",
+  "elapsed_sec": 1.2,
+  "completed_at": "2026-05-08 15:37:48",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    },
+    {
+      "page": 8,
+      "status": "skip"
+    },
+    {
+      "page": 9,
+      "status": "skip"
+    },
+    {
+      "page": 10,
+      "status": "skip"
+    }
+  ]
+}

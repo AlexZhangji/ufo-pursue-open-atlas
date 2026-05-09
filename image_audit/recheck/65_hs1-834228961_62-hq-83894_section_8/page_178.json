@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 178,
+  "original_image_tags": [
+    "A single page from a file, showing the reverse side of a document. A large rectangular piece of tan or light-orange paper is attached to the center of the white page with metal clips on the left and right edges. The tan paper has very faint, illegible text visible as impressions or bleed-through from the other side. At the top of the white page, two large black binder holes are visible. At the bottom, there are two inverted stamp impressions."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "blank_or_back_of_page",
+        "description": "Back of a document page with faint text show-through. Features two black binder holes at the top and a large, rectangular piece of aged, light-brown tape adhered horizontally across the middle. Multiple blue ink stamps are visible at the bottom, with inverted text reading 'RECEIVED - DIRECTOR FBI Mar 14 11 59 AM '57' and 'RECEIVED - BOARDHA Mar 21 4 40 PM '57'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, different stamp text that Description A calls illegible, and the two descriptions disagree on the nature of the central element (paper vs. tape).",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "blank_or_back_of_page"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:01"
+}

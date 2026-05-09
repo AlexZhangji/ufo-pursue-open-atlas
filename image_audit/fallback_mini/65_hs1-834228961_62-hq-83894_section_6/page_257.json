@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 257,
+  "categories": [
+    "photograph",
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the two photographs, their content (man with glasses, seven bright oval lights with caption), and the quoted caption text, though B adds positional and size details A omits.",
+  "original_image_tags": [
+    "Black-and-white photograph of a man wearing glasses, looking intently through a large telescope or similar optical instrument indoors.",
+    "Black-and-white photograph of a series of bright, blurry, elliptical lights arranged in a curved line across a dark night sky. Caption: \"These are the Lubbock Lights, as photographed Aug. 30, 1951, over Lubbock, Texas, by 18-year-old Carl Hart, Jr.\""
+  ],
+  "gpt_mini_desc": "*Image: A scanned magazine page titled “FLYING SAUCERS continued” containing two black-and-white photographs: a small inset portrait of a man holding laboratory equipment at upper left, and a large photograph at upper right showing a curved chain of bright lights across a dark sky, captioned “These are the Lubbock Lights, as photographed Aug. 30, 1951, over Lubbock, Texas, by 18-year-old Carl Hart, Jr.”*",
+  "gpt_mini_desc_len": 407,
+  "usage": {
+    "prompt_tokens": 59166,
+    "completion_tokens": 100,
+    "total_tokens": 59266,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:20"
+}

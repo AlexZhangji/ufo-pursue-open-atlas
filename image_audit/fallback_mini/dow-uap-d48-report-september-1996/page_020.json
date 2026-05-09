@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 20,
+  "categories": [
+    "diagram"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content: a technical map/diagram of a facility with risk contour lines labeled '10^-4', '10^-5', and '10^-6', but Description B adds specific caption and title text not mentioned in Description A without contradicting it.",
+  "original_image_tags": [
+    "A technical map or diagram showing risk contours for a launch site. The map is oriented with the coastline running roughly from the northwest to the southeast. A dense concentration of buildings and structures is visible near the center, likely representing a launch complex or facility. Three distinct, concentric, curved lines (contours) emanate from this central area and extend generally northward. These lines are labeled from the innermost (closest to the facility) to the outermost: `10^-4`, `10^-5`, and `10^-6`. The coastline and some offshore features are outlined."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white technical diagram/map labeled “Figure 2. Atlas IIAS Risk Contours for Inner-Ear Injury with A = 3.0,” showing a city street/road layout overlaid with contour lines, numerous plotted symbols and markers, and handwritten-style annotations including “Atlas IIAS Inner Ear Injury Mode-5 A = 3.0” and contour labels “10^-6,” “10^-5,” and “10^-4.”*",
+  "gpt_mini_desc_len": 366,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 98,
+    "total_tokens": 56254,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:25"
+}

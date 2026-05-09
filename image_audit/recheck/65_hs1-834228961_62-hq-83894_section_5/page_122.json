@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 122,
+  "original_image_tags": [
+    "A single sheet of aged, slightly yellowed paper with handwritten notes and a hand-drawn diagram in pencil or dark ink. The page has two hole-punch marks at the top. The main content is a sketch illustrating a mechanical assembly involving weights, cables, sheaves (pulleys), plates, and a swivel mechanism. Annotations in cursive handwriting label the various components and provide explanatory notes."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A hand-drawn technical diagram depicting a mechanical pulley system. The diagram includes several sheaves (pulleys), cables, weights, and structural components. Handwritten annotations point to various parts, labeling them with phrases such as 'weight revolves', 'double cable sheave', 'sheave plate holding sheave', 'sheave double acts also as spacer or spreader', 'ball bearing swivel', 'sheave trunk', and 'cross bar'. The drawing shows the lacing path of a cable through the system. Handwritten notes below the diagram describe the setup and mention a 'cog wheel at 4'. A date and initials '4-14-50 nsc' are visible at the bottom left."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content: a hand-drawn sketch of a mechanical pulley system with handwritten annotations, and while B adds specific quoted labels and a date not mentioned in A, there is no direct contradiction on the visual elements described.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:59"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "fbi-photo-b12",
+  "page_num": 1,
+  "original_image_tags": [
+    "Monochrome infrared or thermal sensor still. The view is centered on a targeting reticle (crosshair) with graduated tick marks. The vertical axis is marked in increments of 5, with major labels at 5, 10, and 15. The horizontal axis is similarly marked. A small, distinct, dark anomalous object is visible in the upper-right quadrant of the reticle, positioned approximately at horizontal coordinate 4 and vertical coordinate 12. The background shows a hazy, overcast sky above a mountainous or hilly terrain silhouette. Multiple black redaction bars obscure data fields in the upper, middle, and lower sections of the image, likely covering telemetry, sensor mode, or classification data. A timestamp is overlaid at the bottom left."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "One black and white photograph showing a small dark object in the upper right quadrant against a gray sky. A white crosshair reticle with numbered scale marks (0, 5, 10, 15) is centered in the image. Silhouettes of mountainous terrain are visible at the bottom. The timestamp '12/31/99 18:11:12' is in the bottom left corner. Several black rectangular redaction boxes cover portions of the image, including a large bar at the top and smaller blocks on the left and right sides."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the key visual elements: a black-and-white monochrome image of a targeting reticle with crosshair and scale marks, a dark object in the upper-right quadrant, mountainous terrain at the bottom, a timestamp in the bottom left, and black redaction bars.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:18:32"
+}

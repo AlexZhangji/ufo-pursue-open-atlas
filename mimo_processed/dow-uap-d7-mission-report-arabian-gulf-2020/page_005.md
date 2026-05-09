@@ -1,0 +1,3 @@
+## 1.4(a)
+
+*[Entire page redacted under 1.4(a)]*

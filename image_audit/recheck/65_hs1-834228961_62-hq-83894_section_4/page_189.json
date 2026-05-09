@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 189,
+  "original_image_tags": [
+    "Large handwritten initials \"W H\" or similar, signed over the note."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed letter on aged paper with handwritten signatures, stamps, and annotations. The typed text includes a date 'May 25, 1949', an address to 'Mrs. Henry Beston, Chimney Farm, Nobleboro, Maine', a body text thanking for information, and a signature line 'John Edgar Hoover, Director'. Below the signature is a typed note about a 'small object in the sky' and 'weather balloon'. The page contains multiple handwritten signatures and stamps, including a red stamp '62-83894-179' and a blue stamp 'MAY 26 5 13 PM... FBI'. No photographs, sketches, diagrams, maps, or charts are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B explicitly states 'No photographs, sketches, diagrams, maps, or charts are present' while Description A identifies 'Large handwritten initials W H' as a visual element, creating a direct contradiction on the presence of any visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:34"
+}

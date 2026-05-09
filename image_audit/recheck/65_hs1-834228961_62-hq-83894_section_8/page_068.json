@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 68,
+  "original_image_tags": [
+    "A faded, yellowed, single-page document, appearing to be the reverse side or a heavily bled-through copy of an Office Memorandum. The text is largely illegible due to bleed-through from the other side, with only the top letterhead, some handwritten annotations, and a stamp being clearly visible.",
+    "A blue ink stamp in the lower left quadrant of the page, oriented upside-down relative to the main text.",
+    "Two punch holes at the top edge of the document. There is a brown stain or smudge near the right punch hole."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue ink stamp located near the bottom of the page. The text within the stamp reads 'DEC 10 | 25 PM '54', 'SEC. ESPIONAGE', 'FBI', and 'U.S. DEPT OF JUSTICE'. The stamp is oriented upside-down relative to the top of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states the text within the stamp is largely illegible, while Description B quotes specific, detailed text ('DEC 10 | 25 PM '54', 'SEC. ESPIONAGE', 'FBI', 'U.S. DEPT OF JUSTICE'), creating a direct contradiction on the verbatim content of the stamp.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:09"
+}

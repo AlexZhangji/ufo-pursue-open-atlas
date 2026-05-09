@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 29,
+  "original_image_tags": [
+    "Two hole-punch marks are visible at the top edge of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed letter addressed to J. Edgar Hoover dated Aug 2, 1952, from Jackson, Minn, describing a physical sample and unexplained lights over a farm."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions indicate there are no images on the page, with Description B explicitly stating it is typed text only and Description A only noting page structure elements, so they agree on the absence of visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:50:21"
+}

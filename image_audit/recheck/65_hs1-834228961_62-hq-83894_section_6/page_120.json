@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 120,
+  "original_image_tags": [
+    "The page is a faded, yellowish, aged sheet of paper with two binder holes at the top. It contains a faint, reversed, and partially illegible typewritten carbon copy of a document, appearing as if the ink has bled through or is a mirror image from another page. There are multiple stamped impressions and handwritten annotations, primarily at the bottom, oriented correctly.",
+    "A rectangular, purple ink stamp, partially faded.",
+    "A black, circular or oval ink stamp, partially faded.",
+    "A purple, rectangular ink stamp, partially faded.",
+    "A faint, rectangular, red/pink ink stamp.",
+    "A faint, rectangular, red/pink ink stamp, mostly illegible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The image displays the reverse side of a typed document, showing faint, reversed text bleeding through from the front. Visible elements include two black hole-punch marks at the top, red and blue ink stamps (including 'F.B.I.' and 'U.S. DEPT. OF JUSTICE' with 'FEB 24' and 'RECEIVED' dates), and faint reversed typed text. No distinct photographs, sketches, or diagrams are present on this page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content: a page with two hole-punch marks, reversed/bleeding text, and multiple ink stamps, but Description B provides specific stamp text ('F.B.I.', 'U.S. DEPT. OF JUSTICE', dates) that Description A describes as mostly illegible without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:46"
+}

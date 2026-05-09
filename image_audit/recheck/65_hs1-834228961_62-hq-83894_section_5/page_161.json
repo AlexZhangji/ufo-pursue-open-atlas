@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 161,
+  "original_image_tags": [
+    "Back of a worn, aged paper document, likely a carbon copy or routing slip. The page is light beige/yellowed with two hole-punch marks at the top. Faint, mirrored text from the reverse side is visible throughout the page body."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two black hole-punch circles at the top. Faint, mostly illegible reversed text visible through the page from the other side. Multiple stamped annotations in blue and red ink, including: 'MR JONES', 'JUN 6 9 45 AM 50', 'RECEIVED', 'JUN 5 4 45 PM 50', 'FBI', 'U S DEPT OF JUSTICE', 'RECEIVED', 'RECORDS SEC', and 'JUN 5 3 56 PM 50'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B invents multiple specific stamped annotations (e.g. 'MR JONES', 'JUN 6 9 45 AM 50', 'FBI', 'U S DEPT OF JUSTICE', 'RECORDS SEC', 'JUN 5 3 56 PM 50') that are entirely absent from Description A, which only notes faint mirrored text and no other visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:37"
+}

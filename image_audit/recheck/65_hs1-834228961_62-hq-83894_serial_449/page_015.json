@@ -1,0 +1,61 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 15,
+  "original_image_tags": [
+    "Large black-and-white photograph of a dark, indistinct object in the sky. Caption below reads:",
+    "Newspaper clipping from \"The Christian Science Monitor\", Monday, May 2, 1966. Cartoon illustration of a large UFO hovering over a field. A man in a suit stands nearby. Caption reads:",
+    "Newspaper clipping from \"Hong Kong Standard, May 14, 1966. Black-and-white photograph of a man, BRIAN POLLOCK, looking at a newspaper. Text reads:",
+    "Newspaper clipping from \"Toronto, Canada Telegram, March 28, 1966\". Headline reads:",
+    "Newspaper clipping from \"Portland Oregon Journal, March 21, 1966\". Headline reads:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Newspaper front page layout ('Oakland Tribune', Friday, March 25, 1966). Main headline: 'Flying Saucers Are Poppin' Up All Over'."
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph in top right corner showing a small dark object against a lighter sky. Caption: 'UFO'S (?) FLASH ACROSS PRE-DAWN SKY. Time exposure taken by Michigan deputy sheriff.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph on the left side showing a silhouette of a man holding a camera or binoculars, standing near a vehicle, looking up. Caption: 'Flying swamp gas?'"
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph in the center showing a cluster of light-colored, circular or blob-like shapes against a dark background. Caption: 'THESE ARE THE OBJECTS photographed by 16-year-old Brian Pollock...'."
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph in the bottom center showing a man in a suit and tie, looking towards the camera. Caption below mentions 'KENNETH ARNOLD, the Boise, Idaho, businessman who first reported seeing a flying saucer...'."
+      },
+      {
+        "category": "photograph",
+        "description": "Photograph in the bottom right area showing a large sign on a building. Text on sign: 'BREWER Welcomes UFOs LANDING SITES AVAILABLE Signed... Barry Ivers MAYOR'."
+      },
+      {
+        "category": "sketch",
+        "description": "Drawing in the center-right area showing a saucer-shaped object with a dome on top. Labels around it include 'LIGHT', 'LIGHT', 'LIGHT', 'SQUARE WINDOWS', and 'ALUMINUM'. Caption: 'POLICEMAN and five other persons who saw unidentified object... composite drawing of what they sighted.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A and B describe completely different visual content, names, and captions (e.g., B quotes text about 'Brian Pollock' and 'Kenneth Arnold' while A mentions different newspapers and a different object description).",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "photograph",
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:31"
+}

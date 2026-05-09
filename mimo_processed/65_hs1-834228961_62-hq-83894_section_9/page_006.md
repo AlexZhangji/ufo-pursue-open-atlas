@@ -1,0 +1,54 @@
+STANDARD FORM NO. 64
+
+## Office Memorandum • UNITED STATES GOVERNMENT
+
+TO : MR. A. H. BELMONT
+DATE: November 12, 1957
+
+FROM : MR. R. R. ROACH
+
+SUBJECT: UNIDENTIFIED FLYING OBJECTS
+        (FLYING SAUCERS)
+
+Ever since the Russians released "Sputnik" there has been a great increase in the number of "flying saucers" and other unidentified flying objects (UFO) reportedly seen by people all over the U. S. On October 10, 1957, the Air Force was flooded with calls and the newspapers were full of reports that an unknown object described as "looked like the moon" and trailing a "blue flame that pulsed like a heart" had landed in the vicinity of Vernal, Utah. The Air Force immediately investigated these reports with negative results, inasmuch as no object was located nor was there any evidence of an object having fallen in Utah.
+
+Within the past two weeks reports in these cases have increased tremendously and some of the more serious have been described as follows: An object had landed in Nebraska with six people aboard, the persons had talked to a Nebraska farmer and then sped off into space; a firey object was seen flashing across the southern skies from Albany, Georgia, to Miami, Florida; a Coast Guard cutter had sighted a huge object flying over the Gulf of Mexico, and persons in the Southwestern states while driving their cars have allegedly seen UFO's that caused the engines in their automobiles to stop. In view of the number of these reports, the Bureau's Liaison Representative discussed these various sightings with officials of Air Force Intelligence and was advised that all the cases mentioned above have for all practical purposes been resolved as being nonauthentic or there was no basis for the sightings. Investigating details that the Air Force had out in the field investigating these matters have not submitted their complete reports but have advised that they are all more or less negative. The Air Force is following these sightings closely and all reports are submitted to the Air Technical and Intelligence Center, at Wright-Patterson Air Force Base in Ohio where they are evaluated and analyzed. In the event any of the future reports appear to be authentic, the Air Force will immediately notify the Bureau, keeping in mind our particular interest in matters concerning espionage and sabotage.
+
+*[handwritten signature: R. R. Roach]*
+
+WTW: jlk
+(7)
+
+1 - Mr. Belmont
+1 - Mr. Branigan
+1 - Mr. Baumgardner
+1 - Mr. Whitson
+1 - Liaison Section
+
+*[handwritten note in red ink]: 62-83894-387*
+*[handwritten note in red ink]: Safer*
+
+*[stamped]:* RECORDED - 9A
+*[stamped]:* EX. - 138
+*[stamped]:* NOV 26 1957
+*[stamped]:* LIASON
+
+*[handwritten note in red ink at bottom left]:* 64 NOV 29 1957
+
+*[handwritten notes in top right margin, checkmarks next to names]:*
+Tolson
+Nichols
+Boardman
+Belmont
+Mohr
+Parsons
+Rosen
+Tamm
+Trotter
+Nease
+Tele. Room
+Holloman
+Gandy
+
+*[handwritten annotation at top near DATE]:* 11-13-57
+*[handwritten initials at top]:* AB

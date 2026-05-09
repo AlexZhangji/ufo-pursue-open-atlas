@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 216,
+  "categories": [
+    "typed_text_only",
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions correctly identify the same core visual elements: a hand-drawn sketch of a propulsion concept with labels for a tank, thermal reactors, thrust plate, and steering fins, though Description A provides more precise label text (e.g., 'helium Tank') while Description B approximates 'heater tank'.",
+  "original_image_tags": [
+    "Hand-drawn sketch of a spacecraft propulsion system concept. The diagram is a cross-sectional or cutaway view. On the left is a large cylindrical tank labeled \"helium Tank\". Lines connect this tank to a central complex of components labeled \"Thermal reactors\". An arrow points to a small label \"U235\" near one of the reactor components. On the right side, the exhaust or thrust end, is a flared structure labeled \"Thrust plate\". A cone of lines emanates from the thrust plate, labeled \"gaseous cavity reactor pattern\". At the far right, small triangular fins are drawn and labeled \"steering fins by release of pressure\". The sketch is done in ink or pencil on the document."
+  ],
+  "gpt_mini_desc": "*Image: A typed document page with a handwritten schematic diagram in the lower right showing a spacecraft/propulsion concept labeled “thermal reactors,” “gaseous cavity reactor pattern,” “thrust plate,” and “steering fins by release of pressure,” with additional handwritten marks, signatures, and a blue date stamp near the bottom.*",
+  "gpt_mini_desc_len": 334,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 70,
+    "total_tokens": 56226,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:34"
+}

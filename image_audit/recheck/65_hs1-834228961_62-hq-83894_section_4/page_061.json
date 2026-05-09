@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 61,
+  "original_image_tags": [
+    "A small, off-white card with a color illustration of a goldfinch bird perched on a pine branch. The card has handwritten text in blue ink and is taped onto a larger, beige folder page with clear tape. The page itself has some stains and hole punches at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "Hand-drawn color illustration of a single yellow bird perched on a brown branch with green pine needles."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "FBI receipt stamp containing the text 'RECORDED - 51 162-83894-147', 'FBI', and the date '23 OCT 22 1948'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Stenciled text '67-XB' oriented vertically."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a photograph of a goldfinch on a pine branch on a card, while Description B describes a sketch of a yellow bird on a branch, and B adds two distinct stamps not mentioned by A, indicating completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:29"
+}

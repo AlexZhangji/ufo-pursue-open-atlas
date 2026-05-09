@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 60,
+  "original_image_tags": [
+    "Circular green seal logo with text \"TECHE PUBLISHING COMPANY\" and oil derrick graphic."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "One circular logo for 'The Teche Publishing Company'. The green sketch depicts an oil derrick and a tree or plant in a field, surrounded by a circular border with the company name text."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "One vertical red stamp on the right margin reading 'REC'D F.B.I.' followed by the date 'DEC 5 1958'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "One description quotes a specific red stamp text ('REC'D F.B.I.' and 'DEC 5 1958') that the other description does not mention at all, indicating a clear hallucination of verbatim text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch",
+    "stamp_or_label_only"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:52"
+}

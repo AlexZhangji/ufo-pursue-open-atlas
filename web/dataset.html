@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PURSUE Release 01 · Dataset</title>
+<meta name="description" content="Side-by-side viewer of original PURSUE Release 01 UAP archive PDFs and VLM-extracted Markdown.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Serif:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/marked@13.0.3/marked.min.js"></script>
+<style>
+  :root {
+    --bg-page: #f4f1ec;
+    --bg-card: #ffffff;
+    --bg-card-2: #f8f6f2;
+    --bg-sidebar: #ebe6df;
+    --bg-hover: #e3ddd2;
+    --bg-active: #d8d0c2;
+    --line: rgba(0, 0, 0, 0.08);
+    --line-strong: rgba(0, 0, 0, 0.18);
+    --text-0: #1a1815;
+    --text-1: #44403a;
+    --text-2: #6b665e;
+    --text-3: #9a948a;
+    --accent: #2a5a8a;
+    --accent-soft: #e6eef5;
+    --warn: #b06b1a;
+    --good: #1f7a55;
+    --bad: #a83232;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; }
+  body {
+    background: var(--bg-page);
+    color: var(--text-0);
+    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    font-size: 13.5px;
+    line-height: 1.55;
+    overflow: hidden;
+  }
+  .mono { font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.3); }
+
+  a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; }
+  a:hover { border-bottom-color: var(--accent); }
+
+  input, button, select { font: inherit; color: inherit; }
+
+  /* === Layout === */
+  .app {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    grid-template-rows: 48px 1fr 28px;
+    height: 100vh;
+    background: var(--bg-page);
+  }
+  .app > .topbar { grid-column: 1 / -1; }
+  .app > .statusbar { grid-column: 1 / -1; }
+
+  /* === Top bar === */
+  .topbar {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 0 18px;
+    border-bottom: 1px solid var(--line);
+    background: var(--bg-card);
+  }
+  .brand {
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text-2);
+  }
+  .brand .accent { color: var(--accent); font-weight: 600; }
+  .brand .sep { margin: 0 9px; color: var(--text-3); }
+  .topbar-right {
+    margin-left: auto;
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    font-size: 11px;
+    color: var(--text-2);
+    letter-spacing: 0.04em;
+  }
+  .topbar-right a { color: var(--text-1); border-bottom: none; }
+  .topbar-right a:hover { color: var(--accent); }
+  .topbar-right .sep { color: var(--text-3); }
+
+  /* === Sidebar === */
+  .sidebar {
+    border-right: 1px solid var(--line);
+    background: var(--bg-sidebar);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .sidebar-search {
+    padding: 12px;
+    border-bottom: 1px solid var(--line);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .sidebar-search input[type=text] {
+    width: 100%;
+    padding: 8px 10px;
+    background: var(--bg-card);
+    border: 1px solid var(--line-strong);
+    color: var(--text-0);
+    font-size: 12.5px;
+    border-radius: 3px;
+    outline: none;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  }
+  .sidebar-search input[type=text]:focus { border-color: var(--accent); }
+  .filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .filter-chip {
+    padding: 3px 8px;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    color: var(--text-1);
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: 0.1s;
+    user-select: none;
+  }
+  .filter-chip:hover { border-color: var(--line-strong); }
+  .filter-chip.active {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+  .filter-chip .count { color: var(--text-3); margin-left: 4px; }
+  .filter-chip.active .count { color: rgba(255,255,255,0.7); }
+
+  .pdf-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 4px 0;
+  }
+  .list-item {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--line);
+    cursor: pointer;
+    transition: background 0.08s;
+  }
+  .list-item:hover { background: var(--bg-hover); }
+  .list-item.active {
+    background: var(--bg-active);
+    border-left: 2px solid var(--accent);
+    padding-left: 10px;
+  }
+  .list-item .li-title {
+    font-size: 12px;
+    color: var(--text-0);
+    line-height: 1.3;
+    margin-bottom: 3px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .list-item .li-meta {
+    font-size: 9.5px;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    color: var(--text-2);
+    letter-spacing: 0.04em;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .list-item .li-agency {
+    padding: 1px 5px;
+    border: 1px solid var(--line-strong);
+    border-radius: 2px;
+    font-size: 9px;
+    color: var(--text-1);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .list-item .li-pages { color: var(--text-2); }
+  .list-item .li-flag {
+    margin-left: auto;
+    font-size: 9px;
+    padding: 1px 5px;
+    border-radius: 2px;
+  }
+  .li-flag.resolved { background: rgba(31, 122, 85, 0.12); color: var(--good); }
+
+  /* === Main viewer === */
+  .viewer {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    overflow: hidden;
+    background: var(--bg-page);
+  }
+  .viewer-header {
+    padding: 10px 18px;
+    background: var(--bg-card);
+    border-bottom: 1px solid var(--line);
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: 12px;
+    align-items: center;
+  }
+  .vh-title {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 11.5px;
+    color: var(--text-0);
+    line-height: 1.4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .vh-title .sub {
+    color: var(--text-2);
+    font-size: 10.5px;
+    letter-spacing: 0.04em;
+  }
+  .page-nav {
+    display: flex;
+    gap: 4px;
+    align-items: center;
+  }
+  .page-nav button {
+    width: 26px;
+    height: 26px;
+    background: var(--bg-card);
+    border: 1px solid var(--line-strong);
+    color: var(--text-1);
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+  .page-nav button:hover:not(:disabled) {
+    background: var(--bg-hover);
+    color: var(--text-0);
+  }
+  .page-nav button:disabled { opacity: 0.3; cursor: not-allowed; }
+  .page-nav input {
+    width: 50px;
+    text-align: center;
+    border: 1px solid var(--line-strong);
+    background: var(--bg-card);
+    padding: 4px;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 12px;
+    border-radius: 2px;
+  }
+  .page-nav .total {
+    color: var(--text-2);
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    margin-left: 2px;
+    font-size: 12px;
+  }
+  .ext-link {
+    padding: 5px 11px;
+    border: 1px solid var(--line-strong);
+    color: var(--text-1);
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    border-radius: 2px;
+    border-bottom-style: solid;
+  }
+  .ext-link:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  /* === Split panes === */
+  .split {
+    display: grid;
+    grid-template-columns: 1fr 1px 1fr;
+    overflow: hidden;
+    height: 100%;
+  }
+  .pane {
+    overflow: auto;
+    background: var(--bg-page);
+    position: relative;
+  }
+  .pane.pdf-pane {
+    background: var(--bg-card-2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    overflow: hidden;
+  }
+  .pane-divider {
+    background: var(--line-strong);
+    cursor: col-resize;
+  }
+  .pane-divider:hover { background: var(--accent); }
+
+  .pane-banner {
+    width: 100%;
+    max-width: 800px;
+    padding: 6px 10px;
+    margin-bottom: 10px;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: 2px;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 10.5px;
+    color: var(--text-2);
+    letter-spacing: 0.04em;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .pane-banner .ml-auto { margin-left: auto; }
+  .badge {
+    display: inline-block;
+    padding: 1px 6px;
+    border: 1px solid var(--line-strong);
+    border-radius: 2px;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .badge.resolved { color: var(--good); border-color: var(--good); background: rgba(31,122,85,0.06); }
+  .badge.error { color: var(--bad); border-color: var(--bad); background: rgba(168,50,50,0.06); }
+  .badge.empty { color: var(--text-3); border-color: var(--line); }
+
+  #pdf-canvas {
+    max-width: 100%;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.12);
+    background: white;
+  }
+  .loader {
+    color: var(--text-2);
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 11px;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  .loader.error { color: var(--bad); }
+
+  .md-pane { padding: 26px 36px; }
+  .md-content {
+    max-width: 760px;
+    color: var(--text-0);
+    font-family: 'IBM Plex Serif', Georgia, serif;
+    font-size: 13.5px;
+    line-height: 1.7;
+  }
+  .md-content h1, .md-content h2, .md-content h3, .md-content h4 {
+    font-family: 'IBM Plex Sans', system-ui, sans-serif;
+    color: var(--text-0);
+    margin: 1.4em 0 0.6em;
+    line-height: 1.3;
+  }
+  .md-content h1 { font-size: 21px; font-weight: 600; }
+  .md-content h2 { font-size: 17px; font-weight: 600; color: var(--accent); }
+  .md-content h3 { font-size: 14px; font-weight: 600; color: var(--text-1); letter-spacing: 0.04em; text-transform: uppercase; }
+  .md-content h4 { font-size: 13px; font-weight: 600; color: var(--text-1); }
+  .md-content p { margin: 0.7em 0; }
+  .md-content em { color: var(--warn); font-style: italic; }
+  .md-content strong { color: var(--text-0); font-weight: 600; }
+  .md-content blockquote {
+    border-left: 2px solid var(--line-strong);
+    margin: 1em 0;
+    padding-left: 16px;
+    color: var(--text-1);
+    font-style: italic;
+  }
+  .md-content ul, .md-content ol { padding-left: 22px; margin: 0.6em 0; }
+  .md-content li { margin: 0.3em 0; }
+  .md-content code {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    background: var(--bg-card-2);
+    border: 1px solid var(--line);
+    padding: 1px 5px;
+    font-size: 12px;
+    border-radius: 2px;
+  }
+  .md-content table {
+    border-collapse: collapse;
+    margin: 1em 0;
+    font-size: 12.5px;
+    width: 100%;
+  }
+  .md-content th, .md-content td {
+    border: 1px solid var(--line-strong);
+    padding: 6px 10px;
+    text-align: left;
+  }
+  .md-content th {
+    background: var(--bg-card-2);
+    font-weight: 600;
+  }
+  .md-content hr {
+    border: none;
+    border-top: 1px solid var(--line);
+    margin: 2em 0;
+  }
+
+  /* === Status bar === */
+  .statusbar {
+    display: flex;
+    gap: 18px;
+    padding: 0 18px;
+    align-items: center;
+    background: var(--bg-card);
+    border-top: 1px solid var(--line);
+    font-size: 10px;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    color: var(--text-2);
+    letter-spacing: 0.04em;
+  }
+  .statusbar .stat .lbl { color: var(--text-3); margin-right: 4px; text-transform: uppercase; }
+  .statusbar .stat .val { color: var(--text-1); }
+  .statusbar .right { margin-left: auto; }
+
+  .empty-state {
+    color: var(--text-3);
+    text-align: center;
+    padding: 60px 20px;
+    font-style: italic;
+    font-family: 'IBM Plex Serif', serif;
+  }
+</style>
+</head>
+<body>
+
+<div class="app">
+
+  <header class="topbar">
+    <div class="brand"><span class="accent">PURSUE</span><span class="sep">·</span>Release 01<span class="sep">·</span>Dataset Viewer</div>
+    <div class="topbar-right">
+      <a href="./index.html">Globe</a>
+      <span class="sep">|</span>
+      <a href="https://www.war.gov/medialink/ufo/" target="_blank" rel="noopener">war.gov/UFO</a>
+      <span class="sep">|</span>
+      <span id="topbar-stats">— pdfs · — pages</span>
+    </div>
+  </header>
+
+  <aside class="sidebar">
+    <div class="sidebar-search">
+      <input type="text" id="search" placeholder="Search title / agency / location / file..." autocomplete="off">
+      <div class="filter-row" id="agency-filters"></div>
+      <div class="filter-row" id="status-filters"></div>
+    </div>
+    <div class="pdf-list" id="pdf-list"></div>
+  </aside>
+
+  <main class="viewer">
+    <div class="viewer-header">
+      <div class="vh-title" id="vh-title">Pick a record from the left to begin.</div>
+      <div class="page-nav">
+        <button id="prev-page" title="Previous page (←)">‹</button>
+        <input type="text" id="page-input" value="-">
+        <span class="total" id="page-total">/ -</span>
+        <button id="next-page" title="Next page (→)">›</button>
+      </div>
+      <a class="ext-link" id="open-original" href="#" target="_blank" rel="noopener">War.gov</a>
+    </div>
+
+    <div class="split" id="split">
+      <div class="pane pdf-pane" id="pdf-pane">
+        <div class="pane-banner" id="pdf-banner">
+          <span>Original PDF</span>
+          <span class="ml-auto" id="pdf-banner-info"></span>
+        </div>
+        <div class="loader" id="pdf-loader">Pick a record on the left.</div>
+        <canvas id="pdf-canvas" style="display: none;"></canvas>
+      </div>
+      <div class="pane-divider" id="pane-divider"></div>
+      <div class="pane md-pane" id="md-pane">
+        <div class="pane-banner" id="md-banner">
+          <span>VLM Markdown</span>
+          <span class="ml-auto" id="md-banner-info"></span>
+        </div>
+        <div class="loader" id="md-loader">—</div>
+        <div class="md-content" id="md-content" style="display: none;"></div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="statusbar">
+    <div class="stat"><span class="lbl">Stem</span><span class="val" id="s-stem">—</span></div>
+    <div class="stat"><span class="lbl">Agency</span><span class="val" id="s-agency">—</span></div>
+    <div class="stat"><span class="lbl">Incident</span><span class="val" id="s-incident">—</span></div>
+    <div class="stat"><span class="lbl">VLM</span><span class="val" id="s-vlm">—</span></div>
+    <div class="stat right"><span class="val">FOIA · CC0 · 2026-05-08</span></div>
+  </footer>
+
+</div>
+
+<script type="module">
+import * as pdfjsLib from 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.7.76/build/pdf.min.mjs';
+pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.7.76/build/pdf.worker.min.mjs';
+
+const PDF_BASE = '../release_1_pdfs/';
+const MD_BASE = '../mimo_processed/';
+
+let DATASET = null;
+let currentRecord = null;
+let currentPage = 1;
+let currentPdf = null;
+let pdfLoadGen = 0;
+let mdLoadGen = 0;
+
+const filters = {
+  search: '',
+  agency: 'all',
+  status: 'all',
+};
+
+const $ = (id) => document.getElementById(id);
+
+async function init() {
+  const r = await fetch('./dataset_index.json');
+  DATASET = await r.json();
+  $('topbar-stats').textContent = `${DATASET.total_pdfs} pdfs · ${DATASET.total_pages.toLocaleString()} pages`;
+  buildAgencyFilters();
+  buildStatusFilters();
+  rebuildList();
+  setupKeyboard();
+  setupSearch();
+  setupNav();
+  setupResize();
+  let resizeTimer;
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => { if (currentPdf) renderPage(currentPage); }, 150);
+  });
+
+  const hash = window.location.hash.slice(1);
+  if (hash) {
+    const [stem, page] = hash.split('/');
+    const rec = DATASET.records.find(r => r.stem === stem);
+    if (rec) { loadRecord(rec, parseInt(page) || 1); return; }
+  }
+  const def = DATASET.records.find(r => r.total_pages > 5 && r.total_pages < 30) || DATASET.records[0];
+  loadRecord(def, 1);
+}
+
+function buildAgencyFilters() {
+  const counts = {};
+  DATASET.records.forEach(r => {
+    const k = r.agency || 'Unspecified';
+    counts[k] = (counts[k] || 0) + 1;
+  });
+  const sorted = Object.entries(counts).sort((a,b) => b[1] - a[1]);
+  const cont = $('agency-filters');
+  cont.innerHTML = '';
+  const all = makeChip('All', DATASET.records.length, () => setFilter('agency', 'all'));
+  if (filters.agency === 'all') all.classList.add('active');
+  cont.appendChild(all);
+  sorted.forEach(([k, n]) => {
+    const short = k.replace('Department of ', '').replace('Department ', '');
+    const chip = makeChip(short, n, () => setFilter('agency', k));
+    if (filters.agency === k) chip.classList.add('active');
+    cont.appendChild(chip);
+  });
+}
+
+function buildStatusFilters() {
+  const cont = $('status-filters');
+  cont.innerHTML = '';
+  const cleanupCount = DATASET.records.filter(r => r.rejected_then_resolved_pages.length > 0).length;
+  const heavyCount = DATASET.records.filter(r => r.total_pages > 100).length;
+  const opts = [
+    ['all', 'All', null],
+    ['cleanup', `Cleanup-resolved`, cleanupCount],
+    ['short', '≤10 pages', DATASET.records.filter(r => r.total_pages <= 10).length],
+    ['mid', '11–100 pages', DATASET.records.filter(r => r.total_pages > 10 && r.total_pages <= 100).length],
+    ['heavy', '>100 pages', heavyCount],
+  ];
+  opts.forEach(([key, label, n]) => {
+    const chip = makeChip(label, n, () => setFilter('status', key));
+    if (filters.status === key) chip.classList.add('active');
+    cont.appendChild(chip);
+  });
+}
+
+function makeChip(label, n, onClick) {
+  const el = document.createElement('span');
+  el.className = 'filter-chip';
+  el.innerHTML = `${escapeHtml(label)}${n != null ? ` <span class="count">${n}</span>` : ''}`;
+  el.addEventListener('click', onClick);
+  return el;
+}
+
+function setFilter(key, val) {
+  filters[key] = val;
+  buildAgencyFilters();
+  buildStatusFilters();
+  rebuildList();
+}
+
+function rebuildList() {
+  const list = $('pdf-list');
+  list.innerHTML = '';
+  const q = filters.search.toLowerCase().trim();
+  const filtered = DATASET.records.filter(r => {
+    if (filters.agency !== 'all' && (r.agency || 'Unspecified') !== filters.agency) return false;
+    if (filters.status === 'cleanup' && r.rejected_then_resolved_pages.length === 0) return false;
+    if (filters.status === 'short' && r.total_pages > 10) return false;
+    if (filters.status === 'mid' && (r.total_pages <= 10 || r.total_pages > 100)) return false;
+    if (filters.status === 'heavy' && r.total_pages <= 100) return false;
+    if (q && ![r.title, r.agency, r.incident_date, r.incident_location, r.stem, r.file].some(s => (s || '').toLowerCase().includes(q))) return false;
+    return true;
+  });
+  filtered.forEach(rec => {
+    const item = document.createElement('div');
+    item.className = 'list-item';
+    if (currentRecord && rec.stem === currentRecord.stem) item.classList.add('active');
+    const agency = rec.agency ? rec.agency.replace('Department of ', '').replace('Department ', '').slice(0, 5) : '—';
+    const flag = rec.rejected_then_resolved_pages.length > 0 ? '<span class="li-flag resolved">cleanup</span>' : '';
+    item.innerHTML = `
+      <div class="li-title">${escapeHtml(rec.title || rec.stem)}</div>
+      <div class="li-meta">
+        <span class="li-agency">${escapeHtml(agency)}</span>
+        <span class="li-pages">${rec.total_pages}p</span>
+        <span>${escapeHtml(rec.incident_date || '—')}</span>
+        ${flag}
+      </div>
+    `;
+    item.addEventListener('click', () => loadRecord(rec, 1));
+    list.appendChild(item);
+  });
+  $('topbar-stats').textContent = `${filtered.length} of ${DATASET.total_pdfs} pdfs`;
+}
+
+function setupSearch() {
+  $('search').addEventListener('input', (e) => {
+    filters.search = e.target.value;
+    rebuildList();
+  });
+}
+
+function setupNav() {
+  $('prev-page').addEventListener('click', () => goToPage(currentPage - 1));
+  $('next-page').addEventListener('click', () => goToPage(currentPage + 1));
+  $('page-input').addEventListener('change', (e) => {
+    const n = parseInt(e.target.value);
+    if (!isNaN(n)) goToPage(n);
+  });
+}
+
+function setupKeyboard() {
+  document.addEventListener('keydown', (e) => {
+    if (e.target.matches('input')) return;
+    if (e.key === 'ArrowLeft') goToPage(currentPage - 1);
+    else if (e.key === 'ArrowRight') goToPage(currentPage + 1);
+    else if (e.key === '/' && !e.target.matches('input')) {
+      e.preventDefault();
+      $('search').focus();
+    }
+  });
+}
+
+function setupResize() {
+  const split = $('split');
+  const divider = $('pane-divider');
+  let dragging = false;
+  divider.addEventListener('mousedown', () => { dragging = true; document.body.style.cursor = 'col-resize'; });
+  document.addEventListener('mouseup', () => {
+    if (dragging) { dragging = false; document.body.style.cursor = ''; if (currentPdf) renderPage(currentPage); }
+  });
+  document.addEventListener('mousemove', (e) => {
+    if (!dragging) return;
+    const rect = split.getBoundingClientRect();
+    const left = Math.max(20, Math.min(80, ((e.clientX - rect.left) / rect.width) * 100));
+    split.style.gridTemplateColumns = `${left}% 1px ${100-left}%`;
+  });
+}
+
+async function loadRecord(rec, page = 1) {
+  currentRecord = rec;
+  currentPage = page;
+  window.location.hash = `${rec.stem}/${page}`;
+
+  $('vh-title').innerHTML = `${escapeHtml(rec.title || rec.stem)}<br><span class="sub">${escapeHtml(rec.stem)}.pdf · ${rec.total_pages} pages · ${formatBytes(rec.size_bytes)}</span>`;
+  $('open-original').href = rec.source_url;
+  $('s-stem').textContent = rec.stem.length > 40 ? rec.stem.slice(0, 40) + '…' : rec.stem;
+  $('s-agency').textContent = rec.agency || '—';
+  $('s-incident').textContent = `${rec.incident_date || '—'} · ${rec.incident_location || '—'}`;
+  $('s-vlm').textContent = `${rec.vlm_model} ${rec.vlm_prompt_version} · ${rec.vlm_dpi}dpi`;
+  $('page-total').textContent = '/ ' + rec.total_pages;
+
+  // Mark active in list
+  document.querySelectorAll('.list-item').forEach(el => el.classList.remove('active'));
+  // (re-render list to show active state robustly)
+  rebuildList();
+
+  // Load markdown FIRST (fast), PDF in parallel (slow)
+  loadMarkdown(rec.stem, page);
+  loadPdf(rec, page);
+}
+
+async function loadPdf(rec, page) {
+  const myGen = ++pdfLoadGen;
+  $('pdf-loader').classList.remove('error');
+  $('pdf-loader').textContent = `Loading PDF (${formatBytes(rec.size_bytes)})...`;
+  $('pdf-loader').style.display = '';
+  $('pdf-canvas').style.display = 'none';
+  try {
+    if (currentPdf) { try { currentPdf.destroy(); } catch {} currentPdf = null; }
+    const url = PDF_BASE + rec.file;
+    const task = pdfjsLib.getDocument(url);
+    task.onProgress = (p) => {
+      if (myGen !== pdfLoadGen) return;
+      if (p.total) {
+        const pct = Math.round(p.loaded / p.total * 100);
+        $('pdf-loader').textContent = `Loading PDF... ${pct}% (${formatBytes(p.loaded)} / ${formatBytes(p.total)})`;
+      } else {
+        $('pdf-loader').textContent = `Loading PDF... ${formatBytes(p.loaded)}`;
+      }
+    };
+    const doc = await task.promise;
+    if (myGen !== pdfLoadGen) { try { doc.destroy(); } catch {} return; }
+    currentPdf = doc;
+    await renderPage(page);
+  } catch (err) {
+    if (myGen !== pdfLoadGen) return;
+    $('pdf-loader').classList.add('error');
+    $('pdf-loader').textContent = 'PDF load failed: ' + err.message;
+  }
+}
+
+async function renderPage(pageNum) {
+  if (!currentPdf || !currentRecord) return;
+  pageNum = Math.max(1, Math.min(currentRecord.total_pages, pageNum));
+  currentPage = pageNum;
+  $('page-input').value = pageNum;
+  $('prev-page').disabled = pageNum <= 1;
+  $('next-page').disabled = pageNum >= currentRecord.total_pages;
+  window.location.hash = `${currentRecord.stem}/${pageNum}`;
+
+  try {
+    const page = await currentPdf.getPage(pageNum);
+    const canvas = $('pdf-canvas');
+    const ctx = canvas.getContext('2d');
+    const dpr = window.devicePixelRatio || 1;
+    const pane = $('pdf-pane');
+    const banner = $('pdf-banner');
+    const availW = pane.clientWidth - 32;
+    const availH = pane.clientHeight - banner.offsetHeight - 24;
+    const viewport0 = page.getViewport({ scale: 1 });
+    const scaleW = availW / viewport0.width;
+    const scaleH = availH / viewport0.height;
+    const scale = Math.min(scaleW, scaleH) * dpr;
+    const viewport = page.getViewport({ scale });
+    canvas.width = viewport.width;
+    canvas.height = viewport.height;
+    canvas.style.width = (viewport.width / dpr) + 'px';
+    canvas.style.height = (viewport.height / dpr) + 'px';
+    canvas.style.display = 'block';
+    $('pdf-loader').style.display = 'none';
+    await page.render({ canvasContext: ctx, viewport, canvas }).promise;
+    $('pdf-banner-info').innerHTML = `page ${pageNum} of ${currentRecord.total_pages} · ${Math.round(viewport0.width)}×${Math.round(viewport0.height)}pt`;
+  } catch (err) {
+    $('pdf-loader').classList.add('error');
+    $('pdf-loader').style.display = '';
+    $('pdf-loader').textContent = 'Render failed: ' + err.message;
+  }
+}
+
+async function loadMarkdown(stem, pageNum) {
+  const myGen = ++mdLoadGen;
+  const padded = String(pageNum).padStart(3, '0');
+  $('md-loader').style.display = '';
+  $('md-loader').classList.remove('error');
+  $('md-loader').textContent = `Loading page ${pageNum}...`;
+  $('md-content').style.display = 'none';
+
+  const url = `${MD_BASE}${stem}/page_${padded}.md`;
+  try {
+    const r = await fetch(url);
+    if (myGen !== mdLoadGen) return;
+    if (!r.ok) {
+      $('md-loader').classList.add('error');
+      $('md-loader').textContent = `No markdown for page ${pageNum} (HTTP ${r.status})`;
+      return;
+    }
+    const md = await r.text();
+    if (myGen !== mdLoadGen) return;
+
+    const rec = currentRecord;
+    const badges = [];
+    if (rec && rec.rejected_then_resolved_pages.includes(pageNum)) {
+      badges.push('<span class="badge resolved">cleanup-resolved</span>');
+    }
+    if (rec && rec.error_pages.includes(pageNum)) {
+      badges.push('<span class="badge error">error</span>');
+    }
+    if (md.trim().length < 50) {
+      badges.push('<span class="badge empty">minimal</span>');
+    }
+    $('md-banner-info').innerHTML = `${badges.join(' ')} page ${pageNum} of ${rec.total_pages} · ${md.length} chars`;
+    $('md-content').innerHTML = marked.parse(md);
+    $('md-content').style.display = 'block';
+    $('md-loader').style.display = 'none';
+    $('md-pane').scrollTop = 0;
+  } catch (err) {
+    $('md-loader').classList.add('error');
+    $('md-loader').textContent = 'Markdown load failed: ' + err.message;
+  }
+}
+
+function goToPage(n) {
+  if (!currentRecord) return;
+  n = Math.max(1, Math.min(currentRecord.total_pages, n));
+  if (n === currentPage) return;
+  currentPage = n;
+  loadMarkdown(currentRecord.stem, n);
+  if (currentPdf) renderPage(n);
+}
+
+function formatBytes(n) {
+  if (n < 1024) return n + ' B';
+  if (n < 1024 * 1024) return (n / 1024).toFixed(1) + ' KB';
+  return (n / (1024 * 1024)).toFixed(1) + ' MB';
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
+}
+
+init().catch(err => {
+  $('pdf-loader').classList.add('error');
+  $('pdf-loader').textContent = 'Init failed: ' + err.message;
+});
+</script>
+
+</body>
+</html>

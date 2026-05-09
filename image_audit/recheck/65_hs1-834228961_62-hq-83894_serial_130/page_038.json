@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 38,
+  "original_image_tags": [
+    "scanned page of a typed letter on aged, slightly yellowed paper. A horizontal line crosses through the word \"CONFIDENTIAL\" at the top and bottom of the page. A handwritten number \"10\" is in the top left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter dated August 20th, 1947, from F. M. Johnson to Lt. Col. Donald L. Springer regarding a sighting of flying discs in the Mt Adams district on June 24th. Includes a typed signature block and a handwritten signature with the stamp 'A TRUE COPY' over typed text 'DONALD L. SPRINGER Lt. Colonel, GSC, AC of S, A-2'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree the page contains a typed letter, but Description A describes physical attributes of the scanned page (aged paper, confidential lines, handwritten number) while Description B focuses on the letter's content (date, names, subject, signature block), with no direct contradiction on visual elements.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:12:58"
+}

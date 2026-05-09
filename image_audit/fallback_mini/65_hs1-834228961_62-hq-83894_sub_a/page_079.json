@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 79,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific verbatim text (headline, subheadline, newspaper name, date, location) that Description A does not mention at all, indicating a major discrepancy in the visual content described.",
+  "original_image_tags": [
+    "Clipping is a yellowed newspaper column snippet with a black border drawn around it. Text is in a multi-column, serif font.",
+    "A pre-printed routing slip stamped in purple ink on the right side of the page."
+  ],
+  "gpt_mini_desc": "*Image: A document page with a pasted newspaper clipping titled “FLYING SAUCER REPORT MAY BE BALLOON,” surrounded by handwritten annotations, a small purple typewritten name list at upper right, and official stamps near the bottom reading “OFFICE OF THE LEGAL ATTACHE AMERICAN EMBASSY LONDON, ENGLAND” and “NOT RECORDED 76 APR 29 1950.”*",
+  "gpt_mini_desc_len": 337,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 89,
+    "total_tokens": 54741,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:08"
+}

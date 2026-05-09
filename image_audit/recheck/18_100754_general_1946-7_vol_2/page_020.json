@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "18_100754_general_1946-7_vol_2",
+  "page_num": 20,
+  "original_image_tags": [
+    "The document is a typewritten memorandum on aged, light-grey paper. A red \"CONTIDENTIAL\" stamp is crossed out with a single black line at the top center. Another red \"CONTIDENTIAL\" stamp, also crossed out, appears at the bottom center. The top left and bottom right corners have \"COPY\" written vertically. The bottom left corner has a handwritten notation \"Incl #1\". The paper shows signs of age, including some discoloration and punch holes on the left margin."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typewritten memorandum dated 29 September 1947 and 13 Oct 1947, subject 'Flying Discs', addressed to Commanding Officer at Kirtland Field. It contains typed body text, two 'CONFIDENTIAL' stamps (crossed out), vertical 'COPY' text, and two hole-punch marks."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same set of visual elements: a typewritten memorandum with two crossed-out 'CONTIDENTIAL' stamps, vertical 'COPY' text, and two hole-punch marks, with no contradictory claims about specific quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:23"
+}

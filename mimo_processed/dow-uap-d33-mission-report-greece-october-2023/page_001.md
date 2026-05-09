@@ -1,0 +1,48 @@
+Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 22 January 2026
+
+*[REDACTED]*
+
+# Misrep 9329374
+
+## Narrative
+
+*[REDACTED]*
+
+AT 2339Z, *[REDACTED — 1.4(a)]* TOOK OFF FROM LGLR. AT 2352Z, *[REDACTED — 1.4(a)]* HANDED OVER FROM THE LRE. *[REDACTED — 1.4(a)]* PROCEEDED TO FRAGGED TASKING TO SUPPORT DATA MASKED.
+
+AT 0013Z, *[REDACTED — 1.4(a)]* WAS 7-LINED TO SUPPORT DATA MASKED. *[REDACTED — 1.4(a)]* ARRIVED ON-STATION AT 0342Z, CHECKED IN WITH DATA MASKED, AND PERFORMED FMV/SIGINT COLLECTION AT 36S YC 40*[REDACTED — 1.4(a)]*5*[REDACTED — 1.4(a)]* (SEE ISR 1).
+
+AT 0035Z, *[REDACTED — 1.4(a)]* OBSERVED 1X POSS UAP (SEE UAP 1).
+
+AT 1011Z, *[REDACTED — 1.4(a)]* RETURNED TO BASE. AT 1213Z, *[REDACTED — 1.4(a)]* HANDED BACK TO THE LRE. AT 1309Z, *[REDACTED — 1.4(a)]* LANDED AT OJMS. FULL MOTION VIDEO WAS EXPLOITED BY GET. 13:30 MISSION HOURS, 06:29 FMV HOURS, 1X FMV TASKINGS PROSECUTED.
+
+*[REDACTED]*
+
+*(*)* Mission Narrative
+
+## Admin
+
+*CLASSIFICATION*
+
+* Classification: *[REDACTED]*
+* Associated Caveats: *[REDACTED]*
+* Classification Source (MS or Classification Guide ID): MS
+* Declassification Date (YYYYMMDD): 20481026
+
+*OPERATION*
+
+* Operation: *[REDACTED — 1.4(a)]*
+* Domain: AIR
+* Operations Center: 603rd
+* Major Command (MAJCOM): AFSOC
+* Combatant Command (COCOM): USCENTCOM
+
+*[3.5c, (b)(6)]*
+
+*[REDACTED]*
+
+USCENTCOM MDR 26-0019
+Approved for Release to AARO
+01/26/26 001

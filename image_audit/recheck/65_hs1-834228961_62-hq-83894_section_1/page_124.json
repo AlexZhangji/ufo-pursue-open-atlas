@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 124,
+  "original_image_tags": [
+    "The reverse side of a light blue-gray document, likely cardstock. At the top, faint, reversed, typewritten text from the other side is visible through the paper, with the heading \"Daily City Sightings Mental Works\". A large, ornate, cursive watermark reading \"SECOND Bond\" is visible in the center of the page. The bottom right corner features an upside-down FBI stamp. The bottom left corner has some handwritten notes in pencil or light ink. There are two hole-punch holes at the top.",
+    "A standard, rectangular, blue ink stamp, oriented upside down on the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Inverted blue stamped text at bottom right: 'MR. JONES / RECEIVED / FBI / S DEPT OF JUSTICE / MAY 25 3 09 PM 47'. A black ink handwritten signature or initials is present at the bottom left, along with some illegible markings. The reverse side of a typed document is visible through the paper, showing mirrored text including 'Daily Civil Aircraft Material Works' and other faded lines."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions quote completely different text for the stamp at the bottom right ('MR. JONES / RECEIVED / FBI / S DEPT OF JUSTICE / MAY 25 3 09 PM 47' vs. a generic upside-down FBI stamp with no quoted text), indicating a direct contradiction on the specific visual content of the stamp.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:27:51"
+}

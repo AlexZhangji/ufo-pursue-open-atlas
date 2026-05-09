@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "fbi-photo-b9",
+  "page_num": 1,
+  "original_image_tags": [
+    "Black-and-white infrared (BHOT or WHOT mode) sensor still from a military tracking system. A central white crosshair reticle with graduated scale marks is visible. A small, dark, circular object is located just below and to the left of the reticle's center point. The timestamp \"12/31/99 18:10:26\" is overlaid in white text at the bottom left. Multiple horizontal and vertical black redaction bars cover most data fields and overlays across the image. A large horizontal black redaction bar covers the top edge. Three rows of black redaction bars are present on the left and right sides, obscuring what are likely telemetry data, sensor mode, coordinates, altitude, and other metadata. The background is a grainy, uniform gray tone, suggesting a clear sky or cloud layer. The object appears as a distinct, non-luminous (dark) dot against the lighter background."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A grayscale image, likely a sensor capture, featuring a central crosshair with a horizontal scale marked with numbers (15, 10, 5 on both left and right sides) and small tick marks. The image contains seven distinct black rectangular redaction blocks placed around the central area. A single small dark dot is visible just left of the central crosshair. The bottom left corner contains a timestamp: '12/31/99 18:10:26'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content: a grayscale sensor image with a central crosshair, a small dark dot near the center, a timestamp '12/31/99 18:10:26', and multiple black redaction blocks, but Description A adds details (e.g., infrared mode, specific redaction bar placement) not present in B.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:19:05"
+}

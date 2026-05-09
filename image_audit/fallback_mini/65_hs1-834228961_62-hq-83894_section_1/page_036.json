@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 36,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a stylized logo with wings, while Description B describes a newspaper masthead with a pediment/roofline, indicating they are describing different visual content.",
+  "original_image_tags": [
+    "Stylized logo featuring a domed building with a flag at the apex and large wings extending horizontally to the left and right."
+  ],
+  "gpt_mini_desc": "*Image: Scanned newspaper front-page masthead titled “THE ALAMO REGISTER,” with a large stylized header, a small flag emblem at the top center, and printed publication text above and below the title.*",
+  "gpt_mini_desc_len": 200,
+  "usage": {
+    "prompt_tokens": 27901,
+    "completion_tokens": 47,
+    "total_tokens": 27948,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:18"
+}

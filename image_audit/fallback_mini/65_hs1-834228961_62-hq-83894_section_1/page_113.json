@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 113,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A states the stamp is 'faint' and 'partially legible,' while Description B provides extensive, specific, and legible quoted text that A does not see, indicating a clear contradiction on the visual content of the stamp.",
+  "original_image_tags": [
+    "Faint purple ink stamp, partially legible."
+  ],
+  "gpt_mini_desc": "*Image: Blank scanned document page with faint handwritten/typed text impressions and several blue/purple archival stamp impressions near the bottom and small dark punch/ink marks along the top edge.*",
+  "gpt_mini_desc_len": 200,
+  "usage": {
+    "prompt_tokens": 13346,
+    "completion_tokens": 40,
+    "total_tokens": 13386,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:01"
+}

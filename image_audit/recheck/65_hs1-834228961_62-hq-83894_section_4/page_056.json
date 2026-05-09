@@ -1,0 +1,34 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 56,
+  "original_image_tags": [
+    "US Army \"SAVE\" Conservation Program stamp located top left.",
+    "Small circular hole punch marks in top center.",
+    "Large black redaction/mark on top left near \"SAVE\" stamp."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular logo at the top left with text 'SAVE CONSERVATION PAPER' around a central 'SAVE' with smaller text inside. A rectangular 'DECLASSIFIED' label at the top right with 'Authority: NND 90986' below."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum on Air Materiel Command letterhead, dated 9 September 1948, addressed to the FBI Laboratory regarding a soil sample from a 'flying saucer' depression for Project 'SIGN'. Includes various handwritten annotations, file numbers, and a 'COPIES DESTROYED' stamp at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B describes a detailed memorandum with typed text and stamps as visual content, while Description A only mentions a stamp, hole punch marks, and a black mark, indicating completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:26"
+}

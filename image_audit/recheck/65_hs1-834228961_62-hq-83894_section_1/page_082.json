@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 82,
+  "original_image_tags": [
+    "Aged, light-yellow paper page with two hole-punch marks at the top. The page contains faded, backward-bleeding text from the reverse side and is largely blank except for stamps in the lower right quadrant.",
+    "A stamped block in red ink, oriented upside down relative to the main page view.",
+    "A blue ink stamp, oriented upside down relative to the main page view, and a small handwritten notation."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One red rectangular stamp in the bottom right corner. The text inside reads: 'U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF INVESTIGATION', 'COMMUNICATIONS SECTION', 'MAIL ROOM', 'RECEIVED-MAIL ROOM', and a date and time stamp 'JUL 1 2 1947 P.M. 4:44 P.M. #17'. The paper is aged and yellowed, with two hole punches at the top. There is faint, mirrored text visible through the paper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the page having two hole-punches, aged yellowed paper, faint mirrored text, and a red rectangular stamp in the bottom right, but Description B adds specific quoted text from the stamp that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:19"
+}

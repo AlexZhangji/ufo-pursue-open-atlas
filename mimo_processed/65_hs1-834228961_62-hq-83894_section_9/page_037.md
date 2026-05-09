@@ -1,0 +1,9 @@
+*Image: A single page of lined paper with three hole-punches at the top, containing a handwritten letter in dark red ink. The handwriting is cursive and slightly slanted.*
+
+our print if they would put up a station with our print in neon lights they could understand what it is and that it would be for an exchange of newspapers. I imagine that they are quite disgusted with our sputnick and they could give us much knowledge that we need if we could contact them.
+If you think that there is nothing to this and you don't believe it don't answer if you want to answer send a letter to a friend of mine you can't write to my home because my own relatives would lock me up if they knew that I wrote to you because they definitely would not believe it so I never talked about this to anyone (Oh yes our picture was inside)
+my name *Mrs. Harold Ferguson* put *[handwritten note above "envelope": with my name on it]* your letter in a sealed envelope, and put it in another envelope and address to
+
+Mrs. Lester Ramsby
+2506 Pleasant Plain Ave
+Elkhart, Indiana

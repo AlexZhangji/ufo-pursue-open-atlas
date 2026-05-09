@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 14,
+  "categories": [
+    "newspaper_clipping_illustration",
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions describe fundamentally different images: A depicts two men in an office pointing at a UFO and a photograph of three people in snow, while B depicts a man seated at a desk pointing at a door and a glowing oval object over a landscape.",
+  "original_image_tags": [
+    "black-and-white political cartoon titled \"'Report Them . . . Forget It— I Have Enough Credibility Problems As It Is'\" dated 4-18-66. Depicts two men in suits standing in an office. One man points out a window where a flying saucer hovers in the sky. The other man, appearing to be an official or executive, gestures dismissively with a hand up, holding papers. The scene implies a government official refusing to acknowledge a UFO sighting.",
+    "black-and-white photograph embedded within the text columns. Shows a group of approximately three people outdoors in winter clothing, standing in a snowy landscape. They appear to be looking at or pointing toward an object in the sky. A dark, disc-shaped object is visible in the sky above them. There is a caption credit: (C) New York Herald Tribune Photos."
+  ],
+  "gpt_mini_desc": "*Image: A newspaper-page collage of multiple UFO-related article clippings and a small cartoon illustration of two men in an office looking at three flying saucers outside a window, with the caption “Report Them . . . Forget It— I Have Enough Credibility Problems As It Is” and date “4-18-66.”*",
+  "gpt_mini_desc_len": 294,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 70,
+    "total_tokens": 57732,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:48"
+}

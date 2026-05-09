@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+  "page_num": 91,
+  "original_image_tags": [
+    "A composite of four black-and-white photographs arranged in a grid pattern against the newspaper page background."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A composite panel containing four distinct black-and-white photographs depicting alleged UFOs. Top left: an aerial, grainy photograph of a light-colored triangular shape over a dark landscape. Top right: a photograph of a dark, disc-shaped object against a sky background with faint light trails below it. Bottom left: a dark, roughly oval object against a lighter sky, with a small bright dot near its center. Bottom right: a blurry, dark, elongated horizontal shape against a light background. A caption below reads: 'Images of purported UFOs, taken by, above, a Costa Rican mapping aircraft in 1971 and reproduced on the cover of a report by the French military; below left, a Zanesville, Ohio, barber in 1966; below right, a high school student in Beaver, Pa.; bottom right, teenage brothers in Detroit in 1967.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on a composite of four black-and-white photographs, but Description B adds extensive, uncorroborated detail about UFO depictions and a specific caption that Description A does not mention.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:41"
+}

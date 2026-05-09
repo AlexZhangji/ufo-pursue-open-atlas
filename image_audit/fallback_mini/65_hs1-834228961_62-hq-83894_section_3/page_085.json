@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 85,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific verbatim stamp text ('AUG 1 5 1947', 'SEP 29 194') and specific typed text ('FLYING DISCS') that Description A does not identify or quote at all, indicating hallucination of visual detail not confirmed by the other description.",
+  "original_image_tags": [
+    "The page is a pink teletype slip with various stamps, typed text, and handwritten annotations."
+  ],
+  "gpt_mini_desc": "*Image: A scanned pink FBI teletype document page with typed text, multiple handwritten initials and annotations, punched holes near the top, and red/blue stamp-like markings and dates.*",
+  "gpt_mini_desc_len": 186,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 41,
+    "total_tokens": 14933,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:23"
+}

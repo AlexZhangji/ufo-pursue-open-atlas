@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 14,
+  "original_image_tags": [
+    "A faded, discolored document page with a large, greenish-blue stain or smudge covering much of the surface, obscuring the typed content underneath. There are two punch holes at the top. A handwritten or stamped note is visible at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint, faded blue ink stamp located at the bottom center, oriented upside down. The text is difficult to read clearly but includes legible words: 'REC'D - TOI SON'S OFFICE', 'received by', 'Aug 13 5PM', 'U.S. DEPT. OF JUSTICE', 'F.B.I.', and 'U.S. Mailing Office 54 PM 52'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint, faded red ink stamp located at the bottom right corner, oriented upside down. The text is difficult to read but appears to say 'REC'D AUG 29 1945'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a large greenish-blue stain and punch holes, while Description B describes two distinct upside-down ink stamps with specific quoted text, indicating they are describing different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:48:10"
+}

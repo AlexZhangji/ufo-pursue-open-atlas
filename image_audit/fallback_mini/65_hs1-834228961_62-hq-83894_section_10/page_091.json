@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 91,
+  "categories": [
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions disagree on key visual elements (e.g., the central figure's pose, presence of a cross, presence of a star) and on the specific quoted text within the images.",
+  "original_image_tags": [
+    "Black-and-white photograph of a fresco depicting a crowded scene of robed figures, possibly biblical or historical, gathered outdoors. In the upper left background, a large, dark, bell-shaped or bell-bottomed object is depicted in the sky.",
+    "Black-and-white photograph of a circular religious icon depicting \"The Resurrection of our Lord Jesus Christ\". A central figure (Jesus) is shown ascending or rising above a tomb, surrounded by soldiers and other figures. The scene is set within a landscape with buildings in the background. The object labeled as \"The House of the Lord\" in the text is depicted in the upper portion of the icon as a large, dark, circular or bell-shaped object in the sky.",
+    "Black-and-white photograph of a fresco or mural painting showing a group of figures, possibly angels or saints, with large wings, clustered together and appearing to fly or be carried towards the left. They are depicted against a dark background with some architectural elements visible."
+  ],
+  "gpt_mini_desc": "*Image: Three black-and-white illustration panels depicting groups of people and UFO-like craft in the sky; the upper panel shows a crowd looking upward at a pointed flying object, the middle panel shows a religious fresco with figures and angels above a chapel-like scene, and the lower panel shows a crowd beside a building with a disc-shaped craft overhead.",
+  "gpt_mini_desc_len": 360,
+  "usage": {
+    "prompt_tokens": 51648,
+    "completion_tokens": 72,
+    "total_tokens": 51720,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:38"
+}

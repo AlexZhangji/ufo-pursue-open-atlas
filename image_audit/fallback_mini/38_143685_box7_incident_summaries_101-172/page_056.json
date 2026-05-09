@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 56,
+  "categories": [
+    "diagram",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both agree on a hand-drawn diagram on a dark background depicting a sequence of observations of objects, with one side providing much more specific detail on labels, steps, and text without contradiction.",
+  "original_image_tags": [
+    "A dark, high-contrast sketch or diagram on a black background, appearing to be a page from a classified report. The page is heavily creased with a diagonal fold from top-left to bottom-right. Two hole punches are visible on the left margin. The diagram depicts a sequence of observations of unidentified objects in the sky, with handwritten directional indicators and typed narrative text."
+  ],
+  "gpt_mini_desc": "*Image: A black-and-white document page with a schematic diagram of four numbered object positions (1)–(4), two hand-drawn north arrows, a hand-written note “left on this heading,” and typewritten explanatory captions describing object movement; large overprinted “CONFIDENTIAL” appears at the top and bottom.*",
+  "gpt_mini_desc_len": 310,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 69,
+    "total_tokens": 57731,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:12"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_173-233",
+  "page_num": 5,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes an arrow and typed label while Description B describes a sketch with typed labels 'Facing South' and 'EAST', indicating they are describing different visual content entirely.",
+  "original_image_tags": [
+    "A sparse, hand-drawn diagram on a cream-colored, aged paper page. The paper has two punched holes at the top edge. At the top left, an arrow points right with the typed label \""
+  ],
+  "gpt_mini_desc": "*Image: A scanned document page with two punched holes at the top and simple orientation markings, including the typed text “Facing South” and three compass labels: “NORTH” near a vertical line at upper right, “WEST” at lower right, and “SOUTH EAST” shown twice near the center.*",
+  "gpt_mini_desc_len": 279,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 66,
+    "total_tokens": 57728,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:17"
+}

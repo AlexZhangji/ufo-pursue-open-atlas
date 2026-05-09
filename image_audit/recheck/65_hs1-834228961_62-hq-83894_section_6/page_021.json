@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 21,
+  "original_image_tags": [
+    "Red ink stamp: \"RECEIVED RECORDS SECTION Oct 11   10 42 '50\"",
+    "Blue ink stamp: \"U.S. DEPT. OF JUSTICE FBI RECEIVED MR. JONES. Oct 11   3 42 PM '50\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple ink stamps and handwritten annotations on an off-white page. Visible stamps include 'MR. JONES. OCT 11 3 42 PM '50 RECEIVED FBI' (blue), 'RECEIVED RECORDS SECTION Oct 11 11 42 '50' (red), and faint blue stamps reading 'RECORDED - 152' and 'INDEXED - 152'. There is also a faint, illegible handwritten annotation in the bottom left corner. The rest of the page contains very faint, illegible bleed-through handwriting from the reverse side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B adds specific quoted stamp text ('MR. JONES. OCT 11 3 42 PM '50 RECEIVED FBI', 'RECORDED - 152', 'INDEXED - 152') and handwritten annotations that Description A does not see or quote, creating contradictions in the number and content of visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:33"
+}

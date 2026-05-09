@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 51,
+  "original_image_tags": [
+    "The image is a scan of the reverse side of a document. The paper is aged and yellowed, with two punch holes at the top and a torn corner at the top right. The typed text from the obverse side is visible in reverse (bleed-through), making it largely illegible. The only clear, non-reversed markings are official stamps and a handwritten note at the bottom.",
+    "A red rectangular stamp from the FBI's Communications Section, indicating the document was mailed on March 29, 1948.",
+    "A blue circular or oval date-stamp from the FBI Mail Room, indicating receipt on March 25, 1948, at 6:41 PM.",
+    "A handwritten filing or reference code in the bottom margin.",
+    "A handwritten note in pencil or light ink, likely an internal processing comment.",
+    "Faint, reversed text from the front of the page, indicating the content is a memo dated July 11, 1948, referencing testimony before a Senate committee, and marked \"SECRET\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded, yellowish page showing the reverse side of a typed document. The primary visual element is a red rectangular stamp at the bottom right containing text related to a U.S. Department of Justice communication section, with visible words including 'MAILED' and 'MAR 26 1942'. Above this is a blue stamped annotation with partially legible text including 'FBI' and 'STICE'. The page also shows two punched holes at the top and a torn top-right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions provide contradictory text for the same stamp: one reads 'March 29, 1948' and the other reads 'MAR 26 1942'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:18"
+}

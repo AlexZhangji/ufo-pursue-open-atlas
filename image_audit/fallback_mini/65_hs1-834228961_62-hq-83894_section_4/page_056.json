@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 56,
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B describes a detailed memorandum with typed text and stamps as visual content, while Description A only mentions a stamp, hole punch marks, and a black mark, indicating completely different visual content.",
+  "original_image_tags": [
+    "US Army \"SAVE\" Conservation Program stamp located top left.",
+    "Small circular hole punch marks in top center.",
+    "Large black redaction/mark on top left near \"SAVE\" stamp."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typewritten memorandum page on Air Materiel Command letterhead, with multiple handwritten annotations, red marks, and declassification stamps; no photograph or diagram is present.*",
+  "gpt_mini_desc_len": 198,
+  "usage": {
+    "prompt_tokens": 15665,
+    "completion_tokens": 40,
+    "total_tokens": 15705,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:31"
+}

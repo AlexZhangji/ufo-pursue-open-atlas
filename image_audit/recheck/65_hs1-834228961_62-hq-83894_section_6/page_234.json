@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 234,
+  "original_image_tags": [
+    "A black-and-white photograph of a dark-colored envelope. The address is handwritten in large, white or light-colored capital letters. In the upper right corner, there is a United States postage stamp and a circular postmark. A handwritten annotation is visible in the upper left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black and white photograph of a dark-colored envelope. The envelope is addressed in white handwritten text to 'THE CINCINNATI ENQUIRER'. A circular postmark reads 'CINCINNATI, OHIO / JUL 3 / 930PM / 1952'. A 3-cent United States postage stamp depicting Thomas Edison is affixed at the top right, partially canceled by wavy lines. A faint, diagonal handwritten annotation is visible in the upper left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content—a black-and-white photograph of a dark envelope with handwritten addressing, a postmark, a stamp, and an upper-left annotation—while Description B adds specific quoted text (e.g., 'CINCINNATI ENQUIRER', the postmark date and time, the stamp subject) that Description A omits but does not contradict.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:34:39"
+}

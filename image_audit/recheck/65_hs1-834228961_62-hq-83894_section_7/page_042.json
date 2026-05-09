@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 42,
+  "original_image_tags": [
+    "A vertical, off-white paper document page, appearing aged with discoloration and foxing. It is the back side of a typed memo, showing the text from the front side in reverse (bleed-through). The page has two punched holes at the top edge. At the bottom, there are several official ink stamps, some oriented upside-down relative to the main document."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Bottom left: inverted stamped text including 'U.S. DEPT. OF JUSTICE', 'F B I', 'REC'D. ESPIONAGE', 'SEP 15 10 11 AM '35'. Bottom center: inverted stamped text 'REC'D. BELMONT', 'F.B.I.', 'Sep 15 12 20 PM '35'. Bottom right: faint inverted date stamp 'SEP 18 1935'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description A provides a general overview of stamps at the bottom, while Description B provides specific quoted text from those stamps, adding detail without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:50:21"
+}

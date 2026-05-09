@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 94,
+  "original_image_tags": [
+    "The page is a scanned copy of a typed document, appearing to be the back of a page or a carbon copy, showing faint \"bleed-through\" text from the reverse side. The text on this side is oriented upside-down relative to the primary document view. Two hole-punch marks are visible at the top. Several stamps are present, oriented in different directions."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page contains faint, reversed typed text (show-through from the reverse side), two dark circular punch holes at the top, and several blue and black ink stamps. Visible stamps include: an upside-down 'RECEIVED' stamp with a date/time and 'FBI'/'INTERNAL SECURITY' text; a vertical 'REC'D ESPIONAGE - NAT. IN.' stamp with 'APR 29 8 08 AM '59'; and a faint 'EC 101' stamp."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims specific verbatim text from stamps (e.g., 'RECEIVED', 'FBI', 'INTERNAL SECURITY', 'APR 29 8 08 AM 59', 'REC'D ESPIONAGE - NAT. IN.', 'EC 101') that Description A does not mention at all, and Description A states the text is oriented upside-down relative to the primary view while Description B describes stamps in various orientations including vertical, creating a factual contradiction about the specific quoted text content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:04"
+}

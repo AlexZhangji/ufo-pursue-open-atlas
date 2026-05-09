@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 32,
+  "original_image_tags": [
+    "A hand-drawn line graph on grid paper titled by its axes. The paper is marked at the top center as \"THE FREDERICK POST CO., CHICAGO, ILL.\" and \"331-20 20X20 PER INCH\". A \"CONFIDENTIAL\" stamp is visible at the top center, partially obscured by the graph border, and again at the bottom center over the x-axis label. The graph plots four categories of aerial observations over a 24-hour period. The paper has two hole-punch marks on the left margin."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "A hand-drawn line graph on grid paper titled 'TIME OF SIGHTINGS' (x-axis) and 'Number of Observations' (y-axis). The x-axis ranges from 16 to 16 (representing hours of the day, presumably 4 PM to 4 PM). The y-axis ranges from 0 to 40. A legend in the upper right defines four line types: 'Meteorites' (dotted line), 'Meteors' (dashed line), 'Green \"Fireballs\"' (solid line), and '\"Disks\" or Variations' (dash-dot line). Text annotations mark peak points: 'GREEN \"FIREBALL\" MAXIMUM', 'METEOR MAXIMUM', 'METEORITE MAXIMUM', and '\"DISK\" or VARIATION MAXIMUM'. The words 'CONFIDENTIAL' are stamped above and below the graph. The graph shows the 'Meteorites' line peaking highest near the 'METEORITE MAXIMUM' label."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (a hand-drawn line graph on grid paper with four line categories, 'CONFIDENTIAL' stamps, and axis titles), but B adds specific axis ranges, legend line types, and text annotations not mentioned by A, without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:34"
+}

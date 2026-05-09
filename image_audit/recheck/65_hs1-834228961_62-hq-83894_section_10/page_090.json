@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 90,
+  "original_image_tags": [
+    "Circular logo with the letters \"F.C.S.D.\" at the top. Inside the circle are stylized symbols including a triangle pointing down with a horizontal line through it, a curved shape resembling a \"9\", and three small circles. A cross-like shape is at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "A circular logo or emblem containing the letters 'F.C.S.D.' above a stylized drawing of two figures. Located on the left page above a text block."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions differ on key visual content: Description A lists specific internal symbols (triangle, curved shape, circles, cross) while Description B states there are 'two figures', presenting a fundamental disagreement about the depicted objects.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:47"
+}

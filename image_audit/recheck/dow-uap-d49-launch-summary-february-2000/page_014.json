@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d49-launch-summary-february-2000",
+  "page_num": 14,
+  "original_image_tags": [
+    "Two black circular punch holes are visible on the right margin of the document, one near the top right and one near the bottom right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "A table titled 'ANNUAL LAUNCH SUMMARY BY BOOSTER, Chart III, 1999 - 2018'. It lists numerous 'LAUNCH VEHICLE' names in the left column, with columns for years '99', '00', and subsequent unlabelled years. The far right columns are labeled 'SUB TOTAL' and 'GRAND TOTAL', containing numerical values. The table is populated with data, showing counts of launches for various vehicles. A 'SUB TOTAL' row at the bottom lists '17' for year '99' and '2' for year '00', a 'SUB TOTAL' of '19', and a 'GRAND TOTAL' of '1,790'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes punch holes, while Description B describes a detailed chart, indicating the two descriptions are about completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:17:55"
+}

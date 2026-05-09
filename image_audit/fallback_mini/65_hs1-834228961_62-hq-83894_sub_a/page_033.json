@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 33,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree the image is a newspaper clipping, but Description B adds specific headline text not mentioned in A, while A adds details like 'yellowed with age' and paper name not in B, with no direct contradictions.",
+  "original_image_tags": [
+    "A newspaper clipping, yellowed with age, affixed to the page. The clipping is from the \"Times-Herald\" or a similar Washington D.C. paper, based on context. The main headline is bold."
+  ],
+  "gpt_mini_desc": "*Image: A scanned archival document page with a pasted newspaper clipping headline, handwritten annotations, date stamps, and a right-hand column of typed names with check marks and blanks.*",
+  "gpt_mini_desc_len": 190,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 38,
+    "total_tokens": 56194,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:58"
+}

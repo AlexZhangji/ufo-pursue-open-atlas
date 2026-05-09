@@ -1,0 +1,47 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 14,
+  "original_image_tags": [
+    "Stamped in the bottom right corner is a blue rectangular stamp from the FEDERAL BUREAU OF INVESTIGATION, U.S. DEPT. OF JUSTICE. Inside the stamp is the date AUG 30 1947 and the text \"SAN FRANCISCO OFFICE\". There is also text \"ROUTED TO\" with an arrow pointing right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular stamp in the lower right area with the text 'FEDERAL BUREAU OF INVESTIGATION U.S. DEPT JUSTICE', a date 'AUG 30 1947', and 'SAN FRANCISCO' below the date."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large red alphanumeric stamp in the lower center area reading '62-83894-162' with the word 'ENCLOSURE' printed below it."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular stamp along the bottom edge with the text 'CONFIDENTIAL' centered."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A small rectangular stamp in the lower right corner with the text 'ROUTED TO'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "The word 'CONFIDENTIAL' printed in the top right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B invents three additional stamps (red alphanumeric stamp, 'CONFIDENTIAL' stamps) not present in Description A, and claims a 'ROUTED TO' stamp in the lower right while Description A places it elsewhere, creating contradictions on object counts and visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:30:23"
+}

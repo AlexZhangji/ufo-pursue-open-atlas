@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "dow-uap-d4-mission-report-arabian-gulf-2020",
+  "page_num": 5,
+  "original_image_tags": [
+    "The page is largely obscured by a black box with large red text reading \"1.4(a)\". Below this, a partial text fragment is visible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Large red alphanumeric text '1.4(a)' at the top of the page."
+      },
+      {
+        "category": "redacted_only",
+        "description": "Multiple solid black rectangular redaction boxes covering text in the middle and bottom of the page."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "Typed body text including 'GENTEXT/UAP', a description paragraph mentioning a UAP observation, and 'SECRET//REL TO USA, FVEY' at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the main visual content: large red '1.4(a)' text and black redaction boxes, but Description B adds details (typed body text content) that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "redacted_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:16:37"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 180,
+  "original_image_tags": [
+    "A small, yellowed newspaper clipping is affixed to a larger piece of off-white paper. The clipping is from the \"ATLANTA JOURNAL\" dated \"SUNDAY, 7/25/48\". The clipping is secured with two pieces of translucent tape, one at the top and one at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A single newspaper clipping with the headline 'Continuous Light' and subheadings 'Not Boeing Plane'. It contains several paragraphs of text describing a sighting of a 'Thing' over Montgomery, quotes from individuals like C. L. McKelvie, Gen. George C. Kenney, and William M. Allen, and mentions of air radar weather observation balloons. The clipping is taped to the page. Below the clipping, typed text reads 'ATLANTA JOURNAL SUNDAY, 7/25/48'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A omits the specific headline 'Continuous Light' and the quoted text within the clipping, while Description B quotes names and text inside the image that A does not mention, indicating a significant discrepancy in reported visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:29"
+}

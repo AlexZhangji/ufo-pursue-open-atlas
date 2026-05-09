@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 92,
+  "original_image_tags": [
+    "Black-and-white photograph of a circular, metallic artifact, resembling a shallow, inverted bowl or saucer. The object is viewed from directly above (top-down perspective). It has a smooth, convex upper surface with a dark, circular aperture or hole at its center. A raised, circular rim or lip defines the outer edge. A dark, cylindrical rod or handle extends upwards from the center of the object, disappearing off the top edge of the frame. A second, shorter, lighter-colored rod or support is visible at the bottom-left, appearing to prop up the artifact. The object shows surface wear, scratches, and some discoloration or tarnishing, particularly on the left side. The background is a dark, uniform surface. The photograph is presented with a thin, light-colored border, likely from the original print. There is no visible text, labels, or stamps on the image itself."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "One black-and-white photograph showing a large, circular, metallic object resembling a disc or shallow bowl. The object has a central hole or recess and a raised outer rim. A dark, rod-like shadow or object extends vertically from the top center into the central hole. The surface appears textured, with visible smudges or imperfections, particularly in the lower-left quadrant. The object is mounted on a small, dark, L-shaped bracket at the bottom left. The photograph is set against a dark, uniform background and has a white border."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content: a black-and-white photograph of a single, circular, metallic object with a central hole and raised rim, set against a dark background, with support elements at the bottom-left, though they differ on minor details like the support's shape and the presence of a border.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:27:31"
+}

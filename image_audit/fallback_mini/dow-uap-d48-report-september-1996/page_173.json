@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 173,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a graph with data extending from 1955 to 1995, including a gap and resurgence, while Description B only claims data from years 55 to 65, representing a fundamental contradiction on the depicted visual content's scope and timeline.",
+  "original_image_tags": [
+    "Bar graph titled \"Figure 40. Thor Launch Summary\". Vertical axis labeled \"Number of Thor Missions\" ranges from 0 to 35 in increments of 5. Horizontal axis labeled \"Launch Year\" ranges from 55 to 95 in increments of 5 (representing 1955-1995). Legend indicates solid black portion of bars represents \"Normal Performance\" and clear white portion represents \"Failure/Anomaly\". Graph shows launches primarily concentrated between 1958 and 1965, with a sharp peak in 1960 reaching over 30 total missions. There is a gap in launches between approximately 1965 and the early 1990s, with a small resurgence starting around 1990."
+  ],
+  "gpt_mini_desc": "*Image: Bar chart titled “Figure 40. Thor Launch Summary,” showing launch year on the x-axis and number of Thor missions on the y-axis, with stacked black and white bars and a legend for “Normal Performance” and “Failure/Anomaly.”*",
+  "gpt_mini_desc_len": 231,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 57,
+    "total_tokens": 56213,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:42"
+}

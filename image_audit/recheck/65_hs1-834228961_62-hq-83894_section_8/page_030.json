@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 30,
+  "original_image_tags": [
+    "line drawing sketch of a disc-shaped object with a dome, trailing motion lines, positioned to the right of the main text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "One hand-drawn sketch of a flying saucer (UFO) located in the upper right quadrant of the page, featuring a domed top and multiple circular details on its underside."
+      },
+      {
+        "category": "sketch",
+        "description": "A set of eight small hand-drawn sketches resembling fingerprints or footprints arranged in two horizontal rows of four, positioned in the center of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A mentions one disc-shaped sketch, while Description B mentions two distinct sketch sets (a flying saucer and eight fingerprint-like sketches), indicating different counts and categories of visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch",
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:42"
+}

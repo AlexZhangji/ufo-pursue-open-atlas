@@ -1,0 +1,22 @@
+{
+  "file": "dow-uap-d42-range-fouler-debrief-japan-2023.pdf",
+  "stem": "dow-uap-d42-range-fouler-debrief-japan-2023",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "d52431b354af55b1e86cb454e61fd61993af3b023a38f2d9e014a9c9d18d16b4",
+  "size_bytes": 295621,
+  "total_pages": 1,
+  "pages_processed_in_run": 1,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:06",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    }
+  ]
+}

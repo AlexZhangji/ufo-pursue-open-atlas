@@ -1,0 +1,5 @@
+(31)
+
+ip and off a ways, its course looked like an ellipse to us. The discs were seen in Texas probably dropped in the gulf. As their sight improved they no doubt dropped some in various places. The one that was seen down Terre, way, was no doubt aimed at some lake close to Ft. Knox. Maybe something went wrong with that one, is the reason it was so plainly visible. Owing to the fact that your operators called at our remote home at 8:00 P.M on a Sunday evening and also cautioned us to keep mum. I know that the F.B.I is doing what they can to get a line on these discs. This may help a little. A few nights ago there was a very bright ring around the moon, when I looked at it thro' the same glasses I could fairly see the ring. So this proves that what
+
+*[handwritten note:]* *[illegible signature at bottom left]*

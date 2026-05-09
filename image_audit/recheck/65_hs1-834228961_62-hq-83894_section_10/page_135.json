@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 135,
+  "original_image_tags": [
+    "The image shows the reverse side of a document page. The paper is aged, off-white, with visible creases and two punch holes at the top. Faint bleed-through of text from the front side is visible. The primary content consists of several stamps and handwritten markings in blue and red ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue ink stamps and handwritten annotations on the back of a document. Visible stamps include: 'REC'D-COHR & IOUKS MAY 5 1:55 PM '69', 'REC'D-COHR & IOUKS MAY 5 3:31 PM '69', and 'MR. JONES MAY 6 2:34 PM '69 RECEIVED FBI'. A small red stamp reads '12 MAY 6'. Faint, illegible typed text is visible from the reverse side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the core visual content of blue ink stamps and handwritten annotations on the back of a document, but Description B provides specific quoted stamp text that Description A does not mention, creating an informational imbalance without direct contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:28:42"
+}

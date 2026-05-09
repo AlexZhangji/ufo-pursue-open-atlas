@@ -1,0 +1,42 @@
+{
+  "pdf_stem": "331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents",
+  "page_num": 7,
+  "original_image_tags": [
+    "The document is a standard R.A.F. Form 96, a yellowed, aged paper message form. The layout is a grid for message transmission. The top has \"MESSAGE FORM\" centered, with \"R.A.F. Form 96.\" in the top left. The form is filled out with typed and handwritten information. There are black circular punch holes at the top. A large red circled number \"55A\" is stamped in the upper right section. A black stamped box in the upper right reads \"SIGNALS OFFICE - 4 MAR 1945 SIGNALS-HEADQUARTERS\". A red handwritten number \"37153\" is above the \"MESSAGE\" heading. The form shows signs of age with discoloration and a small tear at the top right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large red circular stamp with the number '55A' handwritten inside it, located in the upper right section of the message form."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular purple stamp reading 'SIGNALS OFFICE 4 MAR 1945 SIGNALS - HEADQUARTERS' in the upper right corner."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A large blue stamp reading 'IMMEDIATE' in the bottom right corner, with a handwritten number '2362' above it."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A small circular stamp containing the number '4347' in the bottom right section."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the main visual elements (red '55A' stamp and 'SIGNALS OFFICE' stamp) but Description B adds details (blue 'IMMEDIATE' stamp, '4347' stamp) not mentioned in A, which does not constitute a contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:45"
+}

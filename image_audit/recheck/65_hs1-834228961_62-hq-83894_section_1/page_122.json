@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 122,
+  "original_image_tags": [
+    "Scan of a rectangular, off-white envelope. The envelope is addressed to J. Edgar Hoover. A circular postmark and a rectangular slogan cancel are visible. A purple 3-cent U.S. postage stamp featuring the head of George Washington is affixed to the upper right corner. A small, dark hole (likely a staple or fastener hole) is present on the right side.",
+    "A purple 3-cent United States Postage stamp. It features a profile portrait of George Washington facing left. The text at the top reads \"UNITED STATES POSTAGE\". The denomination \"3 CENTS 3\" is at the bottom. A small, partially obscured text is visible at the bottom right, likely \"LIBERTY ISSUE\" or similar."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A United States 3-cent purple postage stamp featuring a profile portrait and the text 'UNITED STATES POSTAGE' and '3 CENTS 3'. A circular postmark reads 'SAN FRANCISCO CALIF. / JUL 21 / 1-PM / 1947'. A slogan cancellation reads 'BUILD YOUR [faint] WISELY, SAV[e] / U.S. SAVINGS BONDS'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the stamp and postmark content, but Description B adds specific verbatim text for the postmark and slogan cancel that Description A only describes generically.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:49"
+}

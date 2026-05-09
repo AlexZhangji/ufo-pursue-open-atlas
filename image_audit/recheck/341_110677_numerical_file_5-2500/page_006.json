@@ -1,0 +1,26 @@
+{
+  "pdf_stem": "341_110677_numerical_file_5-2500",
+  "page_num": 6,
+  "original_image_tags": [
+    "A scanned document page, appearing aged with some discoloration. The page is a \"SUPPLEMENT TO AF FORM 112\".",
+    "hand-drawn sketch showing two distinct radar antenna types side-by-side on what appears to be a horizon line. The left antenna is a large, square, grid-like mesh. The right antenna is a smaller, rectangular, stacked-bar type."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A simple hand-drawn sketch depicting two radar antenna structures standing side-by-side. The left structure is a tall pole topped with a rectangular, grid-like antenna. The right structure is a taller, wider antenna composed of horizontal, stacked rectangular elements (resembling a 'Freya' type antenna). There are no labels or text inside the sketch itself."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:50"
+}

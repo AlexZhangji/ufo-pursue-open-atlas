@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d57-mission-report-gulf-of-aden-september-2020",
+  "page_num": 1,
+  "original_image_tags": [
+    "In the top left corner, a small black-and-white photograph shows a dark, disc-shaped object against a dark background. The object has a central light or hole and appears metallic."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "One small, dark, square graphic located at the top left of the page. It depicts a stylized, shadowed silhouette resembling a flying saucer or disc-shaped craft against a dark background."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict each other on the category of the visual element (photograph vs. graphic), the shape of the object (disc-shaped vs. square graphic), and the nature of the depicted object (metallic disc vs. stylized silhouette).",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:17"
+}

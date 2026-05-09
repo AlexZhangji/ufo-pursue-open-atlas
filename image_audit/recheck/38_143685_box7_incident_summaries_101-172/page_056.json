@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 56,
+  "original_image_tags": [
+    "A dark, high-contrast sketch or diagram on a black background, appearing to be a page from a classified report. The page is heavily creased with a diagonal fold from top-left to bottom-right. Two hole punches are visible on the left margin. The diagram depicts a sequence of observations of unidentified objects in the sky, with handwritten directional indicators and typed narrative text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "diagram",
+        "description": "A hand-drawn diagram on a dark background depicting a sequence of four steps labeled (1) through (4). Step (1) shows one small circle with text 'First one object was sighted, next, another one appeared.' Step (2) shows two small circles with text 'When first seen objects were in a semi-stationary position.' Step (3) shows two small circles and an arrow pointing NNE with text 'Objects began moving in a NNE direction and rapidly accelerating and climbing.' Step (4) shows two small circles with text 'In approximately 2 minutes objects had disappeared.' Above the diagram, there is a small arrow pointing generally north labeled 'N' and text 'left on this heading'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "The word 'CONFIDENTIAL' is stamped in large, faint capital letters twice on the page: once near the top center and once near the bottom center. Both stamps are crossed out with a horizontal line."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on a hand-drawn diagram on a dark background depicting a sequence of observations of objects, with one side providing much more specific detail on labels, steps, and text without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "diagram",
+    "stamp_or_label_only"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:26:01"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 94,
+  "original_image_tags": [
+    "A vertical, tan-colored manila file folder or document jacket, aged and slightly worn. It has two punched holes at the top edge. A strip of yellowed tape runs horizontally across the lower third of the folder, securing a small, loose piece of paper underneath. The paper under the tape has a large, handwritten number in red ink. At the bottom left, a stamped notation is visible. The right edge of the folder shows a small, white, curved mark, possibly a staple tear or paper reinforcement."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One stamped text block reading 'COPIES DESTROYED 270 NOV 18 1964' and 'ENCLOSURE'. One handwritten red numerical sequence reading '62-83894-154'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A details a manila folder with tape, paper, and a red handwritten number, while Description B describes a stamp and a different red numerical sequence, indicating the descriptions are of different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:55"
+}

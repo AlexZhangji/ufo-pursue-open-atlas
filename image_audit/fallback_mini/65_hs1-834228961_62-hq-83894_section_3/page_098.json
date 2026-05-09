@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 98,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions contradict each other on the core identity of the stamps: one states they depict the Statue of Liberty, while the other states they show a profile portrait, and they provide different, incompatible postmark details.",
+  "original_image_tags": [
+    "A scanned image of the front of a white, rectangular, vintage envelope. The paper shows age with slight yellowing and faint brown staining in the lower-left quadrant. The top-left corner is torn and missing. The envelope is addressed via typewriter. In the upper-right corner are two identical purple United States postage stamps, each 3 cents, depicting the Statue of Liberty. They are cancelled by a circular postmark. Handwritten annotations in blue ink and pencil are visible."
+  ],
+  "gpt_mini_desc": "*Image: A scanned envelope addressed to Mr. Kenneth Arnold, Box 387, Boise, Idaho, with a Venture Press return address in Evanston, Illinois, two 3-cent U.S. postage stamps, a Chicago postmark dated Aug. 5, 1947, and handwritten markings including “AIR MAIL” and a penciled number.*",
+  "gpt_mini_desc_len": 282,
+  "usage": {
+    "prompt_tokens": 31990,
+    "completion_tokens": 74,
+    "total_tokens": 32064,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:51"
+}

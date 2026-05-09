@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 29,
+  "original_image_tags": [
+    "A vertical, standard manila file folder or envelope, yellowish-tan in color. It has a single hole punched at the top center and two holes punched at the bottom. A horizontal crease runs across the top third, indicating a fold. There are no other printed forms, text, or markings on the main body of the folder."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One brown folder or envelope with three punched holes along the edges and a clear tape strip. Handwritten numbers '60- 83894 - 348' are visible in blue and red ink, along with a vertical red stamp reading 'ENCLOSURE'. The main surface is blank and yellowish-brown."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a folder with no markings or text, while Description B describes a folder with handwritten numbers and a vertical red stamp 'ENCLOSURE', creating a direct contradiction on specific visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:42"
+}

@@ -1,0 +1,1 @@
+*Image: Black-and-white photograph of a diagonal rocket or missile contrail rising through a large cloud plume, with a narrow vertical strip at the far right showing ocean horizon and water.*

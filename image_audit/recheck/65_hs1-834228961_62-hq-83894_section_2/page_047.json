@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 47,
+  "original_image_tags": [
+    "Scanned document page showing the reverse side of a typed document. The page is oriented upside-down relative to the viewer. The paper is aged, off-white or light tan. Two dark circular punch holes are visible at what is currently the top edge (which would be the bottom of the document when oriented correctly). Faint, reversed text from the front side is visible through the paper. A rectangular blue ink stamp is visible near the current bottom-right corner (which would be the top-left corner of the document when oriented correctly). The stamp contains reversed text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint, mirrored impression of typed text visible from the reverse side, along with two punch holes at the top. A faint blue stamp is visible near the bottom right, reading 'INTERNAL SECURITY F.B.I.' with a date and time stamp below it. No photographs, sketches, or diagrams are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, verbatim text from the stamp ('INTERNAL SECURITY F.B.I.') that Description A does not mention and describes as illegible reversed text, which is a direct contradiction on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:26"
+}

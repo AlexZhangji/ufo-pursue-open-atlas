@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 51,
+  "original_image_tags": [
+    "Back of a document page, likely a routing slip or file folder cover. The paper is aged and cream-colored with two hole-punch marks at the top. The page is oriented horizontally, and the text is written upside-down relative to the viewer. There are several stamps and handwritten notes in ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Back of a document page featuring two black circular punch holes at the top. The majority of the page is blank or shows faint bleed-through from the front side. The lower half contains several stamped text blocks, including 'RECEIVED', 'LIAISON SECTION', 'FBI', 'U.S. DEPT. OF JUSTICE', and dates such as 'AUG 28 1947', 'AUG 14 1947', and 'JUL 15 1947'. There is also handwritten script in the lower left corner and the words 'Ph Case' written near the bottom center."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific quoted text ('RECEIVED', 'LIAISON SECTION', 'FBI', 'U.S. DEPT. OF JUSTICE', dates, 'Ph Case') that is completely absent from Description A, which only mentions 'several stamps and handwritten notes' without any specific content, creating a major factual discrepancy on what text is visually present.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:26"
+}

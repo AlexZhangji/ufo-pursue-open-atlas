@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 79,
+  "original_image_tags": [
+    "A single page of a typewritten document on dark, textured paper, possibly carbon paper. Two hole-punch circles are visible at the top. The text is light-colored against the dark background. The word \"COPY\" is stamped diagonally in the upper right corner. The word \"CONFIDENTIAL\" is stamped at the top and bottom center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A declassified confidential typed document dated 18 August 1947. It contains a telephone message from Mr. Al Reck of the Oakland Tribune regarding an incident reported by Mr. Ray A. Switzer on August 14 near Placerville, California. The text describes a 'rocket-shaped' object crashing with a 'puff of black smoke'. The page features 'CONFIDENTIAL' stamps at the top and bottom, a 'COPY' stamp at the top right, and two punch holes at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the same visual elements: two punch holes, 'CONFIDENTIAL' stamps at top and bottom, and 'COPY' stamp at top right; Description B adds typed text content that Description A omits but does not contradict A.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:18"
+}

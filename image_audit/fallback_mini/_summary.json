@@ -1,0 +1,26 @@
+{
+  "total_targets": 252,
+  "ok": 252,
+  "no_image_marker": 22,
+  "errors": 0,
+  "completed_at": "2026-05-08 20:53:31",
+  "usage_records": 515,
+  "tokens": {
+    "prompt_total": 17783537,
+    "prompt_cached": 5632,
+    "prompt_fresh": 17777905,
+    "completion": 29802
+  },
+  "cost_usd": {
+    "input_fresh": 13.333429,
+    "input_cached": 0.000422,
+    "output": 0.134109,
+    "total": 13.46796
+  },
+  "model": "gpt-5.4-mini",
+  "pricing_per_million": {
+    "input": 0.75,
+    "cached_input": 0.075,
+    "output": 4.5
+  }
+}

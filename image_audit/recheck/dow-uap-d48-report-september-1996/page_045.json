@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 45,
+  "original_image_tags": [
+    "A technical line graph titled \"Atlas IAS Failures through 280 sec\". The graph plots \"Percent in 5-deg sector (%)\" on the vertical axis (logarithmic scale from 0.1 to 100) against \"Angle From Flight Path (deg)\" on the horizontal axis (linear scale from 0 to 180). A note at the top of the graph reads: \"Breakup q-alpha = 20,000 deg-lb/ft²\". A legend identifies three data series with corresponding markers: \"Random-attitude turns\" (open circles), \"Slow turns\" (solid squares), and \"Combined turns (0.75 random + 0.25 slow)\" (solid triangles). All three lines start near 100% at 0 degrees, drop sharply, and then level off. The caption below the graph reads: \"Figure 5. Combined Random-Attitude and Slow-Turn Results\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "A line chart titled 'Figure 5. Combined Random-Attitude and Slow-Turn Results'. The y-axis is labeled 'Percent in 5-deg sector (%)' on a logarithmic scale from 0.1 to 100. The x-axis is labeled 'Angle From Flight Path (deg)' from 0 to 180. The chart contains three data series: 'Random-attitude turns' (marked with open circles), 'Slow turns' (marked with open squares), and 'Combined turns (0.75 random + 0.25 slow)' (marked with solid circles). A label at the top reads 'Atlas IIAS Failures through 280 sec' and 'Breakup q-alpha = 20,000 deg-lb/ft^2'. The data points show a decreasing trend as the angle increases."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Descriptions disagree on specific quoted text: one quotes title 'Atlas IAS Failures through 280 sec' and legend 'Slow turns' as solid squares, while the other quotes title 'Atlas IIAS Failures through 280 sec' and legend 'Slow turns' as open squares.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:50"
+}

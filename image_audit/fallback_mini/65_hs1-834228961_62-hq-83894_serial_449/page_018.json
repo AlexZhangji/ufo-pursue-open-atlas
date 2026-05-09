@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 18,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims a simple portrait photograph, while Description B claims the image is a complex newspaper front page with multiple articles and a specific date, which are mutually exclusive visual content categories.",
+  "original_image_tags": [
+    "black-and-white head-and-shoulders portrait photograph of a young man in a dark jacket and collared shirt, identified as GARY WILCOX."
+  ],
+  "gpt_mini_desc": "*Image: A full newspaper page scan from the Oakland Tribune with multiple clipped articles about UFOs, including the large headline “Civil Defense Director Watches ‘Flying Saucer’,” an article titled “Eerie 1896 Sighting,” a “Gallup Poll” article “Than 5 Million People They Saw Flying Saucers,” and other smaller UFO-related articles with one small black-and-white photo portrait in a story titled “I Know What I Saw”; Egg-Shaped Craft.*",
+  "gpt_mini_desc_len": 438,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 100,
+    "total_tokens": 57762,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:52"
+}

@@ -1,0 +1,39 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 260,
+  "original_image_tags": [
+    "A black-and-white photograph of a man in a suit and tie, looking towards the left, holding what appears to be a small, dark, cylindrical object or camera to his eye.",
+    "A diagram labeled \"ANGLE OF VISION\". It shows a silhouette of a person standing on a flat horizon line with a wide, clear view of the sky above. A dashed line indicates a wide viewing angle.",
+    "A diagram labeled \"ANGLE OF VISION\". It shows a silhouette of a city skyline with buildings and smokestacks. A dashed line indicates a very narrow, obstructed viewing angle upward."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph of a man wearing glasses and a short-sleeved shirt, holding a small mirror in his right hand to reflect a beam of light."
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white landscape photograph showing a dark horizon with a bright, glowing, circular object or light hovering above the ground."
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph showing a cityscape at night with numerous illuminated windows in buildings, and a line of bright lights appearing to float in the sky above the city."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions refer to completely different images: A describes a man in a suit, two 'ANGLE OF VISION' diagrams, while B describes a man with a mirror, a glowing object over a horizon, and a night cityscape with floating lights, indicating they are analyzing different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:22"
+}

@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 85,
+  "original_image_tags": [
+    "A scanned image of the back of a typewritten document page. The paper is aged and slightly yellowed. The page is covered with numerous ink stamps indicating routing and receipt within government offices. The main typed text is visible as a faint mirror image (bleed-through) through the paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The image shows the reverse side of a document with two hole-punch marks at the top. It contains multiple blue stamped impressions indicating receipt by various entities, including 'RECEIVED - FLETCHER MAR 6 7 32 PM 50', 'U.S. DEPT. OF JUSTICE REC'D-LAW F Mar 6 4 15 PM '50', 'RECEIVED-NICHOLS FBI U.S DEPT OF JUSTICE MAR 6 4 27 PM '50', 'RECEIVED - DIRECTOR MAR 6 07 PM '50', and 'RECEIVED MAR 7 8 59 AM '50'. Reverse text from the front side of the document is faintly visible but mostly illegible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:57"
+}

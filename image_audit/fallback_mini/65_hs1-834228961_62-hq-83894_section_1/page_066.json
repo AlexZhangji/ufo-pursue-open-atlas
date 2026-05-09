@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 66,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes multiple specific, detailed stamp texts (e.g., 'EX-16', '57 JUL 24 194', 'RECORDED & INDEXED 36 JUL 16 1947') and handwritten annotations that Description A does not mention, creating a contradiction on the specific visual content present.",
+  "original_image_tags": [
+    "Two dark, circular smudge marks or holes are visible at the top of the document, above the header."
+  ],
+  "gpt_mini_desc": "*Image: Scanned Office Memorandum document page dated July 11, 1947, with typed text, handwritten annotations, and multiple stamps/marks; no photograph or illustration present.*",
+  "gpt_mini_desc_len": 177,
+  "usage": {
+    "prompt_tokens": 17210,
+    "completion_tokens": 41,
+    "total_tokens": 17251,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:51:59"
+}

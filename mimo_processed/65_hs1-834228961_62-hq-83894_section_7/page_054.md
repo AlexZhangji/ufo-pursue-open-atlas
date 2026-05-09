@@ -1,0 +1,15 @@
+### Handwritten Note - Page 6
+
+There are many hundreds of small G units, with the right proportion of P & P.C., moving around the Sun in smaller Orbits than the Earth.
+
+Some are probably smaller than a grain of sand and some are large enough that they will one day be found and their Orbit traced.
+
+Some are all Gas, some are all solids and some are solids with gas around them. Some may be composed entirely of metal and coming in contact with the air at high speed would take on the color of that metal when "Red hot" or burning. The gases would present different colors.
+
+Some travel in Orbits close to that of the Earth.
+
+Some travel in Orbits around the Earth and are locked to it.
+(like the moon)
+
+These small G Units may travel alone or in groups of different numbers and formations.
+Any one or any group of these small G. units may be

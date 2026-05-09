@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 22,
+  "original_image_tags": [
+    "A stylized black-and-white logo featuring a sharp, angular shape resembling a boomerang or delta wing intersecting a textured sphere, set against a plain background."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A stylized, black and white illustration of a flying saucer, featuring a dark, elongated oval shape over a circular, patterned disk. It is positioned in the upper-center area of the page, between the letterhead and the typed address."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a boomerang/delta wing intersecting a sphere, while Description B describes a flying saucer with an oval over a disk; these are clearly different visual objects.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:33"
+}

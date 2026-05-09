@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 64,
+  "original_image_tags": [
+    "A dark, vertical rectangular document page with two hole-punch marks visible on the left margin. The top and bottom of the page are stamped \"RESTRICTED\" in faint, capital letters. A handwritten number \"119\" appears in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed document page with 'RESTRICTED' stamps at top and bottom, three punched holes on the left edge, and two punched holes near the bottom center. A small handwritten number '119-' is visible in the bottom right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states two hole-punch marks on the left margin, while Description B states three punched holes on the left edge and two punched holes near the bottom center, creating a direct contradiction on the count and location of hole-punch marks.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:26:06"
+}

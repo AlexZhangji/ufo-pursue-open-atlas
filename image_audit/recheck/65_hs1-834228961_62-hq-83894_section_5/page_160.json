@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 160,
+  "original_image_tags": [
+    "A blue ink checkmark is drawn in the right margin near the signature line."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter on University of California, Los Angeles, Graduate Department of Journalism letterhead, dated June 2, 1950, addressed to Mr. J. Edgar Hoover, director of the Federal Bureau of Investigation. The letter discusses research for a graduate dissertation analyzing the sociological and psychological implications of the flying saucer phenomenon, mentioning magazine articles and a book on the subject, and inquiring about official attitude or censorship regarding flying saucers. The letter is signed 'DeWayne B. Johnson'. There are handwritten annotations at the bottom left ('ack 6-8-50', 'ack', 'arc') and bottom right (a large handwritten checkmark or initial, and a handwritten signature over the typed name), along with a stamped date 'JUN 19 1950' and some handwritten numbers ('62-83894 - 230') and stamps ('ORDERED - 5', 'EX. 32') at the bottom center. The page has two hole-punch marks at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Description A mentions a handwritten checkmark, which is a visual element confirmed by Description B's mention of a large handwritten checkmark, while Description B's detailed content about typed text and stamps is ignored per the task instructions to compare only visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:19"
+}

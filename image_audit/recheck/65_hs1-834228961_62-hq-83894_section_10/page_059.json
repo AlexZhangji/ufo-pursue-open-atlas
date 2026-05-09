@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 59,
+  "original_image_tags": [
+    "Official crest of the United Kingdom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Official letterhead featuring a circular royal coat of arms emblem. The page includes typed text, redacted fields, handwritten annotations, and a declassification stamp at the bottom right labeled 'Declassified Case: NWR 90986 Date: 14-14-2026'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B states specific verbatim text ('Declassified Case: NWR 90986 Date: 14-14-2026') that Description A does not mention at all, indicating a hallucination of specific content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:38"
+}

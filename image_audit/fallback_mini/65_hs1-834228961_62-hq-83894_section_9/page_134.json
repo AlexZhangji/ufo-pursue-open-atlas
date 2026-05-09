@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 134,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a plain mounted clipping with no specific text quoted, while Description B provides a specific headline quote and describes a visible partial image, creating a contradiction in reported visual content.",
+  "original_image_tags": [
+    "A newspaper clipping is mounted on a piece of light-colored paper. The paper has two hole-punch marks at the top. The clipping itself is yellowed and aged. Text is in English."
+  ],
+  "gpt_mini_desc": "*Image: A clipped newspaper article with the headline “AF WANTS TO KNOW Pizza Pie—Or Flying Saucer?” and visible body text about the FBI probing a photograph taken by Joe Perry; a second narrow adjacent newspaper column is partially visible at the right edge.*",
+  "gpt_mini_desc_len": 260,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 56,
+    "total_tokens": 54708,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:34"
+}

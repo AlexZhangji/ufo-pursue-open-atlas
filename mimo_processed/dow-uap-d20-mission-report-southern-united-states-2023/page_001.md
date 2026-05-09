@@ -1,0 +1,46 @@
+Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 8 October 2025
+
+~~SECRET//NOFORN~~
+
+# Misrep undefined-8584059
+
+## Narrative
+
+~~(S//REL TO USA, FVEY)~~ 311901ZMAR23 - *[REDACTED — 1.4(a)]* *[REDACTED — 1.4(a)]* FLT), A 2-SHIP OF F-16CM, TOOK OFF FROM PRINCE SULTAN AIR BASE (OEPS) ISO OPERATION INHERENT RESOLVE. *[REDACTED — 1.4(a)]* FLT WAS FRAGGED TO CONDUCT DCA IN THE ESSA (2100-0000). MISSION WAS FLOWN AS FRAGGED.
+
+~~(S//REL TO USA, FVEY)~~ 2007Z- *[REDACTED — 1.4(a)]* FLT ENTERED IZ AIRSPACE. NFTR.
+
+~~(S//REL TO USA, FVEY)~~ 2058Z - *[REDACTED — 1.4(a)]* FLT ENTERED SY AIRSPACE AND CHECKED ONSTA W/ KINGPIN TO CONDUCT DCA IN THE ESSA.
+
+~~(S//NF)~~ 2302Z - *[REDACTED — 1.4(a)]* FLT OBSERVED MULTIPLE POSS UAPS. (SEE UAP)
+
+~~(S//REL TO USA, FVEY)~~ 0000Z - *[REDACTED — 1.4(a)]* FLT CHECKED OFFSTA W/ KINGPIN AND PROCEEDED TO RTB (OEPS). NSTR.
+
+~~(S//REL TO USA, FVEY)~~ 0046Z - *[REDACTED — 1.4(a)]* FLT EXITED IZ AIRSPACE.
+
+~~(S//REL TO USA, FVEY)~~ 0148Z - *[REDACTED — 1.4(a)]* FLT LANDED AT OEPS W/ ESD AT 0215Z. NFTR.//
+
+~~(S//RELIDO)~~ Mission Narrative
+
+## Admin
+
+### CLASSIFICATION
+
+* **Classification:** ~~SECRET~~
+* **Associated Caveats:** ~~NOFORN~~
+* **Classification Source (MS or Classification Guide ID):** MS
+* **Declassification Date (YYYYMMDD):** 20480401
+
+### OPERATION
+
+* **Operation:** INHERENT RESOLVE
+
+| *[REDACTED — 3.5c, FOIA Exemption (b)(6)]* |
+| :--- |
+| ~~SECRET//NOFORN~~ |
+
+MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S
+Approved for Release to **AARO**
+10/17/25 001

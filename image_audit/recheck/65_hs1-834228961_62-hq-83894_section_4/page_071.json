@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 71,
+  "original_image_tags": [
+    "A single, aged document page, yellowed with time. Two black circular punch holes are visible at the top edge. The page appears to be the reverse side or a routing slip of a document, with faint, mirrored text bleed-through from the front. The page has torn and uneven right and bottom edges."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamped heading at the top of the page containing the text 'RECEIVED TELETYPE UNIT', 'DEC 28 7 47 PM '48', and 'F.B.I. DEPT. OF JUSTICE'. Faint, illegible text from the reverse side of the page is visible through the paper, including another faint vertical stamp on the right edge that reads 'RECEIVED - FLETCHER' and 'DEC 28 4:33 PM '48'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamped text ('RECEIVED TELETYPE UNIT', 'DEC 28 7 47 PM '48', etc.) while Description A does not mention any stamps or specific text, describing the page as only having bleed-through and punch holes.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:35"
+}

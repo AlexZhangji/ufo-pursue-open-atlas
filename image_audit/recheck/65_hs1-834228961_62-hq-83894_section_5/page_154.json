@@ -1,0 +1,34 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 154,
+  "original_image_tags": [
+    "A black-and-white composite document, likely a press clipping or photo feature, containing two distinct images side-by-side above a block of German text.",
+    "A night-time or dark composite photograph showing a large Gothic cathedral with multiple tall, pointed spires in silhouette against a dark sky. Superimposed above the cathedral are two disc-shaped objects or \"flying saucers\" with prominent motion trails, depicted in a dynamic, streaking pattern. The scene suggests a composite or artist's rendition rather than a direct photograph of a single event.",
+    "A full-length outdoor photograph of three individuals standing on a paved surface near large columns or a colonnade. Two individuals are adult males dressed in what appear to be German military uniforms from the World War II era (Wehrmacht-style tunics, peaked caps, tall boots, Sam Browne belts). Between them stands a third individual, significantly shorter, wearing a distinctive, form-fitting, metallic or reflective suit with a large, rounded helmet, resembling a pressurized or space suit. The scene appears staged."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A black and white sketch depicting a large, multi-spired Gothic cathedral or church at night. In the dark sky above, two disc-shaped flying saucers are shown, each emitting concentric rings of light."
+      },
+      {
+        "category": "photograph",
+        "description": "A black and white photograph showing three figures standing outdoors on what appears to be a paved area. Two figures are taller and wear military-style uniforms with peaked caps. Between them stands a shorter figure in a bulky, light-colored suit with a large, smooth, round helmet, resembling a diving or space suit. Background elements include a wall, pillars, and trees."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the two visual elements (a sketch of a cathedral with UFOs and a photograph of three figures) and their core visual content without contradictions.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:15"
+}

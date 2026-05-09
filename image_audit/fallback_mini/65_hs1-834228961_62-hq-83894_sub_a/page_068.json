@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 68,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on a black-and-white portrait photograph of a man labeled 'PEARSON', but Description B adds a hat and newspaper context not mentioned in A, without contradiction.",
+  "original_image_tags": [
+    "Head-and-shoulders black-and-white photograph of Drew Pearson wearing a suit and tie. Caption below photo reads \"PEARSON\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping collage mounted on a document page, with the headline “Reports Plentiful, ‘Saucers’ Nix” and a small portrait photograph of a man labeled “PEARSON”; handwritten blue and black notations, check marks, and a right-hand list of newspaper titles with date stamps “8 DEC 19 1950” and “NOV 25 1950.”*",
+  "gpt_mini_desc_len": 331,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 88,
+    "total_tokens": 56244,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:04"
+}

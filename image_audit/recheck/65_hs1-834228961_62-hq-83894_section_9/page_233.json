@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 233,
+  "original_image_tags": [
+    "Document shows punch holes at the top center. There are blue and red handwritten annotations. A blue stamp reading \"NAT. INT. SEC.\" is in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A page of typed text containing an FBI Airtel form dated 4/28/64. No photographs, sketches, diagrams, or charts are present. The page includes several red ink stamps with visible dates such as 'MAY 8 1964', 'APR 30 1964', and text including 'NAT. INT. SEC.', along with various handwritten annotations and a vertical handwritten note reading 'Flying Saucers'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states specific visual elements (punch holes, blue and red handwritten annotations, a blue stamp) that are not mentioned or are contradicted by Description B's detailed inventory of stamps and text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:11"
+}

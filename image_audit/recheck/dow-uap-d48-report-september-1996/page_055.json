@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 55,
+  "original_image_tags": [
+    "A technical line graph plotting \"Percent in 5-deg sector (%)\" on a logarithmic Y-axis against \"Angle From Flight Path (deg)\" on a linear X-axis. The graph is titled \"Atlas IIAS Random-Attitude Failures through 280 sec\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "Line graph titled 'Atlas IIAS Random-Attitude Failures through 280 sec'. The y-axis is labeled 'Percent in 5-deg sector (%)' on a logarithmic scale from 0.1 to 100. The x-axis is labeled 'Angle From Flight Path (deg)' from 0 to 180. The legend indicates 'Breakup q-alpha in deg-lb/ft²' with symbols for 'no breakup', '20,000', '10,000', and '5,000'. Another legend section lists 'B = 500,000' with lines for 'A = 4.00', 'A = 4.80', 'A = 5.30', and 'A = 5.55'. The graph plots multiple curves showing decreasing percentages as the angle increases. Below the graph is the caption 'Figure 12. Atlas IIAS Simulation Results with B = 500,000'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the graph's title, axis labels, logarithmic scale, and the presence of multiple curves with a legend; Description B adds specific legend details and a caption that Description A omits, but there is no contradiction in the visual content described.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:59"
+}

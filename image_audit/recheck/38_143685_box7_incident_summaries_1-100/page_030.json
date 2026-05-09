@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 30,
+  "original_image_tags": [
+    "Document page stamped \"RESTRICTED\" at top and bottom in large, faint ink. Text is typed. Page has three hole-punch marks on the left margin and two small, white circular marks near the bottom center. The number \"29\" is handwritten in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed text describing an account of deputies seeing objects in the sky over Portland. The text includes the words 'RESTRICTED' at the top and bottom, and 'CORROBORATED ACCOUNT' below the main paragraph. There are two punch holes on the left edge and two smaller holes at the bottom. A handwritten number '29' is visible in the bottom right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on typed text, RESTRICTED stamps, punched holes, and handwritten '29', but Description B adds a specific quoted phrase 'CORROBORATED ACCOUNT' not mentioned in A, and A specifies three hole-punch marks versus B's 'two punch holes' (though B also mentions 'two smaller holes', making the total count ambiguous).",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:53:34"
+}

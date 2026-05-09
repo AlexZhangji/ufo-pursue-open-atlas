@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 12,
+  "original_image_tags": [
+    "A heavily faded, aged document page on yellowed paper. Two hole-punch marks are visible at the top. The majority of the page contains extremely faint, mostly illegible text that appears to be a carbon copy or residue from a typed document. Several stamps and faint typed lines are visible, primarily at the bottom of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "An aged, yellowed page with two hole-punch marks at the top. Faint, largely illegible typed text is visible. Near the bottom, upside-down stamped text reads 'RECEIVE MAIL ROOM / U.S. DEPT. OF JUSTICE / FBI' with a date stamp 'AUG 13 11 26 PM '52'. A red stamped number '88 VNG 96625' is visible in the bottom right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims to read specific verbatim text from stamps (e.g., 'RECEIVE MAIL ROOM / U.S. DEPT. OF JUSTICE / FBI', 'AUG 13 11 26 PM '52', '88 VNG 96625') that Description A describes as extremely faint, mostly illegible text and stamps without quoting any content, creating a direct contradiction on the readability and specific quoted text of the visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:48:10"
+}

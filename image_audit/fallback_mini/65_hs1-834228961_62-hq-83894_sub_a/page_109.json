@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 109,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on a single newspaper clipping as the primary visual element, but Description B adds specific details (title, date, location, content) not present in Description A, without contradiction on the visual content itself.",
+  "original_image_tags": [
+    "A newspaper clipping pasted onto the center of the page."
+  ],
+  "gpt_mini_desc": "*Image: A scanned document page with a small centered newspaper clipping titled “Boys Flying Saucer Hoax Stirs Police, FBI and Army,” plus a typed list of names in the upper right margin, handwritten notations and stamps, and a typed footer reading “JUL 12 1947 WASHINGTON STAR Page 1.”*",
+  "gpt_mini_desc_len": 287,
+  "usage": {
+    "prompt_tokens": 53146,
+    "completion_tokens": 72,
+    "total_tokens": 53218,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:16"
+}

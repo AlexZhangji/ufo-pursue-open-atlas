@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 113,
+  "original_image_tags": [
+    "A pinkish-red government postal return receipt card. The card has handwritten entries in dark ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular orange-colored form (Form 3811, Rev. 1-4-40) titled 'RETURN RECEIPT'. It contains printed text, two lines for signatures (one filled with 'Raymond A Palmer', one filled with an illegible signature), a 'Date of delivery' line filled with '2-31' and '194', and a vertical handwritten string of numbers on the right edge. A 'U. S. GOVERNMENT PRINTING OFFICE' mark is at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a pinkish-red receipt card, while Description B describes an orange form with specific text, signatures, and a date that A does not mention, indicating a fundamental disagreement on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:28"
+}

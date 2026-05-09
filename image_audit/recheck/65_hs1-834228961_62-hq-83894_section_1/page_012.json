@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 12,
+  "original_image_tags": [
+    "A single sheet of aged, lined paper. The paper has three hole-punches along the left margin and shows signs of wear, including minor tears and creases. A blue ink stamp is located in the upper left quadrant. The body of the page contains faint, illegible handwriting in pencil or light pen, appearing to be notes or a draft that has bled through or faded significantly. No other text or markings are legible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue ink stamp in the top left corner. The stamp contains the text 'RECEIVED', 'JUL 16 12:36 PM 47', 'INTERNAL SECURITY', 'F. B. I.', and 'DEPT OF JUSTICE'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on a blue ink stamp in the upper left area, but only Description B provides the specific legible text inside the stamp while Description A describes the handwriting as illegible, without contradicting the stamp's presence.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:54:29"
+}

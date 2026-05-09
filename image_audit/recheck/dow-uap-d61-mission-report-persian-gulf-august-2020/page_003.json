@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d61-mission-report-persian-gulf-august-2020",
+  "page_num": 3,
+  "original_image_tags": [
+    "A page containing a list of data fields, likely from a form. A redacted line is visible near the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed document page containing a bulleted list of fields and their values. At the top right, a red declassification stamp reads: 'Declassified by MG Richard A. Harrison USCENTCOM Chief of Staff Declassified on: 22 January 2026'. The page includes a horizontal red redaction bar near the top. The main body lists fields under 'ACEQUIP' such as 'Aircraft Callsign: 1.4a', 'TGT Pod Name or Designator: ANDAS4', and 'Additional Avionics: AH_GMESH'. At the bottom, a horizontal box contains '3.5c, (b)(6)'. Below this, footer text includes 'USCENTCOM MDR 26-0019', 'Approved for Release to AARO', and '01/26/26 003'. A second, shorter red redaction bar is above the footer text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides extensive specific quoted text from a stamp, fields, and footers (e.g., 'Declassified by MG Richard A. Harrison', 'Aircraft Callsign: 1.4a') that Description A does not mention at all, creating a clear factual contradiction on the presence and content of visual text elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:20"
+}

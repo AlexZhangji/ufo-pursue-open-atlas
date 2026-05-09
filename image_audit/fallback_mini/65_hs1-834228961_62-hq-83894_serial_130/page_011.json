@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 11,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual element, a single newspaper clipping pasted onto a page, but Description B adds specific quoted text (headline, date) that Description A omits, without any contradiction.",
+  "original_image_tags": [
+    "A single, aged, off-white document page. The majority of the page is blank. A small newspaper clipping is affixed to the lower-left quadrant. A small, handwritten checkmark in dark ink is visible in the lower-right area."
+  ],
+  "gpt_mini_desc": "*Image: A black-and-white newspaper clipping dated “Monday, July 7, 1947,” headed “RADIO-GUIDED, SAYS LAD,” with several columns of printed text about flying saucers.*",
+  "gpt_mini_desc_len": 167,
+  "usage": {
+    "prompt_tokens": 47124,
+    "completion_tokens": 47,
+    "total_tokens": 47171,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:33"
+}

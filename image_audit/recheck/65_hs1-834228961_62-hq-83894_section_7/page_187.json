@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 187,
+  "original_image_tags": [
+    "Black and white photograph of a typed letter on official stationery. The paper is light-colored and shows signs of aging, with visible staple holes at the top and some faint creases. The letter is addressed to Miss Linda Butler and is signed by J. Edgar Hoover. There are various handwritten notes, stamps, and red ink annotations on the document, including a large red \"X\" over the address and the number \"62-83894-341\" written in red ink.",
+    "Several stamps and handwritten notations are visible at the bottom of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed letter dated April 27, 1954, from J. Edgar Hoover to Miss Linda Butler regarding Flying Saucers. It contains typed text, a red handwritten number, a red asterisk, black smudges, a torn corner, and several official stamps at the bottom, including a date stamp 'MAY 5 1954', a 'RECEIVED READING ROOM' stamp, and a 'COMM - FBI APR 2 8 1954 MAILED 31' stamp."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree the image is a typed letter on paper with handwritten notes, stamps, and a red number; Description B adds specific stamp text and a date while A describes general annotations without contradicting B.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:51:54"
+}

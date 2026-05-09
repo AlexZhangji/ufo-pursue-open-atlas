@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 66,
+  "original_image_tags": [
+    "A yellowed newspaper clipping pasted onto a white document page. The clipping has a large headline in black and red text. Two holes are punched at the top of the clipping. To the right of the clipping is a typed distribution list. Below the clipping are two stamped dates and a handwritten note in pencil.",
+    "A second red stamp is partially visible below the first, showing \"51 JAN 1...\"",
+    "Handwritten note in pencil across the bottom right, partially obscuring the blue stamp. The handwriting appears to read:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping with the headline 'What Did The People Of Devon See Last Week?' and 'WAS IT A FLYING SAUCER?' The article text describes sightings of flying saucers in Devon, England, on October 30, 1950, reported by witnesses in Woolacombe, Exeter, Cullompton, Sidmouth Junction, and Paignton. A bold red stamp reading 'WAS IT A FLYING SAUCER?' is overlaid on the right side. The bottom of the clipping is stamped 'SUNDAY DISPATCH LONDON, ENGLAND 11-5-50'. A handwritten note 'Mobility' is visible near the bottom right of the clipping, and a faint stamped list of names is visible in the top right margin of the document."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description B adds specific quoted text from the clipping headline and stamp that Description A omits, but the two do not contradict each other on any specific visual element described by both.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:25"
+}

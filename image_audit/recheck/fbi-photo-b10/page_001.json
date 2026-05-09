@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "fbi-photo-b10",
+  "page_num": 1,
+  "original_image_tags": [
+    "A black-and-white infrared (IR) sensor still, likely from a military or surveillance system. The image displays a central crosshair reticle with vertical and horizontal scales marked with tick marks and numbers. The horizontal axis is labeled with numbers: \"15\", \"10\", \"5\" on the left side of center and \"5\", \"10\", \"15\" on the right. A small, dark, distinct dot is visible just to the right of the center crosshair, positioned near the \"1\" mark on the horizontal axis and slightly above the horizontal centerline. The background is a uniform, grainy gray tone, typical of IR imagery, with a darker, uneven landmass or horizon visible at the very bottom edge. Multiple rectangular redaction blocks are placed across the image, obscuring specific areas: a large black bar across the top edge; several black and gray blocks on the left and right sides, aligned roughly with the horizontal scale; and additional redaction blocks near the bottom corners. A timestamp is visible in the bottom left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black and white infrared or night vision photograph. It features a white crosshair reticle in the center with a horizontal scale marked at intervals of 5, from 15 to 0 to 15. A single small, dark, circular object is visible slightly to the right of the vertical crosshair line. The background is a uniform grey sky with a dark, jagged terrain or treeline visible at the bottom edge. A white timestamp in the bottom left corner reads '12/31/99 18:10:50'. The top and left/right edges of the frame are obscured by large black redaction bars."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content (infrared photo, crosshair reticle, horizontal scale with numbers, dark dot to the right, terrain at bottom, redactions, timestamp), but Description B provides a specific timestamp text ('12/31/99 18:10:50') that Description A omits.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:28"
+}

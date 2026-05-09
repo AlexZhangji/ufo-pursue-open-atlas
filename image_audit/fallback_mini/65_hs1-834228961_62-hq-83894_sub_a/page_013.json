@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 13,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on a black-and-white photograph of a single bright object against a dark background within a newspaper clipping, but Description B adds specific photographer, location, and date details not mentioned in A.",
+  "original_image_tags": [
+    "A newspaper clipping, vertically oriented, mounted on brown cardstock with staples. The clipping shows a black-and-white photograph of a diamond-shaped object with a trailing, jagged, light-colored glow or vapor trail against a dark sky."
+  ],
+  "gpt_mini_desc": "*Image: A pasted newspaper clipping showing a narrow vertical photograph of a jagged, diamond-shaped dark streak in the sky, with an Associated Press caption below; the clipping is mounted on a document page with typewritten names, dates, and handwritten notes/stamps.*",
+  "gpt_mini_desc_len": 269,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 56,
+    "total_tokens": 57718,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:56"
+}

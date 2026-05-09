@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "dow-uap-d64-mission-report-iran-november-2020",
+  "page_num": 2,
+  "original_image_tags": [
+    "A redaction bar is present at the top of the page.",
+    "A redaction bar is present at the bottom of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A single page of typed text containing military declassification stamps and redactions. The text includes sections for Tasking Order details, POC, QC, APPROVER, and INGEST. There are two red redaction bars at the top and bottom of the page, and several smaller black redaction bars obscuring personal or sensitive information. A red declassification stamp is visible in the top right corner stating 'Declassified by MG Richard A. Harrison USCENTCOM Chief of Staff Declassified on: 16 March 2026 FOUO / Privacy Act applies'. The footer reads 'USCENTCOM MDR 26-0028 Approved for Release to AARO - FOUO/PA applies 03/16/26 000002'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A only mentions two redaction bars, while Description B provides specific, contradictory quoted text for a declassification stamp and footer that Description A does not describe at all, indicating one side is hallucinating visual details the other does not see.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:23"
+}

@@ -1,0 +1,38 @@
+## CONFIDENTIAL
+
+MCCHORD FLIGHT SERVICE CENTER
+McChord Air Force Base
+Washington
+
+TCM 452
+10 August 1949
+
+SUBJECT: Unidentified Flying Objects
+
+TO:
+Commanding General
+Air Materiel Command
+Wright-Patterson AF Base, Ohio
+ATTENTION: MCIA-XO-3
+
+1. The following report of sighting of unidentified flying objects is submitted:
+
+a. Location and time of sighting: East and southeast of Medford, Oregon, 1120P to 1230P, 8 August 1949.
+
+b. Weather at the time: Sky clear, visibility thirty (30) miles.
+
+c. Names, occupations, and addresses of witnesses:
+
+(1) Corporal E. H. Conger, AACS Air/Ground operator of Medford Airways, address AACS Detachment 1905-1, Medford, Oregon.
+
+(2) Staff Sergeant Arthur Paulson, AACS Air/Ground operator of Medford Airways, address AACS Detachment 1905-1, Medford, Oregon.
+
+(3) Corporal Frank Bishop, AACS Air/Ground operator of Medford Airways, address AACS Detachment 1905-1, Medford, Oregon.
+
+(4) G. E. Milligan, CAA Tower operator, Medford Airport, Medford, Oregon, address P. O. Box 832, Medford, Oregon.
+
+(5) Jack Edmonds, CAA Tower operator, Medford Airport, Medford, Oregon, address P. O. Box 832, Medford, Oregon.
+
+*Image: Scanned typewritten declassified memorandum page with a “CONFIDENTIAL” stamp at top and bottom, dated 10 August 1949, titled “Unidentified Flying Objects,” with a handwritten “Part 1” notation in the upper right.*
+
+## CONFIDENTIAL

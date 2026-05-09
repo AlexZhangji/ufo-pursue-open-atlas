@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 143,
+  "original_image_tags": [
+    "A beige/cream-colored rectangular envelope, likely from the mid-1950s based on postage and handwriting style. It is addressed by hand in dark ink to the Federal Bureau of Investigation in Washington, D.C. The sender's return address is written in the top left corner. The envelope bears multiple US postage stamps in the upper right quadrant, all cancelled with black postmarks. Red ink stamps indicate it was sent via air mail, registered, and for special delivery. Additional handwritten notations in pen are visible below the address and near the registration stamp."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "A photographic scan of a handwritten envelope addressed to the Federal Bureau of Investigation, Washington D.C. The envelope features a return address for L.A. Ward in Yuba City, Calif. It includes six United States postage stamps: four red 10-cent stamps, one pink 25-cent stamp, and one purple 3-cent stamp. There are several postal markings, including a large circular United States Postage stamp, a 'VIA AIR MAIL' stamp, two 'Special Delivery' stamps, and a 'REGISTERED' stamp with the number '4246' handwritten below it. Handwritten notations include 'NC' near the top, 'over 4 1/2' near the center, and a hole is punched on the left side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific, contradicting verbatim text (e.g., sender 'L.A. Ward in Yuba City, Calif.', stamps 'six', 'NC', 'over 4 1/2', registration number '4246') that Description A does not confirm or contradicts with its more general description, indicating a fabrication of details from one side.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:24"
+}

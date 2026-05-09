@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 34,
+  "original_image_tags": [
+    "Black-and-white photograph of a typed official document on \"NEWFOUNDLAND CONSTABULARY\" letterhead. The letterhead features a central crest/emblem with a cross. The document is dated July 13th, 1947. A large \"RESTRICTED\" stamp is visible at the bottom center. There are handwritten signatures and initials. The bottom corners have handwritten page numbers."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A coat of arms featuring a shield with a cross and a unicorn-like figure on top, positioned at the top center of the document."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a full typed document page with letterhead, signatures, and a 'RESTRICTED' stamp, while Description B describes only a coat of arms, indicating the descriptions are about fundamentally different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:52"
+}

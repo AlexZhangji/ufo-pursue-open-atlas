@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 65,
+  "original_image_tags": [
+    "Aged, off-white document page with two hole-punches at the top margin. The page is mostly blank, with a faint \"NOT WOODSTOCK\" stamp visible at the top. The bottom right corner contains two blue stamped \"RECEIVED\" notices. The first stamp reads: \"RECEIVED / JUL 23 10 25 AM '47 / INTERNAL SECURITY / F.B.I. / DEPT. OF JUST.\" The second stamp, angled slightly, reads: \"RECEIVED / ATOMIC ENERGY SECTION / JUL 27 3 24 PM '47 / U.S. DEPT. OF JUSTICE / F.B.I.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page is a blank or back side of a document with two black circular punch holes at the top and two blue ink stamps at the bottom right. The first stamp reads 'RECEIVED ATOMIC ENERGY SECTION JUL 22 3 24 PM '47 F.B.I. U.S. DEPT. OF JUSTICE'. The second stamp reads 'RECEIVED JUL 23 10 25 AM '47 INTERNAL SECURITY F.B.I. DEPT. OF JUSTICE'. Faint, illegible text is visible through the paper from the reverse side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:51"
+}

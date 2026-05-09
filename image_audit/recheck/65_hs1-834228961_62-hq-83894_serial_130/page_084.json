@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 84,
+  "original_image_tags": [
+    "Hand-drawn circle with the number \"4\" inside, located in the bottom left quadrant of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed military memo with header, subject line, body text, and signature block. At the bottom, there is a large, circled numeral '4'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence of a circled numeral '4', but Description A specifies it is hand-drawn while Description B does not specify its nature, and Description A mentions a specific location while B does not, adding the typed memo content which is ignored for visual image comparison.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:13:21"
+}

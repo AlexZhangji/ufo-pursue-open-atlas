@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 137,
+  "original_image_tags": [
+    "hand-drawn sketch labeled \"drawing 3\" depicting a mechanical schematic. The drawing shows a horizontal shaft passing through a central cylindrical housing (outlined with dashed lines for the rear portion). On either side of the housing, there are vertical arms extending outwards, connected by lines (cables) to a vertical support structure on the left. The ends of the arms appear to have looped or weighted attachments."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "One hand-drawn sketch of a mechanical assembly featuring a central horizontal shaft, a surrounding oval component depicted with dashed lines, two circular rings mounted on a vertical line above and below the shaft, and connecting lines. Labeled with the handwritten text 'drawing 3.' below the sketch."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions consistently identify the same hand-drawn sketch labeled 'drawing 3' depicting a mechanical assembly with a central horizontal shaft, surrounding components, and connecting lines, with no contradictions on visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:33:17"
+}

@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 84,
+  "original_image_tags": [
+    "Two black circular punch holes at the top edge.",
+    "Two black circular punch holes at the top edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two blue rectangular stamps containing text. The left stamp reads: 'RECEIVED JUL 9 3 39 P.M. F.B.I. INTERNAL SECURITY (F.O. JUNE 1)'. The center stamp reads: 'RECEIVED AUG 8 11 24 A.M. INTERNAL SECURITY (F.O. JUNE 1)'. There is also a black rectangular stamp containing the text 'RECORDED 62-83894-23'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A mentions punch holes while Description B describes specific stamps with quoted text, indicating the two descriptions refer to entirely different visual elements on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:27:19"
+}

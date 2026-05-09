@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 148,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B describes specific visual content (a blue stamp with quoted text and a handwritten annotation) while Description A states the page is blank with only punch holes and faint reverse text, indicating they are about entirely different visual content.",
+  "original_image_tags": [
+    "The rest of the page is blank, showing only two punch holes at the top and some faint, illegible text showing through from the reverse side."
+  ],
+  "gpt_mini_desc": "*Image: Blank beige document page with three punch holes along the top edge, faint reverse-side text showing through, a blue inverted stamp near the lower center reading “RECEIVED INTEGRAL SECURITY” with “2 6 456 PP” and “FBI,” and a handwritten note/signature in the lower left corner.*",
+  "gpt_mini_desc_len": 287,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 70,
+    "total_tokens": 14962,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:24"
+}

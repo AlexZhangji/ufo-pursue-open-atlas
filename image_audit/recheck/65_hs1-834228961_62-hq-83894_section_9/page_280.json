@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 280,
+  "original_image_tags": [
+    "Scanned image of a worn, off-white document page. The top edge has two hole-punch holes and a torn corner. The center of the page is largely blank with faint bleed-through text from the opposite side. Several stamps and markings are visible.",
+    "A rectangular red stamp block in the top left corner with several lines of text, partially obscured by a white adhesive label covering the center. Visible text includes:",
+    "A vertical stamp in red ink along the left margin.",
+    "Faint, bleed-through text from the opposite side of the page is visible across the center, but it is illegible and reversed.",
+    "Two stamps in the bottom left corner.",
+    "Two stamps in the bottom right corner, one of which is rotated 90 degrees clockwise."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Back of a document page with faint bleed-through text. Visible stamps include a purple 'COPY' stamp on the left, a blue FBI stamp in the bottom right reading 'REC'D - COORD & ICURS', 'FBI', 'APR 13 10 25 AM '66', and a faint 'DEC 50' stamp. A white label with text is partially visible on the top left."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific verbatim text from stamps (e.g., 'COPY', 'REC'D - COORD & ICURS', 'FBI', 'APR 13 10 25 AM '66', 'DEC 50') while Description A states the stamps are partially obscured, illegible, or does not provide specific text, creating a contradiction on quoted text and visual content details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:39"
+}

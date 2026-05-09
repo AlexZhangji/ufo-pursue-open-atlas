@@ -1,0 +1,22 @@
+{
+  "file": "dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf",
+  "stem": "dow-uap-d44-range-fouler-arabian-sea-october-2020",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "c5cfbc8bacca29db64346aaa03846a6e36eab01ac09e1e93d8d50028593cf3f9",
+  "size_bytes": 297873,
+  "total_pages": 1,
+  "pages_processed_in_run": 1,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:06",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    }
+  ]
+}

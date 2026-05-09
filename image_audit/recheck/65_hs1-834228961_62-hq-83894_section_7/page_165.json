@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 165,
+  "original_image_tags": [
+    "Aged, yellowed document page, likely carbon copy or onion skin paper. Three punch holes along the top edge, secured with discolored tape. Text is heavily faded and ghosted, appearing as mirrored or bleed-through from another page. A prominent red receipt stamp is visible on the right side."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two ink stamps visible. One rectangular red stamp on the right reads 'COPY - FBI' and 'JUL 3 8 1953' (date partially obscured). One blue stamp at the bottom reads 'RECEIVED F B I' and 'U.S. DEPT. OF JUSTICE' with the date 'JUL 28 5:51 PM '53'. Faint, illegible typed text is visible through the paper from the reverse side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific verbatim text for two stamps ('COPY - FBI', 'JUL 3 8 1953', 'RECEIVED F B I', 'U.S. DEPT. OF JUSTICE', 'JUL 28 5:51 PM '53') that Description A either does not read or implies is illegible/absent.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:45"
+}

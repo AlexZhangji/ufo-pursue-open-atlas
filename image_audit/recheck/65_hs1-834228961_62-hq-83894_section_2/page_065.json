@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 65,
+  "original_image_tags": [
+    "The page is a blank, aged, tan-colored document sheet. It contains two faint, blue-inked \"RECEIVED\" stamps in the upper left and upper right corners. There are two punched holes along the bottom edge, indicating it was likely stored in a binder. The rest of the page is empty, with some minor specks and discoloration consistent with age."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two blue ink rubber stamps on an aged, off-white paper background. Top left stamp: 'RECEIVED / AUG 25 9 34 AM / INTERNAL SECURITY / F. B. I. / DEPT. OF JUSTICE'. Top right stamp: 'AUG 22 5 55 PM '47 / RECEIVED-LADD / F. B. I. / U.S. DEPT. OF JUSTICE'. Two hole-punch marks are visible at the bottom edge of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed text from the stamps ('AUG 25 9 34 AM', 'RECEIVED-LADD', etc.) while Description A states the stamps are faint and provides no text, creating a direct contradiction on the legibility and content of the visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:32"
+}

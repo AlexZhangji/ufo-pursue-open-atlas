@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 5,
+  "original_image_tags": [
+    "Aged, off-white document page with two dark hole-punch marks at the top center. The page contains faint, almost entirely illegible typewritten text that appears to be mirrored or bled through from the reverse side, making it unreadable. A blue stamped seal is visible in the lower right quadrant."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue ink stamp in the bottom right corner with the words 'RECEIVED INTERNAL SECURITY F. B. I.' and a date stamp below it reading 'JUN 22 2 04 PM '41'. The rest of the page contains faint, mostly illegible reverse-side bleed-through text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, verbatim text from the blue stamp ('RECEIVED INTERNAL SECURITY F. B. I.' and 'JUN 22 2 04 PM '41''), while Description A only describes a generic blue stamped seal without any quoted text, creating a direct contradiction on the specific text content of the same visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:23"
+}

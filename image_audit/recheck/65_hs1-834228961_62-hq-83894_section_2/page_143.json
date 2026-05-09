@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 143,
+  "original_image_tags": [
+    "A pink sheet of paper, likely a document backing or divider. At the top are two hole-punch marks. At the bottom, printed in blue ink but oriented upside down relative to the page, is the stamp:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Inverted blue stamp at bottom containing text 'RECEIVED', 'F.B.I. INTERNAL SECURITY', and partially illegible date and department information. Two black hole punch marks at top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:56"
+}

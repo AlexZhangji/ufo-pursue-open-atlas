@@ -1,0 +1,32 @@
+Director, FBI                     RE:  DETROIT FLYING SAUCER CLUB
+                                 ESPIONAGE - X
+
+HENRY MADAY, President
+LAURA MARXER, Vice-President
+DOLORES M. COYNE, Secretary
+JOHN C. HOFFMAN, Treasurer
+
+*[handwritten annotation in red ink to the right of the officers' list]:* Mich
+
+He said the club was going to petition the President of the United States to make public all government information on flying saucers. He also stated that by letter, September 25, 1954, LAURA MARXER advised him he was a group leader in the club, and his duties would be to keep up with latest developments and advise his group, the names of which he would receive from Miss COYNE.
+
+The Detroit Free Press of September 29, 1954, said in an article that the DFSC met September 28, 1954, and DESMOND LESLIE, British flying saucer authority, spoke, stating that GEORGE ADAMSKI made contact two years ago with space people in a California desert.
+
+Mr. VERN WILLARD advised he received a letter September 30, 1954, from DOLORES M. COYNE, Secy., DFSC, setting out the discussion group in the Farmington area as:
+
+Mr. and Mrs. BAILEY, 32740 Northwestern Highway *[handwritten annotation in blue ink]:* Detroit, Mich
+ALFRED S. STUDER, 28993 Parkhill *[handwritten annotation in blue ink]:* Detroit, Mich
+M. K. ZIMMER, 29581 Belfast *[handwritten annotation in blue ink]:* Detroit, Mich
+
+He received a letter from her October 4, 1954, adding to the above list:
+
+Miss LUCY RAMBO, 30203 Overdale Ct., Rte. 4, Farmington *[handwritten annotation in blue ink]:* Mich
+
+Mr. WILLARD, on October 13, 1954, said that LAURA MARXER asked him to call a meeting October 18, 1954. At this time, he said he felt he knew less about the club than anyone; but he thought it would make a good cover for subversive activities.
+
+He advised the object of group discussions, according to MARXER, was:
+
+1. To indoctrinate people to receive space people.
+2. Mass landings in Detroit in October (not further explained.)
+
+- 3 -

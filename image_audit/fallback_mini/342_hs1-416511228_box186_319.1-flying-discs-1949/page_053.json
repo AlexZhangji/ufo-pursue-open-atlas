@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 53,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Descriptions A and B are entirely about different visual content: A describes a New England coastal map with specific island names and a trajectory from East to West, while B describes a different map of a flight path over Sparwood B.C. with different labels, dates, and annotations, indicating they are analyzing two completely different images.",
+  "original_image_tags": [
+    "Hand-drawn map and trajectory diagram on aged paper. The map depicts a coastal area, likely in New England, showing islands labeled \"Puffin I.\", \"Bear I.\", \"Egg Rock\", \"Duck I.\", \"Little Duck I.\", \"Englishman Bay\", and \"Bass Harbor Head Light\". A trajectory line with arrows indicates an object's path from right to left (East to West). A circle is drawn around \"St. Paul Light\". A smaller diagram in the lower left shows altitude vs. distance. A compass rose points North to the right. A point is marked \"Gerhune residence - Keduck\"."
+  ],
+  "gpt_mini_desc": "*Image: A hand-drawn map-style diagram on a page stamped “CONFIDENTIAL,” showing a plotted flight path with arrows, labeled land and lake outlines, a circular area around one point, a small boxed data table, an altitude/speed graph, and typed caption text at the bottom identifying it as a photostatic copy of a drawing made by Paul Herring.*",
+  "gpt_mini_desc_len": 342,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 79,
+    "total_tokens": 56235,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:00"
+}

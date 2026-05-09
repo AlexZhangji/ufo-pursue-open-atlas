@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 133,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions disagree on the fundamental shape of the sketched object (Z-shaped vs. boomerang/L-shaped) and on the presence of specific text annotations and stamps, indicating contradictory visual content.",
+  "original_image_tags": [
+    "Hand-drawn sketch on dark background, depicting a Z-shaped or zigzag-shaped object. The shape consists of two horizontal wings connected by a vertical section. Both wings are covered with numerous small circles. A dimension line above the top wing indicates a width of \"6' to 8'\". A dimension line to the right indicates a height of \"1-1/2' x 2'\". A handwritten arrow points to one of the circles on the lower wing with an inverted text note."
+  ],
+  "gpt_mini_desc": "*Image: A black-and-white technical sketch of two irregular connected shapes filled with multiple small circles, annotated with measurements “6' to 8'” and “1-1/2' x 2',” with a signature block reading “/s/ Russell J. Carey, Jr., 1st Lt., USAF, Intel Officer” and the note “These are round cups with protrude.”*",
+  "gpt_mini_desc_len": 311,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 87,
+    "total_tokens": 57740,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:13"
+}

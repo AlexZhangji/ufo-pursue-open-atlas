@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 138,
+  "original_image_tags": [
+    "Handwritten signature reading \"Rush L. Kelley\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faded red 'SECRET' stamp at the top center, partially obscured by a horizontal line, and another faded red 'SECRET' stamp at the bottom center, also crossed out with a horizontal line."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions refer to entirely different visual elements, with one describing a handwritten signature and the other describing red 'SECRET' stamps, which is a direct contradiction about the page's visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:26"
+}

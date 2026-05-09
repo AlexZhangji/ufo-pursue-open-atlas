@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 147,
+  "original_image_tags": [
+    "A handwritten signature \"Jim [illegible]\" is written over the \"FROM\" line."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "FBI Office Memorandum document containing typed text, handwritten signatures, and various official stamps. No distinct photographs, sketches, diagrams, maps, or charts are present on the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a specific handwritten signature is present, while Description B states there are no distinct visual elements like photographs or sketches and only typed text, creating a direct contradiction on the presence of handwritten visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:41"
+}

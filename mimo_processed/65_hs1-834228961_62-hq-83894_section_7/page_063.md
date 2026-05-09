@@ -1,0 +1,49 @@
+STANDARD FORM NO. 64
+
+# Office Memorandum
+## UNITED STATES GOVERNMENT
+
+*SECURITY INFORMATION - CONFIDENTIAL*
+
+**TO :** DIRECTOR, FBI
+**DATE:** 10/3/52
+
+**FROM:** *[handwritten in blue ink: SKILL #29]* SAC, NEWARK (100-36998)
+
+**SUBJECT:** RE: SPECIAL INQUIRY
+UNIDENTIFIED AERIAL OBJECTS;
+Inspector General, USAF
+2nd District Office of Special Investigations
+67 Broad Street
+New York 4, New York
+
+*[*handwritten in blue ink: Flying Discs*]*
+
+For the information of the Bureau, on August 27, 1952, the Newark division received a request from the Inspector General, United States Air Force, 2nd District Office of Special Investigations, 67 Broad Street, New York 4, New York, that the background of a civilian photographer, JOHN R. RILEY, 571 Main Street, Paterson, N. J., and of GEORGE J. STOCK, 221 Brooks Avenue, Passaic, N. J., be investigated in an attempt to determine their reliability in view of the fact that they had allegedly observed and photographed an unidentified aerial object on July 31, 1952.
+
+The appropriate credit and criminal checks were made in this matter as well as discreet neighborhood inquiries as to both individuals, and no information was received that either individual had criminal records or that they were known in the past to have perpetrated any kind of fraud.
+
+It was ascertained that STOCK did photograph an allegedly unidentified aerial object and that RILEY witnessed the incident and developed and printed the exposed film which was subsequently forwarded to the 5th OSI District, Air Technical Intelligence Center, Wright-Patterson Air Force Base, Ohio by Mr. CHARLES GREGG, staff writer, "The Herald News, Passaic, N. J."
+
+The letter further requested that the photographer and the witness be questioned as to the circumstances under which the photographs were taken and that an attempt be made to locate other sources in the area that might determine the authenticity of the photos. No investigation of this type was made by the Newark division.
+
+In accordance with SAC letter #83, Series 1952 dated 8/29/52, the results of the credit and criminal checks and the neighborhood investigations were forwarded to the local OSI Office, New York City and no further investigations have been made by this office.
+
+*[*handwritten: LWR:IMH*]*
+
+*[*handwritten in red ink: APPROPRIATE AGENCIES AND FIELD OFFICES ADVISED BY ROUTING SLIP(S) OF 7-198*]*
+
+**RECORDED-12**
+**INDEXED-12**
+
+*[*handwritten in red ink: 62-83894-318*]*
+
+*[*handwritten in red ink: OCT 8 1952*]*
+
+*[*handwritten: 17*]*
+
+*[*stamped in purple ink: SECURITY INFORMATION - CONFIDENTIAL*]*
+
+*[*handwritten in blue ink: declassified 9/11/77 HM*]*
+
+*[*stamped in purple ink: 67 OCT 13 1952*]*

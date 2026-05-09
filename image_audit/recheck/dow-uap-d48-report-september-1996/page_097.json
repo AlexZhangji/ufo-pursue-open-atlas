@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 97,
+  "original_image_tags": [
+    "Line graph with logarithmic y-axis showing \"Percent in 5-deg Sector (%)\" from 0.1 to 10 and linear x-axis showing \"Angle from Flight Path, Theta (deg)\" from 0 to 180. Title within graph is \"Data for Atlas IIAS\" with \"B = 1000\". A legend indicates five line styles for A = 1.0 (solid line), A = 2.0 (long dashed line), A = 3.0 (short dashed line), A = 4.0 (dotted line), and A = 5.0 (open circles). The curves for A > 1 show a steep decline in percentage as angle increases, while the curve for A = 1.0 remains relatively flat across the angles."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "A line graph titled 'Data for Atlas IIAS' with a parameter 'B = 1000'. The x-axis is labeled 'Angle from Flight Path, Theta (deg)' ranging from 0 to 180. The y-axis is labeled 'Percent in 5-deg Sector (%)' with a logarithmic scale showing 0.1, 1, and 10. The legend indicates five data series: A=1.0 (solid line), A=2.0 (dashed line), A=3.0 (dotted line), A=4.0 (long-dashed line), and A=5.0 (circles). The caption below reads 'Figure 34. Percentage of Impacts in 5-Degree Sectors'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the chart's title, axes, scale, legend entries, and general trends, but they differ in the specific ordering and styling of line types in the legend, though these differences do not contradict each other.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:17:38"
+}

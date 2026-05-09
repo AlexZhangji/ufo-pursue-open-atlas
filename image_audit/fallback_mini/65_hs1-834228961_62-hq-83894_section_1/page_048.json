@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 48,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions contradict on key visual elements: one describes an outdoor background with a building corner and utility pole, while the other describes an indoor setting with a plain wall, and one states the man is looking down holding a small tool against the blade, which the other omits.",
+  "original_image_tags": [
+    "A sepia-toned, black-and-white photograph mounted on a beige file folder or backing sheet. The photograph shows a man, likely in his 50s, with dark, receding hair, wearing a dark jacket. He is holding a large, circular, light-colored disc with a serrated, saw-toothed edge. The disc appears to be made of a solid, possibly metallic or rigid material. He holds it with both hands, presenting it towards the camera. The background is an out-of-focus outdoor setting, with the corner of a building and a utility pole with wires visible.",
+    "The photograph is affixed to the page with two staples at the top and two at the bottom. The backing page is aged and shows two hole-punch marks at the top."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white photograph of one man in a dark coat holding and examining a large circular saw blade or toothed disc; the page has two punched holes at the top and faint stamped/handwritten markings near the lower right.*",
+  "gpt_mini_desc_len": 230,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 51,
+    "total_tokens": 54703,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:21"
+}

@@ -1,0 +1,19 @@
+~~SECRET~~
+
+**U.S. Govt.**
+**D-L-Hq, USAF**
+
+## Header
+USAFE 2    TT 1524    ~~SECRET~~    4 Nov 48
+
+## To Gen Cabell
+
+We now have one complete set of all reports prepared by special intelligence organization of the European Command from its conception to present date. We are forwarding these reports for your inspection and final disposition. We are of the opinion that inspection of these reports will lend weight to arguments for allocating Air Force funds to this organization. Advise caution in utilizing these reports as most of them were forwarded as received.
+
+(END OF ITEM)
+
+~~SECRET~~
+
+---
+NW 90307
+DocId:34714985 Page 3

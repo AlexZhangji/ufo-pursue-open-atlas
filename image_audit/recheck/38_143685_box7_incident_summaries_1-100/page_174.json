@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 174,
+  "original_image_tags": [
+    "The image is a scan of a typed document page. The text is white against a dark gray, grainy background, characteristic of a photographic negative or microfilm scan. There are three punched holes along the left margin and one punched hole at the bottom center. A page number \"173\" is typed in the bottom right corner. The word \"RESTRICTED\" is stamped at the top and again at the bottom of the page. The main body of text is a single paragraph describing an observation."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two stamped words reading 'RESTRICTED' located at the top and bottom of the document."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:49"
+}

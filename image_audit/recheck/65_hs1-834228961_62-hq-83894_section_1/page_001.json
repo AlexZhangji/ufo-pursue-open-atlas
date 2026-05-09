@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 1,
+  "original_image_tags": [
+    "Scan of a worn, tan-colored FBI file jacket or folder cover. The surface is covered with multiple stamps, labels, and annotations in red, black, and blue ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "An image of a brown paper file folder with various stamped and printed text elements. Visible text includes large orange letters 'AL BUREAU OF TIGATION QUARTERS', 'DO NOT DESTROY' stamps, a barcode label with 'RRP003HX15', a white label with 'FBI - CENTRAL RECORDS CENTER', 'HQ - HEADQUARTERS', 'Class/Case # 0062 83894', 'Serial # 52', a red handwritten 'X' in a box, and a blue sticker stating 'Declassification authority derived from FBI Automatic Declassification Guide, issued May 24, 2007.' Also visible is 'SECRET' stamped in red and 'Transfer - Call 3421' in orange."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes multiple specific, structured text elements (e.g., 'Class/Case # 0062 83894', 'Serial # 52', a full declassification authority statement) that Description A does not mention at all, and Description A's claim of stamps in 'red, black, and blue ink' directly contradicts B's specific 'orange letters' and 'red handwritten X'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:27"
+}

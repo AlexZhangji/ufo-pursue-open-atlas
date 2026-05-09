@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 46,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions are factually inconsistent on the visual content: Description A describes several specific stamps, a signature, and a handwritten number as visual elements, while Description B explicitly states the page contains 'no photographs, sketches, diagrams, or charts' and reduces those elements to a general description of 'a red stamp and a handwritten number'.",
+  "original_image_tags": [
+    "Vertical punch holes at the top margin. The word \"COPY\" is typed vertically in the top left margin. A red \"HANDLING TOP SECRET\" stamp is visible in the lower right corner, with a signature/initial illegible over it. A red \"ENCLOSURE\" stamp is visible near the signature. Below the signature, a handwritten notation in red ink reads: \"62.83894.143\"."
+  ],
+  "gpt_mini_desc": "*Image: A typed letter on letterhead-style paper, dated “Benkelman, Nebraska March 14, 1948,” addressed to Mr. Kenneth Wherry, with red handwritten annotations near the bottom and “COPY” typed near the upper left.*",
+  "gpt_mini_desc_len": 214,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 55,
+    "total_tokens": 14947,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:29"
+}

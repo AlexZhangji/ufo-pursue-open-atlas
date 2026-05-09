@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 46,
+  "original_image_tags": [
+    "Vertical punch holes at the top margin. The word \"COPY\" is typed vertically in the top left margin. A red \"HANDLING TOP SECRET\" stamp is visible in the lower right corner, with a signature/initial illegible over it. A red \"ENCLOSURE\" stamp is visible near the signature. Below the signature, a handwritten notation in red ink reads: \"62.83894.143\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter describing a visual sighting of a high-altitude object; contains a red stamp and a handwritten number '62.83894-143' but no photographs, sketches, diagrams, or charts."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions are factually inconsistent on the visual content: Description A describes several specific stamps, a signature, and a handwritten number as visual elements, while Description B explicitly states the page contains 'no photographs, sketches, diagrams, or charts' and reduces those elements to a general description of 'a red stamp and a handwritten number'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:15"
+}

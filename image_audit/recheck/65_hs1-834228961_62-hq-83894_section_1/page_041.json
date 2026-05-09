@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 41,
+  "original_image_tags": [
+    "Aged, off-white paper document, likely the back of a file folder or a routing slip. The paper shows wear, with two punch holes at the bottom and a torn corner at the bottom left. Two blue ink stamped impressions are visible at the top. There is also a very faint, illegible purple ink mark or stamp in the lower right quadrant."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Aged paper document back with two blue ink reception stamps. The left stamp reads 'RECEIVED', 'JUL 23 9 51 AM', 'INTERNAL SECURITY', 'F.B.I.', 'DEPT. OF JUSTICE'. The right stamp reads 'Jul 11 3 24 PM '47', 'RECEIVED-LADD', 'F.B.I', 'U.S. DEPT. OF JUSTICE'. The page shows wear, two punch holes, and torn edges at the bottom left."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific, verbatim text from two blue stamps that Description A claims are 'illegible,' creating a direct contradiction on the readability and content of the same visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:40"
+}

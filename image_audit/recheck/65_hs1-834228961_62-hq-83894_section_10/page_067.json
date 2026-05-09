@@ -1,0 +1,34 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 67,
+  "original_image_tags": [
+    "A scan of a page containing two black-and-white hand-drawn sketches, each within a rectangular border, mounted on a larger backing sheet. The paper appears aged with some speckling.",
+    "A hand-drawn sketch depicting a landscape with a cloudy sky. In the center, a large, disc-shaped or saucer-like object is shown tilted at an angle, appearing to either land on or take off from the ground. The object has a defined rim or edge. Below the object is a rough horizon line indicating terrain. Two distinct, solid black circular dots are drawn in the sky, one in the upper-left cloud area and one in the upper-right cloud area.",
+    "A hand-drawn sketch depicting a simpler, less detailed scene. It shows a dome-shaped or mushroom-shaped cloud or object rising from a flat horizon line. The form is rounded on top with a wider base. The interior of the form is filled with a light, textured shading."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "Top rectangular sketch depicting a landscape with cloud-like formations and a circular or ring-like shape near the center. Handwritten label 'BOTTOM' with an arrow pointing up is located to the right of the sketch."
+      },
+      {
+        "category": "sketch",
+        "description": "Bottom rectangular sketch depicting a faint, rounded, multi-lobed shape resembling a cloud or formation. Handwritten label 'TOP' with an arrow pointing up is located to the right of the sketch."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions contradict each other on the number and arrangement of sketches (A describes two distinct sketches with different content, while B describes two sketches with labels and arrows that A does not mention), and one side quotes specific text ('TOP' and 'BOTTOM' labels) that the other does not report, indicating a factual inconsistency in the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch",
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:41"
+}

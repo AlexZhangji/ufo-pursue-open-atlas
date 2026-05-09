@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 79,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims the text 'RUSSIA' is printed on a cylindrical component attached to the upper rim, while Description B claims the text 'RUSSIA' is on a rectangular block and is upside down, representing a direct contradiction on the specific quoted text and its location.",
+  "original_image_tags": [
+    "Black-and-white photograph of a circular, light-colored object, possibly a metal disc or plate, photographed against a plain, light surface. The object appears to be a constructed artifact or model, not a natural object. Attached to its upper rim is a dark, cylindrical component or cap with the word \"RUSSIA\" printed on it in white, capital letters. A dark, irregularly shaped component with what appears to be a spring or coiled wire extending from it is attached to the lower rim. A small, rectangular, metallic block is affixed to the right side of the disc. Faint, hand-drawn lines or markings are visible on the surface of the disc, curving from near the center toward the edge. A dark, out-of-focus object with vertical slats, possibly a vent or grille, is visible in the background to the left. The photograph is a physical print with a white border, mounted on a darker backing. The image quality is grainy, with high contrast and some glare on the disc's surface."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white photograph of a circular mechanical device or component, viewed from above, with a central round opening and several attached parts, including a dark upper piece labeled “VISSN,” a rectangular piece on the right, and a coiled spring-like attachment at the bottom.*",
+  "gpt_mini_desc_len": 288,
+  "usage": {
+    "prompt_tokens": 22427,
+    "completion_tokens": 61,
+    "total_tokens": 22488,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:43"
+}

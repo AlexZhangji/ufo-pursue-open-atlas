@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 37,
+  "original_image_tags": [
+    "Hand-drawn sketch on the document, showing two views of a disc-shaped object."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The word 'CONFIDENITAL' (spelled with an 'I') stamped at the top center of the page."
+      },
+      {
+        "category": "sketch",
+        "description": "A hand-drawn sketch at the bottom of the page depicting a UFO or flying disc from two perspectives. The sketch includes a 'Side View' showing a thin, slightly curved shape and a 'Top' view showing a wider, shield-like or saucer shape. Text above the sketch reads: 'Seemed to travel in sidewise position and did not appear to whirl or spin'. Text below and to the right of the sketch reads: 'They seemed longer than wide thickness being about 1/20 of width'. An arrow points downward from the top view sketch."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "The word 'CONFIDENITAL' (spelled with an 'I') stamped again at the bottom center of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on a hand-drawn sketch of a disc-shaped object from two perspectives, but Description B adds specific quoted text and details not present in Description A.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "sketch",
+    "stamp_or_label_only"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:35"
+}

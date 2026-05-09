@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 87,
+  "categories": [
+    "map"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual elements: a hand-drawn map of Japan with six observing stations, a path line, a red X near Gifu, and a bottom-left annotation; the main difference is that Description B adds a legend in the bottom right corner that Description A omits, but they do not contradict each other.",
+  "original_image_tags": [
+    "A hand-drawn map of Japan showing several locations marked as observing stations (●). A line (—) labeled \"PROBABLE PATH OF PHENOMENON\" connects several of these stations. A red cross (✕) labeled \"PROBABLE AREA OF EXPLOSION OR DISAPPEARANCE\" is marked near one station. The observing stations are labeled: FUKUSHIMA, NAGANO, TAKAYAMA, SUWA, IIDA, and GIFU. The map includes a grid overlay. In the bottom left corner, there is a handwritten annotation: \"Incl 4³\"."
+  ],
+  "gpt_mini_desc": "*Image: Hand-drawn map of central and northern Japan with coastline outlines, latitude-longitude grid lines, labeled observing stations (Fukushima, Nagano, Takayama, Suwa, Gifu, Iida), a diagonal probable path line, an X marking a probable area of explosion or disappearance, and a legend in the lower right.*",
+  "gpt_mini_desc_len": 309,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 74,
+    "total_tokens": 57736,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:05"
+}

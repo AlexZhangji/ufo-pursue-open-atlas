@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 32,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content (a hand-drawn line graph on grid paper with four line categories, 'CONFIDENTIAL' stamps, and axis titles), but B adds specific axis ranges, legend line types, and text annotations not mentioned by A, without contradiction.",
+  "original_image_tags": [
+    "A hand-drawn line graph on grid paper titled by its axes. The paper is marked at the top center as \"THE FREDERICK POST CO., CHICAGO, ILL.\" and \"331-20 20X20 PER INCH\". A \"CONFIDENTIAL\" stamp is visible at the top center, partially obscured by the graph border, and again at the bottom center over the x-axis label. The graph plots four categories of aerial observations over a 24-hour period. The paper has two hole-punch marks on the left margin."
+  ],
+  "gpt_mini_desc": "*Image: A hand-drawn line chart on graph paper titled by labels “Number of Observations” and “Time of Sightings,” with four plotted series in a legend: Meteorites, Meteors, Green “Fireballs,” and “Disks” or Variations; several peaks are annotated “METEORITE MAXIMUM,” “METEOR MAXIMUM,” “GREEN ‘FIREBALL’ MAXIMUM,” and “‘DISK’ or VARIATION MAXIMUM,” and the page is stamped “CONFIDENTIAL.”*",
+  "gpt_mini_desc_len": 389,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 111,
+    "total_tokens": 57764,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:09"
+}

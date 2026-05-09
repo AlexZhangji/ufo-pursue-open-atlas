@@ -1,0 +1,38 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 80,
+  "original_image_tags": [
+    "A vintage advertisement featuring a stylized cartoon character with a mustache, looking at a bottle of \"Rum Carioca Puerto Rican Rum\" on a plate. A large black speech bubble or shape behind the character contains the text \"CARIOCA\". Below the image, text reads:",
+    "A black and white photograph of a single argyle sock."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Top right: Black and white illustration of a smiling anthropomorphic bottle labeled 'Rum Carioca PUERTO RICAN RUM' with musical notes below it, captioned 'PUERTO RICAN RUM' and 'GOLD OR WHITE LABEL'."
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Middle right: Black and white illustration of a mattress cushion with the text 'MAKE HARD MATTRESSES SOFT' and pricing information '$17.95 ACA Blue & White Stripe'."
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Bottom right: Black and white illustration of a patterned tie and scarf, captioned 'Exeter' and listing store locations like 'At Whitehouse & Hardy in New York'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a cartoon character looking at a rum bottle and a photograph of an argyle sock, while Description B describes three distinct illustrations (an anthropomorphic bottle, a mattress cushion, and a tie/scarf) with completely different content and captions.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:47"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "18_6369445_general_1948_vol_1",
+  "page_num": 4,
+  "original_image_tags": [
+    "Aged, light-blue or greenish government form paper with three hole-punch marks on the left margin. Top center stamped \"SECRET\" in large, red ink with a horizontal line struck through the middle of the word."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned document page containing typed text, a stamped 'SECRET' classification mark, handwritten notes, and a date stamp '4 - JUN 1948'. No photographs, sketches, diagrams, maps, or charts are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains no actual images (photographs, sketches, etc.), only typed text and a stamped 'SECRET' classification mark.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:22"
+}

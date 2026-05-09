@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 45,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B provides specific, detailed verbatim text from stamps ('L 22 11:56 AM RECEIVED - MAIL ROOM F B I', 'MAILED JUL 23 1947 P.M.') and additional visual elements (handwritten 'Copy', tape) that Description A does not mention, indicating they describe different levels of detail or potentially different content.",
+  "original_image_tags": [
+    "Aged, yellowed manila document tag with a hole-punched top, showing reversed or bleed-through text and two ink stamps."
+  ],
+  "gpt_mini_desc": "*Image: Single scanned page of a heavily faded, yellowed document with two punched holes near the top, faint mirrored typewritten text visible through the paper, a small handwritten mark near the upper center, a blue circular-style stamp near the lower center, and a red rectangular stamp in the lower right corner.*",
+  "gpt_mini_desc_len": 316,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 65,
+    "total_tokens": 14957,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:15"
+}

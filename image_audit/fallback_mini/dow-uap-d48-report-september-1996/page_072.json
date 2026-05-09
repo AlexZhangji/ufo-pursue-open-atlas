@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 72,
+  "categories": [
+    "chart_or_graph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the graph's title, axes, data categories, and fit lines, but Description B mentions a caption and uses different symbol descriptions that are not contradictions but additional/alternate details.",
+  "original_image_tags": [
+    "A line graph titled \"Delta-GEM Random-Attitude Failures through 270 sec\". The vertical axis is labeled \"Percent in 5-deg sector (%)\" and uses a logarithmic scale from 0.01 to 100. The horizontal axis is labeled \"Angle From Flight Path (deg)\" and uses a linear scale from 0 to 180. The graph contains several data lines and symbols. A legend within the graph area lists \"Breakup q-alpha in deg-lb/ft²\" with the following entries and associated symbols: \"no breakup\" (inverted triangle), \"20,000\" (solid circle), \"10,000\" (open circle), \"5,000\" (open triangle). Below this, four dashed or solid lines are labeled with parameter pairs: \"A = 2.60, B = 10,000\" (solid line), \"A = 3.15, B = 2,000\" (dashed line), \"A = 3.35, B = 2,000\" (long-dashed line), \"A = 3.50, B = 4\" (solid line). The data lines generally show a decreasing trend as the angle increases, with the \"no breakup\" line remaining highest and the \"5,000\" breakup line dropping the lowest."
+  ],
+  "gpt_mini_desc": "*Image: A scientific line graph labeled “Figure 25. Delta-GEM Simulation Results with Best-Fit Shaping Constants,” showing multiple plotted curves on a logarithmic y-axis (“Percent in 5-deg sector (%)”) versus x-axis (“Angle From Flight Path (deg)” from 0 to 180), with an in-graph legend referencing breakup q-alpha values (no breakup, 20,000, 10,000, 5,000) and shaping constants A and B.*",
+  "gpt_mini_desc_len": 391,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 104,
+    "total_tokens": 56260,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:37"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 179,
+  "original_image_tags": [
+    "The names \"Mr. Boardman\" and \"Mr. Belmont\" have been crossed out with a pen. A handwritten signature or initials, possibly \"JB\" or \"JR\", is written over the crossed-out names."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Typed distribution list on the right side with names (Mr. Tolson, Mr. Nichols, Mr. Boardman, etc.) and a handwritten initial next to Mr. Boardman. An orange paper slip is taped in the center containing typed text about flying saucers, ending with '3/14--EG1145A'. A red handwritten number '62-83894-374' and the typed word 'ENCLOSURE' are at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes handwritten edits (crossing out names, adding initials) which are not mentioned at all in Description B, while Description B describes a distribution list, an orange slip, and other elements not mentioned in A, indicating the two descriptions are about different visual content or one is a complete hallucination.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:02"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 195,
+  "original_image_tags": [
+    "A scan of the reverse side of a document page. The paper is light-colored with two hole-punch marks at the top center. The page shows faint, reversed text visible through the paper from the front side. At the bottom center, there is a blue ink stamp. At the bottom left corner, there is a handwritten notation in pencil or light ink."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "An upside-down blue ink stamp reading 'REC'D INSPECTOR ESP. N.L. C.R. BRANCH' followed by 'OCT 2 10 47 AM 62'. Faint, illegible typed text is visible in the background through the paper. Two hole-punch marks are visible at the top edge, and handwritten text '182' is visible in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the visual elements: a faint reversed text background, a blue ink stamp at the bottom center, a handwritten notation at the bottom left, and two hole-punch marks at the top, with no contradictions on specific quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:39"
+}

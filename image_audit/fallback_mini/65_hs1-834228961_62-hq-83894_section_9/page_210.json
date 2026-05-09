@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 210,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B lists specific ink stamps with dates and text (e.g. 'FBI WASHINGTON D.C.' with date 'SEP 20 12 03 PM 63'), a red handwritten number '187', and a confidential stamp, which are not mentioned in Description A, which instead quotes extensive bleed-through text content from the reverse side that is not mentioned in Description B, indicating the descriptions are about different visual content or contain major omissions and fabricated details.",
+  "original_image_tags": [
+    "Yellow paper document, showing the reverse side (back) of a page. Two hole-punch marks visible at the top. Faint, reversed (bleed-through) typed text is visible throughout, indicating this is the back of a typed memo. Notable bleed-through text fragments include: \"Attached are two copies of a letter to Mr. Harry W. Triplet. You should prepare a summary of information in your letter pertaining to Special Agent Don E. Gates. This should include an account of the interview with Agent Gates. ... Title information should read the Russian, ... the above caption, no later than 9-25-53. ... NOTE: Gates indicates no authority to Mr. ... that we have no authority to investigate reports on unidentified flying objects. From in-ence rep sort, no yellow or abstract prepared. ... Ctl: Fdl (2)\"."
+  ],
+  "gpt_mini_desc": "*Image: A yellowed, scanned document page with faint mirrored typed text, two black binder-hole punches at the top edge, a small red handwritten mark near the upper center, and green date-stamp text near the bottom.*",
+  "gpt_mini_desc_len": 216,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 49,
+    "total_tokens": 14941,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:22"
+}

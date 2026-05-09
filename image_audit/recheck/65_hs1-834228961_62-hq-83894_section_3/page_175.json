@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 175,
+  "original_image_tags": [
+    "A typed \"Office Memorandum · UNITED STATES GOVERNMENT\" form (Standard Form No. 64). The paper is aged and yellowed with torn edges, particularly at the top. It has two hole-punch marks at the top. The form contains typed text regarding a \"Flying Disc Sighted\" report. There are multiple handwritten annotations in blue and black ink, circled numbers, and several stamped marks including \"RECORDED INDEXED\", a case number \"62-83 894\", and date stamps \"OCT. 1 1947\" and \"50 OCT 14 1947\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed U.S. government office memorandum dated September 13, 1947, from SAC Seattle to the FBI Director regarding a 'Flying Disc Sighted' near Canyon Ferry, Montana. The page contains typed text, handwritten annotations, and official stamps."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (an aged typed memorandum with handwritten annotations and official stamps), but Description A provides more specific details about the stamps and markings that Description B omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:57:48"
+}

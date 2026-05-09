@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 49,
+  "original_image_tags": [
+    "The back of a yellowed, aged paper document with two punch holes at the top. The paper shows significant bleed-through of typed text from the other side. There is a strip of adhesive tape horizontally across the upper third. Several red ink stamps are visible at the bottom, oriented upside down relative to the scan."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Bottom right corner features two overlapping stamped rectangles containing text including 'U.S. DEPT. OF STATE', 'FBI', 'RECEIVED-MAIL ROOM', and a red stamp with 'FILED', 'MAR 25', and 'WAR 3 E', along with several other partially legible lines."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "Faint, mirrored, and highly illegible typed text is visible through the paper from the reverse side, appearing as a dense block of reversed lines across the page, making specific content unreadable."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes stamps as being at the bottom and upside down, while Description B describes specific, quoted text within stamps in the bottom right corner, creating a contradiction in both location and content; moreover, Description B quotes verbatim text ('U.S. DEPT. OF STATE', 'FBI', etc.) that Description A does not mention at all.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:16"
+}

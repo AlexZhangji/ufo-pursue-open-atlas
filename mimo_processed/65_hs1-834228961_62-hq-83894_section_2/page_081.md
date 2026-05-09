@@ -1,0 +1,1 @@
+*Image: Black-and-white photograph of a circular object mounted against a dark background, with a small clasp or handle on its right edge and a small rectangular inset image near the lower left of the page.*

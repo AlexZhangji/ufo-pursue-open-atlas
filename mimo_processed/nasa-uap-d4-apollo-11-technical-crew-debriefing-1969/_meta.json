@@ -1,0 +1,62 @@
+{
+  "file": "nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf",
+  "stem": "nasa-uap-d4-apollo-11-technical-crew-debriefing-1969",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "aacc41814dd16583bbeabe068026bf286cd9b0e464ff097c5c7b97b00d308443",
+  "size_bytes": 29286242,
+  "total_pages": 11,
+  "pages_processed_in_run": 11,
+  "status": "complete",
+  "elapsed_sec": 0.5,
+  "completed_at": "2026-05-08 15:39:25",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    },
+    {
+      "page": 8,
+      "status": "skip"
+    },
+    {
+      "page": 9,
+      "status": "skip"
+    },
+    {
+      "page": 10,
+      "status": "skip"
+    },
+    {
+      "page": 11,
+      "status": "skip"
+    }
+  ]
+}

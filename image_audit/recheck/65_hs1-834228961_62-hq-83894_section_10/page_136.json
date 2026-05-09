@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 136,
+  "original_image_tags": [
+    "handwritten initials or signatures in blue ink over the \"TO\", \"FROM\", and right-hand routing box areas. A handwritten note in the top left corner appears to read \"final\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed United States Government Memorandum form dated 5/16/69, containing typed text regarding an individual named Forrest E. Wood and flying objects, along with handwritten annotations, signatures, and routing stamps."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same visual content: handwritten annotations (initials/signatures), routing stamps, and a typed memo form, with no contradictions on object counts, categories, or quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:28:42"
+}

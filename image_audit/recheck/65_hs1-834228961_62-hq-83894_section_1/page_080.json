@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 80,
+  "original_image_tags": [
+    "The page is the reverse side of a typed document. The faint, reversed text of the front side is visible through the thin paper. The main content consists of several blue ink reception stamps from various FBI and Department of Justice divisions, each with a date and time from July 16-17, 1947. There are two dark circular hole-punch marks at the top edge and a strip of aged, yellow tape on the left edge. Some faint, handwritten notations in pencil or pen are barely visible in the margins."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The back of a document featuring faint, reversed text from the front side showing through. Visible text includes a header with 'Office Memorandum' and 'UNITED STATES GOVERNMENT'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue ink stamps. Visible stamps include 'FBI LABORATORY DIVISION' with 'JUL 17 10 22 AM 47', 'RECEIVED JUL 16 5 09 PM 47 S.DEPT. OF JUSTICE FBI LIAISON SECTION', 'RECEIVED JUL 16 10 02 AM 47 INTERNAL SECURITY F.B.I.', 'RECEIVED 4 39 PM 47 F.B.I. DEPT. OF JUSTICE', 'RECEIVED JUL 17 10 08 AM 47 F.B.I. TECHNICAL LABORATORY U.S. DEPT. OF JUSTICE', and 'RECEIVED 9 29 AM 47 F.B.I. RECEIVED-LADD Office of Justice'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence and general nature of multiple blue ink reception stamps with dates/times from July 16-17, 1947, but Description B provides specific, detailed quoted text for each stamp while Description A only describes them generically without contradicting the details.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:20"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 146,
+  "original_image_tags": [
+    "A single page from a US government document archive. The page is oriented with its bottom edge facing the left of the image, showing a reversed, faint carbon copy or bleed-through of typed text on the verso. The page is aged, with two punched holes at the top edge and a torn corner at the top left. The bottom portion contains several official stamps and handwritten notations."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page showing the reverse side of a typed document with faint mirrored text visible through the paper. Includes two punched holes at the top edge, a handwritten signature with the date '4/15' at the bottom left corner, and two stamped 'U.S. DEPT. OF JUSTICE' date stamps at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims specific visual elements (handwritten signature with date '4/15', two 'U.S. DEPT. OF JUSTICE' stamps) that are not mentioned in Description A, which instead describes general stamps and notations, indicating a potential hallucination of specific text content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:20"
+}

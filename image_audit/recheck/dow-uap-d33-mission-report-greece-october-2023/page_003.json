@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "dow-uap-d33-mission-report-greece-october-2023",
+  "page_num": 3,
+  "original_image_tags": [
+    "A thick red horizontal redaction bar is positioned at the top center of the page.",
+    "A thick red horizontal redaction bar is positioned at the bottom center of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Page containing typed text, form fields, and classification markings. No photographs, sketches, diagrams, maps, or charts are visible. Two horizontal red redaction bars are present: one near the top right and one at the bottom center. A classification stamp is in the top right corner reading 'Declassified by MG Richard A. Harrison USCENTCOM Chief of Staff Declassified on: 22 January 2026'. The bottom of the page includes the text 'USCENTCOM MDR 26-0019', a redaction bar with text '3.5c, (b)(6)', 'Approved for Release to AARO', and '01/26/26 003'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims there are two redaction bars (top center, bottom center) while Description B describes the top bar as 'near the top right' and the bottom bar as 'at the bottom center', indicating a positional contradiction, and Description B additionally includes specific quoted text from a classification stamp and page footer that Description A does not mention.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:37"
+}

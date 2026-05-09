@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 12,
+  "original_image_tags": [
+    "* Faded red \"RECORDED\" stamp with vertical index, overlaid by large handwritten \"62-83894-55\" in blue ink.",
+    "* Blue circular stamp: \"AND INDEXED F.B.I.\" with handwritten \"135\" inside.",
+    "* Red ink stamp: \"30 SEP 30 1947\" with handwritten \"25-2\" below it."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed US Government Office Memorandum form (Standard Form No. 64) dated August 8, 1947. It is addressed to Mr. Ladd from J. P. Coyne regarding 'UNKNOWN SUBJECTS; Raymond Edward Lane, Mrs. Laura Lane - Informants; FLYING DISC MISCELLANEOUS'. The document contains several handwritten annotations and stamps, including a signature in red ink, blue and red date stamps, and a list of names printed vertically on the right side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes three specific stamp images with quoted text, while Description B describes a typed memorandum form with no images, indicating they are describing different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:26"
+}

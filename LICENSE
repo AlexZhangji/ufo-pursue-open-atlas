@@ -1,0 +1,22 @@
+Creative Commons Zero v1.0 Universal (CC0 1.0)
+
+This dataset and the surrounding tooling, documentation, scripts, web
+portal code, and metadata corrections are released under CC0 1.0 to the
+public domain.
+
+Underlying source documents (PDFs, images, and videos in release_1_pdfs/)
+are works of the United States federal government and are already in the
+public domain under 17 U.S.C. Section 105. The Markdown extractions, page
+renders, schema, atlas, and corrections layer in this repository are
+derivative works that we additionally release under CC0 1.0 to remove all
+ambiguity.
+
+Full CC0 1.0 text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Anyone is free to copy, modify, distribute, and use this dataset for any
+purpose, including commercial, without asking permission.
+
+If you find it useful, attribution is appreciated but not required:
+
+  PURSUE Open Atlas (CC0 1.0). Eve, Alex Zhang, 2026.
+  https://github.com/eve-77-g/pursue-open-atlas

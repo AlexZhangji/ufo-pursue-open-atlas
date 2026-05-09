@@ -1,0 +1,63 @@
+## RECEIVED-NICHOLS
+
+### US DEPT OF JUSTICE
+
+### F B I
+
+*RECEIVED - NICHOLS*
+
+**MAR 3 4 58 PM '50**
+
+---
+
+## RECEIVED-FLETCHER
+
+### MAR 6 10 20 AM '50
+
+*RECEIVED - FLETCHER*
+
+---
+
+## RECEIVED - F.B.I. '50
+
+### U.S. DEPT OF JUSTICE
+
+**MAR 3 4 32 PM '50**
+
+*RECEIVED*
+
+---
+
+## RECEIVED - LABOR
+
+### U.S. DEPT OF JUSTICE
+
+### F B I
+
+**MAR 3 11 57 AM '50**
+
+---
+
+## RECEIVED - INTERNAL SECURITY SN
+
+### F B I
+
+### U.S. DEPT OF JUSTICE
+
+**MAR 7 10 19 AM '50**
+
+---
+
+## RECEIVED - DIV
+
+### U.S. DEPT OF JUSTICE
+
+### F B I
+
+**MAR 3 1 20 PM**
+
+*RECEIVED - DIV*
+
+---
+
+*[handwritten in margin]:* Dec 14 '54 DAP 3-15-50

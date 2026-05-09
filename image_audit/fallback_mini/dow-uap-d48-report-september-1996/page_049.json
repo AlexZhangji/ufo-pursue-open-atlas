@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 49,
+  "categories": [
+    "map"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content (a map of North America/US coastline with a dense cloud of dots representing an impact footprint), but Description B adds specific details (numbered labels, specific caption text) that Description A omits without contradiction.",
+  "original_image_tags": [
+    "A map of North America, rotated so East is roughly down. The map shows the outline of the United States, parts of Canada, Mexico, and the Caribbean. A large, dense cloud of black dots covers much of the central and eastern United States, extending into southern Canada and the Gulf of Mexico. The dot cloud represents simulated impact points."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white technical map/diagram labeled “Figure 8. Atlas IIAS Impacts with Breakup,” showing a stippled circular debris-impact pattern over a simplified coastline map, with rotated annotation reading “Atlas IIAS impacts / Random-Attitude failures at 130 sec. / Thrust to 280 sec. / Breakup q-alpha = 5,000 deg-lb/ft².”*",
+  "gpt_mini_desc_len": 333,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 88,
+    "total_tokens": 56244,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:30"
+}

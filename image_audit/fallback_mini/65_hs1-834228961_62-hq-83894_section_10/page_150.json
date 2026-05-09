@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 150,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a blank page with faint bleed-through text, while Description B describes specific visual elements including an embossed emblem and a legible red date stamp reading '30 JUL 10 1970'.",
+  "original_image_tags": [
+    "Scan of a blank page, possibly the back of a document. Shows two hole-punch marks at the top edge and faint bleed-through text or an embossed seal from the reverse side, largely illegible. The page is otherwise blank aside from the handwritten marks and date stamp noted above."
+  ],
+  "gpt_mini_desc": "*Image: Blank off-white document page with two black punch holes near the top, faint embossed/ghosted emblem in the center, a red handwritten mark on the right, and a purple stamp at bottom left reading “60 JUL 10 1970.”*",
+  "gpt_mini_desc_len": 221,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 56,
+    "total_tokens": 14948,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:09"
+}

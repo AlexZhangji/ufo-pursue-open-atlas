@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 16,
+  "original_image_tags": [
+    "A faded, aged document with typewritten text and several stamps. The paper is yellowed, with torn edges on the left and punch holes at the top. A handwritten annotation is visible at the bottom right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faded, yellowed, and torn document page. Several faded typed text blocks and inverted stamps are visible, including 'RECEIVED MAIL ROOM FBI U.S. DEPT. OF JUSTICE AUG 14 5 15 P. M. S.', 'P8 Aug 26 1925', and 'RECORDED 11 JUN 12 PM '45'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific verbatim stamp text that Description A does not mention at all, indicating a potential fabrication or hallucination of detailed visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:48:17"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 194,
+  "original_image_tags": [
+    "This document appears to be a single page of aged, off-white paper with visible creases and two punch holes at the top. The text is largely illegible, faded, and reversed (mirrored), indicating it may be a carbon copy or seen through from the other side. A prominent blue ink stamp is visible in the lower-left quadrant. Handwritten notations are present in red ink at the bottom right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Bottom left: blue stamp with reversed text 'U.S. DEPT OF JUSTICE', 'FBI', 'RECEIVED', 'APR 21 7 59 AM '57', and handwritten name 'Mr. Jones'. Bottom center: red stamp with reversed text 'APR 26 5 20 PM '57'. Two black punch holes at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states text is illegible and reversed, while Description B quotes specific, legible, reversed text from a blue stamp, creating a direct contradiction on the visual content of the stamp text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:12"
+}

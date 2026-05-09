@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 137,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A details multiple specific stamps and a handwritten note at defined locations, while Description B describes a single, faint, different red stamp with entirely different text and location, indicating the two descriptions are of different visual content.",
+  "original_image_tags": [
+    "Large red stamp \"AIRTEL\" at bottom left of form.",
+    "Purple stamp, partially legible: \"BEG... NAT. INT. SEC.\" with signature line and illegible initials.",
+    "Purple date stamp at bottom left: \"25 APR 12 1960\"",
+    "Another purple date stamp overlapping the first at bottom left: \"25 APR 21 1960\"",
+    "Handwritten note in bottom right corner: \"EK-107\""
+  ],
+  "gpt_mini_desc": "*Image: A scanned FBI memorandum page with typed text, handwritten annotations, and multiple red and purple stamps, including a large diagonal “AIRTEL” stamp near the bottom and a “CONFIDENTIAL” stamp over the lower center.*",
+  "gpt_mini_desc_len": 224,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 51,
+    "total_tokens": 14943,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:17"
+}

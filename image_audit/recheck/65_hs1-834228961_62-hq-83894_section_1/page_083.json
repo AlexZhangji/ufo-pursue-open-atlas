@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 83,
+  "original_image_tags": [
+    "A single sheet of white paper with handwritten text in cursive script, divided into two columns by a central fold. Three black punched holes are visible along the top edge. The handwriting is in dark ink. There are several strikethroughs and corrections in the right column."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A page containing handwritten text in cursive ink, divided into two columns, with visible hole punch marks at the top. There are crossed-out words and insertions within the text. No photographs, sketches, diagrams, or other visual elements are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains only handwritten cursive text in two columns with hole punches and strikethroughs, and neither quotes any specific text inside the images.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:18"
+}

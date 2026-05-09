@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 83,
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a stamped number '3' in a circle at the bottom center, while Description B adds a 'RESTRICTED' stamp at the top center not mentioned in A, and relocates the circle/number to the lower right, indicating disagreement on both the presence and location of visual elements.",
+  "original_image_tags": [
+    "A large, handwritten circle containing the number \"3\" is stamped in the center bottom portion of the page."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typewritten letter on plain paper dated July 10, 1947, with a large stamped “RESTRICTED” at the top, a circled handwritten “3” near the bottom center, and signatures/notations at the lower left and lower right.*",
+  "gpt_mini_desc_len": 229,
+  "usage": {
+    "prompt_tokens": 15665,
+    "completion_tokens": 60,
+    "total_tokens": 15725,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:26"
+}

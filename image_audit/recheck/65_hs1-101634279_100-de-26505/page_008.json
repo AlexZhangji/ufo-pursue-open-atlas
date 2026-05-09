@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-101634279_100-de-26505",
+  "page_num": 8,
+  "original_image_tags": [
+    "A black-and-white scan of an FBI teletype message. There is a horizontal fold crease across the middle. A handwritten word, possibly \"Complaint\", is written above \"MR. W. KIASUSKI\". There is a pencil line drawn through \"OBJECTS\". The bottom of the page features several handwritten notes in blue or black ink and a stamped \"FBI DETROIT\" box."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed memorandum regarding 'UNIDENTIFIED FLYING OBJECTS' from the Director to SAC Detroit, dated 11-6-57. Contains typed body text, multiple handwritten annotations in pencil and ink, and a stamped declassification note."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions identify the same visual elements: a typed document with handwritten annotations and a stamped box, and both agree there are no distinct photographs, sketches, or diagrams on the page.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:54:22"
+}

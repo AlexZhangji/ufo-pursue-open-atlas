@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 40,
+  "original_image_tags": [
+    "This is the back side of a typed memorandum on \"Office Memorandum • United States Government\" letterhead. The text from the front side is visible in reverse through the paper. The page has two binder holes punched at the top and shows general aging and discoloration."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Reverse side of a document featuring multiple overlapping ink stamps and handwritten annotations. Visible text includes 'U.S. DEPT. OF JUSTICE', 'FBI RECEIVED', 'OCT 5 11 59 AM '49', 'REC'D', and other partially legible date and routing stamps. A handwritten annotation 'Jones' and '10/14' is visible in the lower-left corner. The page has two hole-punches at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims the page is a back side of a typed memorandum with reversed text, while Description B describes a front side with specific stamps and annotations, representing a direct contradiction in the visual content described.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:22"
+}

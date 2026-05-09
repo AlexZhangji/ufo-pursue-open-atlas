@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 114,
+  "original_image_tags": [
+    "Scanned yellowed paper document, an FBI letter on official letterhead. Top left has handwritten case number \"62-83894\" in blue ink with \"466\" in red ink, and \"REC-20\" stamped. Date \"March 19, 1968\" typed at top right. Address to \"Mr. Glenn Evans, Route 4, Waterloo, Illinois 62298\" with \"Waterloo, Illinois 62298\" underlined in red ink. A faint stamp \"EX-102\" is visible near the address. The letter body is typed. A signature block reads \"J. Edgar Hoover\" in red ink, with \"John Edgar Hoover, Director\" typed below. A red ink stamp \"MAILED 9 / MAR 1 9 1968 / COMM-FBI\" is on the left. Below the signature block is a typed \"NOTE:\" paragraph. The bottom of the page contains a distribution list, a \"filed by\" line, and multiple handwritten initials and routing marks in blue and black ink. A final red ink stamp \"FILED / MAR 2 0 1968\" is at the bottom left."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamps and handwritten annotations on a typed letter. Includes a red stamped date 'MAR 1 9 1968' with 'MAILED 9' and 'COMM-FBI', a 'REC-20' stamp, and various handwritten numbers and initials including '466' in red ink."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:55"
+}

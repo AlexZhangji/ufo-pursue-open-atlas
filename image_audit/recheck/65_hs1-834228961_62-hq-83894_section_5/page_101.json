@@ -1,0 +1,50 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 101,
+  "original_image_tags": [
+    "A four-panel photomontage of illustrative and possibly staged scenes.",
+    "A nighttime illustration or staged photograph showing multiple saucer-shaped craft in the sky above a dark landscape, with prominent beams of light shining downwards from the objects.",
+    "A small, saucer-shaped object appears to have landed in a field or wooded area. Two human figures, one seemingly in uniform, are approaching the object cautiously.",
+    "A stylized, sleek, flying disc or saucer-shaped aircraft is depicted in flight against a cloudy sky. It has a central dome, a smooth, curved upper surface, and appears to have fins or stabilizers at the rear."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A black-and-white illustration depicting a nocturnal scene with multiple small, indistinct figures, possibly aliens or soldiers, moving across a dark, rocky landscape. The caption below reads 'NOCTURNAL 'INVASION''."
+      },
+      {
+        "category": "sketch",
+        "description": "A black-and-white illustration of a flying saucer-shaped object hovering or landed near a structure that resembles a house or building, with a figure visible in the foreground. The caption below reads 'SURPRISE PACKAGE FROM MARS'."
+      },
+      {
+        "category": "sketch",
+        "description": "A large, detailed black-and-white illustration of a metallic, disc-shaped flying saucer hovering in the sky. The caption below reads 'A PLANE DESIGNER'S DAYDREAM'."
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph of a man, possibly a designer or engineer, sitting at a desk or table, looking towards the camera. He is wearing a suit and tie. The caption below reads 'HOME-MADE SAUCER'."
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph of a small, metallic, disc-shaped object resting on a surface. The caption below reads '??????' and a photo credit '—photo from Bettman, Acme, Wide World'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions disagree on fundamental visual elements: A describes a 3-panel sequence with no man at a desk or 'HOME-MADE SAUCER' photo, while B details 5 distinct images including a man photograph and specific captions not mentioned in A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch",
+    "sketch",
+    "sketch",
+    "photograph",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:35"
+}

@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 18,
+  "original_image_tags": [
+    "In the upper right corner of the document, there are large, handwritten initials in black ink, appearing to be \"L.B.F.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum from McChord Flight Service Center dated 10 August 1949 regarding a UFO sighting near Medford, Oregon. The document contains header information, recipient details, and a list of five witnesses. It includes two 'CONFIDENTIAL' stamps (one crossed out at the top, one at the bottom) and a handwritten annotation 'F.I.' in the top right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:55"
+}

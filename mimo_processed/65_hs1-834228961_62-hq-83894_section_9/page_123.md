@@ -1,0 +1,42 @@
+*Image: A scanned newspaper clipping with the headline “Grand Blanc Man Makes Plea to Ike” and large subhead “Film of Flying Saucer Up in Air,” plus a narrow article column and red/purple typewritten archive markings on the right including “DETROIT DIVISION, Detroit, Mich.” and handwritten editor/date notes.*
+
+## Newspaper Clipping
+
+Grand Blanc Man Makes Plea to Ike
+Film of Flying Saucer Up in Air
+
+By Allan R. Wilhelm
+The scene is a very good address on Pennsylvania Ave. in Washington, D. C. The time is late last week.
+A balding gentleman of distinguished bearing picks up a letter, blinks a few times in obvious astonishment and then pushes the button on his intercom.
+"Get hold of White (Gen. Thomas D., Air Force chief of staff) and Hoover (J. Edgar, FBI chief) and tell them to give Joe Perry back his flying saucer," he orders.
+If such a scene did not take place, it's not because a Grand Blanc Township pizza merchant didn't write the letter. He did.
+* * *
+It all started because Perry, operator of Perry's Pizza Grill, 3079 Edward St., likes to take pictures of the moon through his big homemade telescope. Because he usually doesn't open until well after the sun is set, he does most of his celestial sight-seeing between pizzas.
+A color shot he took about 1 A. M. on a cold night last month caused him no end of consternation. Looming against the full moon on the slide was a "saucer-like" object.
+Perry showed the slide to a number of his patrons. When they saw it projected on a screen he has built into the wall of his grill, he said, most of them agreed that it looked like a "flying" saucer—or what most folks think a flying saucer looks like.
+Then he read a newspaper
+
+## DETROIT DIVISION
+Detroit, Mich.
+
+( ) Detroit Free Press
+Editor: Lee Hills
+
+( ) Detroit News
+Editor: Martin S. Hayden
+
+( ) Detroit Times
+Editor: John C. Manning
+
+*[handwritten in margin]:*
+(14) The Flint Journal
+Editor: Ralph B. Curry
+
+Date: *3/27/60*
+Edition: *SUNDAY*
+Page: *13* Col: *2-5*
+Title of Case:
+
+## ENCLOSURE
+
+*[handwritten note]:* 62-83894-412

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 93,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims the page has pink stamped headers and punched holes, while Description B explicitly states there are no photographs, sketches, diagrams, maps, or charts, contradicting the presence of any visual content beyond typed text.",
+  "original_image_tags": [
+    "Aged, yellowed teletype document with pink stamped headers and two punched holes at the top. There are handwritten annotations in blue and red pencil."
+  ],
+  "gpt_mini_desc": "*Image: A scanned teletype document from the Federal Bureau of Investigation, U.S. Department of Justice Communications Section, dated 12-5-50 at 4:47 PM, with typewritten text about unidentified objects over the Oak Ridge area and possible radar jamming; includes handwritten annotations, stamps, punch holes at the top, and an “OFFICIAL COPY FILED” vertical mark along the right edge.*",
+  "gpt_mini_desc_len": 387,
+  "usage": {
+    "prompt_tokens": 17210,
+    "completion_tokens": 88,
+    "total_tokens": 17298,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:49"
+}

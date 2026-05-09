@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 35,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both agree on the main visual content: a typed report/letterhead with a crest/coat of arms and 'Newfoundland Constabulary' text; Description B adds significant detail (dates, quoted text, stamps, annotations) not mentioned by A, but there are no direct contradictions on the specific elements both describe.",
+  "original_image_tags": [
+    "A typed report on official Newfoundland Constabulary stationery. The document is aged, with visible paper texture, punch holes at the top, and staining along the left edge. A crest is visible at the top center."
+  ],
+  "gpt_mini_desc": "*Image: A scanned black-and-white typed police report document headed “NEWFOUNDLAND CONSTABULARY,” with a crest at the top, station and date fields, a handwritten signature near the lower right, and the stamp “RESTRICTED” near the bottom.*",
+  "gpt_mini_desc_len": 239,
+  "usage": {
+    "prompt_tokens": 45611,
+    "completion_tokens": 57,
+    "total_tokens": 45668,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:36"
+}

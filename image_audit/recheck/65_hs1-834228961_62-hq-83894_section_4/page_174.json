@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 174,
+  "original_image_tags": [
+    "A manila envelope, oriented vertically. The top flap is open, revealing a decorative black geometric security pattern along the inside edge. A single punched hole is visible in the center of the flap. The envelope is a standard light brown color."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A brown manila envelope with a patterned adhesive strip at the top. A small rectangular label is attached to the center of the envelope with clear tape. The label contains typed text, oriented upside down, which reads 'ENCLOSURE', 'COPIES DESTROYED', and '270 NOV 18 1964'. There are five punched holes visible: one on the top flap and four at the bottom edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B adds multiple specific visual elements (a label with typed text, five punched holes) that are completely absent from Description A, creating a direct contradiction in the count and nature of visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:26"
+}

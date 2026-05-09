@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 201,
+  "original_image_tags": [
+    "A rectangular, off-white paper slip or card. The top edge is torn and irregular, with a large circular hole punched near the top left corner. A strip of dark, possibly black, tape or a redaction block is adhered horizontally across the top center-right. The surface shows age-related yellowing and minor creases. The primary content is handwritten in dark ink or pencil."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Off-white paper fragment with significant physical damage, including a large irregular hole on the upper left and a ragged tear near the top center. The fragment contains handwritten text in ink: 'No ACK', 'Request forwarding only', 'if deemed advisable', a date '1-29-53', and an illegible signature."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific handwritten text ('No ACK', 'Request forwarding only', etc.) and a date ('1-29-53') that Description A does not mention at all, and Description A describes a dark tape or redaction block that B does not, indicating the descriptions are likely of different visual content or one is hallucinating details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:59"
+}

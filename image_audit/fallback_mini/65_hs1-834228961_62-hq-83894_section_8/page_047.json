@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 47,
+  "categories": [
+    "diagram"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on five sketches, their horizontal arrangement, the moon/orientation labels, the object's relative movement, and the quoted '1081 MILES' text in sketch 3, but Description B adds unverified details about specific positions and a claim about four-minute intervals not present in Description A.",
+  "original_image_tags": [
+    "A series of five hand-drawn sketches labeled 1 through 5, showing a crescent moon and a small black dot (the object). The moon's orientation is marked with S (South) at the top and N (North) at the bottom. The object's position relative to the moon changes in each sketch. In sketch 3, a horizontal line is drawn across the moon's width with the text \"1081 MILES\". The sketches are arranged horizontally across the page."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typed document page containing a diagram of five repeated crescent-shaped object sketches labeled 1 through 5, each marked with S at the top and N at the bottom; the third sketch includes a double-headed arrow labeled “1081 MILES.”*",
+  "gpt_mini_desc_len": 250,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 58,
+    "total_tokens": 56214,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:26"
+}

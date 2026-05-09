@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 55,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions are about entirely different visual content; Description A describes a typewritten document with handwritten margin notes, while Description B describes rubber stamps and handwritten annotations at the bottom of a page.",
+  "original_image_tags": [
+    "A typewritten document on aged paper. A faint blue handwritten number \"54\" and \"20\" are visible in the left margin. A blue pen mark crosses out the \"S\" in \"STRINGFIELD\" in the first paragraph. A small red handwritten note, possibly \"Ok. J.D.\", is in the right margin next to the second paragraph."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typed document page with a centered address block at the top and several typed paragraphs below, marked with handwritten annotations, underlining, and red stamped/handwritten file numbers near the bottom.*",
+  "gpt_mini_desc_len": 223,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 51,
+    "total_tokens": 14943,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:05"
+}

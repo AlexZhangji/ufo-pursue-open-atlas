@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "059uap00012",
+  "page_num": 2,
+  "original_image_tags": [
+    "A stamped label centered near the bottom of the page. The label is a grey rectangle with a black border, containing the text \"Released in Full\" in bold, sans-serif font."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular box at the bottom center containing the text 'Released in Full'. Additionally, the words 'UNCLASSIFIED' and 'SBU' are printed at the top and bottom left, and 'Page 2 of 5' is at the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes only a single stamped label with 'Released in Full' as the visual content, while Description B adds additional specific quoted text elements ('UNCLASSIFIED', 'SBU', 'Page 2 of 5') that are not mentioned by Description A, creating a factual inconsistency about the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:15"
+}

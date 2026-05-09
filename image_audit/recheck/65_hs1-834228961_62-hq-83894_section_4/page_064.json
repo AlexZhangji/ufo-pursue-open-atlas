@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 64,
+  "original_image_tags": [
+    "The page is a light greenish-blue document back or routing slip. It is heavily stamped with various ink stamps (blue and red) indicating receipt, indexing, and recording dates, primarily in October 1948. There is some faint, reversed text visible through the paper, seemingly typed on the front side. There are two hole punches at the top and some tape residue at the top right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "The page shows the back of a document with several faded and reversed ink stamps and handwritten annotations. Visible elements include a red stamp reading 'RECEIVED - L.A.O. F.B.I. U.S. DEPT. OF JUSTICE' with the date 'OCT 21 3 45 PM '48', a red box stamp reading 'COMMUNICATIONS SECTION MAILED 13 OCT 20 1948 P.M.', a blue circular stamp, a small label reading 'RECORDED - 21 INDEXED - 24 DT-88', and faint reversed text. There are also punch holes and a tear at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence of multiple ink stamps (red and blue), punch holes, and faint reversed text, but Description B provides specific quoted stamp text (e.g., 'RECEIVED - L.A.O. F.B.I. U.S. DEPT. OF JUSTICE') that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:31:33"
+}

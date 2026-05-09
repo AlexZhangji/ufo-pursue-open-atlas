@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d49-launch-summary-february-2000",
+  "page_num": 100,
+  "original_image_tags": [
+    "Three black circles (hole punches) at the bottom margin of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed table listing rocket launches with columns for Launch Seq, Date, Nickname, Op #, Facility, Vehicle Type, Program, Cum By Booster, Command, and Cum By Command. Includes footnotes at the bottom and 'PAGE 86' in the lower right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions are about completely different visual content: Description A describes physical hole-punch marks, while Description B describes a typed table with text, which is not visual content in the sense of photographs or sketches.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:10"
+}

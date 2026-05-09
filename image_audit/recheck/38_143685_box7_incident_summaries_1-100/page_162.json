@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 162,
+  "original_image_tags": [
+    "Hand-drawn sketch in white chalk or pencil on a dark background. The drawing depicts a long, lenticular or disc-shaped object in a side profile view. The object is wider in the center and tapers to points at both ends. Below the main object is a smaller, similar shape, possibly representing the object from a different angle or at a different scale. To the right of the main object, there are three small, cloud-like or puffy shapes drawn. A horizontal line with arrowheads at both ends spans the length of the main object, labeled \"/20 FT/\" in the center. The drawing is oriented horizontally across the lower half of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A hand-drawn sketch at the bottom of the page. The sketch depicts a large, elongated, saucer-like object with a wider top section and a narrower base. To the right of the main object are two smaller, indistinct shapes. Below the main object is a horizontal arrow with the label '/20ft/'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:52"
+}

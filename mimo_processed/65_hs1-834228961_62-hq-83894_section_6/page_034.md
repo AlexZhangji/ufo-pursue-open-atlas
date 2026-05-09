@@ -1,0 +1,20 @@
+## CONFIDENTIAL
+
+### SUMMARY OF SELECTED *UNIDENTIFIED AERIAL PHENOMENA*
+Reported by the 17th District Office of Special Investigations (AF), Kirtland Air Force Base, New Mexico
+
+| Number | Date | Time | Number of Observers | *Reliability of Observers | General Area of Occurrence | Apparent Direction of Flight | Apparent Altitude | Course Horizontal to Vertical | Color | Train or Trail | Duration of Observation | Sound | Shape | Apparent Size | Apparent Speed | Manner of Disappear. |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 1943 Jan 18 | 2300 | 1 | R | Point of impact on line between Brest and Kiev | Almost vertical descent followed by "bouncing" N to S | | 35° above Horizon Descending | Brillant white | | 2 - 3 secs. | None | | Compare w/planet Venus on unusually clear night. | | |
+| 2 | latter part 1947 | App. 2000 | 1 | R | Vaughn, New Mexico | | 400' - 500' | Descending slowly in vertical manner | Bright White | | | None | Round | Larger than basketball | Descending slowly | Exploded |
+| 3 | 1948 27 Jul | 0835 0845 | 1 | R | Albuquerque, New Mexico | | | | Duraluminum reflected light | | | None | Flat and round | | Stationary at times | |
+| 4 | 4 Aug | 0200 & 0300 | 2 | Unk | North Powder, Oregon | NW to SE | 5500' | Horizontal line | Green | | | | | Softball | 720 mph | Extinguished |
+
+### LEGEND:
+*Reliability of Observers: VR - Very Reliable  R - Reliable  Unk - Unknown Reliability
+
+**Evaluation:** (1) "Green Fireball Phenomena"  (2) "Disk" or Variation  (3) Probable Meteor
+
+*Page:* 1
+
+### CONFIDENTIAL

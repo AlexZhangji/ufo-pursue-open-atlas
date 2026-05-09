@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 14,
+  "original_image_tags": [
+    "A faded, aged document page with text appearing in reverse, indicating it is the back of a typed memorandum. The paper is off-white or light beige with two punch holes at the top. A dark stain or tear is visible in the upper right corner. Faint, reversed typing is visible through the paper. Two prominent ink stamps are present."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two identical blue stamps at the bottom right and bottom left. The stamps read: 'RECEIVED-WINCHOLU' and 'RECEIVED-LOSOL' (the second stamp appears upside down). Both stamps include 'U.S. DEPT OF JUSTICE', 'FBI', and 'OCT 9 53 PM 50'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, different text for the stamps ('RECEIVED-WINCHOLU', 'RECEIVED-LOSOL', 'OCT 9 53 PM 50') while Description A does not mention any readable text, indicating a contradiction on the visual content of the stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:31"
+}

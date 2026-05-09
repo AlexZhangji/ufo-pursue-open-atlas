@@ -1,0 +1,7 @@
+## RESTRICTED
+
+John Snyder, a former pilot of B-24 in the Army Air Corps advised that he was sitting on the steps of his home around 10:45 P. M. the night of Aug 6, 1947 and that his neighbors, the Kelly family, were also sitting on their steps. All parties were facing east. Snyder noticed an object which emitted a bluish-white flame pass quickly thru the air. It was traveling NE to SW. Using his experience in the Army Air Corps he estimated the speed as between 400 to 500 MPH. The object did not lose elevation and left either a smoke or condensation trail in its former path. The vapor lasted for about 2 seconds. A hissing sound accompanied the passing. The sound was moderate and not nearly as loud as that occasioned by a rocket ship.
+
+## RESTRICTED
+
+*Image: A dark, high-contrast scan of a typewritten document on dark paper (or a dark photocopy/negative). The main visible text is a single paragraph recounting a sighting by John Snyder. The rest of the page is heavily obscured, appearing as faint, ghosted, or unreadable lines of text in the lower right quadrant, suggesting bleed-through, poor copy quality, or partial redaction. A handwritten number "161" is visible in the bottom right corner. Two hole-punch marks are visible on the left margin.*

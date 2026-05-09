@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 32,
+  "original_image_tags": [
+    "A scan of a single, off-white or cream-colored document page, oriented vertically. The page appears aged, with slight discoloration and minor blemishes. A small, dark horizontal staple mark or hole is visible near the top right edge. The rest of the page is blank, except for a handwritten alphanumeric code in the lower center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A single page, appearing to be the back of a document or a filing card. It contains a handwritten alphanumeric code '62 - 83894 - 348' in pencil or pen near the bottom. There is also a small metal staple or fastener mark near the top right corner. The rest of the page is blank or shows minor paper aging and texture."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same visual content: a blank, aged page with a handwritten code near the bottom and a small staple mark near the top right corner, and there is no conflict on any specific text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:08:47"
+}

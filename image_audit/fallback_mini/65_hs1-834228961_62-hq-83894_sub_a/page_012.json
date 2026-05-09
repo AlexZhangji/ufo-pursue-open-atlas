@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 12,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both agree there is a newspaper clipping about flying saucers with a headline and typed text, but description B adds specific headline and article details while description A mentions a handwritten note not seen by B.",
+  "original_image_tags": [
+    "A newspaper clipping is stapled to the left side of the page. A handwritten note in the left margin reads \"O Flying Saucers\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned archival document page with a pasted newspaper clipping titled “Mystery Objects Called Mirage by Astronomer,” plus typed distribution/checklist fields, handwritten initials, and date stamps on the right side and bottom.*",
+  "gpt_mini_desc_len": 238,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 48,
+    "total_tokens": 56204,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:54"
+}

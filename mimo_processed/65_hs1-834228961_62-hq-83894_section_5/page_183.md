@@ -1,0 +1,1 @@
+*Image: Black-and-white photograph of a small airplane silhouetted against the sky above clouds, with tree silhouettes along the bottom and right edges, and a dark circular blemish on the left side of the image.*

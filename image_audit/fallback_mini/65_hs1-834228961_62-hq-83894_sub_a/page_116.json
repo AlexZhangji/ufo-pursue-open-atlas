@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 116,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content (a newspaper clipping from the Washington Evening Star), but Description B adds specific verbatim text (headline, sub-headline, date) while Description A focuses on physical stains and handwritten notations, without contradicting each other on the core visual elements.",
+  "original_image_tags": [
+    "Aged, yellowed newspaper clipping pasted onto a buff-colored archival sheet. The clipping is from the Washington Evening Star. There are two dark ink stains or punch holes at the top center edge. Multiple handwritten notations in different colored inks (blue, black, red) appear around the clipping, including what appear to be routing initials, names, and file numbers. A red vertical line runs through part of the right column text."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping of a “flying saucers” article pasted on a worn document page, with handwritten pen marks and stamps; no photograph or diagram.*",
+  "gpt_mini_desc_len": 164,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 38,
+    "total_tokens": 56194,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:18"
+}

@@ -1,0 +1,26 @@
+{
+  "file": "nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf",
+  "stem": "nasa-uap-d6-apollo-17-technical-crew-debriefing-1973",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "2c874c40c55505f2348177ddde77c9fd015bf971e6e059c43508a92bc9ee6b30",
+  "size_bytes": 513402,
+  "total_pages": 2,
+  "pages_processed_in_run": 2,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:26",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    }
+  ]
+}

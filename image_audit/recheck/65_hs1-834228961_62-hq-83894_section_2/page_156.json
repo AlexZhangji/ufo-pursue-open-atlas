@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 156,
+  "original_image_tags": [
+    "A single, aged, off-white archival page with punch holes at the top. Affixed vertically near the center is a rectangular newspaper clipping with handwritten annotations. At the bottom right, there are handwritten and stamped archival markings."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping with the header 'COUNTY IRRITANT' and the subheader 'from our Mail Box'. It contains two text columns, 'Coming His Way' and 'Garbles'. The top of the clipping has a handwritten date '7/12/47 Tuesday'. The clipping is pasted onto the center of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Description B adds specific visual details (clipping header, subheaders, date) that Description A omits, but neither contradicts the other's claims about the visual content present.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:29:50"
+}

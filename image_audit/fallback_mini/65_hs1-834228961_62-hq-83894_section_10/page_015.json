@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 15,
+  "categories": [
+    "newspaper_clipping_illustration",
+    "photograph",
+    "photograph",
+    "sketch",
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a single cartoon with three flying saucers, while Description B describes a completely different set of images (a newspaper clipping cartoon with two men, multiple distinct photographs, and a sketch) with no overlap in the described visual content.",
+  "original_image_tags": [
+    "Cartoon depicting a swamp scene with trees and water. Three figures in flying saucers hover above. One figure in a flying saucer has a speech bubble. A signpost reads \"THE SWAMP GAS IS RESTLESS TONIGHT.\"",
+    "Headshot photograph of a man. Caption: GABRIEL GREEN Head Saucerer",
+    "Photograph of a man standing outdoors. Caption: GARY WILCOX"
+  ],
+  "gpt_mini_desc": "*Image: A full newspaper page collage of multiple clipped articles and illustrations about flying saucers, including several black-and-white photographs of men, a cartoon of a flying saucer, a house roof sketch, and multiple headline/text blocks.*",
+  "gpt_mini_desc_len": 247,
+  "usage": {
+    "prompt_tokens": 47124,
+    "completion_tokens": 50,
+    "total_tokens": 47174,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:33"
+}

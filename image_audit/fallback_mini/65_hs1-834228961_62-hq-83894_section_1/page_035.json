@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 35,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A depicts a single woman while Description B depicts a man and woman together, indicating they describe different visual content.",
+  "original_image_tags": [
+    "Illustration of a woman wearing a fur stole and hat, looking downwards."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper page from the Yoakum Herald-Times with multiple column text articles and several boxed advertisements; no photograph or illustration is visible.*",
+  "gpt_mini_desc_len": 173,
+  "usage": {
+    "prompt_tokens": 22910,
+    "completion_tokens": 35,
+    "total_tokens": 22945,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:19"
+}

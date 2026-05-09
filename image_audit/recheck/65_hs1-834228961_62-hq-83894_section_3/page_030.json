@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 30,
+  "original_image_tags": [
+    "A faded, pink carbon copy or \"flimsy\" of a teletype document. The text from the other side of the page is faintly visible in reverse. The primary text is oriented at a 90-degree angle clockwise relative to the page orientation. The top of the document (as typed) corresponds to the right-hand side of the image."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple 'RECEIVED' stamps with dates and times, including 'Aug 15 7:50 PM '47', 'Aug 15 8:30 PM '47', 'Aug 23 2:23 PM', 'Aug 30 11:17 AM', and 'Aug 19 10:36 AM'. Some stamps include 'INTERNAL SECURITY' and 'F.B.I.'. The page has two punched holes at the top and contains very faint, mostly illegible typed text that appears as mirror images or carbon bleed-through."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a teletype document with text at a 90-degree angle, while Description B describes multiple 'RECEIVED' stamps and dates, indicating they are describing entirely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:30:40"
+}

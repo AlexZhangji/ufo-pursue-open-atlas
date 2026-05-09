@@ -1,0 +1,9 @@
+## RESTRICTED
+
+This target was contacted on the air search radar at 1500 GCT on 18 April 48. The first contact was made at 6500 yards and was tracked to 18,000 yards giving a velocity of approximately 30 m.p.h. The area in which the target was contacted was thoroughly search visually and there were no clouds nor weather fronts in said area. There were no target indications on the surface radar. The target strength was S5 fading at 18,000 yards.
+
+## RESTRICTED
+
+*Image: black-and-white photograph of a dark page with typed text at the top. Two large, white, faded stamps reading "RESTRICTED" are visible—one at the top of the page and one in the center. Three hole-punch marks are visible on the left margin.*
+
+*[handwritten in bottom right corner]:* 12^4^a

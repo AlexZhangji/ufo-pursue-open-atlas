@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 15,
+  "original_image_tags": [
+    "A single page of an off-white, slightly aged paper containing a handwritten letter in cursive blue ink. The paper has two punched holes at the top. Multiple official stamps and handwritten annotations in red, black, and pencil are visible in the lower right and left margins, indicating FBI handling and recording in November 1947."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A single page containing entirely handwritten text in blue ink on paper. The text includes an address to 'Mrs. Milo A. Durand, Elizabethtown, New York', a letter discussing 'flying discs' and forest fires, and handwritten annotations such as 'Flying Discs' on the left margin, a red 'HANDLED BY' stamp, and a 'RECORDED' stamp with the number '162-83894-135'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on a handwritten letter in blue ink on aged paper with punched holes and various stamps/annotations; Description B adds specific quoted text (address, 'Flying Discs', stamp numbers) not mentioned by A, but there is no contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:30:55"
+}

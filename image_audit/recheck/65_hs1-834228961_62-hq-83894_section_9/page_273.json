@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 273,
+  "original_image_tags": [
+    "The bottom of the page contains several stamps and handwritten notes. A red \"EX 109\" stamp is visible. A stamp reading \"REC 7\" is near a redacted section. A handwritten file number \"62 - 83891- 444\" is written in red ink, with the last three digits underlined. A date stamp reads \"16 APR 30 1965\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamps and handwritten annotations on a typed document. Visible stamps include '1 ENCLOSURE' (red), 'REC 7' (black), 'EX 109' (red), and a date stamp '16 APR 30 1965' (red). Handwritten numbers '62-83894 444' in blue ink. Other handwritten notes and initials are present but partially illegible. The page also contains typed text addressed to the F.B.I. regarding unidentified flying objects, but no photographs, sketches, diagrams, maps, charts, or newspaper illustrations are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B explicitly states no photographs, sketches, or diagrams are present, directly contradicting Description A's description of stamps and handwritten notes as visual content, and they also conflict on the file number ('83891' vs '83894') and ink color ('red' vs 'blue').",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:30"
+}

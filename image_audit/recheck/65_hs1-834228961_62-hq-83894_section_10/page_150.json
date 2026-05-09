@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 150,
+  "original_image_tags": [
+    "Scan of a blank page, possibly the back of a document. Shows two hole-punch marks at the top edge and faint bleed-through text or an embossed seal from the reverse side, largely illegible. The page is otherwise blank aside from the handwritten marks and date stamp noted above."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A very faint, almost illegible embossed or watermark-like emblem in the center, appearing to be an official seal or crest. Below it, a legible red date stamp reads '30 JUL 10 1970'. In the lower right margin, a handwritten red number '76' and a small red line are visible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a blank page with faint bleed-through text, while Description B describes specific visual elements including an embossed emblem and a legible red date stamp reading '30 JUL 10 1970'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:50"
+}

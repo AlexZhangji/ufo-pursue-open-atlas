@@ -1,0 +1,47 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 129,
+  "original_image_tags": [
+    "At the bottom of the page, there are several stamps and handwritten notes."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue rectangular 'DECLASSIFIED' stamp with 'Authority: NND 90986' text inside a white box. Located in the bottom left area of the page."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "Standard form text 'STANDARD FORM NO. 64' at the top left corner."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamped or written red date '57 APR 1 1952' at the bottom left."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A stamped date 'MAR 25 1952' near the bottom right."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Typed and stamped text 'RECORDED - 79', 'INDEXED - 79', 'EX-125' in the bottom center-right area."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the presence of stamps/handwritten notes at the bottom, but Description B provides specific verbatim text and details (e.g., 'DECLASSIFIED', dates, 'STANDARD FORM NO. 64') that Description A omits entirely without contradicting them.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:49"
+}

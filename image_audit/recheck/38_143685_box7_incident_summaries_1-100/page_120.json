@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 120,
+  "original_image_tags": [
+    "The central body of this document is dark gray or black paper. Two punch holes are visible on the left margin, and two smaller punch holes are near the bottom margin. The typewritten text block is positioned at the top. The text \"RESTRICTED\" is stamped or typed at the top center and again at the bottom center. A page number \"119\" is handwritten in the bottom right corner.",
+    "In the vertical center of the dark page, there is text printed upside down. It appears to read \"JURA 30 BVERDIT\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Dark background with a paragraph of typed text describing a witness report of a peculiar reddish light. The word 'RESTRICTED' appears at the top and bottom of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (dark background, 'RESTRICTED' stamps at top/bottom) but Description A adds details about punch holes, handwritten page number, and specific upside-down text that Description B does not mention, with no direct contradiction on the quoted stamp text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:53:41"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 46,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both describe a yellowed newspaper clipping with typed text in capitals; B adds specific quoted content and a file number that A omits, but neither contradicts the other on what is depicted.",
+  "original_image_tags": [
+    "A document page featuring a typed news clipping pasted onto the center. The page has hole-punch marks at the top and handwritten notes in blue and black ink.",
+    "The clipping is yellowed and appears to be cut from a news wire release or newspaper. The text is typed in all capital letters."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping about “flying discs,” with typed article text, handwritten annotations, a “NOT RECORDING” stamp dated 13 NOV 1952, and two punched holes at the top of the page.*",
+  "gpt_mini_desc_len": 198,
+  "usage": {
+    "prompt_tokens": 59166,
+    "completion_tokens": 50,
+    "total_tokens": 59216,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:59"
+}

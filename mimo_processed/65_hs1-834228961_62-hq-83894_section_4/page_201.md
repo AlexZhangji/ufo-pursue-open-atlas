@@ -1,0 +1,13 @@
+PH 62-2542
+
+Acting Chief GEORGE KINGTON advised that he had interviewed MARQUARDT at the time he came to the office since Captain HANNAN was absent at the time. He said that he then learned for the first time that the fire in question had taken place near Scranton, Pennsylvania, and had occurred about six months previously. This caused the Marshal's Office to withdraw from the case on a question of jurisdiction and MARQUARDT was advised that any further action on his part should be referred to the State Police authorities.
+
+At the same time, KINGTON furnished MARQUARDT with the results of the analysis which had been made of the ash submitted, and which analysis had been made by Dr. EDWARD BURKE, City Chemist, Chemical Laboratory, Room 875, City Hall. This report reflected that the ash contained Magnesium, Aluminum, Iron, and Calcium in the form of silicates, sulphur and carbonates.
+
+FREDERIC MARQUARDT was interviewed at his place of business, the H. A. KULJIAN COMPANY, Broad Street and Girard Avenue, Philadelphia, Pennsylvania. At this time he advised that he had received the sample of ash from a friend, WOODY SHAEFFER, Lake Ariel, R. D., Wayne County, Pennsylvania, through the mail. He said that Lake Ariel is about one mile south of South Canaan, near Scranton, Pennsylvania. He stated that SHAEFFER's house had burned about six months ago, that the fire had occurred at night during a storm and that a large object had struck the roof and ignited the house which had burned to the ground in less than an hour.
+
+He said that he had not been present during the fire but that these details had been furnished by letter from SHAEFFER at the time a sample of the ash was forwarded for analysis. He said that he was of the personal opinion that the ash might be a part of a military flare or a "flying saucer".
+
+He pointed out that he has been advised by associates in the engineering field that one of the characteristics of some types of flares is the fact that they burn for a considerable period. He stated that the mass of the ash residue had remained ignited for a period of twelve hours. He also stated that he did not think there had been an explosion but that a loud noise had probably been caused by the vacuum created as the missile or object struck the roof. He added that there remains a quantity of the ash, amounting to one bushel, at SHAEFFER's premises at Lake Ariel.
+
+- 2 -

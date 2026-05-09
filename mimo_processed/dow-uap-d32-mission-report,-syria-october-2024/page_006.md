@@ -1,0 +1,52 @@
+Declassified by MG Richard A. Harrison
+USCENTCOM Chief of Staff
+Declassified on: 24 October 2025
+
+**SECRET//REL TO USA, FVEY**
+
+* **Supported Operation:** INHERENT RESOLVE
+* **Precoord Time:** 1HR 26MIN
+* **Precoord Effectiveness:** SATISFACTORY
+
+*WEATHER*
+
+* **Weather:** (UNCLASSIFIED)
+CLEAR WX
+(UNCLASSIFIED)
+
+*EFFECTIVENESS*
+
+* **Tasker:**
+* **Intel Gap Filled?:** Yes
+* **Gentext:** (UNCLASSIFIED)
+SATISFACTORY
+(UNCLASSIFIED)
+
+*ISR*
+
+* **Time-on Station DTG:** 201230:00ZOCT24
+* **Time-off Station DTG:** 202318:00ZOCT24
+* **Aircraft Callsign:** *[REDACTED — 1.4(a)]*
+* **Msn Type:** TARGET DEV
+* **Primary Sensor:** FMV
+* **Sensors Available:** SANTA FE
+* **Tasking Type:** Dynamic
+* **Tasking or Request Number (JTAR#, AEM#, PRI#, or TIC#):** DATA MASKED
+* **BE Number (if NTISR):** -
+* **Tasked Start Point:** 37S FU 36 *[REDACTED — 1.4(a)]* 19 *[REDACTED — 1.4(a)]*
+* **Activity Description:** TARGET DEVELOPMENT
+* **FMV or Image File Name (if NTISR):** -
+* **EEIs Observed:** Yes
+* **Number of EEIs:** 1
+* **Global Campaign Plan:** GCP - VEO (violent extremist group)
+
+*GENTEXT/ISR*
+
+* **Gentext:** (SECRET//REL TO USA, FVEY)
+UPON ARRIVAL TO SP AT 1230Z, *[REDACTED — 1.4(a)]* OBSERVED 1X VEH NO FURTHER EEI RELATED ACTIVITY. FROM 1230Z-1313Z, *[REDACTED — 1.4(a)]* WENT EYES FREE PENDING SI CONDCUTING SF PASSES. FROM 1313Z-1410Z, *[REDACTED — 1.4(a)]* CONDUCTED A 3X STOP FOLLOW ON 1X ADM MOUNTED MOTO. FROM 1559Z-1644Z, OBSERVED UAP ACTIVITY (SEE UAP 1). FROM 1447Z-1518Z, 3X
+
+---
+3.5c, FOIA Exemption (b)(6)
+**SECRET//REL TO USA, FVEY**
+USCENTCOM MDR 25-0100 thru 25-0103 / JS-250710-TM8S | 10/28/25 006
+Approved for Release to AARO

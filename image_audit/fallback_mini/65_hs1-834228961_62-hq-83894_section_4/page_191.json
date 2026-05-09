@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 191,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a page with a clipping, tape, a stamped box, and red ink notations, while Description B describes only a newspaper clipping with specific headline text and no other visual elements, indicating a fundamental disagreement about the visual content present.",
+  "original_image_tags": [
+    "A single, aged, yellowish-brown page, likely a file folder or backing sheet. A rectangular newspaper clipping is affixed to the upper left with two strips of brownish adhesive tape. At the top center, typed text identifies the source. In the lower right corner, there is a stamped box and handwritten red ink notations."
+  ],
+  "gpt_mini_desc": "*Image: A clipped newspaper article titled “These Flying Discs Are at It Again, Virginians Report” mounted on a beige document page, with a typed note “Lynchburg Advance 5/13/49” above and an “FBI - RICHMOND MAY 14 1949” date stamp and red handwritten file number near the bottom.*",
+  "gpt_mini_desc_len": 281,
+  "usage": {
+    "prompt_tokens": 54659,
+    "completion_tokens": 77,
+    "total_tokens": 54736,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:59"
+}

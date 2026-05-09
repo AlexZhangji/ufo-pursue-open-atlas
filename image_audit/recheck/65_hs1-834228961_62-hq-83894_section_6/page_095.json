@@ -1,0 +1,19 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 95,
+  "original_image_tags": [
+    "A scanned image of a light-colored, possibly pink or beige, card or folder with numerous blue-ink date stamps. The card shows two hole-punch marks at the top. The stamps indicate various dates in December 1950 and are from different offices within the U.S. Department of Justice and the FBI. The text is stamped in multiple orientations (right-side up, upside-down, and sideways)."
+  ],
+  "rerun_extract": {
+    "elements": [],
+    "_parse_error": "{\n  \"elements\": [\n    {\n      \"category\": \"stamp_or_label_only\",\n      \"description\": \"A document back or routing slip containing multiple blue and black ink stamps and text fragments. Visible stamps include 'REC'D BELMONT F.B.I.', 'U.S. DEPT OF JUSTICE', 'CORRELATION - LIAISON', 'F.B.I.', 'U.S. DEP"
+  },
+  "judge": {
+    "score": 0,
+    "reason": "extract empty"
+  },
+  "categories": [],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:39"
+}

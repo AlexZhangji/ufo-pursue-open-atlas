@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 106,
+  "original_image_tags": [
+    "Aged, greenish paper document page, likely a carbon copy or back of a page, with visible bleed-through of typed text from the reverse side. Page shows signs of wear, with a frayed right edge, corner folds, and three punched holes at the top. Multiple stamps and handwritten notations are present. The bleed-through text is reversed and largely illegible, but the foreground stamps and notes are clear."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page containing various stamps, handwritten annotations, and faint mirrored text from the reverse side. Visible elements include a red 'RECORDED' stamp, an inverted red rectangular stamp with text 'F.B.I. U.S. DEPT. OF JUSTICE' and 'RECEIVED', a handwritten date 'MAY 17 3 24 PM '51', and several handwritten notes including 'confidential' and 'File R 7051'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (stamps, handwritten notes, faint reversed text) but Description B provides specific quoted text (e.g., 'RECORDED', 'F.B.I. U.S. DEPT. OF JUSTICE', 'MAY 17 3 24 PM 51') that Description A does not, without any contradiction on the described elements.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:32:41"
+}

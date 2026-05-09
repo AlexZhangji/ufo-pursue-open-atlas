@@ -1,0 +1,26 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 8,
+  "original_image_tags": [
+    "Scanned back or cover sheet of a vintage document. The page is mostly blank with visible bleed-through text from the reverse side. At the bottom left is a circular time-punch clock stamp with a 12-hour dial and the date \"SEP 2 7 1949\". To the right of this is faint, illegible handwriting and a faded blue ink date stamp reading \"SEP 23 - 2 31 PM '46\". There are three dark circular holes punched along the top edge of the paper.",
+    "A circular mechanical time clock stamp. The outer ring is marked with numbers 1 through 12. An inner triangle contains a smaller arrow pointer. The date \"SEP 2 7 1949\" is printed in a straight line beneath the circle."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One circular clock-style stamp with an arrow pointing between 8 and 9, text 'SEP 27 1949' below it. One linear blue ink timestamp reading 'SEP 23 2:31 PM' near the bottom right. Two hole-punch marks at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:52"
+}

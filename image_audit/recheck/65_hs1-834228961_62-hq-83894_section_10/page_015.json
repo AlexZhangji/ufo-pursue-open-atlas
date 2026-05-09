@@ -1,0 +1,59 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 15,
+  "original_image_tags": [
+    "Cartoon depicting a swamp scene with trees and water. Three figures in flying saucers hover above. One figure in a flying saucer has a speech bubble. A signpost reads \"THE SWAMP GAS IS RESTLESS TONIGHT.\"",
+    "Headshot photograph of a man. Caption: GABRIEL GREEN Head Saucerer",
+    "Photograph of a man standing outdoors. Caption: GARY WILCOX"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black-and-white cartoon depicting two men looking at a flying saucer in the sky. The saucer is emitting a beam of light. A speech bubble above one man says, 'PARKING IN MY BACK YARD AND THE GREENS—I HARDLY CALL THAT INTELLIGENT LIFE FROM ANOTHER PLANET.' A caption below the image reads, 'From R.C., the Post, May 9, 1966.'"
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white headshot photograph of a man wearing a suit and tie, smiling. A caption above the photo reads 'GABRIEL GREEN'."
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph showing a dark, indistinct object in the sky above a road or parking lot, with cars visible in the background. A caption below the photo reads 'SAUCER OR STRAW HAT, THIS FLEW IN CALIFORNIA LAST AUGUST. Highway Patrolman Helj Filmerphotographed It Through His Car Windshield'."
+      },
+      {
+        "category": "sketch",
+        "description": "A black-and-white hand-drawn sketch depicting a large, dark, triangular or delta-shaped object hovering in the sky above a landscape. A caption below the sketch reads 'By flying-saucer-sighting time and I'm determined to see one' and is signed '3-25-66'."
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph showing a group of people, including men and women, standing and looking upwards towards the sky. The setting appears to be outdoors at night or in low light."
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph showing a dark, blurry object in the sky, possibly over a landscape or water. The image is grainy and the object is indistinct."
+      },
+      {
+        "category": "photograph",
+        "description": "A black-and-white photograph showing a man standing next to a large, dark, circular or oval-shaped object that appears to be resting on the ground. The man is pointing at the object."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a single cartoon with three flying saucers, while Description B describes a completely different set of images (a newspaper clipping cartoon with two men, multiple distinct photographs, and a sketch) with no overlap in the described visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "photograph",
+    "photograph",
+    "sketch",
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:26"
+}

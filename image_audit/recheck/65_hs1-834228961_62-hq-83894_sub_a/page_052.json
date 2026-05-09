@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 52,
+  "original_image_tags": [
+    "Document page with two punched holes at the top. Handwritten title \"Flying Discs\" centered in blue ink. A yellow newspaper clipping is affixed to the page below the title."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed document with a news release text and a handwritten heading 'Flying Discs' and a yellow paper clipping with a typed news article about two silver grey objects observed over San Francisco Airport. The page also contains handwritten annotations, stamped dates '51 SEP 17 1952' and '146 SEP 15 1952', and a list of names at the top right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the main visual elements (handwritten 'Flying Discs' title, yellow newspaper clipping), but Description B adds details about stamped dates and annotations not mentioned in A, without direct contradiction on the quoted heading text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:18"
+}

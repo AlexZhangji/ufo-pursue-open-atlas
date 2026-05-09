@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "fbi-photo-b9",
+  "page_num": 1,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content: a grayscale sensor image with a central crosshair, a small dark dot near the center, a timestamp '12/31/99 18:10:26', and multiple black redaction blocks, but Description A adds details (e.g., infrared mode, specific redaction bar placement) not present in B.",
+  "original_image_tags": [
+    "Black-and-white infrared (BHOT or WHOT mode) sensor still from a military tracking system. A central white crosshair reticle with graduated scale marks is visible. A small, dark, circular object is located just below and to the left of the reticle's center point. The timestamp \"12/31/99 18:10:26\" is overlaid in white text at the bottom left. Multiple horizontal and vertical black redaction bars cover most data fields and overlays across the image. A large horizontal black redaction bar covers the top edge. Three rows of black redaction bars are present on the left and right sides, obscuring what are likely telemetry data, sensor mode, coordinates, altitude, and other metadata. The background is a grainy, uniform gray tone, suggesting a clear sky or cloud layer. The object appears as a distinct, non-luminous (dark) dot against the lighter background."
+  ],
+  "gpt_mini_desc": "*Image: Grainy infrared-style video frame with a centered crosshair and numbered horizontal/vertical tick marks, a small dark dot below left of center, and timestamp text “12/31/99 18:10:26” at bottom left.*",
+  "gpt_mini_desc_len": 207,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 54,
+    "total_tokens": 54697,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:52"
+}

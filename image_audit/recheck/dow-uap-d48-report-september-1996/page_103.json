@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 103,
+  "original_image_tags": [
+    "A line graph titled \"Figure 36. Recursive Filter Factor for Last Data Point\". The y-axis is labeled \"Recursive Filter Factor\" on a logarithmic scale from 0.001 to 1. The x-axis is labeled \"Number of Data Points in Sample\" from 0 to 300 in increments of 50. Six curves are plotted, all decreasing as the number of points increases. They are labeled: \"F = 0.95\" (highest curve), \"F = 0.98\", \"F = 0.99\", \"Index weighting\", \"F = 0.995\", and \"Equal weighting\" (lowest curve). A vertical annotation on the right side states: \"Filter memory fades faster →\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "Line graph titled 'Figure 36. Recursive Filter Factor for Last Data Point'. The Y-axis is 'Recursive Filter Factor' on a logarithmic scale from 0.001 to 1. The X-axis is 'Number of Data Points in Sample' from 0 to 300. Six curves are plotted, labeled 'F = 0.95', 'F = 0.98', 'F = 0.99', 'Index weighting', 'F = 0.995', and 'Equal weighting'. A vertical arrow on the right is labeled 'Filter memory fades faster'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the graph title, axis labels, scale, range, the presence of six labeled curves with identical names, and the vertical annotation text, with no contradictions on visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:17:46"
+}

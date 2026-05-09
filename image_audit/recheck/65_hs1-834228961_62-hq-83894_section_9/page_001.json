@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 1,
+  "original_image_tags": [
+    "A red \"X\" drawn over a white label in the upper right corner.",
+    "A red stamp mark that reads \"BUREAU COPIED APR 17 1978 BY\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A tan FBI file folder cover page featuring multiple red ink stamps, typed labels, and handwritten annotations. Visible text includes large red printed words 'FBI BUREAU OF INVESTIGATION' and 'Transfer-Call 3421'. A black stamp reads 'DO NOT DESTROY' with a handwritten 'FOIPA # 993087'. There are multiple red rectangular 'COPIED FOR FOIPA' stamps with dates and initials, including one dated 'MAY 13 1971' and another 'FEB 28 1978'. A blue label in the bottom left corner states 'Declassification authority derived from FBI Automatic Declassification Guide, issued May 24, 2007'. A white barcode label in the top left lists 'HQ - HEADQUARTERS' and numbers '0062 83894'. A white barcode label in the top right lists '62-HQ-83894', 'SERIALS 385-447', and 'SECTION 9'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions are inconsistent: Description A mentions a 'red X' and a stamp dated 'APR 17 1978' but Description B does not mention either, while Description B details numerous specific stamps, labels, and annotations that Description A omits entirely.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:23"
+}

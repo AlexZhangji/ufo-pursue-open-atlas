@@ -1,0 +1,42 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 98,
+  "original_image_tags": [
+    "scan of the back of a document page. The paper is light brown/tan, showing age. A brown tape or hinge strip is affixed vertically along the left edge. Two dark, circular hole-punch marks are visible near the bottom edge. Faint, reversed text from the document's front side is visible through the paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular blue ink stamp in the upper right corner reading 'RECEIVED JUL 7 10 54 AM INTERNAL SECURITY F. B. I. DEPT. OF JUST'."
+      },
+      {
+        "category": "other",
+        "description": "A vertical strip of yellowed adhesive tape attached to the left margin."
+      },
+      {
+        "category": "other",
+        "description": "Faint, illegible reverse-side text showing through the paper."
+      },
+      {
+        "category": "other",
+        "description": "Two dark, irregularly shaped hole-punch marks or tears at the bottom center of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same visual elements: a page with aged paper, vertical tape/hinge strip, two hole-punch marks at bottom, and faint reversed text showing through, with no contradictory claims about object counts, categories, or quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "other",
+    "other",
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:27:33"
+}

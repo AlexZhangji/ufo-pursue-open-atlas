@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 190,
+  "original_image_tags": [
+    "Back of a yellowed, aged document page. The page has two hole-punches at the top and a piece of brown tape on the upper right. Multiple faded, overlapping ink stamps are visible, mostly from the \"U.S. DEPT. OF JUSTICE\" and \"B I\" (Bureau of Investigation). Most text is mirrored, indicating the stamps bled through from the front side of the page. A small amount of faded, vertical handwriting is visible on the right edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple overlapping blue and red ink stamps, including 'RECEIVED U.S. DEPT. OF JUSTICE', 'JUN 11 1949', 'JUN 7 5:38 PM, 49', 'MAILED 13 COMMUNICATIONS SECTION', 'MAY 28 1949', and 'RECORDED BLDG. 330 US INVESTIGATION'. Text is faint, smudged, and partially illegible."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A single, faint, blue ink stamp reading 'CL B' is visible near the upper left."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A small, dark brown tape or label is affixed to the upper right corner. Below it, faint text reading 'RECORDED - GS' is visible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual elements of the page back: multiple overlapping ink stamps, a piece of brown tape in the upper right, and some faded text, but they differ on the specific stamps quoted and their colors.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:35"
+}

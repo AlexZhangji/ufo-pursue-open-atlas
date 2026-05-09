@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 181,
+  "original_image_tags": [
+    "A photograph of a portion of a typewritten letter on \"Federal Bureau of Investigation / United States Department of Justice\" letterhead. The top right corner features a \"FOR VICTORY BUY UNITED STATES WAR BONDS AND STAMPS\" poster. A handwritten name \"Hotchkiss\" appears in blue ink. Multiple stamps and handwritten notations are present, including a \"RECORDED EX-93\" stamp, a file number \"62-83894-128\", and a date stamp \"5 5 OCT 22 1947\". A large, cursive initial \"d\" is written in red ink on the right margin."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "FBI seal in the top left corner and a 'FOR VICTORY BUY UNITED STATES WAR BONDS AND STAMPS' propaganda label in the top right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A provides multiple specific visual details (handwritten name 'Hotchkiss', 'RECORDED EX-93' stamp, file number, date stamp, red cursive 'd') that are completely absent from Description B, which only identifies two generic labels, indicating a major discrepancy in the reported visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:52"
+}

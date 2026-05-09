@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "fbi-photo-b24",
+  "page_num": 1,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content (black-and-white infrared image, central dark irregular object, crosshair overlay with number '3', and black redaction blocks), but Description B adds a timestamp that Description A does not mention, which does not constitute a contradiction.",
+  "original_image_tags": [
+    "A black-and-white infrared (IR) sensor still. The background is a grainy, uniform grey. Centered in the frame is a small, dark, irregularly shaped object. A white crosshair/reticle with tick marks (labeled \"3\" on the horizontal axis) is overlaid, centered on the object. The image contains several large, black redaction blocks covering potential text or data fields in the top, left, and right portions of the frame."
+  ],
+  "gpt_mini_desc": "*Image: Grainy monochrome surveillance-style image of a single small dark object near the center, overlaid with white crosshair reticles and the timestamp “12/31/99 18:19:40” at bottom left.*",
+  "gpt_mini_desc_len": 191,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 51,
+    "total_tokens": 54694,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:49"
+}

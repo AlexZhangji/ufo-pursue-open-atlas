@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_403",
+  "page_num": 3,
+  "categories": [
+    "photograph",
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on a black-and-white portrait photograph of a man in suit/tie and a stylized illustration with three silhouettes of men in hats and a flying saucer, though B adds caption text and omits some visual details from A.",
+  "original_image_tags": [
+    "black-and-white studio portrait photograph of a man in a suit and tie, looking slightly to the left of the camera. The man has dark hair, a high forehead, and a slight smile.",
+    "The cover of the book jacket features a stylized illustration against a bright blue background. In the foreground, three dark silhouettes of men in suits and fedoras stand looking towards the center. Two yellow flying saucer objects are depicted in the center-right. Below the saucers, rays of light emanate from a central point on the ground line. The overall art style is graphic and somewhat abstract."
+  ],
+  "gpt_mini_desc": "*Image: A scanned two-page book cover spread for \"They Knew Too Much About Flying Saucers\" by Gray Barker, showing a black-and-white author portrait on the left page and the blue illustrated front cover on the right page with three silhouetted men, four yellow flying saucers, and the title text.*",
+  "gpt_mini_desc_len": 297,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 68,
+    "total_tokens": 56224,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:45"
+}

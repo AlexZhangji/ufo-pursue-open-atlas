@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 16,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the presence of a newspaper clipping, but Description B adds specific visual details (headline, subheadline, sidebar text) that Description A omits, without contradicting the core visual element.",
+  "original_image_tags": [
+    "newspaper clipping from an unidentified publication."
+  ],
+  "gpt_mini_desc": "*Image: A scanned document page with a pasted newspaper clipping headline “Mysterious Object Amazes Saucer Skeptic,” handwritten notes and initials, a right-side list of names with blank lines, and a date stamp near the bottom reading “10-9-57.”*",
+  "gpt_mini_desc_len": 246,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 59,
+    "total_tokens": 57712,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:56"
+}

@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 166,
+  "original_image_tags": [
+    "A single page with a dark green or black background, likely a photograph of a physical document or chalkboard. At the top is a hand-drawn sketch of a disc-shaped or lenticular object, resembling a classic \"flying saucer\" with a central dome or raised section. The sketch is rendered in a light-colored line (possibly white or light grey chalk/ink). Below the sketch are handwritten notes in the same light-colored medium."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "One hand-drawn sketch of a disc-shaped object with a raised central dome and a small rectangular window detail. Below the sketch is handwritten text that reads: 'Light - Kept FADING - Light sort of a white phosphorous color, - Bright around the outer rim.' Faint vertical lines are visible above the sketch."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:57"
+}

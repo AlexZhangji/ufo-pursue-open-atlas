@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "fbi-photo-b18",
+  "page_num": 1,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content (grayscale, grainy, crosshair with '3', dark central anomaly, redaction bars), but they differ on the specific number and placement of the redaction bars and Description B adds a timestamp not mentioned in A, which does not constitute a direct contradiction.",
+  "original_image_tags": [
+    "Infrared sensor still (grayscale) showing a grainy sky. A white crosshair reticle is centered in the frame. On the horizontal axis of the reticle, there are white tick marks at the ends and in the center, each labeled with a white number \"3\". The main object is a dark, elongated, dumbbell-shaped or double-dot anomaly located slightly to the right of the center vertical reticle line and just below the center horizontal reticle line. The image is heavily redacted with eight black rectangular bars obscuring text overlays: four on the left side and four on the right side."
+  ],
+  "gpt_mini_desc": "*Image: Grayscale surveillance-style frame with a central crosshair and scale marks labeled “3” on left and right, showing two small dark adjacent spots near the center-right and a timestamp “12/31/99 18:21:02” at bottom left.*",
+  "gpt_mini_desc_len": 227,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 58,
+    "total_tokens": 54701,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:47"
+}

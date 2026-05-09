@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 2,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A states there is a pasted newspaper clipping with a specific title, while Description B describes a newspaper clipping with different headline text and adds specific caption details (date, page number) not present in A, indicating a contradiction on the specific visual content and verbatim text.",
+  "original_image_tags": [
+    "A scanned, aged document page with two punch holes at the top. It contains a pasted newspaper clipping titled \"More About Saucers: Priest Finds 'Whirring' Disc In Yard and Holds It for FBI,\" along with various handwritten notes, stamps, and a distribution list."
+  ],
+  "gpt_mini_desc": "*Image: A scanned archival page with a pasted newspaper clipping titled “Priest Finds ‘Whirring’ Disc In Yard and Holds It for FBI,” surrounded by handwritten annotations, stamped markings, and docket numbers.*",
+  "gpt_mini_desc_len": 210,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 46,
+    "total_tokens": 54698,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:16"
+}

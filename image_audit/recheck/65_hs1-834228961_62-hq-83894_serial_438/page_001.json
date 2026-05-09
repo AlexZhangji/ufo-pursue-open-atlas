@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_438",
+  "page_num": 1,
+  "original_image_tags": [
+    "Barcode with identifier below it:",
+    "A blue rectangular sticker is adhered to the bottom right corner of the file folder cover."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A white label with black text and a barcode. The text includes 'FBI - CENTRAL RECORDS CENTER', 'HQ - HEADQUARTERS', 'HQ-0000-86775B: HQ', 'Class / Case # 0062 83894', 'Sub', 'Vol. 1', 'Serial # 438 ONLY', '8/11/1274161', and 'RRP003IXG3' below the barcode. The label is affixed to an orange-brown folder."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue rectangular stamp with white text in the bottom right corner. The text reads: 'Declassification authority derived from FBI Automatic Declassification Guide, issued May 24, 2007.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a blue sticker with an identifier, while Description B describes a white label with extensive quoted text and a separate blue declassification stamp; the two descriptions are of completely different visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:05"
+}

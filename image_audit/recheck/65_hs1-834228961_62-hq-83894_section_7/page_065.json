@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 65,
+  "original_image_tags": [
+    "A handwritten signature in blue ink, appearing to read \"F.J. Eekhout\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed letter on stationary with printed letterhead, containing typed body text and multiple handwritten annotations, stamps, and a signature. No photographs, sketches, diagrams, or other graphical elements are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A identifies a specific handwritten signature as a visual element, while Description B explicitly states no graphical elements are present, contradicting each other on the presence of visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:36"
+}

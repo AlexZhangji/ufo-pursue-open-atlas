@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 39,
+  "original_image_tags": [
+    "The page is a typewritten government memo on aged, off-white paper. There are two punched holes at the top. Several handwritten annotations in blue, red, and pencil are visible in the margins and bottom section."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed Office Memorandum from the United States Government, dated October 2, 1949, from SAC, Pittsburgh to Director, FBI, regarding 'GLEN SPROUSE, Informant' and 'FLYING DISCS, MISCELLANEOUS'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:48"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 83,
+  "original_image_tags": [
+    "A scan of the back side of a typewritten document page. The text from the front of the page is visible in reverse, showing through the paper. The top of the page has two black hole-punch marks. At the bottom, there are several blue ink stamps, oriented upside down relative to the main text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple blue and black ink stamps are visible on the page. Stamps include 'RECEIVED', 'U.S. DEPT. OF JUSTICE FBI', and 'NATIONAL SECURITY' with dates such as 'DEC 29 4 07 PM '48' and 'DEC 30 2 27 AM '48'. Faint, reversed typed text is visible through the paper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamp text ('RECEIVED', 'U.S. DEPT. OF JUSTICE FBI', etc.) that Description A does not mention, creating a direct contradiction on whether such readable text exists in the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:48"
+}

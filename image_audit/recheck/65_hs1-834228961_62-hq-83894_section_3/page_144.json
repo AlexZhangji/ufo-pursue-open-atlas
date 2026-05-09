@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 144,
+  "original_image_tags": [
+    "A scan of a pink/reddish piece of paper, likely the back of a document or a routing slip. The paper has two punched holes at the top. It contains two stamped markings. Faint, reversed text from the front of the page is visible bleeding through the paper, but is largely illegible. The paper appears aged with some creasing and spots."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two distinct blue ink stamps at the bottom. The left stamp reads 'RECEIVED', 'AP 27 4 19 PM', 'INTERNAL SECURITY', 'F.B.I.'. The right stamp reads 'RECEIVED', 'JUN 15 9 31 AM', 'INTERNAL SECURITY', 'F.B.I.'. Two punch holes are visible at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states the stamp text is illegible, while Description B provides specific, detailed, and contradictory verbatim text for two stamps, indicating a clear factual inconsistency on visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:38"
+}

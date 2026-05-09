@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 50,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes specific visual elements (hole punches, tattered edge) absent from B, while B describes a specific red stamped label and handwritten annotation not mentioned by A, indicating they are describing different visual content.",
+  "original_image_tags": [
+    "A scan of a worn, tan manila envelope or folder. The top edge is rounded. A black circular hole punch is visible near the top center. Two similar hole punches are visible near the bottom edge. The right edge is tattered and shows staple marks."
+  ],
+  "gpt_mini_desc": "*Image: Scanned manila envelope folder cover with “ENCLOSURE” printed twice near the top, a handwritten file number, a central punched hole at the top edge, and two punched holes near the bottom.*",
+  "gpt_mini_desc_len": 196,
+  "usage": {
+    "prompt_tokens": 12573,
+    "completion_tokens": 47,
+    "total_tokens": 12620,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:21"
+}

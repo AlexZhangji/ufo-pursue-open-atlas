@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 205,
+  "original_image_tags": [
+    "The page is a scan of a yellowed, translucent paper sheet (likely tracing paper or thin onionskin) with several punch holes at the top edge. The paper has a greenish-yellow tint. Text from the reverse side of the page is visible through the paper (show-through) and appears upside-down. There are several rubber-stamped marks and handwritten annotations on the visible side.",
+    "The entire document appears to be the reverse side of a memo or a thin sheet where the primary content is visible as reversed show-through text from the other side. The visible side contains only administrative routing stamps and handwritten notes."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded, aged paper page containing faint, reversed text visible from the opposite side. It features a red handwritten annotation reading '438' near the top center. There are two distinct black circular hole-punch marks at the top edge and a third partial black mark at the top right. Near the bottom, there are multiple stamped markings, including a blue 'FBI RECEIVING-DIRECTOR' stamp with 'REPO'D MAIL ROOM FBI' text and a date stamp reading 'SEP 27 3 00 PM '63'. Another stamped mark reads 'FBI RECEIVING ROOM' with '22 PM '63' visible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B provides specific verbatim stamp text (e.g., 'FBI RECEIVING-DIRECTOR', 'SEP 27 3 00 PM '63') that Description A does not mention at all, and Description A describes the paper as having a greenish-yellow tint with punch holes, while Description B specifies black circular hole-punch marks, indicating different visual details about the same page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:54"
+}

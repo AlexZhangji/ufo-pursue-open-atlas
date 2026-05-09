@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 76,
+  "original_image_tags": [
+    "Aged, tan-colored document page, possibly the back of a form or a file folder. The page is heavily worn with ragged edges and several dark holes or punctures along the top margin. A strip of aged, yellowed adhesive tape is affixed vertically near the bottom center, partially covering a faint, inverted ink stamp. Handwritten pencil notations are visible in the bottom left corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Aged paper page with two dark irregular holes at the top edge and torn bottom edges. A vertical strip of brown adhesive tape is near the bottom center. Faint reversed stamped text reading 'INTERNAL SECURITY F.B.I.' and 'EST 72' is visible on a small rectangular label beneath the tape. Handwritten annotations are faintly visible in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific text from a stamp ('INTERNAL SECURITY F.B.I.' and 'EST 72') while Description A describes the same stamp as a 'faint, inverted ink stamp' with no legible text, creating a direct contradiction on quoted content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:35"
+}

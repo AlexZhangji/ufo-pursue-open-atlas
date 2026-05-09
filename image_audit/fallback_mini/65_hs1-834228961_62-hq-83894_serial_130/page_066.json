@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 66,
+  "categories": [
+    "typed_text_only",
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the existence of a hand-drawn sketch labeled 'Illustration No. 2', a rectangular floor plan, and several labeled circles/arrows with matching specific text like '3/4 mile' and 'Light appeared in this direction', but they disagree on the exact labels of specific elements (e.g., 'A' vs 'C' for the witness/viewing point).",
+  "original_image_tags": [
+    "hand-drawn sketch labeled \"Illustration No. 2\". A rectangular shape, presumably the house, is drawn in the upper right. A circle labeled \"C\" (likely the witness position) is drawn to the left. A circle labeled \"B\" is drawn in the lower right. An arrow labeled \"N\" points toward the upper left. Dashed lines connect point C to points A (a window on the rectangle) and B. Handwritten annotations along the lines include: \"Light appeared in this direction\", \"3/4 mile\", \"apparent direction of light\", \"Disappeared in this direction\"."
+  ],
+  "gpt_mini_desc": "*Image: Scanned typed page with a hand-drawn sketch diagram in pencil/ink showing a light path, arrows, and circled labels A, B, and C, plus handwritten directional annotations and a small inset box sketch in the upper right.*",
+  "gpt_mini_desc_len": 226,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 54,
+    "total_tokens": 57707,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:36"
+}

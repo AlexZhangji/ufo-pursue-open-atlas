@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "page_num": 71,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions conflict on key visual elements: Description A describes a dark, blurry streak and a dark horizon/coastal line, while Description B describes a bright white trail and a dark sky, indicating they are likely describing different visual content.",
+  "original_image_tags": [
+    "Black-and-white photograph showing a sky filled with a dense, textured layer of clouds, appearing as altocumulus or stratocumulus. A distinct, dark linear object, possibly a trail or object in motion, cuts diagonally across the sky from the upper left towards the center right. The object appears as a dark, somewhat blurry streak against the lighter cloud background. The right edge of the photograph shows a darker, possibly coastal or horizon line with what appears to be water and possibly land or structures. The photograph has white borders typical of a printed photo print. There are minor dust spots and scratches on the print. No text or annotations are visible on the image itself."
+  ],
+  "gpt_mini_desc": "*Image: Black-and-white photograph of a diagonal rocket or missile contrail rising through a large cloud plume, with a narrow vertical strip at the far right showing ocean horizon and water.*",
+  "gpt_mini_desc_len": 191,
+  "usage": {
+    "prompt_tokens": 59166,
+    "completion_tokens": 40,
+    "total_tokens": 59206,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:39"
+}

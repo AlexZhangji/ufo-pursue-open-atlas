@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 166,
+  "original_image_tags": [
+    "Seal of the Department of Justice / Federal Bureau of Investigation"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular FBI seal in the top left corner. A red stamp at the bottom right reads 'ALL INFORMATION CONTAINED HEREIN IS UNCLASSIFIED' with empty fields for 'DATE' and 'BY'. A red 'COPIES DESTROYED' stamp with a date is at the bottom left. Handwritten blue text '62-83894-419' and a red 'ENCLOSURE' stamp are at the bottom center. Two dark circular punch holes are at the top edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the presence of the FBI seal in the top left corner, but Description B adds numerous specific visual elements (stamps, handwritten text, punch holes) that Description A omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:38"
+}

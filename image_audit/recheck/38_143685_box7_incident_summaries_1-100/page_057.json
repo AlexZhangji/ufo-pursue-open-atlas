@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 57,
+  "original_image_tags": [
+    "The page consists of white typewritten text on a solid black background. A faint vertical crease or line runs down the center of the page. The word \"RESTRICTED\" appears at the top and bottom in a distressed, stenciled-style font. Three hole-punch marks are visible on the left margin. The number \"56\" is handwritten in the bottom right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Two large 'RESTRICTED' stamps, one at the top and one at the bottom of the page."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "A typed paragraph describing a visual observation of an object, located in the top half of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a page with typewritten text, a vertical crease, hole-punch marks, and a handwritten number, while Description B describes only two stamps and a typed paragraph, indicating the two descriptions are about different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:38"
+}

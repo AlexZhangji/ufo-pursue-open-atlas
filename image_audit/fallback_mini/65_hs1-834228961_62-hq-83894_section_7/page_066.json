@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 66,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes the document as a typed letter on aged, torn paper with obscured text, while Description B provides specific, detailed content (Department of Justice letterhead, date, addressee, multiple specific stamp texts, signature) that contradicts A's general description and implies A missed all specific visual content.",
+  "original_image_tags": [
+    "A typed letter on aged paper, torn at the edges and showing signs of wear. The text is partially obscured by stamps."
+  ],
+  "gpt_mini_desc": "*Image: A single scanned typewritten document page with three punched holes at the top, faint reversed text visible through the paper, and blue/purple archival stamps and markings near the lower center and bottom; the page is torn and creased with a folded lower-right corner.*",
+  "gpt_mini_desc_len": 277,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 58,
+    "total_tokens": 14950,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:57"
+}

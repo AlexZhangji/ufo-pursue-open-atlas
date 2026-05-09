@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 184,
+  "original_image_tags": [
+    "Faint, reversed ghost text from the reverse side of the page or a facing page is visible through the paper. It appears to be a typed letter or memo. The text is illegible due to bleed-through."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint, mostly illegible watermark or seal of the Federal Bureau of Investigation (FBI) is visible in the center. It features an eagle with spread wings, a shield on its chest, and a banner. Below the eagle, the text 'FEDERAL BUREAU OF INVESTIGATION' and 'U.S. DEPARTMENT OF JUSTICE' is faintly visible. The watermark is partially obscured by several ink stamps."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims there is no visual content (only bleed-through text), while Description B claims there is an FBI watermark or seal, which is a direct contradiction on the presence of visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:17"
+}

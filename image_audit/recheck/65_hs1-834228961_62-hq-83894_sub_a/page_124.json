@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 124,
+  "original_image_tags": [
+    "A yellowed, aged newspaper clipping mounted on a piece of off-white paper. The mounting paper has two holes punched at the top and shows tears and wear, particularly along the top edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping from 'Washington News' dated 'JUL 5 1947' (Page 5). The clipping features a headline 'Neither Airplane, Nor Cloud, Nor Balloon' and includes typed body text reporting on sightings of flying objects, with no embedded photographs or illustrations within the clipping itself."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a mounted newspaper clipping with physical damage and mounting holes, while Description B describes a specific newspaper clipping with headline and date but does not mention the mounting paper, holes, or wear, indicating they describe different visual content or one omits all key physical details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:28"
+}

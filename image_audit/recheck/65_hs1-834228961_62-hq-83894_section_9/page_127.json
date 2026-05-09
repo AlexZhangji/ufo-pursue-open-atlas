@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 127,
+  "original_image_tags": [
+    "Yellowed, aged document page, likely the back of a carbon copy or routing sheet. Features multiple date stamps from April 1960, red classification markings, and faint typed text visible from the reverse side. Two hole-punch marks at the top. Red handwritten initials \"E.W.\" at top center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A page containing faint, reversed bleed-through text from the opposite side, two dark circular hole-punches at the top, a handwritten red annotation reading 'EW 3', and multiple stamped labels including 'RECEIVED-DIRECTOR FBI APR 7 9 47 AM '60', 'RECEIVED J. E. HOOVER FBI', 'RECEIVED TOLSON FBI APR 6 6 42 PM '60', 'RECEIVED - MOHRA FBI APR 6 5 42 PM '60', 'REC'D 9 13 AM 6', 'RECD 10 45 AM 60 APR 6', '21 FEB 12 1962', and a vertical stamp on the right margin that appears to read 'COPY TO INTERAGENCY UFO COMMITTEE'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the core visual elements: yellowed page, bleed-through text, two hole-punches, red handwritten initials (EW vs EW 3 is minor wording difference), and multiple date stamps from 1960, with no contradictory claims on specific quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:25"
+}

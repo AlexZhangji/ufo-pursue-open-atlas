@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 127,
+  "original_image_tags": [
+    "A faded, aged paper document with significant ghosting/bleed-through from text on the reverse side. The primary text is typed in a serif font and is very difficult to read due to the low contrast and superimposed text. There are two hole-punch marks at the top center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "The back of a document with faint, reversed typed text from the front side bleeding through. No photographs, sketches, diagrams, maps, or charts are visible. Two blue 'REC'D BY JUSTICE' stamps with dates in 1953 are visible at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree that the visual content consists only of a document back with bleeding-through text and no other visual elements like photographs or diagrams.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:51:13"
+}

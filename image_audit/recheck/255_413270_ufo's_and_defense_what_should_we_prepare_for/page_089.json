@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "255_413270_ufo's_and_defense_what_should_we_prepare_for",
+  "page_num": 89,
+  "original_image_tags": [
+    "black-and-white photograph of a man in a suit and tie, presumably Willard H. Miller, seated."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "Color photograph of one man in a naval uniform and sunglasses, standing in front of a US flag and another flag. Captioned: 'BREAKING SILENCE: US Naval Reserve Commander Willard H. Miller worries that the military's lack of preparation for encounters with unexplained craft could provoke confrontation. Lesley General Norlain forcing the establishment to think again about those lights in the sky. Pictures courtesy of Bernard Thouanel VSD photo archives.'"
+      },
+      {
+        "category": "photograph",
+        "description": "Color photograph of one man in a suit and tie, sitting with a US flag in the background. Captioned: 'THE DECADES OF DISTRUST ... Leonard G. Wolf of Iowa entered an 'urgent warning' from R.E. Hillenkoetter, a former CIA Director and Navy vice admiral, into the Congressional Record that 'certain dangers are linked with unidentified flying objects.' ...'"
+      },
+      {
+        "category": "photograph",
+        "description": "Black and white photograph of one man's face, shown in a circular frame. Captioned: 'If we persist in refusing to recognize the existence of the UFOs, we will end up, one fine day, by mistaking them for the guided missiles of an enemy - and the worst will be upon us.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a single black-and-white photograph of a man in a suit seated, while Description B describes three separate photographs with different subjects (a man in naval uniform, a man in a suit with a flag, a man's face in a circular frame) and detailed captions, representing entirely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:43"
+}

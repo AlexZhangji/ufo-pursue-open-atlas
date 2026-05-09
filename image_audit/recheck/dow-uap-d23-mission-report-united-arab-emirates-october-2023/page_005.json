@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "dow-uap-d23-mission-report-united-arab-emirates-october-2023",
+  "page_num": 5,
+  "original_image_tags": [
+    "An empty rectangular box with the text \"1.4a, 1.4c\" centered within it."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Redacted text block at the top and bottom of the page, and a red classification stamp at the top right reading 'Declassified by MG Richard A. Harrison USCENTCOM Chief of Staff Declassified on: 12 September 2025'."
+      },
+      {
+        "category": "diagram",
+        "description": "A rectangular box under the heading 'ISR' containing the text '1.4a, 1.4c' near the bottom center."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular box at the bottom of the page containing the text '3.5c, (b)(6)'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims there are three distinct visual elements (redacted blocks, a red classification stamp, and a separate rectangular box at the bottom), while Description A only mentions one visual element (a rectangular box with specific text).",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "diagram",
+    "stamp_or_label_only"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:32"
+}

@@ -1,0 +1,40 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 182,
+  "original_image_tags": [
+    "Red rectangular ink stamp on left margin containing text: \"MAILED 3, Sealed, JUN 1 5 1977, FBI\".",
+    "Red rectangular ink stamp on right margin: \"JUN 17 1977\"",
+    "Vertical list of FBI office abbreviations on the left margin, including:",
+    "Footer section with \"APPROVED:\" and multiple blank lines for initials next to department titles such as \"Director\", \"Assoc. Dir.\", etc. Bottom right text reads \"FBI/DOJ\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular red ink stamp in the lower left corner containing the text 'MAILED 3', 'Sealed', 'JUN 15 1977', and 'FBI'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A small circular red ink stamp on the right side containing the date 'JUN 17 1977'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular ink stamp at the bottom left containing the date '56 JUL 18 1977' and the text 'MAIL ROOM'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict on the verbatim text and shape of the right-side stamp ('JUN 17 1977' vs '56 JUL 18 1977' and 'MAIL ROOM'), and one side invents a third stamp.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:29:17"
+}

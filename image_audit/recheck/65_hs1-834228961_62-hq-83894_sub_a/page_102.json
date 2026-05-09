@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 102,
+  "original_image_tags": [
+    "A single, aged, off-white page from a government file, likely a routing slip or cover sheet. It contains a handwritten title, a pasted newspaper clipping, a typed distribution list, several handwritten annotations and signatures, and multiple stamped dates and file numbers."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A small newspaper clipping with the headline 'Researchers' Balloons Mistaken for Discs' and body text starting with 'CHICAGO, July 16 (INS).' It describes gas balloons used for cosmic ray research being mistaken for flying discs. Text visible inside includes 'Flying discs' and 'fast-moving jet planes'. No photographs or illustrations are present within the clipping itself."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a page with a pasted newspaper clipping, handwritten annotations, and stamped dates, while Description B focuses solely on the content of a newspaper clipping and states 'No photographs or illustrations are present within the clipping itself,' but does not address the other visual elements (handwriting, stamps) mentioned in A, creating a contradiction about the overall visual content of the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:16:00"
+}

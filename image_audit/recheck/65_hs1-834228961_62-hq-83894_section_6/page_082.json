@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 82,
+  "original_image_tags": [
+    "A single page showing the reverse side of a document, featuring multiple blue ink \"RECEIVED\" stamps from the U.S. Department of Justice / FBI, applied in various orientations. The paper has two hole-punch marks at the top."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple overlapping blue U.S. Department of Justice / FBI receipt stamps with dates (OCT 19, OCT 20), times (e.g., 4 02 PM, 10 51 AM, 1 06 PM), and names (LADD, TOLSON, MICHIE, BELMONT, LIAISON, DIRECTOR)."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (multiple blue ink 'RECEIVED' stamps from the U.S. Department of Justice / FBI) and do not contradict each other, but Description B adds specific details (dates, times, and names) not present in Description A.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:39"
+}

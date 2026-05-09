@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 240,
+  "original_image_tags": [
+    "The document is the reverse side of a page with multiple stamps indicating receipt by various offices. At the top right is a stamp for MR. JONES received June 11, 1964. Below that is a stamp for MR. JONES received June 5, 1964. In the middle left is a stamp for MR. JONES received May 27, 1964. Below that is a stamp for MR. JONES received May 25, 1964 at 7:20 PM. At the bottom left are three stamps: REC'D. BELMONT FBI-JUSTICE on May 25, 1964; REC'D-TOLSON'S OFFICE on May 25, 1964; and REC'D DE LOACH FBI on June 5, 1964. In the middle right is a stamp for MR. JONES received May 25, 1964 at 4:32 PM. The page has two hole-punch marks at the top center. There is faint reverse text visible from the other side of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple overlapping blue ink reception stamps on the back of a document, showing various dates, times, and office names including 'MR. JONES', 'F.B.I.', 'REC'D - TOLSON'S OFFICE', 'REC'D - DE LOACH', and dates from May and June 1964."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the main visual content (multiple reception stamps on the back of a document), the key entities quoted ('MR. JONES', 'REC'D - TOLSON'S OFFICE', 'REC'D - DE LOACH'), and the date range (May/June 1964), with no contradictions on any specific quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:12:13"
+}

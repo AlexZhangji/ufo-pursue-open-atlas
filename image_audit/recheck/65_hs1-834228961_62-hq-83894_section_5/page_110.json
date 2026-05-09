@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 110,
+  "original_image_tags": [
+    "A single page of aged, off-white paper with visible creases and two hole-punch marks at the top. The page appears to be the back of a document, as faint, reversed text from the other side is visible through the thin paper. There are two prominent blue stamped markings at the bottom, and a small, yellowed, rectangular tape remnant is adhered to the top right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One brown paper tape with staple holes at the top right corner. Multiple blue and red ink stamps and faint handwritten annotations are visible on the page, including text such as 'U.S. DEPT. OF JUSTICE', 'FBI', 'RECEIVED-K ROOM', 'INTERNAL SECURITY', and various dates and times. The main body of the page contains highly faded and largely illegible typed text bleeding through from the reverse side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a mostly blank page with stamps and a tape remnant, while Description B quotes specific, different stamps and text content, indicating contradictory visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:45"
+}

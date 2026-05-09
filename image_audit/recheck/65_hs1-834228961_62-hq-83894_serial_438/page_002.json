@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_438",
+  "page_num": 2,
+  "original_image_tags": [
+    "FBI Department of Justice seal in the upper left corner.",
+    "A red stamp at the bottom center reads:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "United States Department of Justice / Federal Bureau of Investigation official seal and logo in the upper left corner. A red stamp at the bottom states: 'This document contains neither recommendations nor conclusions of any kind. It is the property of the FBI, and is a loan to your agency; it and/or its contents are not to be distributed outside your agency.'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the FBI seal in the upper left corner and a red stamp at the bottom, but Description B adds specific quoted text inside the stamp that Description A omits.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:14:07"
+}

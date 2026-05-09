@@ -1,0 +1,9 @@
+RECEIVED TELETYPE UNIT
+APR 8  12 56 PM '50
+F.B.I. DEPT. OF JUSTICE
+
+*[handwritten note, vertical in right margin]:*
+APR 8  128 PM '50
+RECD BELMONT
+F.B.I.
+DEPT. OF JUSTICE

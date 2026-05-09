@@ -1,0 +1,178 @@
+{
+  "file": "65_hs1-834228961_62-hq-83894_serial_438.pdf",
+  "stem": "65_hs1-834228961_62-hq-83894_serial_438",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "9a98bf803016c9a2252c03ea960d61d0e35652c88a9098018ebf8f953141c9a8",
+  "size_bytes": 15143657,
+  "total_pages": 40,
+  "pages_processed_in_run": 40,
+  "status": "complete",
+  "elapsed_sec": 0.1,
+  "completed_at": "2026-05-08 15:38:20",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    },
+    {
+      "page": 8,
+      "status": "skip"
+    },
+    {
+      "page": 9,
+      "status": "skip"
+    },
+    {
+      "page": 10,
+      "status": "skip"
+    },
+    {
+      "page": 11,
+      "status": "skip"
+    },
+    {
+      "page": 12,
+      "status": "skip"
+    },
+    {
+      "page": 13,
+      "status": "skip"
+    },
+    {
+      "page": 14,
+      "status": "skip"
+    },
+    {
+      "page": 15,
+      "status": "skip"
+    },
+    {
+      "page": 16,
+      "status": "skip"
+    },
+    {
+      "page": 17,
+      "status": "skip"
+    },
+    {
+      "page": 18,
+      "status": "skip"
+    },
+    {
+      "page": 19,
+      "status": "skip"
+    },
+    {
+      "page": 20,
+      "status": "skip"
+    },
+    {
+      "page": 21,
+      "status": "skip"
+    },
+    {
+      "page": 22,
+      "status": "skip"
+    },
+    {
+      "page": 23,
+      "status": "skip"
+    },
+    {
+      "page": 24,
+      "status": "skip"
+    },
+    {
+      "page": 25,
+      "status": "skip"
+    },
+    {
+      "page": 26,
+      "status": "skip"
+    },
+    {
+      "page": 27,
+      "status": "skip"
+    },
+    {
+      "page": 28,
+      "status": "skip"
+    },
+    {
+      "page": 29,
+      "status": "skip"
+    },
+    {
+      "page": 30,
+      "status": "skip"
+    },
+    {
+      "page": 31,
+      "status": "skip"
+    },
+    {
+      "page": 32,
+      "status": "skip"
+    },
+    {
+      "page": 33,
+      "status": "skip"
+    },
+    {
+      "page": 34,
+      "status": "skip"
+    },
+    {
+      "page": 35,
+      "status": "skip"
+    },
+    {
+      "page": 36,
+      "status": "skip"
+    },
+    {
+      "page": 37,
+      "status": "skip"
+    },
+    {
+      "page": 38,
+      "status": "skip"
+    },
+    {
+      "page": 39,
+      "status": "skip"
+    },
+    {
+      "page": 40,
+      "status": "skip"
+    }
+  ]
+}

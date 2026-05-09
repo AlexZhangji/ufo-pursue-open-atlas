@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 166,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "A single page with a dark green or black background, likely a photograph of a physical document or chalkboard. At the top is a hand-drawn sketch of a disc-shaped or lenticular object, resembling a classic \"flying saucer\" with a central dome or raised section. The sketch is rendered in a light-colored line (possibly white or light grey chalk/ink). Below the sketch are handwritten notes in the same light-colored medium."
+  ],
+  "gpt_mini_desc": "*Image: A chalkboard-style sketch of a saucer-shaped object with a domed center and long horizontal base, accompanied by handwritten notes reading “Light - kept fading,” “light sort of a white phosphorous color,” and “Bright around the outer rim.”*",
+  "gpt_mini_desc_len": 248,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 57,
+    "total_tokens": 57710,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:14"
+}

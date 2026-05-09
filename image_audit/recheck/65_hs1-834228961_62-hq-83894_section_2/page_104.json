@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 104,
+  "original_image_tags": [
+    "A slightly aged, typed letter on white paper. The letterhead is \"Mrs. Madeline Gwynne Merchant, Box 263, Santa Fe, New Mexico, July 13, 1947\". There are two punch holes at the top center. Large red handwritten text \"ACK of FBI\" is scrawled across the top right. In the left margin, a handwritten blue \"11\". A handwritten note in the top right margin reads: \"Please excuse haste - trying to make airmail\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter on aged paper with no embedded photographs, sketches, diagrams, maps, or charts. Includes handwritten annotations in red and blue ink, and a red numeric stamp at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree the page contains only a typed letter with handwritten annotations, and neither claims there are embedded photographs, sketches, or other visual content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:29:36"
+}

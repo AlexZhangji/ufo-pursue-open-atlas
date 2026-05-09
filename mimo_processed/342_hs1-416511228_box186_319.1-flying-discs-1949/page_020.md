@@ -1,0 +1,31 @@
+## ~~CONFIDENTIAL~~
+
+TCM 452
+10 August 1949
+SUBJECT: Unidentified Flying Objects
+
+the objects but no further identification could be detected.
+The objects would fly formation for a while and then break
+off and reform in a trail formation. They would disappear
+for short periods and then reappear in the same general area.
+Objects were visible to the unaided eye only when they re-
+flected the sun's rays.
+
+
+EARL J. LIVESAY
+Lt. Col., USAF
+Commanding
+
+### Copies furnished:
+Chief of Staff, USAF
+Commander, MATS
+Commanding Officer, Flight Service
+
+
+*[Stamp: Upside-down, faint blue ink, partially illegible]*
+*[Text reads roughly:]* "McCHORD FIELD
+ET 32008
+DATE 10 3 '49"
+~~CONFIDENTIAL~~
+
+*Page number: 3*

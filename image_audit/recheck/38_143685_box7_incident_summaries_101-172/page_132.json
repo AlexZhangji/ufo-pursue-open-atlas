@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 132,
+  "original_image_tags": [
+    "The page is a dark background with white/light text, suggesting a negative or photostatic copy. At the top left, there is a handwritten number: \"263\". The word \"CONFIDENTIAL\" is stamped in large, faded capital letters across the top center. A second, identical \"CONFIDENTIAL\" stamp appears near the bottom center, crossed out with a horizontal line. Two hole-punch marks are visible on the left margin. Two small, circular white artifacts are present near the bottom edge. The text is typed in a typewriter font."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed page with the word 'CONFIDENTIAL' stamped or typed in large letters at the top and bottom. A handwritten number '268' is visible in the top left corner. The page contains typed text describing a UAP sighting. The text refers to a drawing and a diagram, but no visual elements (photographs, sketches, diagrams, etc.) are embedded on this specific page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the primary visual elements—a typed page with a 'CONFIDENTIAL' stamp and a handwritten number—but they differ on the specific number ('263' vs '268') and omit details the other includes without direct contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:26:29"
+}

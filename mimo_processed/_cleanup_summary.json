@@ -1,0 +1,85 @@
+[
+  {
+    "path": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_10/page_005.md.rejected",
+    "status": "ok_mimo",
+    "attempts": [
+      {
+        "attempt": 1,
+        "model": "mimo-jpeg",
+        "dpi": 200,
+        "q": 90,
+        "rejected": false,
+        "len": 1524
+      }
+    ],
+    "saved_to": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_10/page_005.md"
+  },
+  {
+    "path": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_2/page_177.md.rejected",
+    "status": "ok_mimo",
+    "attempts": [
+      {
+        "attempt": 1,
+        "model": "mimo-jpeg",
+        "dpi": 200,
+        "q": 90,
+        "rejected": false,
+        "len": 3267
+      }
+    ],
+    "saved_to": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_2/page_177.md"
+  },
+  {
+    "path": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_8/page_033.md.rejected",
+    "status": "ok_mimo",
+    "attempts": [
+      {
+        "attempt": 1,
+        "model": "mimo-jpeg",
+        "dpi": 200,
+        "q": 90,
+        "rejected": false,
+        "len": 4173
+      }
+    ],
+    "saved_to": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_8/page_033.md"
+  },
+  {
+    "path": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_8/page_156.md.rejected",
+    "status": "ok_mimo",
+    "attempts": [
+      {
+        "attempt": 1,
+        "model": "mimo-jpeg",
+        "dpi": 200,
+        "q": 90,
+        "rejected": false,
+        "len": 2430
+      }
+    ],
+    "saved_to": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_8/page_156.md"
+  },
+  {
+    "path": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_9/page_032.md.rejected",
+    "status": "ok_mimo",
+    "attempts": [
+      {
+        "attempt": 1,
+        "model": "mimo-jpeg",
+        "dpi": 200,
+        "q": 90,
+        "rejected": true,
+        "len": 60
+      },
+      {
+        "attempt": 2,
+        "model": "mimo-jpeg",
+        "dpi": 180,
+        "q": 85,
+        "rejected": false,
+        "len": 1157
+      }
+    ],
+    "saved_to": "/home/evecc/project-eve/articles/uap-files/mimo_processed/65_hs1-834228961_62-hq-83894_section_9/page_032.md"
+  }
+]

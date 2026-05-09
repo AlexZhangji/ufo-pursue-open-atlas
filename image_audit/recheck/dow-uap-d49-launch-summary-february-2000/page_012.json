@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d49-launch-summary-february-2000",
+  "page_num": 12,
+  "original_image_tags": [
+    "Large black circular hole punch marks are visible in the upper right and lower right corners of the page. Page number \"xi\" is centered at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "A table titled 'ANNUAL LAUNCH SUMMARY BY BOOSTER' and 'Chart I 1958 - 1978'. It lists numerous launch vehicles in rows and years in columns, showing numerical counts of launches. The table includes a 'SUB TOTAL' column on the right and a 'SUB TOTAL' row at the bottom, with the final grand total being '1,418'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions refer to completely different visual content (Description A describes hole punches and a page number, while Description B describes a detailed chart or table).",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:17:53"
+}

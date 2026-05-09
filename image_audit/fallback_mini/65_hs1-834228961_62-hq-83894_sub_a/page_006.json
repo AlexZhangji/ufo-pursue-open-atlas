@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 6,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific headline and sub-headline text from the newspaper clipping that Description A does not mention or quote, and Description A describes a generic article while B provides specific, contradictory visual details about the clipping's content.",
+  "original_image_tags": [
+    "A slightly yellowed page from a file, likely a newspaper clipping mounted or clipped and attached. The page contains a newspaper article from the Omaha World-Herald, handwritten notations, and stamped filing information. There are two punch holes at the top center."
+  ],
+  "gpt_mini_desc": "*Image: A scanned document page with a pasted newspaper clipping titled “No Saucers’ Trace Found,” along with handwritten annotations, initials, and stamped dates/numbers.*",
+  "gpt_mini_desc_len": 172,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 38,
+    "total_tokens": 56194,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:53"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_220",
+  "page_num": 10,
+  "original_image_tags": [
+    "A black-and-white technical illustration or diagram, oriented landscape. The diagram is rendered in white lines and shading on a black background. At the top center, a cylindrical object resembling a rocket or missile is shown emitting exhaust or a plume upwards. Dashed lines radiate from the top and bottom of this object, extending outwards to the edges of a large, dome-like structure below. This dome appears to be a wireframe or geodesic sphere, showing its internal structural lines. The dome is supported by a wide, angular landing gear structure with two large circular pads or wheels visible at the outer ends of the gear struts. Below the center of the dome, three nozzle-like structures are shown emitting plumes downward, suggesting propulsion. The entire apparatus is depicted over a flat, hazy horizon line, suggesting a landscape or planetary surface. The overall appearance is that of a conceptual design for a VTOL (Vertical Take-Off and Landing) craft or a planetary lander, with annotations illustrating principles of stability or force vectors."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A single, framed, black-and-white illustration showing a complex, symmetrical geometric structure. The structure resembles a large, faceted dome or sphere, depicted in a wireframe-like style, suspended above a horizon line by lines extending to a central tower-like object at the top and anchored by a web-like base at the bottom. The title at the top reads 'ESTABILIDAD CONICA - GLOBAL Y SEMI - GLOBAL.' The background is dark, with two lighter cloud-like shapes flanking the central tower."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual content: a black-and-white sketch of a large, faceted dome or sphere structure suspended above a horizon by a central tower-like object and a base, but they differ on specific details like the presence of exhaust plumes and the title text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:13:50"
+}

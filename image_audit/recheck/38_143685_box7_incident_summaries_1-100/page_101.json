@@ -1,0 +1,39 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_1-100",
+  "page_num": 101,
+  "original_image_tags": [
+    "Hand-drawn sketch labeled \"Sketch 'A'\". Shows an inverted (upside-down) triangle or cone shape.",
+    "Hand-drawn sketch labeled \"Sketch 'B'\". Shows an arrow pointing to a right-side-up triangle shape.",
+    "Hand-drawn sketch labeled \"Sketch 'C'\". Shows a triangle shape labeled \"red\" with wavy lines above it labeled \"green mist\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "Sketch labeled 'Sketch \"A\"' showing an inverted triangle or cone shape, described in the text as an up-side-down triangle."
+      },
+      {
+        "category": "sketch",
+        "description": "Sketch labeled 'Sketch \"B\"' showing a right-side-up triangle with a dashed arrow pointing to the right."
+      },
+      {
+        "category": "sketch",
+        "description": "Sketch labeled 'Sketch \"C\"' showing a right-side-up triangle with small lines above it, with text labels 'red' inside the triangle and 'green mist' above the lines."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the three sketches, their labels, and the visual content and text within each, with only minor, non-contradictory differences in detail.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch",
+    "sketch",
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:53:41"
+}

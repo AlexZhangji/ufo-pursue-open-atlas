@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 1,
+  "original_image_tags": [
+    "A worn, brown manila file folder. The folder contains multiple labels, stamps, and handwritten notations."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A brown manila file folder cover featuring two white adhesive labels with barcodes and alphanumeric text (including 'FBI - CENTRAL RECORDS CENTER', 'HQ - HEADQUARTERS', '62 - HQ-83894', and 'SECTION 4'), various red and black stamped text (including 'BUREAU', 'DESTROY of INVESTIGATION', 'COPIED FOR OIPA', and 'Transfer-Call 421'), and a handwritten FOIPA number."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:56"
+}

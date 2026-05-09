@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 46,
+  "original_image_tags": [
+    "A document page featuring a typed news clipping pasted onto the center. The page has hole-punch marks at the top and handwritten notes in blue and black ink.",
+    "The clipping is yellowed and appears to be cut from a news wire release or newspaper. The text is typed in all capital letters."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "One typed news release clipping on yellowed paper. Text visible inside includes: '(RELEASE AT 7:00 P.M. EST)', 'NEW YORK--THOSE LIGHTS IN THE SKY NEXT WEEK WILL NOT BE FLYING SAUCERS, BUT MERELY \"SUDDEN TRAILS OF LIGHT CAUSED BY SOLID PARTICLES FROM OUTER SPACE...\"', 'ROBERT R. COLES, CHAIRMAN OF THE HAYDEN PLANETARIUM...', 'THE TWO PRINCIPAL METEOR SHOWERS IN NOVEMBER...', '11/3--E346P'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both describe a yellowed newspaper clipping with typed text in capitals; B adds specific quoted content and a file number that A omits, but neither contradicts the other on what is depicted.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:11"
+}

@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 100,
+  "original_image_tags": [
+    "Black-and-white photograph of a disc-shaped aircraft with a central fuselage and a vertical tail fin, appearing to be a model or prototype. The aircraft has a U.S. military star insignia visible on the side.",
+    "Black-and-white photograph of a long, thin, delta-wing aircraft model mounted on a support in a wind tunnel environment."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "One silver-colored flying saucer aircraft model with U.S. military star insignia on top, four jet exhaust plumes, and landing gear visible. Captioned 'DISK-LIKE NAVY FLOUNDER PROJECT WAS DROPPED'. Photo credit 'U.S. Navy'."
+      },
+      {
+        "category": "photograph",
+        "description": "One dark, slender, wingless aircraft model inside a wind tunnel, mounted on a support structure. Captioned 'MOCK-UP OF EARLY MODEL IS TESTED IN WIND TUNNEL... latest models are circular, faster, more maneuverable'. Photo credit 'NACA photo'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on two photographs (flying saucer model with star insignia, and a wind tunnel model) and their general categories, but Description B adds specific caption text and visual details (exhaust plumes, landing gear) not mentioned in A, with no direct contradiction on quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:33"
+}

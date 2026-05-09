@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 69,
+  "original_image_tags": [
+    "The document is a single page of aged, off-white, typed paper with two punched holes at the top. The typed text is significantly faded and appears to be a carbon copy. Several stamps are visible at the bottom of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A faint, reversed image of a typed memorandum from the Office of Management, dated September 3, 1947, regarding a reported UFO sighting in Maug, Texas. The text mentions a bright object, a trail, and a possible flying disk. The page includes several stamps and handwritten annotations."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue stamp reading 'RECEIVED F.B.I. INTERNAL SECURITY P 19 I 18 PM'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue stamp reading 'RECEIVED LIAISON SECTION F.B.I. DEPT. OF JUSTICE SEP 15 10 50 AM 47'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims no readable visual content, while Description B provides specific quoted text for two stamps and a caption, which constitutes a clear factual inconsistency about the presence of legible text inside visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:32"
+}

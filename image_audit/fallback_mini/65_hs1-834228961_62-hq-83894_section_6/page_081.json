@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 81,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes specific visual annotations (blue checkmarks, initials, a large red 'P') that are absent from Description B, which provides no detail about the page's visual markings and only mentions a typed memo.",
+  "original_image_tags": [
+    "Standard typewritten US Government Office Memorandum, yellowed with age. Blue handwritten checkmarks and initials are present near the top right and center. A large red \"P\" is drawn in the bottom right margin.",
+    "A large blue handwritten initial, likely \"DAL\" or \"ML\", next to \"MR. LADD\"."
+  ],
+  "gpt_mini_desc": "*No image content on this page.*",
+  "gpt_mini_desc_len": 32,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 11,
+    "total_tokens": 14903,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:47"
+}

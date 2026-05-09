@@ -1,0 +1,82 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 124,
+  "original_image_tags": [
+    "Two punched holes at the top. A blue rectangular box in the upper left corner contains the text: \"This image contains all the information on the document.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed teletype document regarding 'Flying Saucers' and unconventional aircraft observed near Ft. Monmouth, NJ in September 1951. Includes handwritten annotations, stamps, and a routing slip."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Blue rectangular label at top left with white text: 'This image contains all the information on the document.'"
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint red stamp at top center: 'FEDERAL BUREAU OF INVESTIGATION / U. S. DEPARTMENT OF JUSTICE / COMMUNICATIONS SECTION'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint red stamp at top center below the previous one: 'TELETYPE'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint date stamp at top center: 'SEP 20 1951'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Handwritten time stamp at top right: '9-08 PM'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Red stamp at bottom center: 'RECORDED-71162-83894-919'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Red date stamp at bottom center: 'OCT 14 1951'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Vertical text along left edge: 'COPIES DESTROYED 270 NOV 23 1954'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Handwritten date stamp at bottom center: 'SEPT 16 1951'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Small stamp at bottom right corner: 'FILE'."
+      },
+      {
+        "category": "other",
+        "description": "Routing slip with typed names and handwritten checkmarks/signatures at top right. Visible names include Mr. Tolson, Mr. Ladd, Mr. Cleage, Mr. Glavin, Mr. Rosen, Mr. Tracy, Mr. Harbo, Mr. Alden, Mr. Belmont, Mr. Mohr, Tels. Room, Mr. Nease, Mrs. Gatchell."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the visual content of the page, specifically the blue rectangular label at the top left with the text 'This image contains all the information on the document,' and both acknowledge the presence of stamps and annotations, with the more detailed description (B) simply elaborating on the elements that the minimal description (A) omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:59:51"
+}

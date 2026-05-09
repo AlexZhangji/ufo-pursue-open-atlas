@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 83,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on two primary visual elements: an advertisement for a shirt/tie and an image of a young person in a kilt with a bagpipe, but they differ on the medium (illustration vs. photograph), specific labels ('The Mark Cross OXFORD SHIRT' and 'TOY BAGPIPE' vs. no labels), and the presence of a third advertisement for a laundry service.",
+  "original_image_tags": [
+    "Black-and-white illustration of a man's dress shirt and necktie.",
+    "Illustration of a young person in a kilt playing bagpipes, with musical notes floating nearby."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper page with three vertical advertisement panels on the left (a men’s shirt ad, a toy bagpipe ad with a boy illustration, and a hand laundry ad) and a column of text on the right about UFO sightings; page number “page 79, 80” is visible at the bottom right.*",
+  "gpt_mini_desc_len": 283,
+  "usage": {
+    "prompt_tokens": 53146,
+    "completion_tokens": 70,
+    "total_tokens": 53216,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:25"
+}

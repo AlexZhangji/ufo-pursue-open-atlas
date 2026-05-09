@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 198,
+  "original_image_tags": [
+    "A rectangular, off-white paper envelope fragment, horizontally oriented, is mounted on a dark, textured background. The fragment is torn irregularly on the right side, with the original right edge and back flap missing. The top edge shows a slight curve. The fragment is secured under a clear plastic or glassine overlay, visible by reflections and tape residue on the right and bottom edges. The background appears to be black or dark grey cardstock.",
+    "A brown 3-cent U.S. postage stamp, partially torn on the right edge. The stamp depicts three children in profile, wearing hats (possibly a Boy Scout theme), with text visible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A photograph of a torn, aged envelope with handwritten address and a partial postage stamp. The envelope is addressed to 'MIDWEST NEWS, 3435 W. CHICAGO AVE., CHICAGO, ILL.' and features a circular postmark reading 'CHICAGO, ILL. JUL 25 6 PM 1950' and a partially torn brown 3-cent U.S. postage stamp depicting three figures. A handwritten number '62-83894-292' is visible at the bottom of the envelope, and a large faint 'K' is written on the left side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B adds specific quoted text (address, postmark, handwritten number '62-83894-292', large faint 'K') that Description A does not mention at all, creating a factual inconsistency on the presence of visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:23"
+}

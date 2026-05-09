@@ -1,0 +1,11 @@
+## MEMORANDUM FOR D. M. LADD
+
+7/23/47
+
+### RECOMMENDATION
+
+There is attached a Bureau Bulletin to the Field for their assistance in handling this matter.
+
+Attachment
+
+- 2 -

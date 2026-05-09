@@ -1,0 +1,36 @@
+{
+  "pdf_stem": "65_hs1-101634279_100-de-26505",
+  "page_num": 4,
+  "original_image_tags": [
+    "Hand-drawn sketch on lined paper, resembling a target or scope view with concentric circles. Three small circles are positioned along a horizontal line within the innermost ring.",
+    "Sketch of a flying saucer-like object, disc-shaped with a central dome, viewed from the side.",
+    "Sketch of a spherical or planet-like object with horizontal bands and a ring system.",
+    "Sketch of a dark, irregularly shaped object.",
+    "Hand-drawn diagram or map featuring a large circle with internal markings, including lines radiating from a central point, a shaded area, and a cross. The numbers \"44–45\" are written to the right.",
+    "Sketch of a shield or crest shape with an internal cross or 'X' pattern.",
+    "Sketch of a swirling, spiral, or vortex-like shape.",
+    "Sketch of a small, dark, oval or football-shaped object with a zigzag pattern inside.",
+    "Sketch of a small, irregular shape.",
+    "Sketch of a small diamond or rhombus shape with the number \"55\" inside."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A hand-drawn page containing multiple pencil sketches and handwritten annotations on lined paper. Sketches include concentric ovals, an oval with a central cross, a horizontal line with small shapes, a circle labeled 'SS' near a rectangle, a sketch of a shield-like shape with a cross labeled '44-45' and '2 mi', a spiral/swirl sketch with text '50' 'high', '100-150 yds', a small oval with a zigzag pattern, and a rectangular shape labeled 'SS'. Handwritten text includes 'WA 27516 - 11/7/59', '5457 jo Cannon', 'pat called etc run in 44', 'gone in 45', '35-35 mi', 'Berlin', 'SS Major', and 'Grifeltt Golsen'. A stamped text at the bottom reads 'ALL INFORMATION CONTAINED HEREIN IS UNCLASSIFIED DATE 5/22/85 BY SP6 Lyntley'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence of multiple sketches including concentric circles/ovals, a shield/crest shape, a spiral/swirl, a small oval with zigzag, and handwritten annotations, but Description B quotes specific text (e.g., 'SS', '44-45', '2 mi', '50', '100-150 yds', 'WA 27516 - 11/7/59') that Description A does not mention or quotes differently, though no direct verbatim contradiction is present.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:23"
+}

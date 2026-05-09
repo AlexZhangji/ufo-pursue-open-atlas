@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 189,
+  "original_image_tags": [
+    "Stamped box in lower right corner. Top line: \"FEDERAL BUREAU OF INVESTIGATION\". Second line: \"U.S. DEPARTMENT OF JUSTICE\". Date stamp: \"JUL 30 1947\". Location: \"SAN FRANCISCO, CALIFORNIA\". Below location: \"ROUTED TO\". To the right of \"ROUTED TO\": a stamped initial \"R\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed memorandum detailing a sighting of five or six white circular objects by 1st Lt Eric B. Armstrong on 28 June 1947. It includes a header 'UNIDENTIFIABLE OBJECTS Williams Fld., Chandler, Ariz. 15 July 1947', the body of the interview, 'AGENT'S NOTES', and a signature block for Lawrence R. King, Jr."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular stamp in the lower right corner that reads 'FEDERAL BUREAU OF INVESTIGATION U.S. DEPARTMENT OF JUSTICE JUL 30 1947 SAN FRANCISCO, CALIFORNIA ROUTED TO' with a handwritten initial or symbol 'W' below it, and a handwritten number '62-2938-11' at the very bottom edge."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A certification stamp or typed section in the lower left that reads 'CERTIFIED A TRUE COPY: R. D. STEPHENS Major, Air Corps' with a handwritten signature above the name."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B describes a typed memorandum as the primary visual content, while Description A only describes a stamp, and they also contradict on the initial within the stamp ('R' vs 'W').",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:30:06"
+}

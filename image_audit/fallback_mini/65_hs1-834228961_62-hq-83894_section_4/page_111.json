@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 111,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims the file folder has no text, while Description B claims it has a stamped red label with specific text ('ENCLOSURE 1', '3894-158'), indicating a direct contradiction on the presence of quoted text.",
+  "original_image_tags": [
+    "A blank, manila-colored file folder, aged and slightly wrinkled. The folder is presented vertically against a solid black background. At the top, a tab is folded down. The body of the folder is mostly empty, with three punched holes visible at the bottom edge. There is a single hole punch at the top center of the tab."
+  ],
+  "gpt_mini_desc": "*Image: A blank tan manila file folder or envelope, shown front-on, with a round hole near the top center and two holes near the bottom, stamped “ENCLOSURE 1” and handwritten red number “3894-158” on the upper right.*",
+  "gpt_mini_desc_len": 217,
+  "usage": {
+    "prompt_tokens": 12573,
+    "completion_tokens": 58,
+    "total_tokens": 12631,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:32"
+}

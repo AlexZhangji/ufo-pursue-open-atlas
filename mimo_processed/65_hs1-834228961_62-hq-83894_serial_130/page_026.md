@@ -1,0 +1,43 @@
+## CONFIDENTIAL
+RESTRICTED
+
+Interrogation of John N. Nehrman, Jr
+
+Q. Can you describe the trail?
+A. It was blueish black in color, very easily distinguished from the blue sky. A diesel exhaust would be similar to it.
+
+Q. Was the trail fan shaped?
+A. No it was more or less a band across the sky in a straight path.
+
+Q. Did it make a noise?
+A. No noise.
+
+Q. What went on in the car when you sighted the object?
+A. We stopped the car and got out and looked at it. One of the boys had a camera and took a photograph of the trail that the object left.
+
+Q. What was the name of the man who took the photograph?
+A. Robert Leidy.
+
+Q. Do you know what type of film Mr Leidy was using?
+A. Kodachrome, I believe.
+
+Q. Do you know whether Mr. Leidy saw the Disk or object?
+A. I don't believe so.
+
+*[signed: illegible]*
+**JOHN N. NEHRMAN, JR**
+Supervisor and Mechanic
+Trans World Airways
+
+Sworn and subscribed to before me this ___ day of July 1947.
+
+*[signed: S. L. Gibson, Jr]*
+**S. L. GIBSON, JR**
+Captain, Air Corps
+Adjutant
+
+CONFIDENTIAL
+RESTRICTED
+- 2 -
+
+*[handwritten signature in bottom right corner: illegible]*

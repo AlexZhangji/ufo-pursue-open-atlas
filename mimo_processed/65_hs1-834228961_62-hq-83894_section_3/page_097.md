@@ -1,0 +1,22 @@
+## FEDERAL BUREAU OF INVESTIGATION
+### UNITED STATES
+## DEPARTMENT OF JUSTICE
+
+OFFICIAL BUSINESS
+
+---
+
+### FROM:
+P. O BOX 308
+BUTTE, MONTANA
+
+---
+
+### ENCLOSURE NOTE:
+Encls. to Bureau
+Re: Flying Discs
+Butte file 65-477
+
+---
+
+*[handwritten note]:* 62-83894-111

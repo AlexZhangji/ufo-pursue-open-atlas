@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 98,
+  "original_image_tags": [
+    "The page is a faded, light-green, carbon-copy-style document. The top of the page is heavily torn and damaged, obscuring much of the header information. There are several punch holes and tears along the top edge. The main body of text is visible in reverse (bleed-through from the other side of the paper). Several stamps and handwritten annotations are present."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned document page, appearing to be the back of a form or memo. It features faint, mirrored, and reversed typed text bleeding through from the front side. Prominent stamped text at the bottom includes 'FBI - JUSTICE F B I', 'U.S. DEPT. OF JUSTICE', and 'RECEIVED-MALL ROOM'. A red rectangular stamp reads 'JAN 1 8 1955' with 'COPY - FBI' inside. A date stamp 'JAN 1 9 1955' is visible in the lower left. A handwritten annotation is present in the lower left quadrant. The top edge is torn and has several punched holes."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the general visual content of a torn page with punch holes, reversed bleed-through text, stamps, and handwritten annotations, but Description B provides specific quoted stamp text that Description A does not.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:09:23"
+}

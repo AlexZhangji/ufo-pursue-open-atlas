@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 9,
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a handwritten letter while Description B describes three distinct rubber stamps, indicating the two systems are analyzing completely different visual content.",
+  "original_image_tags": [
+    "A handwritten letter in cursive script, in blue ink on light paper. There are two punch holes at the top center. The text is written at an angle, slanting upwards to the right."
+  ],
+  "gpt_mini_desc": "*Image: A scanned handwritten letter page with blue cursive writing, punched holes at the top, and red/black archival stamp markings and numbers near the lower right and center.*",
+  "gpt_mini_desc_len": 178,
+  "usage": {
+    "prompt_tokens": 12573,
+    "completion_tokens": 45,
+    "total_tokens": 12618,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:27"
+}

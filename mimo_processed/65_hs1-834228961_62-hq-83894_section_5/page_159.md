@@ -1,0 +1,8 @@
+## CONFIDENTIAL
+the existence of some new weapon. Such statements, of the type attributed to Rickenbacker, often solicited in the most sensation form by news reporters in order to make a good story, make people watch the sky and any object they cannot immediately recognize is called a "flying saucer." This helps to maintain the "chain reaction" of such reports.
+
+*Image: A faint, vertical, grey smudge or mark is visible in the center of the lower half of the otherwise blank page.*
+
+4
+
+CONFIDENTIAL

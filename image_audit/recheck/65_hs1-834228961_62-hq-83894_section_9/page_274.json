@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 274,
+  "original_image_tags": [
+    "Faint watermark visible on paper, text reads \"ASHMORE BROS / COTTON FIBER / U.S.A.\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "Letterhead logo depicting a stylized barn or house structure within a rectangular border, located at the top left corner of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions identify completely different visual content: A describes a watermark text ('ASHMORE BROS / COTTON FIBER / U.S.A.') while B describes a letterhead logo of a barn/house structure, indicating the two descriptions are about different visual elements on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:32"
+}

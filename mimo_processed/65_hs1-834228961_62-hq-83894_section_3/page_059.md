@@ -1,0 +1,7 @@
+## Signed Statement of Fred L. Crisman and Harold A. Dahl
+
+Re: FLYING DISCS SIGHTED BY FRED CRISMAN and HAROLD A. DAHL
+Tacoma, Washington
+SM - X
+
+*[handwritten in margin]:* 62 - 83894 - 106

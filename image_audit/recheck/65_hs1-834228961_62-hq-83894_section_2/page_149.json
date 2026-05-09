@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 149,
+  "original_image_tags": [
+    "A single, aged pink paper document, appearing to be a teletype or memo sheet. The paper is torn horizontally across the lower third. The top section has two hole-punch marks at the upper edge. The bottom section is secured with two pieces of aged, brownish adhesive tape at the left and right edges. Faint, reversed text from the other side of the paper is visible through the sheet. Several stamped notations are present.",
+    "The document shows significant physical damage, with a large tear across the lower portion and a missing section in the center of the tear. The paper is discolored and fragile. The faint reversed text visible through the paper includes fragments such as \"MILITARY,\" \"AIR,\" \"SIGHTING,\" and \"REPORT,\" suggesting it is the verso of a related document."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scanned image of the back of a pink document page. It contains multiple stamped labels and text, including 'RECEIVED TELETYPE UNIT Aug 12 10 33 PM *47 F.B.I. DEPT. OF JUSTICE' and 'RECEIVED DIRECTOR J.S. DEPT. OF JUSTIC Aug 13 5 58 AM *47'. Faint, illegible text from the other side of the page is visible through the paper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on the back of a pink document with faint reversed text and stamped notations, but Description A omits the specific stamped text that Description B provides, with no contradiction between them.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:29:38"
+}

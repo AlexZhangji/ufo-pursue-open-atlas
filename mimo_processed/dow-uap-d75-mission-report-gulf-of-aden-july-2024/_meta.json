@@ -1,0 +1,50 @@
+{
+  "file": "dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf",
+  "stem": "dow-uap-d75-mission-report-gulf-of-aden-july-2024",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "672b79390fe6595828c71e1f3df8cb0a2290f0658c36ed724e17ea167233b771",
+  "size_bytes": 792150,
+  "total_pages": 8,
+  "pages_processed_in_run": 8,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:19",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    },
+    {
+      "page": 8,
+      "status": "skip"
+    }
+  ]
+}

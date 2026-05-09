@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "18_6369445_general_1948_vol_1",
+  "page_num": 17,
+  "original_image_tags": [
+    "Green paper document, hole-punched on left margin. Bottom right has a vertical handwritten number \"0006748\" in blue ink. Bottom left has several blue stamped markings: \"HQ UFO\", \"17 MAR 1948\", \"ON-MAIL SHANNON\", and a handwritten \"ACC\" or similar. A white label with \"P 99846\" is affixed near the bottom.",
+    "Handwritten annotations in blue ink at bottom right: \"P&O recommended above answer by R&R [redacted] to D/I USAF\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed document with a 'SECRET' stamp at the top and bottom, a date '17 MAR 1948', subject 'Flying Discs', and text referencing Colonel McCoy's proposal regarding fighter aircraft. Includes a blue stamp with 'HQ USAP 17 MAR 1948' and a signature block for George C. McDonald, Major General, USAF. A handwritten note is present at the bottom right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the existence of a blue stamp with a date (17 MAR 1948) and a handwritten note at the bottom right, but they disagree on the exact text of the stamp and other visual elements like hole punches and labels.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:52:23"
+}

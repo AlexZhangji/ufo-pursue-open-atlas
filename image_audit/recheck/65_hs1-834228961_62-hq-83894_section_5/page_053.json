@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 53,
+  "original_image_tags": [
+    "The back of a weathered, pale green or grey document page, likely a file folder or backing sheet. It has two hole-punch marks at the top. There are several faded, reversed ink stamps and some faint, illegible text visible through the paper from the other side."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page appears to be the back of a document showing faint, illegible bleed-through text. There is an upside-down blue stamp in the lower right area reading 'FEB 21 11 20 AM '50', 'RECEIVED-MAIL ROOM', 'FBI', and 'U.S. DEPT. OF JUSTICE'. Above this is an upside-down purple rectangular stamp reading 'FEB 8 F 1950' with illegible surrounding text. In the upper right corner is an upside-down stamp reading 'INDEXED - FBI', 'RECORDED - FBI'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:57"
+}

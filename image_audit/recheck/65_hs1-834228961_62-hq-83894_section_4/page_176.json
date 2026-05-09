@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 176,
+  "original_image_tags": [
+    "A scanned, aged paper flyer or brochure page, slightly creased with fold lines. The bottom section features a red and black illustration of a young man in a white t-shirt. He is holding a red, circular disc (the Flyin-Saucer) in his hands. There is handwritten text in pencil or pen on the man's left shoulder (viewer's right). The text appears to read \"68898669\" or similar numerical digits. The background of the page is off-white/cream, showing age and paper texture."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A black-and-white line drawing of a young man holding a red circular object labeled 'FLYIN-SAUCER' in his hands. The man is wearing a light-colored t-shirt. Text above the drawing in red script reads 'The Amazing FLYIN-SAUCER'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "One description quotes specific handwritten numerical text on the man's shoulder, while the other omits this detail and instead quotes a different red script caption text, indicating contradictory or fabricated visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:27"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 138,
+  "original_image_tags": [
+    "faded, ghostly text visible through the back of the document, appearing in reverse. Stamps are legible through the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Blue ink stamp reading 'U.S. DEPT OF JUSTICE / FBI / RECEIVED' followed by 'MAY 9 4 54 PM 52'. There is also a faint, upside-down blue ink stamp reading 'MAY 9 3 52 PM 52' and a faint red stamp reading 'MAY 20 1952'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed text from blue and red stamps, while Description A reports the stamps are visible but does not confirm the quoted text, leading to a critical factual inconsistency on verbatim content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:53"
+}

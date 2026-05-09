@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 269,
+  "original_image_tags": [
+    "The page is a piece of paper, likely a routing slip or note. It features three stamps at the top: one reading \"REC'D - CORPS & TOURS\" with \"FBI\" below it, another reading \"16 FEB 2 4 1965\" in red ink, and a third reading \"FEB 24 2:31 PM '65\". Below the stamps, there are several lines of handwritten text in blue ink. The handwriting is very faint, difficult to decipher, and appears to be a note or instructions. The paper has deckled edges."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page contains three stamped impressions: a blue stamp reading 'REC'D-BORK & TOURS FBI' with a date stamp below reading 'FEB 24 2:31 PM '65'; a red stamp reading '16 FEB 24 1965'; and very faint, illegible blue handwriting covering the rest of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions quote different text for one of the stamps: A reads 'CORPS & TOURS' while B reads 'BORK & TOURS', indicating a contradiction on specific verbatim text.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:24"
+}

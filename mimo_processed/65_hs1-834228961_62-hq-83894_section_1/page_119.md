@@ -1,0 +1,26 @@
+FEDERAL BUREAU OF INVESTIGATION
+U. S. DEPARTMENT OF JUSTICE
+COMMUNICATIONS SECTION
+AUG 1 4 1947
+
+*TELETYPE*
+
+FBI SEATTLE 8-14-47 5-15 PM FB
+DIRECTOR ROUTINE
+FLYING DISCS SIGHTED BY FRED CHRISMAN AND HAROLD A. DAHL, TACOMA, WASHINGTON, SM X. REURTEL INSTANT DATE. PLEASE BE ADVISED THAT DAHL DID NOT ADMIT TO SMITH THAT HIS STORY WAS A HOAX BUT ONLY STATED THAT IF QUESTIONED BY AUTHORITIES HE WAS GOING TO SAY IT WAS A HOAX BECAUSE HE DID NOT WANT ANY FURTHER TROUBLE OVER THE MATTER. COMPLETE REPORT NOW EN ROUTE TO BUREAU AMSD, WHICH INDICATES PROBABLY CHRISMAN OR DAHL MADE THE ANONYMOUS PHONE CALL IN THE HOPE OF BULDING UP THEIR STORY THROUGH PUBLICITY TO A POINT WHERE THEY COULD MAKE A PROFITABLE DEAL WITH FANTASY MAGAZINE, CHICAGO ILLINOIS. DAHL AND CHRISMAN WILL NOT BE REINTERVIEWED UNLESS ADVISED TO THE CONTRARY BY THE BUREAU.
+WILCOX
+
+A AND HOLD PLS
+9-16 PM OK FBI WASH DC GAR
+
+*[Handwritten note in top right]:* Rue 10:09
+*[Handwritten note below]:* NR
+*[Handwritten initials/signature]:* Fletcher
+*[Handwritten note bottom left]:* 3 AUG 26 1947
+*[Handwritten note bottom right]:* 1 62 83894-32
+*[Handwritten note]:* G. I. R. - 1
+*[Handwritten note]:* EX-67
+*[Handwritten note]:* Mr. Fletcher
+*[Handwritten note]:* 5 - R7
+
+*Image: Pink FBI teletype paper with punched holes at top center. Text is typed in black ink. Handwritten annotations in blue and black ink. Red ink stamps: "RECORDED AUG 15 1947" and "INDEXED 1". Names visible in distribution list stamp: Mr. Tolson, Mr. E. A. Tamm, Mr. Clegg, Mr. Ladd, Mr. Nichols, Mr. Rosen, Mr. Tracy, Mr. Egan, Mr. Gurnea, Mr. Harbo, Mr. Mahr, Mr. Pennington.*

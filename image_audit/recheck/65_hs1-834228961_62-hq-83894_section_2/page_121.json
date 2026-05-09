@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 121,
+  "original_image_tags": [
+    "A pinkish, aged paper document, likely the back or routing sheet of a teletype. It has two hole-punches at the top. The text is primarily from stamped impressions, with some very faint, possibly reverse-text bleed-through from the other side of the page. Multiple stamps indicate receipt by various FBI departments."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint, reversed image of typed text is visible on the reverse side of the paper. Overlaid on this are four blue ink stamps. The top stamp reads 'RECEIVED TELETYPE UNIT SEP 14 12 10 AM '47 F.B.I. DEPT. OF JUSTICE'. Three additional stamps at the bottom read 'RECEIVED EP 15 10 03 AM '47 INTERNAL SECURITY F.B.I. DEPT. OF JUSTICE', 'RECEIVED LIAISON SECTION EP 24 9 30 AM INTERNAL SECURITY F.B.I.', and 'RECEIVED EP 16 2 25 PM '47 F.B.I. DEPT. OF JUSTICE'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the presence of stamps on an aged paper document, but Description B provides specific quoted text for four stamps while Description A does not, without any contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:56:48"
+}

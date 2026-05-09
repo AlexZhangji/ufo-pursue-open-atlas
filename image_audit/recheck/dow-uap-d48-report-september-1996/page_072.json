@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 72,
+  "original_image_tags": [
+    "A line graph titled \"Delta-GEM Random-Attitude Failures through 270 sec\". The vertical axis is labeled \"Percent in 5-deg sector (%)\" and uses a logarithmic scale from 0.01 to 100. The horizontal axis is labeled \"Angle From Flight Path (deg)\" and uses a linear scale from 0 to 180. The graph contains several data lines and symbols. A legend within the graph area lists \"Breakup q-alpha in deg-lb/ft²\" with the following entries and associated symbols: \"no breakup\" (inverted triangle), \"20,000\" (solid circle), \"10,000\" (open circle), \"5,000\" (open triangle). Below this, four dashed or solid lines are labeled with parameter pairs: \"A = 2.60, B = 10,000\" (solid line), \"A = 3.15, B = 2,000\" (dashed line), \"A = 3.35, B = 2,000\" (long-dashed line), \"A = 3.50, B = 4\" (solid line). The data lines generally show a decreasing trend as the angle increases, with the \"no breakup\" line remaining highest and the \"5,000\" breakup line dropping the lowest."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "A line graph titled 'Delta-GEM Random-Attitude Failures through 270 sec'. The y-axis is labeled 'Percent in 5-deg sector (%)' and uses a logarithmic scale from 0.01 to 100. The x-axis is labeled 'Angle From Flight Path (deg)' from 0 to 180. The chart plots data points (inverted triangles, filled squares, open circles, asterisks) for 'Breakup q-alpha in deg-lb/ft²' categories: 'no breakup', '20,000', '10,000', and '5,000'. It also includes four theoretical fit lines: 'A = 2.60, B = 10,000', 'A = 3.15, B = 2,000', 'A = 3.35, B = 2,000', and 'A = 3.50, B = 4'. The caption below reads 'Figure 25. Delta-GEM Simulation Results with Best-Fit Shaping Constants'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the graph's title, axes, data categories, and fit lines, but Description B mentions a caption and uses different symbol descriptions that are not contradictions but additional/alternate details.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:17:22"
+}

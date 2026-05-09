@@ -1,0 +1,11 @@
+## CONFIDENTIAL
+
+Incident occurred just before break of day. Object appeared as a large round ball of fire about 26 to 30 inches in diameter with a "tail" of approximately 20 feet in length. This "tail" seemed to diminish as it approached the ground. It appeared to have suddenly "gone out" just before it reached the earth. It possibly could have hit the ground a great distance away but it seemed to have landed in the open vacant field adjacent the house. This field is about 18 ~~miles~~ acres in area. Mr. Brimberry described the object as being "almost round, maybe a little oval or saucer-shaped and giving off a bright light. It appeared to be spinning. He did not see the tail when he observed the object.
+
+This incident occurred just before sun-up and it was pretty light outside.
+
+*[handwritten in margin, near top right]:* to Mrs Brimberry
+
+## CONFIDENTIAL
+
+*[handwritten in bottom right corner]:* 205

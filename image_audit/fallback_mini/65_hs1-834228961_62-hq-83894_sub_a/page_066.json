@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 66,
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Description B adds specific quoted text from the clipping headline and stamp that Description A omits, but the two do not contradict each other on any specific visual element described by both.",
+  "original_image_tags": [
+    "A yellowed newspaper clipping pasted onto a white document page. The clipping has a large headline in black and red text. Two holes are punched at the top of the clipping. To the right of the clipping is a typed distribution list. Below the clipping are two stamped dates and a handwritten note in pencil.",
+    "A second red stamp is partially visible below the first, showing \"51 JAN 1...\"",
+    "Handwritten note in pencil across the bottom right, partially obscuring the blue stamp. The handwriting appears to read:"
+  ],
+  "gpt_mini_desc": "*Image: A newspaper clipping headed “What Did The People Of Devon See Last Week?” with large orange text “WAS IT A FLYING SAUCER?” and several smaller clipped article excerpts below, all mounted on a document page with stamps and handwritten annotations.*",
+  "gpt_mini_desc_len": 255,
+  "usage": {
+    "prompt_tokens": 54652,
+    "completion_tokens": 57,
+    "total_tokens": 54709,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:03"
+}

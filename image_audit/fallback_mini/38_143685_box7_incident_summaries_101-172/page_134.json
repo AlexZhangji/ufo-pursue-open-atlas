@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 134,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both sides agree the visual content is a hand-drawn sketch map on a dark background with roads, woods, a creek, a bridge, a north arrow, and 'CONFIDENTIAL' stamps; Description B adds extensive label details and a signature block that Description A omits but they do not contradict each other on any shared quoted text.",
+  "original_image_tags": [
+    "A hand-drawn map or sketch on a dark background, possibly a negative or white-on-dark drawing. The map depicts an intersection of roads, a creek, and wooded areas. A north arrow points upward. The word \"CONFIDENTIAL\" is stamped at the top right and bottom left."
+  ],
+  "gpt_mini_desc": "*Image: A hand-drawn site map on a dark document page, labeled with roads, creeks, woods, a “Cantilever Type Bridge,” “Path of Object,” and “Ladywood School (Approx 1/4 mi f/sighting),” with “CONFIDENTIAL” stamped across the top and bottom.*",
+  "gpt_mini_desc_len": 241,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 69,
+    "total_tokens": 56225,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:13"
+}

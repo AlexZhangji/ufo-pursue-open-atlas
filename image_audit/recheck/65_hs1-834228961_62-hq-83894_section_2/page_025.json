@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 25,
+  "original_image_tags": [
+    "A single page of pink/peach-colored paper with three hole-punch marks along the top edge. The paper contains text that is reversed/mirrored, indicating it is the back of a page with ink bleed-through or a transfer impression. There are two stamped markings at the bottom of the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A scanned page showing faint, reversed typewritten text and two blue stamped annotations. The stamps read: 'RECEIVED 15 9 01 AM' / 'INTERNAL SECURITY' / 'F.B.I.' and 'RECEIVED IG 22 10 09 AM' / 'INTERNAL SECURITY' / 'F.B.I.' Two black punch holes are visible at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims two stamped markings without quoted text, while Description B provides specific quoted text for those stamps, creating a contradiction on verbatim content that suggests at least one side is hallucinating details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:19"
+}

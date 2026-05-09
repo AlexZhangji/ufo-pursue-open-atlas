@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 221,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A claims a specific visual stamp reading '1929' while Description B states the page contains only typed text and annotations with no mention of any such stamp, creating a direct contradiction on the presence and content of a visual element.",
+  "original_image_tags": [
+    "A blue ink stamp located to the right of \"B. APPROX.\" reads \"1929\"."
+  ],
+  "gpt_mini_desc": "*No image content on this page.*",
+  "gpt_mini_desc_len": 32,
+  "usage": {
+    "prompt_tokens": 15665,
+    "completion_tokens": 17,
+    "total_tokens": 15682,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:22"
+}

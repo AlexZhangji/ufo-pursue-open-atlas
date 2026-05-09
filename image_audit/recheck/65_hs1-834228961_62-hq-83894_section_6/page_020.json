@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 20,
+  "original_image_tags": [
+    "A single sheet of aged, off-white paper with visible creases and a torn right edge. The paper has three hole-punch marks on the left side. The content is primarily handwritten in blue ink, with several stamps and handwritten annotations added later in different inks and styles. A piece of aged tape is visible on the upper right edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Several administrative stamps and labels. Top right: handwritten date 'Oct 1, 1950' and address. Bottom right: 'RECORDED - 125', 'INDEXED - 125', 'EX-29', and a red date stamp 'OCT 13 1970'. Bottom left: a red stamp reading '5 OCT 25 1950'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree the page contains stamps and handwritten text on paper; B adds specific stamp text details not present in A, but no direct contradictions exist.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:33:53"
+}

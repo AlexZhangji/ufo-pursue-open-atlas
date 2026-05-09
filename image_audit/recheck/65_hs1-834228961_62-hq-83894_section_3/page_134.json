@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 134,
+  "original_image_tags": [
+    "A hand-drawn sketch in blue crayon or pencil showing an elongated, pointed oval or disc shape. The top surface is marked with horizontal lines. Handwritten labels at the top center read \"top view\". A label on the left side reads \"front toward\". A label on the right side reads \"back view\".",
+    "A hand-drawn side profile sketch in blue crayon or pencil. The object appears as a flat base with a raised central structure. A red horizontal line is drawn within the central structure. A vertical dimension line on the left is labeled \"10 ft. high\". A vertical dimension line on the right is labeled \"10 ft\". A horizontal dimension line below the object is labeled \"20 ft long\". A handwritten label above the drawing reads \"side view\".",
+    "A hand-drawn sketch in blue crayon or pencil showing the underside of the disc-shaped object, similar in outline to the top view. A vertical line is drawn near the center. A vertical dimension line on the left is labeled \"10 ft wide\". A horizontal dimension line below the object is labeled \"20 ft. long\". A handwritten label above the drawing reads \"bottom view\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "Hand-drawn sketch of a flying disc in blue crayon or pencil with some red accents, featuring three views. Top view labeled 'top hood' with 'front view' to the left and 'back view' to the right. Middle view labeled 'side view' with '10 ft. high' to the left, '10 FT' to the right, and '20 ft. long' below. Bottom view labeled 'bottom view' with '10 ft. wide' to the left and '20 ft. long' below. Handwritten text below describes the object as a flying disc seen going down Snake River canyon."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B misquotes 'top view' as 'top hood', misquotes 'front toward' as 'front view', misquotes 'back view' as 'back view' (context differs), misquotes '10 ft. high' as '10 ft. high' (same), misquotes '10 ft' as '10 FT' (case differs), misquotes '20 ft long' as '20 ft. long' (punctuation differs), misquotes '10 ft wide' as '10 ft. wide' (punctuation differs), and misquotes '20 ft. long' as '20 ft. long' (same), and hallucinates extra descriptive text about 'flying disc seen going down Snake River canyon'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:42"
+}

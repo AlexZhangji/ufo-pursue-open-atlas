@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 44,
+  "original_image_tags": [
+    "A typewritten letter on aged, yellowed paper with a torn top edge and punch holes. The document contains several stamps, handwritten annotations in red and black ink, and a distribution list on the left margin."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed letter from the Federal Bureau of Investigation, dated July 21, 1947, addressed to Mrs. A. G. Sarbanis. The letter acknowledges receipt of her letter dated July 10, 1947, and mentions instructions to a Special Agent in Charge to obtain further information. The letter is signed by John Edgar Hoover, Director. A cc section includes a decoding of a message from a newspaper clipping: 'TIRED OF HUMAN NONSENSE WONT AWAIT ATOMIC WAR DISRUPTING ORDER SOLAR SYSTEM SO SENT FLYING DISKS AND WILL SET UP WORLD ORDER UNDER MARTIANS LATE THIS YEAR.' A distribution list is visible at the bottom left. A red stamp is present in the lower left corner."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A red stamp in the lower left corner of the page. The stamp contains the text 'COMMUNICATIONS SECTION', a star symbol, the date and time 'JUL 22 1947 P.M.', the initials 'NYC-WMJ', and the agency name 'FEDERAL BUREAU OF INVESTIGATION, U.S. DEPARTMENT OF JUSTICE'. A handwritten number '25' is written over part of the stamp."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes general features of a typewritten letter (aged paper, torn edge, punch holes, stamps, annotations, distribution list), while Description B quotes specific verbatim text from a stamp ('COMMUNICATIONS SECTION', date 'JUL 22 1947 P.M.') and a decoded message that Description A does not mention at all, indicating the two descriptions are about different visual content or one is hallucinating specific details.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:32"
+}

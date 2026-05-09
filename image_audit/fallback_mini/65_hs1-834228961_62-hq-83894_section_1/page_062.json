@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 62,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The two descriptions give substantially different verbatim text for the same stamp ('ANONYMOUS COMMUNICATIONS KEEP ENVELOPE ATTACHED' vs. 'NONMOTORS COMMUNICATIONS DEEP ENVELOPE ATTACHED'), indicating at least one side is hallucinating the exact text of the stamp.",
+  "original_image_tags": [
+    "A handwritten letter on \"HOTEL WOODSTOCK, WOODSTOCK, ILLINOIS\" letterhead. The letter is addressed to \"Dr. Mr. Hoover\" and concerns \"Flying Sauces\". It is stamped \"G.I.R. - 5\". The bottom of the letter has a \"RECEIVED FILED\" stamp, the number \"54\", and the date \"JUL 29 1947\". There are various handwritten notes in the margins and several small hole punches at the top of the page. A red stamp on the left side reads \"ANONYMOUS COMMUNICATIONS KEEP ENVELOPE ATTACHED\"."
+  ],
+  "gpt_mini_desc": "*Image: A scanned handwritten letter on Hotel Woodstock, Woodstock, Illinois stationery, with printed letterhead, a red vertical postal stamp at left, blue and purple ink annotations, and several black redaction-like blotches near the top and lower center.*",
+  "gpt_mini_desc_len": 257,
+  "usage": {
+    "prompt_tokens": 12573,
+    "completion_tokens": 53,
+    "total_tokens": 12626,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:00"
+}

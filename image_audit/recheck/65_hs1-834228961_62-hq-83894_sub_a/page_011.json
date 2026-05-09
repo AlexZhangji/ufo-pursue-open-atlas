@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 11,
+  "original_image_tags": [
+    "black-and-white photograph of a dark, irregularly shaped object in the sky. The object appears jagged and somewhat vertical, with a darker, denser lower section and a faint, wispy trail extending upwards. The sky is a uniform light tone."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "One photograph of a diamond-shaped object with a bright core and a long, trailing, wavy tail. The caption reads: 'Associated Press J. G. Kirby of Dallas made this photo of a diamond shaped object flying through the sky while he and his family were driving near Amarillo, Tex., in August, 1956. The photo was turned over to the FBI and has just been released after intensive study. The Air Force described the glow as \"radiation vapor.\"'"
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions differ on the object's shape (irregular/jagged vs. diamond-shaped) and one provides specific quoted caption text (names, dates, location, Air Force description) while the other describes no such text, indicating a major factual contradiction about the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:49"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 50,
+  "categories": [
+    "diagram"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes a title 'APPEARANCE OF THE SCOPE AND THE INTERFERENCE' that is not mentioned in A, and describes a diagonal LUBBER LINE versus A's vertical one, while also adding text content ('SCOPE WAS ON THE 100 MILE RANGE', stamps) as part of the image description, creating contradictions on both visual elements and quoted text.",
+  "original_image_tags": [
+    "Hand-drawn diagram representing a circular radar scope display. A large circle dominates the page. A vertical line extends from the top center of the circle down to the center point, labeled \"LUBBER LINE\". Inside the circle, to the left of center, is an irregular black blob labeled \"ROTA ISLAND\". To the right of the center point is another irregular black blob labeled \"GUAM\". Emanating from the \"GUAM\" blob towards the right are four concentric arc lines, increasing in radius. A label below these arcs reads \"INTERFERENCE AS IT APPEARED ON THE SCOPE\". The scope's center point is a small black circle."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typed diagram labeled “APPEARANCE OF THE SCOPE AND THE INTERFERENCE,” showing a large circle with a center dot, a diagonal line labeled “LUBBER LINE,” a marked location labeled “ROTA ISLAND” on the left, a marked location labeled “GUAM” near the center-right, and several curved interference lines on the right with the caption “INTERFERENCE AS IT APPEARED ON THE SCOPE”; “SCOPE WAS ON THE 100 MILE RANGE” appears below, with a “SECRET” stamp at the top and bottom.*",
+  "gpt_mini_desc_len": 484,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 122,
+    "total_tokens": 57775,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 50,
+  "original_image_tags": [
+    "Handwritten letter on aged paper with two hole-punch marks at the top. Text is written in cursive blue ink. A red \"RECORDED\" stamp is visible in the lower right quadrant, over the text. Below the stamp, a faint red date stamp reads \"FEB 29 1950\". A small pencil annotation \"205\" is visible near the bottom right. The bottom left corner has a small pencil annotation \"ak 2/24/50\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint circular stamp containing illegible text and a date 'FEB 24 1950' is visible over the bottom right portion of the handwritten text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A quotes a specific stamp date 'FEB 29 1950' and a red 'RECORDED' stamp, while Description B quotes a completely different stamp date 'FEB 24 1950' and describes the stamp as faint and circular with illegible text, indicating a direct contradiction on the content of the same visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:49"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "fbi-photo-b2",
+  "page_num": 1,
+  "original_image_tags": [
+    "Black-and-white infrared (IR) sensor still. The view shows a grainy, grey sky over a dark, mountainous or hilly terrain at the bottom. A white digital crosshair (reticle) is centered in the frame. The horizontal axis of the crosshair is marked with numbers: \"15\", \"10\", \"5\", \"0\", \"5\", \"10\", \"15\". The vertical axis has tick marks but no visible numbers. A small, distinct black dot is visible in the upper right quadrant relative to the center crosshair. Several black rectangular redaction blocks are placed over what appears to be sensor data overlays in the four corners of the image. The top edge of the image has a wide, solid black redaction bar."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black-and-white, grainy photograph depicting a crosshair reticle with numbered horizontal scale (15, 10, 5, center, 5, 10, 15) and unnumbered vertical scale. One small, dark, circular object is visible slightly above and to the right of the center crosshair. Multiple large black rectangular redaction blocks obscure parts of the image, including a large block across the top edge. The date and time '12/31/99 18:11:27' are visible in the bottom left corner. A faint, dark, irregular shape is partially visible in the bottom right quadrant."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims specific text (date '12/11/99 18:11:27', a faint shape in the bottom right quadrant) that Description A does not mention, while Description A notes a 'small, distinct black dot' in the upper right that B locates slightly differently, indicating contradictory or hallucinated details about the same visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:45"
+}

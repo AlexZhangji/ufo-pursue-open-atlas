@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 119,
+  "original_image_tags": [
+    "A scanned image of a white business card or membership card with blue text. The card has rounded corners and shows minor wear. The text identifies the organization as \"U.S.H.O.\" and lists two individuals with their affiliations and locations. A handwritten six-digit number, \"62248\", is written in blue ink in the lower right margin, partially overlapping the edge of the card."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "A business card or informational slip with typed text: 'U.S.H.O. UNITED SAUCER HUNTER ORGANIZATION', 'BOB ZANOTI WFMC RADIO W. VIRGINIA', and 'GLENN EVANS RURAL ROUTE 4 WATERLOO, ILLINOIS'. A handwritten number '62298' is in the bottom right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:56"
+}

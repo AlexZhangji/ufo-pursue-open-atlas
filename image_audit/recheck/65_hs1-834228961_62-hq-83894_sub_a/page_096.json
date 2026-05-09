@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 96,
+  "original_image_tags": [
+    "A yellowed newspaper clipping from the \"WASHINGTON NEWS\", page 6, is attached to a typed routing slip. The clipping headline reads \"Missing Inventor Hunted for Clue to 'Saucers'\" in large, bold, black type. The body of the article is in two columns. A handwritten note in blue ink, possibly \"Flying Discs\", is written across the middle left of the clipping. The clipping is dated at the bottom as \"WASHINGTON NEWS Page 6\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping featuring a large headline and multiple columns of text. Headline: 'Missing Inventor Hunted for Clue to 'Saucers''. Text byline: 'By United Press'. Body text describes an eccentric inventor and flying saucers. A sub-headline reads 'NO REAL PROOF' and another reads 'NOT NATURALLY DISHONEST'. A third sub-headline reads 'ONE TESTED HERE'. Text at the bottom right reads 'WASHINGTON NEWS Page 6'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A typed routing list at the top right, listing names starting with 'Mr. Tolson' and ending with 'Miss Gandy', each followed by an underscore. A purple date stamp at the bottom reads '24 SEP 23 1949'. A green stamp at the bottom left reads '60 SEP 27 1949'. A handwritten note at the bottom right reads 'file 58 Hm'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions correctly identify the main newspaper clipping headline, the routing slip, and stamps, but Description A adds a handwritten note across the clipping that Description B does not mention, while Description B provides specific details about the routing list names and stamp text that Description A does not, with no direct contradictions on quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:53"
+}

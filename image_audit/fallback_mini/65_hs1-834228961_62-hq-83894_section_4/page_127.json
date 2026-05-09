@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 127,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A says stamp text is illegible or in 'normal orientation' without specifics, while Description B reads multiple specific, legible verbatim stamp texts (e.g., 'RECEIVED TELETYPE UNIT', 'APR 5 2 39 PM '49'), indicating a direct contradiction on whether image text can be read and what it says.",
+  "original_image_tags": [
+    "A light-colored, aged document page with two punch holes at the top. The text below is faint and appears as mirror-image \"bleed-through\" from the reverse side of the paper, making it largely illegible. Several stamps and handwritten notes are visible in normal orientation at the top and bottom.",
+    "Two rectangular pieces of tape, one on either side of the central punch hole.",
+    "Multiple stamps and handwritten notes at the bottom of the page."
+  ],
+  "gpt_mini_desc": "*Image: A scanned page of a typed government memo with a blue stamp at the top reading “RECEIVED TELETYPE UNIT APR 5 2:33 PM ’49 F.B.I. DEPT. OF JUSTICE,” plus faint reverse-side text and partial purple approval stamps near the bottom.*",
+  "gpt_mini_desc_len": 236,
+  "usage": {
+    "prompt_tokens": 14119,
+    "completion_tokens": 64,
+    "total_tokens": 14183,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:33"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-pr20",
+  "page_num": 1,
+  "original_image_tags": [
+    "grainy, grayscale infrared sensor still of a textured surface, likely water or terrain. A cyan targeting reticle with a central cross is visible in the center of the frame. In the upper-left quadrant, a bright, white, elongated object is circled in red. There are four cyan corner brackets framing the central area of the image. A cyan 'N' indicating north is visible below the central reticle. The top of the image contains two black redaction bars obscuring text."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "A black-and-white aerial or satellite photograph of a textured terrain or water surface. A small, bright, dot-like object is circled in red. A teal crosshair is centered in the image. Teal corner brackets mark the frame edges. A teal 'N' indicator is at the bottom center. The top of the image has black redaction boxes. Red text in the top right corner reads 'Recommendation by MG Richard A. Harrison USCENTCOM Chief of Staff Recommended on: 8 Oct 25'. The top left corner has a declassification stamp reading 'CLEARED For Open Publication Mar 10, 2026 Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW'. The bottom has text reading 'USCENTCOM MDR 25-0094 thru MDR 25-0099 / JS-250710-TM8S' on the left, 'USCENTCOM Recommendation to AARO' in the center, and '10/17/25 001' on the right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content (grayscale aerial photograph, bright object circled in red, teal crosshair, corner brackets, 'N' indicator, redaction bars), but Description B adds specific quoted text from stamps and headers not mentioned in A.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:18:25"
+}

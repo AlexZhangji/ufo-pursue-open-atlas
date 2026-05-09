@@ -1,0 +1,25 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 112,
+  "original_image_tags": [
+    "A single page of a typed memorandum from the Federal Bureau of Investigation. The document is printed on standard letterhead, now aged and discolored. A large \"DECLASSIFIED\" stamp in red ink runs vertically along the left margin. There are punch holes at the top center. The text is typed, with some handwritten notes and routing stamps."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed memorandum from SAG, Dallas to Director, FBI dated 1/23/69 regarding 'UNIDENTIFIED FLYING OBJECTS - MISCELLANEOUS - INFORMATION CONCERNING'. Includes typed body text, routing notations, and several stamps and handwritten annotations. No photographs, sketches, diagrams, maps, or charts are visible on this page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:56"
+}

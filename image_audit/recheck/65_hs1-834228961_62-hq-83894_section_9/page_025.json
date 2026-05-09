@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 25,
+  "original_image_tags": [
+    "A blank, aged, off-white or light manila document page. It shows some light staining and a few small dark specks, particularly in the lower-left area. The only distinct feature is a single handwritten annotation in blue ink, oriented vertically in the upper-left quadrant of the page. The text appears to be a name and a date."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A single handwritten annotation in blue ink located in the upper left quadrant. The cursive text reads 'Copy 10-10-57'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a largely blank page with minor stains and an unreadable vertical annotation, while Description B claims the specific quoted text 'Copy 10-10-57', indicating a direct contradiction on the legible content of the image.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:34"
+}

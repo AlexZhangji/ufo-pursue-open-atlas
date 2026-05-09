@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 70,
+  "original_image_tags": [
+    "The document is a dark, negative-image style scan or photocopy of a typed form. Two punch holes are visible on the left margin. The word \"CONFIDENTIAL\" is stamped in large capital letters at the top and again near the bottom, overlapping text in the \"Weather conditions\" row."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed document page with a dark background and white text, featuring the header 'CONFIDENTIAL' stamped twice, 'CHECK-LIST - UNIDENTIFIED FLYING OBJECTS', 'Incident # 121', and 26 numbered fields with typed entries (e.g., 'Date 9 January 1948', 'Location Cartersville, Georgia', 'Shape Circular, except for the top quarter which was flat, pot-shaped', 'Remarks: ...intense blue flame...'). There are two white circular punch holes and a handwritten number '48' in the bottom right corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the visual content: a dark-background typed document with 'CONFIDENTIAL' stamps, punch holes, and no photographs or sketches present.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:26:10"
+}

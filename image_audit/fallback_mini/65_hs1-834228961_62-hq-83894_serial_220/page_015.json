@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_220",
+  "page_num": 15,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a disc-shaped craft with propellers and a cone bottom, while Description B describes a diamond or triangular-shaped craft, and both describe different shapes and a different number of vertical structures (two towers vs. stabilizers/towers), indicating factual inconsistency on core visual content.",
+  "original_image_tags": [
+    "A black-and-white illustration, possibly a chalk or pastel drawing on dark paper, depicting a large, complex flying saucer-type craft. The craft has a wide, disc-shaped main body with a grid-like pattern on its upper surface and a central dome. Rising from the dome are two tall, slender, vertical stabilizers or towers. Flanking the main body are two smaller, circular engine pods or nacelles, each with a visible four-bladed propeller. The underside of the craft tapers to a sharp, downward-pointing cone or spike. The craft is shown in flight against a dark sky filled with large, puffy clouds, with a suggestion of a landscape or water surface below. The entire illustration is framed by a thin border. Along the left and bottom edges of the border are numbered scales or grids, with numbers like 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28 visible. The paper has a slight fold or crease in the upper right corner."
+  ],
+  "gpt_mini_desc": "*Image: A monochrome chalk-style illustration of a futuristic flying craft or spacecraft centered on the page, with cloud-like exhaust or vapor above it and the Spanish title “ESTABILIDAD GLOBAL-ETNITA Y SEMI-GLOBAL.” across the top, plus a numbered border scale along the left and bottom edges.*",
+  "gpt_mini_desc_len": 296,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 67,
+    "total_tokens": 56223,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:43"
+}

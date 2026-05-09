@@ -1,0 +1,31 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 204,
+  "original_image_tags": [
+    "Red ink handwritten annotation above the recipient's name reads \"Larry William\".",
+    "Red ink handwritten annotation to the right of the recipient's name reads \"Born 2-23-38 Shenandoah Va, Soc. Sec. #230-44-9093\".",
+    "Handwritten initial/annotation \"DAN\" near the bottom right of the letter body.",
+    "Handwritten annotation \"Reed\" in the left margin.",
+    "Multiple handwritten initials and stamps are present at the bottom of the page:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter with stamps, handwritten annotations, and a distribution list. No photographs, sketches, or diagrams present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims multiple specific handwritten annotations with quoted text, while Description B states there are no images or visual content beyond typed text, creating a direct contradiction on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:51"
+}

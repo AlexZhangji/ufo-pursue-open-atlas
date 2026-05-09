@@ -1,0 +1,31 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_serial_449",
+  "page_num": 13,
+  "categories": [
+    "photograph",
+    "sketch",
+    "photograph",
+    "photograph",
+    "photograph",
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions contradict on the number and type of visual elements (Description A lists five elements including a sketch with a dome and a photo of Wesley H. Bateman, while Description B lists six elements including a different sketch above a house and no mention of Wesley H. Bateman), and they give different photographer credits for the first photograph.",
+  "original_image_tags": [
+    "black-and-white photograph of a woman and a young boy looking at a cracked concrete slab on the ground. Caption: \"Mrs. Thomas and Johnny examined 'flying saucer damage.' Concrete reinforcement sheeting was broken, sand swirled.\" Photo by Harold Lane.",
+    "a rough sketch of a saucer-shaped object with a dome on top and a ring of light around the center.",
+    "black-and-white photograph of a young boy, labeled CHARLES COZENS.",
+    "photograph of a woman labeled ESTELLE C. PRINS ...talks to space men.",
+    "photograph of WESLEY H. BATEMAN ...earthquakes, saucers."
+  ],
+  "gpt_mini_desc": "*Image: A full newspaper page scan containing multiple black-and-white newspaper articles about UFOs and flying saucers, with two embedded photographs of people and several line-art illustrations of flying-saucer shapes, all surrounded by dense column text and headlines.*",
+  "gpt_mini_desc_len": 272,
+  "usage": {
+    "prompt_tokens": 57662,
+    "completion_tokens": 53,
+    "total_tokens": 57715,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:49"
+}

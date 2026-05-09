@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "western_us_event_slides_5.08.2026",
+  "page_num": 4,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both agree on the sketch type, the elongated kite/triangular object, the four circular markers, and the quoted note text, but Description B adds a specific label below the drawing that Description A does not mention.",
+  "original_image_tags": [
+    "Line drawing recreation of an observation. The main object is an irregular, elongated quadrilateral (kite) shape, oriented diagonally. The shape is defined by thin black lines. Inside the shape, four circular points are visible: one solid black circle near the top corner, and three empty circles (outlines only) spaced along the length and width of the shape. A note in the upper right corner states: \"Note: Outline was not definitive, but location of lights stayed in exact formation.\""
+  ],
+  "gpt_mini_desc": "*Image: A simple line drawing of a long, narrow kite-shaped outline tilted diagonally, with four circular light markers inside or along the shape; accompanying note text says the outline was not definitive but the light positions stayed in exact formation.*",
+  "gpt_mini_desc_len": 257,
+  "usage": {
+    "prompt_tokens": 41070,
+    "completion_tokens": 51,
+    "total_tokens": 41121,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:53"
+}

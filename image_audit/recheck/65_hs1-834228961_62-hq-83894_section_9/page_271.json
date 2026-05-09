@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 271,
+  "original_image_tags": [
+    "A yellowed, aged document page with two hole punches at the top. It is a typewritten form letter from the FBI, dated April 28, 1965, addressed to Mr. Mark Powell. The letter is signed \"J. Edgar Hoover\" in red ink. There are several handwritten annotations, file stamps, and a distribution list along the bottom left margin."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter dated April 28, 1965, addressed to Mr. Mark Powell regarding unidentified flying objects, signed by J. Edgar Hoover, with a note stating 'Based on information furnished, correspondent could not be identified in Bufilies.' Includes various stamps, handwritten annotations, and a routing list."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a red ink signature while Description B omits this specific visual detail, but more critically, Description B states the letter is 'regarding unidentified flying objects' and quotes a line ('correspondent could not be identified in Bufilies') that Description A does not mention, creating a direct contradiction on the specific text content within the image.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:28"
+}

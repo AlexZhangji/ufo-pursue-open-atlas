@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 190,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B provides specific, conflicting verbatim text from stamps (e.g., 'B I', 'MR. JONES', specific dates) that Description A does not mention and which directly contradict the general description of stamps being 'some oriented upside-down'.",
+  "original_image_tags": [
+    "A single page from a lined notepad, showing the back/verso side. The page is mostly blank with horizontal blue lines and a red vertical margin line on the left. At the top edge, there are two hole-punch remnants (dark circular stains). The bottom third contains several stamped impressions, some oriented upside-down relative to the page's primary orientation."
+  ],
+  "gpt_mini_desc": "*Image: Scanned blank lined index card or document page with three punched holes along the top edge and one punched hole near the right edge; faint stamped text is visible near the lower center, including red and green date-like markings.*",
+  "gpt_mini_desc_len": 239,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 50,
+    "total_tokens": 14942,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:02"
+}

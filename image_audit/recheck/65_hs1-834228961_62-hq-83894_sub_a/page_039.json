@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 39,
+  "original_image_tags": [
+    "A yellowed paper clipping from a newspaper or news service is attached to a white document page with two metal staples at the top. Handwritten notes are in the margins."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed news release text detailing a private plane pilot's sighting of an unidentified object in Bowling Green, Ohio. The text describes a 'ball of fire' that turned blue and took off straight west. Handwritten annotations include 'Flying Discs' at the top, 'Miss Fearing' on the right, 'file 5' near the bottom right, and 'Washington City News Service' at the very bottom. Stamped markings include '162-83894-A NOT RECORDED 191 DEC 16 1953' and '5 8 DEC 17 1953'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a visual image of a newspaper clipping attached with staples and handwritten notes, while Description B explicitly states it is only typed text with annotations and stamps, indicating a fundamental disagreement about the presence of an image versus text-only content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:15:10"
+}

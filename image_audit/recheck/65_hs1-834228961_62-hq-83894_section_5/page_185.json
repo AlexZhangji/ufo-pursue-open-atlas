@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 185,
+  "original_image_tags": [
+    "A yellowed index card, approximately 4x6 inches, held by clear tape to a larger, light-blue or gray backing sheet. The card contains a handwritten letter in blue ink. The backing sheet has punch holes at the top and archival stamps at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A single page containing a pasted handwritten note on an index card. The handwritten note contains legible text: 'To whom it may concern: I would like to know just how much truth is in Donald Keyhoe's book \"The Flying Saucers Are Real\" published this year by the Fawcett Publications, Inc. Keyhoe quotes a vast amount of information from the Air Force and the F.B.I. Sincerely yours, J. L. Adams ack 7-7-50 DDC'. There are multiple stamps, including a red 'RECORDED' stamp over the text, a faint purple date stamp 'JUL 5 1950', and handwritten numbers '62-83894-239' in red and 'JUL 18 1950' in purple at the bottom. A blue ink checkmark is present on the right."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the main visual elements: a handwritten note on an index card, archival stamps, and handwritten numbers, with no contradictions on the specific content described.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:33:46"
+}

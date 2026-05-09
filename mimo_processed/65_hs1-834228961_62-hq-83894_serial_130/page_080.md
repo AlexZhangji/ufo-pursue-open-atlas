@@ -1,0 +1,32 @@
+HEADQUARTERS FIFTEENTH AIR FORCE
+Colorado Springs, Colorado
+
+2 July 1947
+
+SUBJECT: Supersonic Platters
+
+SUMMARY OF INFORMATION:
+
+The following information was related to Counter Intelligence Corps Personnel at Headquarters Fifteenth Air Force, Colorado Springs, Colorado on 27 June 1947 by Mr D. A. hauser, 24 North Chesnut Street, Colorado Springs Colorado, Mr. F. J. Smith, 24 Fairview, Manitou Springs, Colorado and Mr. L. D. Jamison, 2415 West Kiowa, Colorado Springs, Colorado. All three of the men are empolyees of the Pikes Peak Railway, Manitou Springs, Colorado.
+
+"On or about 19 May 1947 during their lunch period (1215-1315) a member of a train crew called attention to a silver object in the sky approaching from the North East. It appeared to be travelling at a great speed. All three men stated that the altitude of the object was very difficult to determine because of its apparent smallness. They further stated that because of this it was difficult to view the object as being large and having high altitude or small and being at a relatively low altitude. They did say though that it appeared to be higher than the top of Manitou Mountain which is over 1000 feet higher than the shops which are situated at its base. No definste shape of the object could be determined and even with the aid of binoculars it still could not be brought into focus. The binoculars used were of about 4 to 6 power. The men stated that they were ceratin that the object did not have any of the physical characteristics of modern conventional aircraft."
+
+The day was driscribed as being clear and sunny with not a cloud in the sky and no ground wind.
+
+On reaching the area just North of Manitou Moutain the object remained in the immediate area for several minutes during which time it was seen to execute manuvers such as climbing, diving and reversal of direction of flight. This happened every few seconds. The distance and location between views prompted two of the men to think that there were more of the unindentified objects in the sky. At times the object seemed to hoveer in the air and then start on another path of flight. When last seen the silver object was climbing very fast towards the West almost directly into the wind.
+
+Previous distribution:
+
+None
+
+Evaluation
+
+of source                     of information
+
+DISTRIBUTION:                                    E                         O
+
+Hq SAC       3 copies
+
+*[Handwritten in bottom left corner]:* 7401-1
+*[Handwritten in bottom right corner]:* 69
+*[Stamped at bottom center]:* 1 (circled)

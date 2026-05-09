@@ -1,0 +1,34 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 70,
+  "original_image_tags": [
+    "A scanned page containing two hand-drawn sketches on a single sheet of paper. The sheet shows two punched holes at the top edge.",
+    "A pencil or ink sketch depicting a landscape view. In the foreground, a body of water meets a low horizon line. Above the horizon, a disc-shaped or lenticular object is shown, rendered with curved lines to indicate a three-dimensional, saucer-like form. Above the object, irregular cloud formations are sketched across the sky. The drawing is enclosed in a rectangular border. Two dark, circular shapes are visible along the top edge of the page, likely punch holes.",
+    "A faint pencil sketch depicting a dome-shaped or saucer-shaped object with a flattened top and curved sides, possibly resting on or emitting a central pedestal or beam of light downward. The sketch is enclosed in a rectangular border."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "sketch",
+        "description": "A vertically oriented black-and-white sketch depicting a dark, ringed or saucer-shaped object flying through a cloudy sky. The object is positioned in the center, below horizontal cloud formations. The image is framed with a black border and appears slightly grainy."
+      },
+      {
+        "category": "sketch",
+        "description": "A horizontally oriented black-and-white sketch depicting a disc-shaped object with a domed top and a dark underside. The image is framed with a black border and appears faint and grainy."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on two sketches and the general shape of the objects (disc/saucer), but Description A provides additional detail about a landscape scene, punch holes, and a pedestal/beam of light that B omits without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "sketch",
+    "sketch"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:42"
+}

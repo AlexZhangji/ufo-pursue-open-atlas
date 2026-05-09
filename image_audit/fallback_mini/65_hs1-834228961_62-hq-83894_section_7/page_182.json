@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 182,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B quotes specific verbatim text from a stamp ('4/23, 1954') and form fields not mentioned by Description A, which only describes the header area and '4-22', creating a factual inconsistency on quoted visual content.",
+  "original_image_tags": [
+    "The top right corner of the page has \"4-22\" printed. The document header is stamped and typed."
+  ],
+  "gpt_mini_desc": "*Image: A scanned FBI Records Section routing slip/form dated 4/23/1954, with multiple checkboxes, handwritten entries, file/room fields, and a vertical “FILE NUMBER / SERIAL” section at the bottom.*",
+  "gpt_mini_desc_len": 199,
+  "usage": {
+    "prompt_tokens": 7937,
+    "completion_tokens": 50,
+    "total_tokens": 7987,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:02"
+}

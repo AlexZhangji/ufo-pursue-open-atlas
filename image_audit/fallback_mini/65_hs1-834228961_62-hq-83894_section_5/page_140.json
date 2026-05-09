@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 140,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A describes a specific mechanical sketch with punched holes and a detailed shaft assembly, while Description B describes a different sketch with pulleys and a quoted text caption, indicating the descriptions are about different visual content.",
+  "original_image_tags": [
+    "A hand-drawn pencil sketch on aged, off-white paper with three punch holes along the left margin. The drawing depicts two identical mechanical assemblies, one stacked vertically above the other. Each assembly shows a central horizontal cylindrical shaft or tube. This shaft is supported at the left end by a bracket with two vertical rows of circular holes. The shaft passes through a U-shaped frame or housing. Inside this frame, there are angled components with circular ends that appear to be rollers or guides contacting the central shaft. At the right end, the shaft terminates in a multi-layered flange or coupling. The drawing is schematic, showing side and partial cross-sectional views of the components."
+  ],
+  "gpt_mini_desc": "*Image: A hand-drawn technical sketch labeled “Drawing #1,” showing two similar side-by-side mechanical assembly diagrams with rods, brackets, circular fastener-like details, and handwritten note text along the bottom.*",
+  "gpt_mini_desc_len": 219,
+  "usage": {
+    "prompt_tokens": 57653,
+    "completion_tokens": 46,
+    "total_tokens": 57699,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:03"
+}

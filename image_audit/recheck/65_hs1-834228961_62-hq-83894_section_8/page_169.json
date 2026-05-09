@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 169,
+  "original_image_tags": [
+    "stamped box labeled \"COMM - FBI\", text within the box is faded and illegible."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter on aged paper with multiple administrative markings. Contains typed text addressed to Mr. Hagan Parrish, Sheriff of Polk County, dated February 20, 1957. Includes stamped text 'RECORDED - 54 INDEXED - 54' and a red handwritten number '62-83894-373'. A red stamp reads 'COMM - FBI FEB 27 1957 MAILED 30'. Handwritten annotations include 'Flying SAUCERS' in blue ink and other illegible markings. A list of names appears in the bottom left margin. A note at the bottom mentions a citizen in Richmond, Virginia, and references an aerial phenomena research group."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions refer to the same single visual element, a stamped box labeled 'COMM - FBI', with no contradiction on its content.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:09:54"
+}

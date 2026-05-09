@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 127,
+  "original_image_tags": [
+    "A manila file folder tab or fastener strip, horizontally oriented, showing signs of age with minor creasing and discoloration. A black circular reinforcement ring is visible at the top center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Yellow paper enclosure tag with a circular hole at the top center. The word 'ENCLOSURE' is stamped in red ink twice, once on the left and once on the right. Handwritten numbers in blue and red ink are visible below the hole. The paper appears aged and slightly torn along the bottom edge."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims the image is a 'manila file folder tab' while Description B claims it is a 'yellow paper enclosure tag' with specific text ('ENCLOSURE' stamped twice, handwritten numbers) that is entirely absent from A, indicating they describe different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:35"
+}

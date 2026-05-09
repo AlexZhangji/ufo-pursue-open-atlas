@@ -1,0 +1,79 @@
+## CHAPITRE 7
+
+### Propulsion MHD
+*   Jean-Pierre Petit
+*Le mur du silence* – Belin, 1983,
+*   "Recherches pour un avion du futur" – *Techniques avancées* (plaquette de l'Ecole nationale supérieure des techniques avancées), 1988.
+*   Jean-Claude Ribes et Guy Monnet
+*La vie extraterrestre* – Larousse (coll. Essentiels), 1990 (épuisé).
+*   J.-C. Bourret et J.-J. Vélasco
+(Historique des recherches sur la propulsion MHD des navires et des aéronefs) – *Ovnis, la science avance* – op. cit. – p. 171 sq.
+*   Mike Ross
+"Rider on the shock wave" – *New Scientist*, 17 février 1996.
+
+### Propulsion par antigravité
+*   Nick Cook
+"Turning science fiction into fact" – *Jane's Defence Weekly*, 10 juin 1996.
+
+### Propulsion dans l'espace
+*   Eugene Mallowe et Gregory Matloff
+*Starflight Handbook* – John Wiley & sons, 1989.
+*   Robert L. Forward et Joel Davis
+*Mirror Matter* – John Wiley & sons, 1988.
+*   W. B. Scott (Edwards Air Force Base)
+"USAF Predicts Antimatter Propellants could be in use by early 21" century" – *Aviation Week and Space Technology*, 21 mars 1988.
+
+### Pannes de voiture
+*   James Mc Campbell
+"Self starting engines" – MUFON proceedings, 1983.
+(Article résumé dans *Ovnis, la science avance* – op. cit. – p. 181 sq.).
+
+### Paralysie de témoins
+*   Keith Florig
+"The future battlefield, a blast of gigawatts" – *IEE spectrum*, mars 1988.
+*   J.-C. Bourret et J.-J. Vélasco
+*Ovnis, la science avance* – op. cit. – p. 185 sq.
+
+## CHAPITRE 8
+
+*   Rapport Condon – op. cit.
+*   Lawrence Fawcett et Barry Greenwood
+*Clear Intent* – op. cit.
+*   Don Berliner, Marie Galbraith, Antonio Hunneus
+*Unidentified Flying Objects Briefing Document* – publication privée, décembre 1995.
+*   Col. Philip J. Corso (ret)
+*The day after Roswell* – Pocket Books, 1997.
+*   Headquarters United States Air Force
+*The Roswell report, case closed* – 1997.
+*   Nick Pope
+*Open Skies, Closed Minds* – Pocket Books, 1997.
+*   Timothy Good
+*Above top secret* – Harper Collins, Londres, 1993.
+(Publié initialement chez Sidgwick et Jackson Ltd, 1987).
+*   V. Migouline
+"Les phénomènes aérospatiaux non identifiés à l'étude en URSS" – *La Recherche*, juillet 1979.
+
+## CHAPITRE 13
+
+(1) *La Bible*, livre d'Ezéchiel, I 4-14 et 15-28.
+(2) Abed Azrié, *L'épopée de Gilgamesh* – Ed. Ber International (Paris), 1979 – p. 143 :
+"(…) Lorsque les grands dieux créèrent les hommes, c'est la mort qu'ils leur destinèrent et ils ont gardé pour eux la vie éternelle (…)" (Commentaires in Jean Bottéro, *Babylone et la Bible* – Ed. Les Belles Lettres (Paris), 1994).
+(3) *La Bible*, livre de la Genèse, VI 1-4 :
+"Lorsque les hommes eurent commencé à se multiplier sur la face de la terre, et que des filles leur furent nées (…), les fils de Dieu virent que les filles des hommes étaient belles, et ils en prirent pour femmes parmi toutes celles qu'ils choisirent. (…) Alors l'Eternel dit : « Mon Esprit ne restera pas toujours dans l'homme, car l'homme n'est que chair, et ses jours seront de cent vingt ans. » (…) Les géants étaient sur la terre en ces temps-là. Il en fut de même après que les fils de Dieu furent venus avec les filles des hommes et qu'elles leur eurent donné des enfants ; ce sont ces héros qui furent fameux dans l'antiquité."
+(Cf. également : livre de la Genèse, XIV 5, Nombres, XIII 32-33, Deutéronome, II 10-11).
+(4) *La Bible* : *Ecrits intertestamentaires* – Gallimard, la Pléiade (Paris), 1987 :
+Livre des secrets d'Hénoch :
+VI 1-2 : "Il arriva que lorsque les humains se furent multipliés, il leur naquit des filles fraîches et jolies. Les anges, fils du ciel, les regardèrent et les désirèrent.
+Ils se dirent l'un à l'autre : « Allons nous choisir des femmes parmi les humains et engendrons-nous des enfants. (...) »"
+VI 6 : "Ils étaient en tout deux cents. (...)"
+VII 1-2 : "(…) ils leur enseignèrent les drogues, les charmes, la botanique et ils leur montrèrent les herbes. Les femmes conçurent et engendrèrent des géants (...)"
+VIII 1-3 : "Azaël apprit aux hommes à fabriquer des épées, des armes, des boucliers, des cuirasses, choses enseignées par les anges. Il leur montra les métaux et la manière de les travailler, ainsi que les bracelet, les parures, l'antimoine, le fard des paupières, toutes sortes de pierres précieuses et les teintures. Il en résulta une grande impiété. Les hommes se débauchèrent, s'égarèrent et se perdirent dans toutes les voies."
+X 10 : "(…) leurs pères n'obtiendront rien de ce qu'ils ont demandé pour eux-mêmes et pour eux, alors qu'ils espéraient pour eux-mêmes une vie éternelle et pour chacun de leurs fils cinq cents années de vie."
+(Cf. également le livre des Jubilés : V 1-5 : même récit).
+(5) G. Pauthier, *Les Livres sacrés de l'Orient* (p.e. Le Chou-King ou le Livre Sacré, Part. III, Ch. X-2) – Ed. Au Bureau du Panthéon Littéraire (Paris), 1852.
+(6) **Arnold Toynbee**, *La civilisation à l'épreuve*, Gallimard (Paris) 1951 – p. 89.
+(7) cf. les Immortels, Dieux, fils et filles des Dieux, Héros, Titans et Géants chez Hésiode, Homère, Virgile, Pline, Hérodote, Plutarque, etc., également les représentations divines et colossales de Memnon, de Karnak, d'Hermonthis, d'Abou-Simbel et le Sphinx de Ghizeh, les colosses de l'île de Pâques, les géants de Bamyam en Afghanistan, ceux de Ninive et de Khorsabad ; les Hrimthursars des Eddas scandinaves, le géant Skrymer combattu par Thor, etc.
+(8) Peter Lawrence, *Le culte du cargo* – Fayard (Paris), 1974. (Le premier débarquement de marchandises d'un avion-cargo frappa fortement l'esprit des Papous, au point qu'ils instaurèrent le "culte du cargo", dispensateur de richesses, bien qu'ils se soient, par la suite, habitués aux produits occidentaux et aux vols des avions).
+(9) **Arnold Toynbee** – op. cit – p. 88 : Al-Gabrati.
+
+-88-

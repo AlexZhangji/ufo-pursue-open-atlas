@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 101,
+  "original_image_tags": [
+    "Scanned image of a blank, aged, off-white paper page. The paper shows signs of wear, including two punched holes at the top center, minor edge tears, and a crease along the right margin. The paper is oriented vertically against a black background."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Blue ink stamp containing text: 'MR. JONES', 'Jan 20 11:09 AM '53', 'RECEIVED', 'FBI', 'U S DEPT OF JUSTICE'. Additional faint purple text at the very bottom edge reads 'COPY OF 1953'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific text from a stamp that is completely absent in Description A, which describes the page as blank with only wear marks, creating a direct contradiction on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:51:02"
+}

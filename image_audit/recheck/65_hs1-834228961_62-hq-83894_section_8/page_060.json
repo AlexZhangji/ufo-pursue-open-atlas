@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 60,
+  "original_image_tags": [
+    "A newspaper clipping from the \"Rome Daily American\" dated Tuesday, September 28, 1954, is pasted onto a blank page. The headline reads \"Windshield 'Cancer' Epidemic Moving To Northern Italy\". The article text describes mysterious windshield explosions. At the bottom of the page, a handwritten notation reads \"62. 83894 - 351\" next to a faint, typed \"ENCLOSURE\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping from the ROME DAILY AMERICAN, dated Tuesday, September 28, 1954. The headline is 'Windshield \"Cancer\" Epidemic Moving To Northern Italy'. The article text is partially visible and describes mysterious windshield explosions."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A handwritten annotation in red ink at the bottom of the page reading '62. 83884 - 357', located directly below the typed word 'ENCLOSURE'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions provide contradictory verbatim text for the handwritten annotation at the bottom: '62. 83894 - 351' vs. '62. 83884 - 357'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:56"
+}

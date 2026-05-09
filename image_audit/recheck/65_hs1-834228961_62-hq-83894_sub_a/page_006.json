@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 6,
+  "original_image_tags": [
+    "A slightly yellowed page from a file, likely a newspaper clipping mounted or clipped and attached. The page contains a newspaper article from the Omaha World-Herald, handwritten notations, and stamped filing information. There are two punch holes at the top center."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping from the Omaha World-Herald, Omaha, Nebraska, Sunrise Edition, dated 11-7-57. Headline: 'No Saucers' Trace Found'. Sub-headlines: 'A.F. Checks Schmidt; Kearney Amused' and 'Newsmen Busy'. Text discusses an Air Force investigation into a flying saucer story involving a man named Schmidt in Kearney, Nebraska."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific headline and sub-headline text from the newspaper clipping that Description A does not mention or quote, and Description A describes a generic article while B provides specific, contradictory visual details about the clipping's content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:14:44"
+}

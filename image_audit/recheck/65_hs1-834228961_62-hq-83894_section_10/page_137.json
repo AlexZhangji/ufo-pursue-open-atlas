@@ -1,0 +1,19 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 137,
+  "original_image_tags": [
+    "This is a single page from a US government UAP / FBI / military / NASA / State Department archive. The page is a typewritten transmittal sheet with a distribution list of 62 names, most of which are redacted. The page is marked \"RECEIVED FBI\" and \"MAY 22 3:37 PM '69\" and \"SPECIAL INQUIRY SECTION JUSTICE\". There are also stamps for \"RECEIVED-GALE\" and \"REC'D BISHOP FBI\" with dates in May 1969. A handwritten note in the bottom right corner reads \"REC'D DELACH FBI\". The document is heavily redacted, with many names and details blacked out."
+  ],
+  "rerun_extract": {
+    "elements": [],
+    "_parse_error": "{\n  \"elements\": [\n    {\n      \"category\": \"typed_text_only\",\n      \"description\": \"A faint, partially reversed typed document page with multiple ink stamps. Visible stamps include 'RECEIVED FBI MAY 15 10 51 AM \\'69', 'RECEIVED-TOLOSON MAY 16 12 21 PM \\'69', 'RECEIVED-GALE MAY 16 11 15 AM \\'69', 'REC"
+  },
+  "judge": {
+    "score": 0,
+    "reason": "extract empty"
+  },
+  "categories": [],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:43"
+}

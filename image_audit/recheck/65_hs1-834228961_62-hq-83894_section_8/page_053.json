@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 53,
+  "original_image_tags": [
+    "Handwritten note in blue ink in the upper right quadrant reads \"O Flying Saucers\".",
+    "Handwritten note in blue ink in the left margin reads \"file\" with two vertical strokes beneath it.",
+    "Handwritten note in blue ink in the lower left quadrant reads \"6 28\" over a red circle.",
+    "Handwritten note in red ink in the lower right quadrant is a large looped symbol, possibly a \"B\" or \"8\".",
+    "Faint blue pencil markings in the center of the page, possibly \"nr: 986... 102... ICE... CT\" and other illegible characters.",
+    "Purple date stamp in lower right quadrant: \"NOV 24 1954\"",
+    "Handwritten signature in black ink over the date stamp: \"Edw Mossburg\"",
+    "Below signature, handwritten in blue ink: \"DIV page 2\" and stamped in blue ink \"INVESTIGATIVE\"",
+    "Handwritten note in black ink in lower left: \"27292\"",
+    "Handwritten note in black ink in lower left margin: \"58 DEC 7 - 1954\"",
+    "Black ink stamp in lower right margin, partially illegible, contains \"EC\" and \"File 8-11\""
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed United States Government Office Memorandum addressed to Director, FBI, dated 11/22/54, regarding 'CIVILIAN RESEARCH, INTERPLANETARY FLYING OBJECTS'. Includes multiple handwritten annotations, stamps, and checkmarks."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A details numerous specific handwritten annotations, stamps, and ink markings, while Description B omits all visual content and only describes a typed memorandum, resulting in a complete contradiction on what is visually depicted.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:53"
+}

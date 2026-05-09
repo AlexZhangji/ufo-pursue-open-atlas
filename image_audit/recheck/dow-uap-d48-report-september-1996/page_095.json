@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 95,
+  "original_image_tags": [
+    "Line graph titled \"Figure 32. f-Ratios for Ranges from 1 to 25 Miles\". Y-axis is \"f-Ratio\" ranging from 0 to 300. X-axis is \"Angular Deviation From Downrange (deg)\" ranging from 0 to 180. Legend indicates parameters \"A = 3.0\" and \"B = 1000\", with four curves: solid line for \"R = 1 nm\", dashed line for \"R = 5 nm\", dotted line for \"R = 10 nm\", and dash-dot line for \"R = 25 nm\". The f-Ratio increases with angular deviation, with the \"R = 1 nm\" curve reaching nearly 300 at 180 degrees, and the \"R = 25 nm\" curve remaining low, below 50."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "chart_or_graph",
+        "description": "Line graph titled 'Figure 32. f-Ratios for Ranges from 1 to 25 Miles'. The y-axis is labeled 'f-Ratio' with a scale from 0 to 300. The x-axis is labeled 'Angular Deviation From Downrange (deg)' with a scale from 0 to 180. A legend indicates four curves: 'R = 1 nm' (solid line), 'R = 5 nm' (dashed line), 'R = 10 nm' (dotted line), and 'R = 25 nm' (dash-dot line). An annotation inside the chart reads 'A = 3.0' and 'B = 1000'. The solid line ('R = 1 nm') shows a steep upward curve reaching near 300 at 180 degrees; the other three lines show progressively lower and flatter curves."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the chart title, axis labels and scales, legend entries with line styles, annotation values, and the general trend of the curves, with no contradictions on specific quoted text or visual elements.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "chart_or_graph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:17:38"
+}

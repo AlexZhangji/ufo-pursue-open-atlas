@@ -1,0 +1,42 @@
+{
+  "file": "dos-uap-d2-cable-2-kazakhstan-january-1994.pdf",
+  "stem": "dos-uap-d2-cable-2-kazakhstan-january-1994",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "64847feac6a309a847a39689ed2036e556f35a253189c7b9b33bd9d40b26b239",
+  "size_bytes": 370719,
+  "total_pages": 3,
+  "pages_processed_in_run": 3,
+  "status": "complete",
+  "elapsed_sec": 21.6,
+  "completed_at": "2026-05-08 15:39:02",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "ok",
+      "chars": 1419,
+      "input_tokens": 4301,
+      "output_tokens": 668,
+      "completed_at": "2026-05-08 15:38:50"
+    },
+    {
+      "page": 2,
+      "status": "ok",
+      "chars": 2373,
+      "input_tokens": 4301,
+      "output_tokens": 823,
+      "completed_at": "2026-05-08 15:38:59"
+    },
+    {
+      "page": 3,
+      "status": "ok",
+      "chars": 177,
+      "input_tokens": 4301,
+      "output_tokens": 83,
+      "completed_at": "2026-05-08 15:39:02"
+    }
+  ]
+}

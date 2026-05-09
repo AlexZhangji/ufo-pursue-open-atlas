@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 57,
+  "original_image_tags": [
+    "Signature of James J. Hausman, written over the typed name W. R. CLINGERMAN."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed letter from W. R. Clingerman, Colonel, USAF, Chief, Technical Intelligence Division, Intelligence Department, dated 9 Sept 1948, addressed to Project 'SIGN', Director, Federal Bureau of Investigation. Includes a handwritten signature for James J. Hausman, Lt Col, USAF, and a handwritten notation 'for' next to the signature block. The word 'Incl' is typed on the left side. The word 'Confidential' is stamped at the top and bottom of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the same visual content: a typed letter with a handwritten signature for James J. Hausman over a typed name, with no actual photographs, sketches, or diagrams present on the page.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:31:26"
+}

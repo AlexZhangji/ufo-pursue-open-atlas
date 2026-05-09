@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 130,
+  "original_image_tags": [
+    "A red rectangular stamp from the FEDERAL BUREAU OF INVESTIGATION, DEPARTMENT OF JUSTICE is stamped over the text and signature block. The stamp reads \"COMMUNICATIONS SECTION\" at the top, with \"BY SPECIAL MESSENGER\" in the middle. Below that is a star symbol and \"Foreign Service Desk (detached)\". At the bottom, it has \"FEDERAL BUREAU OF INVESTIGATION\" and \"DEPARTMENT OF JUSTICE\" with a \"PMO\" stamped below.",
+    "Handwritten signatures and annotations in black ink at the bottom right. One signature appears to be \"D. Ladd\". To the right are large handwritten initials, possibly \"JFK HBR\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum from the Director of the FBI dated May 4, 1949, regarding 'FLYING DISCS'. It references an enclosed Air Force pamphlet titled 'Unconventional Aircraft'. The page includes a typed routing list, various stamps (such as 'RECORDED - 34' and 'CONFIDENTIAL - AIR POUCH'), and handwritten annotations."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a red stamp and handwritten signatures, while Description B describes a typed memorandum with different stamps; they appear to be describing entirely different visual content on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:12"
+}

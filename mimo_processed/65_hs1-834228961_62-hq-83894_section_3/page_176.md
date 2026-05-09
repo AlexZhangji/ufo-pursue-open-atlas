@@ -1,0 +1,17 @@
+## RECEIVED
+**LIAISON SECTION**
+**FBI**
+**U.S. DEPT. OF JUSTICE**
+SEP 18 2 19 PM '47
+
+*[handwritten in margin]:* A.C. 1/19/47
+
+## RECEIVED
+**INTERNAL SECURITY**
+**F.B.I.**
+SEP 24 3 29 PM
+
+## RECEIVED
+**INTERNAL SECURITY**
+**F.B.I.**
+SEP 18 10 17 AM '47

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 83,
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "A document receipt slip or routing card. The paper is off-white and aged, with two punched holes at the top. There are two blue ink stamps indicating receipt by the FBI. The stamp on the right is rotated 90 degrees clockwise. Faint reverse text (bleed-through from the other side of the paper) is visible across the page."
+  ],
+  "gpt_mini_desc": "*Image: A scanned blankish document page with two punch holes at the top, faint show-through text, a blue diagonal rubber-stamp reading “RECEIVED” with a time/date and “F+1 / SECURITY / STEP B / INST. B,” and a faint upside-down handwritten stamp/date near the bottom.*",
+  "gpt_mini_desc_len": 269,
+  "usage": {
+    "prompt_tokens": 17210,
+    "completion_tokens": 74,
+    "total_tokens": 17284,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:52:40"
+}

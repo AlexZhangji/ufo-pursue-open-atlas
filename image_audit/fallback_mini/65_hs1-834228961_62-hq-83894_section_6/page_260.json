@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 260,
+  "categories": [
+    "photograph",
+    "photograph",
+    "photograph"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions refer to completely different images: A describes a man in a suit, two 'ANGLE OF VISION' diagrams, while B describes a man with a mirror, a glowing object over a horizon, and a night cityscape with floating lights, indicating they are analyzing different visual content.",
+  "original_image_tags": [
+    "A black-and-white photograph of a man in a suit and tie, looking towards the left, holding what appears to be a small, dark, cylindrical object or camera to his eye.",
+    "A diagram labeled \"ANGLE OF VISION\". It shows a silhouette of a person standing on a flat horizon line with a wide, clear view of the sky above. A dashed line indicates a wide viewing angle.",
+    "A diagram labeled \"ANGLE OF VISION\". It shows a silhouette of a city skyline with buildings and smokestacks. A dashed line indicates a very narrow, obstructed viewing angle upward."
+  ],
+  "gpt_mini_desc": "*Image: A magazine page with a black-and-white inset photograph of a man holding laboratory glassware at the top left, and two black-and-white “ANGLE OF VISION” diagrams at the bottom showing a desert scene with a standing person and cactus on the left and a city skyline on the right.*",
+  "gpt_mini_desc_len": 286,
+  "usage": {
+    "prompt_tokens": 60663,
+    "completion_tokens": 64,
+    "total_tokens": 60727,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:01:21"
+}

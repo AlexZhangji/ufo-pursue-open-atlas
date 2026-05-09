@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 185,
+  "original_image_tags": [
+    "Black-and-white photograph of a dark, elongated, cigar-shaped or blimp-like object against a light, overcast sky. The object is positioned horizontally in the upper portion of the frame. There are no discernible wings, fins, or propulsion features visible. The photograph appears to be taken from a significant distance.",
+    "Black-and-white photograph of a dark, disc-shaped or oval object with a pronounced dome or superstructure on top. The object is angled slightly, viewed from below and to the side. There is a smaller, dark object or possibly a second craft visible in the lower left portion of the frame, which appears to be at a greater distance. There are some light scratches or marks on the original print, particularly in the upper left quadrant."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "Grayscale photograph labeled 'EXHIBIT I' showing one dark, elongated, cylindrical or blimp-like object against a lighter background."
+      },
+      {
+        "category": "photograph",
+        "description": "Grayscale photograph labeled 'EXHIBIT II' showing one dark, disc-shaped object against a lighter background."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides agree on the core visual content of two photographs (a dark elongated object and a dark disc-shaped object), but Description B omits several details present in Description A (e.g., the second distant object, surface marks, specific captions like 'EXHIBIT I'/'EXHIBIT II') without creating a factual contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "photograph",
+    "photograph"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:31"
+}

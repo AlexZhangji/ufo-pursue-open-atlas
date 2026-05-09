@@ -1,0 +1,48 @@
+{
+  "pdf_stem": "nasa-uap-d6-apollo-17-technical-crew-debriefing-1973",
+  "page_num": 1,
+  "original_image_tags": [
+    "A cover page for a NASA document. A vertical band of dots runs along the left margin, with a circular NASA logo at the top. A schematic diagram of a spacecraft, possibly a command module, is at the bottom left.",
+    "A red rectangular stamp in the lower right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "NASA logo (Meatball) in the top left corner."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Manned Spacecraft Center seal (globe with rocket) in the bottom left corner."
+      },
+      {
+        "category": "redacted_only",
+        "description": "A heavily redacted black bar at the bottom of the page, likely covering a 'CONFIDENTIAL' stamp."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A red rectangular 'DECLASSIFIED' stamp in the bottom right corner, containing text regarding E.O. 13526 and a 'Date 5/6/2026'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint 'INDEXING DATA' form in the bottom left corner with handwritten entries."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B contradicts Description A on key visual elements, including the location and presence of the NASA logo, the presence of a Manned Spacecraft Center seal, and the inclusion of an indexing form, while also adding a specific date to the stamp that is not mentioned in Description A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "redacted_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:19:12"
+}

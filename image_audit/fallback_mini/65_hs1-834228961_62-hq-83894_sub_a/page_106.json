@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 106,
+  "categories": [
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A lists three visual elements (a night sky photo, an aircraft photo, and a portrait photo) while Description B describes three distinct newspaper clipping illustrations with detailed captions, but the specific quoted caption text in B (e.g., the man's name, location, and aircraft details) is entirely absent from A, which is a different set of visual content.",
+  "original_image_tags": [
+    "black-and-white photograph of a night sky with a light-colored, disc-shaped object indicated by a drawn arrow.",
+    "black-and-white photograph of the Vought V-173 \"Flying Pancake\" aircraft on the ground.",
+    "head-and-shoulders newspaper portrait photograph of a man."
+  ],
+  "gpt_mini_desc": "*Image: A scanned newspaper clipping collage with three main photographs: a grainy circular light with an arrow labeled as a possible “flying saucer,” a portrait photo captioned “DAVID ATAMIAN,” and a photo of a small wingless aircraft with a star insignia. Handwritten names and notations appear in the right margin and bottom of the page.*",
+  "gpt_mini_desc_len": 341,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 78,
+    "total_tokens": 56234,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:15"
+}

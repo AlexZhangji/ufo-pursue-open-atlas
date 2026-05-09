@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 47,
+  "original_image_tags": [
+    "A yellowed, aged document page containing a clipped newspaper article. The clipping is from an unidentified newspaper, likely from the late 1940s or early 1950s, given the context of the flying saucer reports. The paper shows signs of aging, with dark spots or stains at the top edge and a slight curl."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A page containing two adjacent newspaper clippings. The left clipping is titled 'Saucer' Tales Buzz in State' and reports on sightings in Janesville, Oshkosh, and Green Bay. The right clipping is titled 'Laws of Eyesight Clarify Reports of Flying Saucers' by Howard W. Blakeslee and discusses optical explanations for flying saucer reports. There are no photographs, sketches, diagrams, maps, or charts visible in the image."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a single newspaper clipping, while Description B describes two distinct clippings with specific titles and content, representing a clear contradiction in the number and nature of visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:41"
+}

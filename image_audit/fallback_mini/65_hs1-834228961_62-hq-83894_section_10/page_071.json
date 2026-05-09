@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 71,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the core visual content of two black-and-white photographs (a sky with a disc-shaped object and a close-up of a dome-shaped object), but description B adds details about handwritten annotations ('BOTTOM' and 'Top') that description A does not mention, and description A provides more specific visual details about the objects themselves.",
+  "original_image_tags": [
+    "A black-and-white photograph of a cloud-filled sky. The image is heavily damaged or weathered, with significant portions of the photographic emulsion lifted or lost, particularly in the upper half and along the left edge, creating irregular white patches against the grey sky. In the center of the image, a distinct, light-colored, oval or disc-shaped object is visible against the clouds. The object appears to have a darker, possibly structured, upper surface and a lighter, more translucent lower section. The horizon line is visible at the bottom.",
+    "A black-and-white photograph, appearing to be a close-up or cropped view. The subject is a light-colored, dome-shaped object with a darker, possibly metallic, horizontal band or ring around its midsection. Below this band, the object appears to have a series of rounded, pod-like structures or indentations. Several dark, thin, leg-like or strut-like projections extend downward from the base of the object. The background is a plain, light grey."
+  ],
+  "gpt_mini_desc": "*Image: Two black-and-white photographic prints on a document page; the upper print shows a cloudy sky with a bright oval ring-like object near the lower center, and the lower print shows a blurred aircraft-like object with a central dome and side pods against a plain background. Handwritten blue annotations label the upper image “bottom” and the lower image “Top.”*",
+  "gpt_mini_desc_len": 368,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 77,
+    "total_tokens": 56233,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:36"
+}

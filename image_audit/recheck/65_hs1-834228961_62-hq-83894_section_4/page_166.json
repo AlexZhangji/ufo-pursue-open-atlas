@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 166,
+  "original_image_tags": [
+    "Back of a document page. The page is aged, off-white/cream paper. At the top center is a black circular hole-punch mark. Faint, reversed text from the front side of the page is visible through the paper (show-through). The page is covered in multiple blue ink rubber stamps, oriented in different directions."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple overlapping blue ink stamps on a page with faint, illegible typed text visible from the reverse side. Visible stamp text includes: 'RECEIVED - DIRECTOR U.S. DEPT. OF JUSTICE F.B.I. APR 25 11:23 AM 49', 'RECEIVED - LADD U.S. DEPT. OF JUSTICE F.B.I. APR 25 5:00 PM 49', 'RECEIVED - FLETCHER APR 26 10:18 AM 49', 'RECEIVED - F.B.I. U.S. DEPT. OF JUSTICE APR 25 4:41', 'MAY 26 7:41 PM 49', and 'JAN 2 10:29 AM 49'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states there are 'multiple blue ink rubber stamps' but gives no readable text, while Description B lists specific, verbatim text for six distinct stamps with dates, names, and times, indicating a major discrepancy in the level of visual detail provided.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:27"
+}

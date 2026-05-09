@@ -1,0 +1,39 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 61,
+  "original_image_tags": [
+    "A single page of aged, off-white paper with two hole-punch marks at the top center. The paper shows significant bleed-through of text from the reverse side (which appears to be typed upside down). Faint, partially legible letterhead text is visible at the top.",
+    "A circular, embossed seal or stamp is partially visible in the upper right corner. The words \"FEDERAL BUREAU OF INVESTIGATION\" are legible around the perimeter.",
+    "At the bottom of the page, there are several stamps and a handwritten note in pink/red ink, oriented upright relative to the page."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One circular stamp or seal located in the upper right corner. Below it is a line of text, followed by a horizontal rule. A second circular stamp or seal is partially visible and overlapping the first one at the bottom right corner."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A red stamp located near the bottom center of the page. The stamp contains the text 'DEC 5 3:53 PM'. Below this is another line of text: 'DEC 5 3:18 PM'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A blue stamp located near the bottom center of the page, overlapping the red stamp. The stamp contains the text 'DEC 5 3:53 PM'. Below this is another line of text: 'DEC 5 3:18 PM'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, different verbatim text for stamps ('DEC 5 3:53 PM', 'DEC 5 3:18 PM') that is not present in Description A, which describes different stamp content and placement.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:10:55"
+}

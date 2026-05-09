@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 107,
+  "original_image_tags": [
+    "The reverse side of a manila envelope, showing four strips of yellowed tape in a cross pattern, affixed over a typed label. The envelope is aged and slightly discolored, with two punched holes at the top and a small rectangular label at the bottom edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A typed label taped to an envelope flap with the text 'ENCLOSURES TO BUREAU FROM DETROIT', 'Five copies of letterhead memo.', 'Newspaper clipping from \"Detroit Times\" dated 3/9/60.', 'RE: UNIDENTIFIED FLYING OBJECT; JOSEPH PERRY, Grand Blanc, Mich. - COMPLAINANT', and '(Defile 65-2677)'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both sides describe a label on an envelope flap, but Description B adds specific quoted text about enclosures and a UFO case that Description A does not mention or contradict.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:11:10"
+}

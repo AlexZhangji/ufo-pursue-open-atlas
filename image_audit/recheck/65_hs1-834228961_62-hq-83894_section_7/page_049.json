@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 49,
+  "original_image_tags": [
+    "A single off-white page, appearing to be a document back or routing slip, bearing two blue ink stamps. One stamp at the top center reads \"MR. JONES\" and \"RECEIVED FBI U S DEPT OF JUSTICE\" with a date of September 8, 1952, at 4:57 PM. A second stamp, positioned vertically along the left margin, reads \"REC'D ESPIONAGE FBI U S DEPT OF JUSTICE\" with a date of September 15, 1952, at 4:25 PM. Three hole-punch marks are visible at the bottom edge, with the leftmost punch partially torn. Minor foxing and smudges are present on the paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A document page featuring two blue ink stamps. The upper stamp reads 'MR. JONES SEP 8 4 57 PM '52 RECEIVED FBI U S DEPT OF JUSTICE'. The left-side stamp reads 'SEP 15 4 25 PM '52 REC'D ESPIONAGE FBI U S DEPT. OF JUSTICE'. There are three hole-punch marks at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the two blue stamps, the hole-punch marks, and the general stamp text, but they disagree on the exact wording of the upper stamp's date/time line, where Description A adds '4:57 PM' and 'September 8, 1952' while Description B uses 'SEP 8 4 57 PM '52'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:27"
+}

@@ -1,0 +1,30 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 23,
+  "original_image_tags": [
+    "A handwritten letter on aged paper. The handwriting is in cursive script using blue ink. There are two black holes punched near the top edge. A red ink stamp is visible at the bottom right.",
+    "A red rubber stamp at the bottom right corner reading:",
+    "A name typed in red ink over the signature line at the bottom:",
+    "A handwritten note in black ink at the very bottom right:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "A page of handwritten cursive text in blue ink on aged paper, with two black circular punch holes at the top edge. A red ink stamp in the lower right corner includes legible text such as 'F.B.I.', 'EXTERNAL SECURITY', 'RECEIVED', 'JUL 28 1944', and 'JUL 1944'. Below the stamp, a name is written in red ink: 'MISS PINKELSTEIN' with 'Formerly of Keene n.h.' written below it."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the core visual elements (handwritten cursive text in blue ink on aged paper, two black punch holes at top, red ink stamp at bottom right, name written in red ink), but Description B adds specific quoted text from the stamp and name while Description A does not contradict these details.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:54:37"
+}

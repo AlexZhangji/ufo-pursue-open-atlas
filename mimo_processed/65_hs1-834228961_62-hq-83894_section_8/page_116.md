@@ -1,0 +1,4 @@
+Valupte(?) fitted (lipstick & swivel powder puff) case – in black plastic opera glass (fake) carrier, black satin red lined container – Bloomingdale’s Dept. Store, N.Y.C. You will need your F.B.I. skill here – the manufacturer has gone out of business! (The lipstick case is empty. About 1/2) It does not have opera glass qualities
+1 Combination magnifying glass, magnifying mirror, compass, fire starter from Thorensen’s, N.Y.C. about 3.00.
+They will give you a very cheap souveneir telescope. If they don’t buy one. You’ll need it. **Don’t** buy a **good** telescope! It only magnifies glare.
+Optional – any kind of gold metal-plates, tubes, etc. Gold foil.

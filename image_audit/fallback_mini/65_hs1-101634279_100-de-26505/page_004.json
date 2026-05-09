@@ -1,0 +1,31 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-101634279_100-de-26505",
+  "page_num": 4,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the presence of multiple sketches including concentric circles/ovals, a shield/crest shape, a spiral/swirl, a small oval with zigzag, and handwritten annotations, but Description B quotes specific text (e.g., 'SS', '44-45', '2 mi', '50', '100-150 yds', 'WA 27516 - 11/7/59') that Description A does not mention or quotes differently, though no direct verbatim contradiction is present.",
+  "original_image_tags": [
+    "Hand-drawn sketch on lined paper, resembling a target or scope view with concentric circles. Three small circles are positioned along a horizontal line within the innermost ring.",
+    "Sketch of a flying saucer-like object, disc-shaped with a central dome, viewed from the side.",
+    "Sketch of a spherical or planet-like object with horizontal bands and a ring system.",
+    "Sketch of a dark, irregularly shaped object.",
+    "Hand-drawn diagram or map featuring a large circle with internal markings, including lines radiating from a central point, a shaded area, and a cross. The numbers \"44–45\" are written to the right.",
+    "Sketch of a shield or crest shape with an internal cross or 'X' pattern.",
+    "Sketch of a swirling, spiral, or vortex-like shape.",
+    "Sketch of a small, dark, oval or football-shaped object with a zigzag pattern inside.",
+    "Sketch of a small, irregular shape.",
+    "Sketch of a small diamond or rhombus shape with the number \"55\" inside."
+  ],
+  "gpt_mini_desc": "*Image: A scanned handwritten sketch page on lined paper with multiple rough circular and oval diagrams, arrows, small boxed symbols, and handwritten notes including “WA 27516,” “11/7/51,” “44–45,” and “SS,” plus a stamped declassification line at the bottom.*",
+  "gpt_mini_desc_len": 260,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 64,
+    "total_tokens": 56220,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:15"
+}

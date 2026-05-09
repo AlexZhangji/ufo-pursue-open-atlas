@@ -1,0 +1,48 @@
+Post Office Box 2118
+Detroit, Michigan  48231
+October 11, 1966
+
+Mr. Kerry Liesch
+Director
+The Oklahoma UFO
+Research Association
+3539 N.W. 53rd
+Oklahoma City, Oklahoma
+
+Dear Mr. Liesch:
+
+This is to acknowledge your letter of October 2, 1966.
+
+Please be advised that this office does not have the information you have requested. It is possible that the United States Air Force, Wright-Patterson Air Force Base, Dayton, Ohio, may be the proper agency to contact.
+
+Very truly yours,
+
+*[Signature: illegible]*
+
+Paul H. Stoddard
+Special Agent in Charge
+
+### Routing and Administrative Markings
+
+**Left side:**
+1-Addressee
+1-Detroit (100-26505)
+IRA: frq
+(2)
+
+*[Handwritten initials: frq]*
+
+**Right side:**
+ALL INFORMATION CONTAINED
+HEREIN IS UNCLASSIFIED
+DATE_5/13/85 BY *[Signature: illegible]*
+
+100 26505-6
+SEARCHED
+SERIALIZED *[Initials: illegible]*
+INDEXED
+FILED *[Stamp: illegible]*
+
+***
+NW 90290
+DocId:34714592 Page 15

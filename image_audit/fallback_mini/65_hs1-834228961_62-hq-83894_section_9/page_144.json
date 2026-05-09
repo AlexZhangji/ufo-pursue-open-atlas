@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 144,
+  "categories": [
+    "typed_text_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description A lists specific visual elements (handwritten notes, stamps) while Description B claims there are no visual graphical elements, directly contradicting the presence of stamps and annotations.",
+  "original_image_tags": [
+    "A handwritten note in red pencil next to the subject line reads \"Flying Saucers\".",
+    "A red circular stamp with handwritten initials \"D\" and text \"ALL INFORMATION CONTAINED HEREIN IS UNCLASSIFIED DATE 5/7/85\" signed \"P. [illegible]\".",
+    "A red stamp with \"9 APR 26 1960\" over \"JFW:tp (6)\".",
+    "A handwritten note in the bottom margin reads \"[illegible] good\".",
+    "A handwritten note in the bottom right margin with initials \"[illegible] xgr [illegible]\"."
+  ],
+  "gpt_mini_desc": "*No image content on this page.*",
+  "gpt_mini_desc_len": 32,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 17,
+    "total_tokens": 14909,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:18"
+}

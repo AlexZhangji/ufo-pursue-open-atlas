@@ -1,0 +1,8 @@
+## KNOXVILLE NEWS-SENTINEL
+### JULY 1947
+
+### 'FLYING SAUCER' PHOTOGRAPHED AT OAK RIDGE
+
+W. R. PRESLEY had snapped several pictures of his family and his house at 218 Illinois Avenue, Oak Ridge, the other afternoon and, noticing he had one film left on the roll, he turned and snapped it for a picture of the mountain. He had the roll developed, and look what he got on that last shot! Now don't start trying to explain it off. Just go ahead and say what it looks like. Sure. Sure. You're right. It is a Flying Saucer. A lot of folks have reported seeing the things. This, however, is the first time that one has ever been photographed over Oak Ridge. Mr. Presley says this picture has all of Oak Ridge talking.
+
+*Image: A torn black-and-white newspaper clipping from the Knoxville News-Sentinel, July 1947, with a small grainy photograph on the left and article text on the right about a “flying saucer” photographed at Oak Ridge.*

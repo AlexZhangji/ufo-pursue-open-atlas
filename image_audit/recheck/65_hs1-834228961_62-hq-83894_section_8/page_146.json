@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_8",
+  "page_num": 146,
+  "original_image_tags": [
+    "Document shows signs of aging, with punch holes at the top and minor staining. The main text appears to be a mirrored impression from the reverse side of the page, making it largely illegible. The bottom section contains clear, legible stamps and handwritten notations."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Back of a document page containing multiple faint, reversed stamped markings and handwritten annotations. Visible elements include two dark circular hole-punch marks at the top, and several blue, black, and red ink stamps at the bottom. The stamps include text such as 'U.S. DEPT. OF JUSTICE', 'FBI', 'INTERNAL SECURITY SECT.', 'REC'D BELMONT', 'MR. JONES', and date stamps reading 'SEP 10 1956' and 'SEP 11 1956'. There is also a handwritten signature and date '9/19 no 5' in the bottom left corner. The main body of the page shows faint, reversed text from the opposite side of the sheet, but no distinct photographs, sketches, or diagrams are visible."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific stamp text (e.g., 'U.S. DEPT. OF JUSTICE', 'FBI', 'REC'D BELMONT') while Description A states all text is largely illegible, creating a direct contradiction on the readability and content of the visual stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:09:40"
+}

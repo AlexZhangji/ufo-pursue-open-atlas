@@ -1,0 +1,52 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 76,
+  "original_image_tags": [
+    "The page is a carbon copy or thin paper original with text visible in reverse through the back. There are three punch holes at the top. Multiple receipt stamps are present."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "FBI receiving stamp in blue ink in the middle of the page, reading 'FBI REC'D WICK' with a date of 'AUG 22 PM 5 6 AM 67'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "FBI receiving stamp in green ink near the bottom, reading 'FBI RECEIVED - BUREAU' with a date of 'Aug 22 H 18 AM 67'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Stamped text in the bottom right corner reading 'EXP. PROC. AUG 23 1967'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Stamped text in the bottom right reading 'ENCLOSURE'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Stamped text in the bottom right reading 'ENCL. MENTD. END.'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Stamped date in the bottom left reading 'at SEP 12 1967'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 3,
+    "reason": "Both descriptions agree on the presence of multiple receipt stamps and provide complementary details about their locations and text without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:55:43"
+}

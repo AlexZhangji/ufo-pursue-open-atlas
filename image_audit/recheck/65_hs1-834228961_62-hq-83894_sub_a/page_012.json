@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 12,
+  "original_image_tags": [
+    "A newspaper clipping is stapled to the left side of the page. A handwritten note in the left margin reads \"O Flying Saucers\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Newspaper clipping with the headline 'Mystery Objects Called Mirage by Astronomer'. It contains a multi-column article by the Associated Press discussing flying saucer sightings and Dr. Donald H. Menzel's explanation of them as natural mirages. There are no photographs, sketches, or diagrams embedded within this clipping; it consists entirely of typed text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree there is a newspaper clipping about flying saucers with a headline and typed text, but description B adds specific headline and article details while description A mentions a handwritten note not seen by B.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:14:50"
+}

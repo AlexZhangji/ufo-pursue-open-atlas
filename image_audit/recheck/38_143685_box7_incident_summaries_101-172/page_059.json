@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 59,
+  "original_image_tags": [
+    "High-contrast black-and-white scan of a dark, possibly black, paper form titled \"RESTRICTED\". The form is a \"CHECK-LIST - UNIDENTIFIED FLYING OBJECTS\" with 26 numbered fields filled in with white typewritten text. The paper shows signs of age, with visible holes on the left side, suggesting it was once kept in a binder. The word \"RESTRICTED\" is stamped in large, distressed letters at the top and bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "One prominent 'RESTRICTED' stamp at the top of the page, stamped in red ink. A second, fainter 'RESTRICTED' stamp with handwritten initials is visible at the bottom right."
+      },
+      {
+        "category": "typed_text_only",
+        "description": "Typed form titled 'CHECK-LIST - UNIDENTIFIED FLYING OBJECTS', numbered items 1 through 26 filled with data (e.g., Date: 7 May 48, Location: Memphis, Tenn., Number of objects: 50 or 60, Incindent # 117). Two punch holes are visible on the left margin."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a high-contrast black-and-white scan of a dark paper form, while Description B describes a stamp in red ink and punch holes, which are contradictory visual elements for the same page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:26:04"
+}

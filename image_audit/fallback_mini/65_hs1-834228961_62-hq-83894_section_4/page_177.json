@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 177,
+  "categories": [
+    "diagram",
+    "diagram"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the four illustrations and the circle diagram, but Description B adds specific caption text ('SAIL 'EM BACK AND FORTH', etc.) that Description A omits without contradiction.",
+  "original_image_tags": [
+    "Line drawing of two men tossing a disc back and forth.",
+    "Line drawing of a man throwing a disc that curves.",
+    "Line drawing of a man throwing a disc that curves back to him. A \"WIND\" arrow points left.",
+    "Line drawing of a man skipping a disc off the ground labeled \"HARD SURFACE\".",
+    "Diagram showing four circles labeled A, B, C, and D arranged in a horizontal line. There is a label \"18 FT\" between circle A and circle B, and \"30 FT\" between circle B and circle C. There is a label \"18 FT\" between circle C and circle D."
+  ],
+  "gpt_mini_desc": "*Image: A scanned instructional flyer page with cartoon illustrations of a flying saucer game, including multiple small drawings of people throwing a saucer, dashed flight paths, and a lower diagram labeled “THE GAME OF HECKLE” showing four circles labeled A, B, C, and D connected by distances marked 18 ft and 30 ft.*",
+  "gpt_mini_desc_len": 319,
+  "usage": {
+    "prompt_tokens": 36530,
+    "completion_tokens": 73,
+    "total_tokens": 36603,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:00:56"
+}

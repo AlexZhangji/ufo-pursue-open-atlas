@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "nasa-uap-d7-skylab-technical-crew-debriefing-1973",
+  "page_num": 1,
+  "original_image_tags": [
+    "A circular NASA insignia logo on the left side of the page. The logo features a stylized white vector/chevron shape and three white stars against a dark circular background, suggesting an orbital path or celestial movement."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular NASA logo featuring a stylized white 'worm' or 'meatball' emblem with a blue field containing white stars and red/white stripes, set against a white background."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions give contradictory details about the NASA logo's design: one describes a 'meatball' emblem with blue field, white stars, and red/white stripes, while the other describes a 'white vector/chevron shape and three white stars against a dark circular background'.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:19:11"
+}

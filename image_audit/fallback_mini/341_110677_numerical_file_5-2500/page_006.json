@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "341_110677_numerical_file_5-2500",
+  "page_num": 6,
+  "categories": [
+    "sketch"
+  ],
+  "judge_score": 0,
+  "judge_reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}",
+  "original_image_tags": [
+    "A scanned document page, appearing aged with some discoloration. The page is a \"SUPPLEMENT TO AF FORM 112\".",
+    "hand-drawn sketch showing two distinct radar antenna types side-by-side on what appears to be a horizon line. The left antenna is a large, square, grid-like mesh. The right antenna is a smaller, rectangular, stacked-bar type."
+  ],
+  "gpt_mini_desc": "*Image: A scanned typewritten government report page with a small hand-drawn sketch near the lower center showing two radar-like rectangular shapes on poles connected by a horizontal line, with handwritten “POL” beside the right shape.*",
+  "gpt_mini_desc_len": 236,
+  "usage": {
+    "prompt_tokens": 44097,
+    "completion_tokens": 48,
+    "total_tokens": 44145,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 19:59:57"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 125,
+  "original_image_tags": [
+    "A scanned page containing two columns of a newspaper or magazine clipping. The text is printed in a serif font on aged, slightly yellowed newsprint. There are black punch-hole marks at the top of the page. The clipping appears to be an article about a man named Perry and a photograph he took of an unidentified object."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Two columns of printed newspaper text on a clipping. The text discusses a 'slide' of a UFO found by a man named Perry, mentions the National Investigation Committee on Aerial Phenomena, and includes quotes from Perry. There are no photographs, diagrams, or sketches embedded within the text; it is purely typed body text formatted as a newspaper article."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims there is a photograph of an unidentified object, while Description B explicitly states there are no photographs, diagrams, or sketches embedded within the text, creating a direct contradiction on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:11:19"
+}

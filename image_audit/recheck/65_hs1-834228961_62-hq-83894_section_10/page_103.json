@@ -1,0 +1,35 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 103,
+  "original_image_tags": [
+    "This is a scan of a typewritten document. The entire document appears to be a mirror image (reversed horizontally). The paper is aged, with two punch holes at the top. A round stamp with illegible text is visible in the top right corner. A piece of tape is on the right edge near the bottom. The document ends with the word \"ENCLOSURE\" typed at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed document with inverted text (page appears upside down), containing a report header 'Re: UNIDENTIFIED FLYING OBJECTS; ANOMALOUS INCIDENT DALLAS, TEXAS OCTOBER 5, 1947' and several paragraphs detailing UAP sightings. No photographs, sketches, or diagrams are present."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint, circular stamp or seal visible in the top right corner (inverted relative to the typed text)."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Small, rectangular brown adhesive label or tape residue visible on the right edge, near the middle of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 0,
+    "reason": "judge_err: Error code: 429 - {'error': {'code': '429', 'message': 'Too many requests', 'type': 'limitation'}}"
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:55:57"
+}

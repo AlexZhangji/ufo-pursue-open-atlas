@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_3",
+  "page_num": 187,
+  "original_image_tags": [
+    "Aged, light brown or manila document page with visible foxing and age spots. The top of the page shows two hole-punch circles and a torn edge. The main body of the page contains faint, mostly illegible typed text that appears to be the reverse side of a document showing through, or very faded text. Two official ink stamps are visible at the bottom."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Aged document page with hole punches at the top. Faint, mostly illegible typed text is visible across the main body. Two stamped impressions are visible: one reads 'RECEIVED FEB 30 3 55 PM INTERNAL SECURITY F.B.I. DEPT. OF JUSTICE' (upside down), and the other reads 'RECEIVED LIAISON SECTION FEB 31 1 25 PM '47 F.B.I. U.S. DEPT. OF JUSTICE' (upside down). A handwritten annotation 'Folder 6-3' is visible in the bottom left corner."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, verbatim text from two ink stamps and a handwritten annotation that Description A describes only as 'mostly illegible' and 'two official ink stamps' without any legible text, creating a direct factual contradiction on the visual content of the images.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:57:52"
+}

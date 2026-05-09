@@ -1,0 +1,22 @@
+{
+  "file": "dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf",
+  "stem": "dow-uap-d57-mission-report-gulf-of-aden-september-2020",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a6852ca00",
+  "size_bytes": 295447,
+  "total_pages": 1,
+  "pages_processed_in_run": 1,
+  "status": "complete",
+  "elapsed_sec": 0.0,
+  "completed_at": "2026-05-08 15:39:09",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    }
+  ]
+}

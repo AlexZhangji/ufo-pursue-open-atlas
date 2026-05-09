@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 39,
+  "original_image_tags": [
+    "The document is a single page of aged, off-white paper with typed text that is reversed (mirror image) because it is likely the back of another document or a carbon copy impression. The page has punched holes for filing and a metal clip remnant at the bottom left. There are blue stamps indicating receipt by government offices."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page appears to be the reverse side of a document with bleed-through text and two blue ink stamps. One stamp reads 'RECEIVED JUL 8 1 23 PM 1947' and 'INTERNAL SECURITY F.B.I. DEPT. OF JUSTICE'. Another stamp reads 'RECEIVED TELETYPE UNIT Jul 7 10 42 PM '47 F.B.I. DEPT. OF JUSTICE'. There are two punch holes and a torn piece of tape at the bottom."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on main visual content: reverse side with bleed-through text, two blue stamps, punch holes, and torn tape, but B provides specific quoted stamp text while A omits it without contradiction.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 17:54:39"
+}

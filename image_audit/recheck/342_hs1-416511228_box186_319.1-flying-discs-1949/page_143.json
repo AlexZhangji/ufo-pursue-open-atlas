@@ -1,0 +1,29 @@
+{
+  "pdf_stem": "342_hs1-416511228_box186_319.1-flying-discs-1949",
+  "page_num": 143,
+  "original_image_tags": [
+    "A pink carbon copy of a typewritten document. The paper shows signs of age with some discoloration and two punch holes at the bottom. A large circular stamp is prominently visible in the upper right quadrant.",
+    "A circular ink stamp with a date wheel.",
+    "At the bottom of the page, below the main text block, are three lines of typed text, likely part of a signature block or file notation, which are also very faded."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A circular ink stamp with a dial-like outer ring. The center text reads 'DISPATCHED OCT 1948 REGISTERED UNIT MATS'. The outer ring has numbers 1 through 12 arranged clockwise. Two dark ink blotches are visible near the bottom edge of the page."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims a circular stamp has specific center text ('DISPATCHED OCT 1948...') and a numbered outer ring, while Description A only notes a 'large circular stamp' with a 'date wheel' and provides no readable text, creating a direct contradiction on the verbatim content of a key visual element.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:53:30"
+}

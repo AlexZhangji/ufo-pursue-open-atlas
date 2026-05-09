@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "fbi-photo-b6",
+  "page_num": 1,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both sides agree on the main visual content (grainy IR/thermal photo with crosshair reticle, dark object above center, black redaction blocks, timestamp at bottom left), but Description B adds specific quoted timestamp text not mentioned in Description A, and Description A notes a disc-shaped object while B calls it 'blurry object' and adds an extra speck, yet these are detail differences rather than clear contradictions on verbatim text.",
+  "original_image_tags": [
+    "Black-and-white infrared (IR) sensor still, likely from an aircraft or targeting pod. A central crosshair reticle with numbered tick marks (5, 10, 15) on both horizontal and vertical axes is visible. A small, dark, disc-shaped or oval object is located in the upper central portion of the frame, just above the vertical reticle line and slightly left of center. The background is a uniform gray (likely sky or haze). Several large, black rectangular blocks obscure data in the corners and along the edges of the image. A timestamp is overlaid in white text at the bottom left."
+  ],
+  "gpt_mini_desc": "*Image: Grainy monochrome surveillance-style photograph of the sky with a central crosshair reticle and numeric tick marks, showing one small dark object near the top center and a second smaller dark speck below center; timestamp “12/31/99 18:10:00” at bottom left.*",
+  "gpt_mini_desc_len": 266,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 65,
+    "total_tokens": 54708,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:51"
+}

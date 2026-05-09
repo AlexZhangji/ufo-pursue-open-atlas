@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_173-233",
+  "page_num": 17,
+  "original_image_tags": [
+    "The document is a single typewritten page, aged and slightly yellowed. Two hole-punch marks are visible at the top edge. A small horizontal crease or fold mark runs across the lower third of the page. The text is in a monospaced typewriter font. There is a slight shadow along the left margin, likely from scanning or binding."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed document page labeled 'Incident: 178' describing an observation by Maj Robert C. Drum on 18 October 1948 of a strangely shaped glistening object moving northeasterly at 10,000 ft. The text details the object's appearance, estimated speed of 200 MPH, and mentions conventional aircraft in the vicinity. Two circular punch holes are visible at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both agree on typed document, two hole-punches, and general layout, but Description B hallucinates specific text details (incident number, date, names) not present in Description A's visual description.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:26:45"
+}

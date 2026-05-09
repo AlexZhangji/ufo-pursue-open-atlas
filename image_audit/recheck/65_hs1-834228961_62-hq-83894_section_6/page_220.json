@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 220,
+  "original_image_tags": [
+    "A scan of a heavily aged and faded government document page, likely the reverse side of a memo or a file folder cover. The paper is yellowed and brittle-looking with two hole-punch marks at the top. The primary typed content is largely illegible due to fading and potential bleed-through from the reverse side. Multiple official date and receipt stamps are visible, primarily in blue and red ink. Some stamps are upside-down relative to the page orientation."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faded, aged page with a yellowish-green tint, showing the reverse side of a document. Two punch holes are visible at the top edge. Multiple ink stamps are visible, primarily in the bottom right quadrant. One stamp reads 'RECEIVED-LA' and 'AUG 13 5 32 PM 52' with 'U.S. DEPT. OF JUSTICE' and 'F.B.I.' below. Another stamp reads 'RECEIVED MAIL ROOM' and 'AUG 13 9 26 AM 52' with 'U.S. DEPT. OF JUSTICE'. A third stamp reads 'AUG 14 5 15 AM 5' with 'U.S. DEPT. OF JUSTICE'. A fourth stamp reads 'RECEIVED BELMONT' and 'F.B.I.' with 'AUG 13 5 09 PM 52'. A fifth, smaller red stamp in the bottom right corner reads 'CONFIDENTIAL' and 'Entered &'. Faint, reversed typed text from the other side of the page is visible through the paper."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims to read specific, detailed verbatim text from multiple stamps (e.g., 'RECEIVED-LA', 'AUG 13 5 32 PM 52', 'U.S. DEPT. OF JUSTICE', 'F.B.I.', 'CONFIDENTIAL'), while Description A states the stamps are present but the page is largely illegible due to fading, creating a direct contradiction on the readability and specific content of the visual stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:34:32"
+}

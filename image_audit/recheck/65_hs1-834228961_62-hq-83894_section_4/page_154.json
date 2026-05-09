@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 154,
+  "original_image_tags": [
+    "A blank page from a bound file, likely the back of a document. The paper is off-white and shows two hole-punch marks at the top. A large, torn, black triangular piece of the page is missing from the top right corner. There are several faint, blue ink stamps on the page, most of which are oriented upside-down relative to the page's standard reading direction."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Several faint blue and black ink stamps on the bottom half of a blank, off-white page. Visible text includes 'RECEIVED', 'F B I', 'DEP. OF JUSTICE', 'MAY 3 9 43 AM 49', and 'MR JONES'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes stamps on the top half of the page with an upside-down orientation and a large torn corner, while Description B quotes specific stamp text ('RECEIVED', 'F B I', 'MR JONES') on the bottom half, indicating the descriptions are of different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:58:18"
+}

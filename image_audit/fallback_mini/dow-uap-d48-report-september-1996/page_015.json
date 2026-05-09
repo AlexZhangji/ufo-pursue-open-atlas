@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "pdf_stem": "dow-uap-d48-report-september-1996",
+  "page_num": 15,
+  "categories": [
+    "diagram"
+  ],
+  "judge_score": 1,
+  "judge_reason": "The descriptions quote substantially different titles and labels for the same diagram (e.g., 'Figure 1. Joust Impact Trace Showing a Mode-5 Failure Response' vs. no such title), indicating a contradiction on specific text content.",
+  "original_image_tags": [
+    "Diagram titled \"CYBER A IF MAP 1 JOUST1761-A\". The diagram is labeled \"UNCLASSIFIED\" at the top left. It displays a plot of a flight path trajectory with time markers at 15 SEC., 18 SEC., 20 SEC., 25 SEC., and 30 SEC. Several data blocks are positioned around the plot."
+  ],
+  "gpt_mini_desc": "*Image: A technical diagram labeled “UNCLASSIFIED” showing a plotted rocket impact trace with multiple dotted and solid trajectory lines annotated “15 SEC.,” “18 SEC.,” “20 SEC.,” “25 SEC.,” and “30 SEC.,” plus side labels such as “ALTER,” “PRIME CNTRAVES?,” and “CNTRAVES?,” and the title “JOUST1761-H / CYBER R / IP MAP 1.”*",
+  "gpt_mini_desc_len": 326,
+  "usage": {
+    "prompt_tokens": 56156,
+    "completion_tokens": 101,
+    "total_tokens": 56257,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:24"
+}

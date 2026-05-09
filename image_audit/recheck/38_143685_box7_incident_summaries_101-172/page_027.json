@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "38_143685_box7_incident_summaries_101-172",
+  "page_num": 27,
+  "original_image_tags": [
+    "A dark, aged document page with two \"CONFIDENTIAL\" stamps. The top stamp is struck through with a horizontal line. The bottom stamp is also struck through. The page has two hole-punch marks on the left margin. A small handwritten number \"186\" appears in the upper right corner, and a small handwritten symbol appears in the lower right corner."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "Typed document page with 'CONFIDENTIAL' stamps at top and bottom. Contains an 'A-2 COMMENT' section stating activity could be attributed to marker flares. Includes an 'EVALUATION' section with 'Of Source C' and 'Of Information 3'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes two struck-through 'CONFIDENTIAL' stamps and handwritten marks, while Description B mentions typed 'A-2 COMMENT' and 'EVALUATION' sections, indicating the two descriptions are about completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:25:52"
+}

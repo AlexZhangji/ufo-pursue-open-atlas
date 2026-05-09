@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "fbi-photo-b4",
+  "page_num": 1,
+  "categories": [
+    "photograph"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content: a grainy black-and-white image with a crosshair reticle, a small dark object, and a timestamp, but they disagree on the presence of redaction bars and specific timestamp text, with no direct contradiction on the quoted date/time.",
+  "original_image_tags": [
+    "A grainy, grayscale image from a targeting or infrared sensor. A vertical and horizontal crosshair (reticle) is centered in the frame. The horizontal axis is marked with numeric values: \"15\", \"10\", \"5\", \"0\", \"5\", \"10\", \"15\". A small, dark, dot-like object is visible in the upper right quadrant, approximately at vertical scale \"4\" and horizontal scale \"3\" from the center. The background is a uniform, noisy gray. The lower edge shows a darker, irregular silhouette, possibly terrain or the sensor housing.",
+    "A white digital timestamp is superimposed in the lower left corner."
+  ],
+  "gpt_mini_desc": "*Image: Grayscale night-vision style photograph with a central crosshair reticle and numeric scale markings, showing a small dark dot near the upper center-right; six black redaction bars obscure portions of the frame, and a timestamp “12/31/99 18:12:16” appears at bottom left.*",
+  "gpt_mini_desc_len": 279,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 68,
+    "total_tokens": 54711,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:51"
+}

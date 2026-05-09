@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 133,
+  "original_image_tags": [
+    "Back of a yellowish, aged paper document. The paper shows significant bleed-through of typed text from the other side, which appears reversed and faint. Two black hole-punches are visible at the top. Several red and black date stamps and filing notations are applied over the bleed-through text. The paper has torn edges at the top right."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint yellowed page showing mirrored reverse text (ghosting) and multiple ink stamps at the bottom, including: 'MAY 7 1969', 'REC'D BISHOP FBI', 'MAY 10 41 AM '69', 'MAY 7 4 24 PM '69', 'RECEIVED FBI REC'DOR', 'MAY 7 11 11 AM '69 REC'D DELOACH FBI', and 'REC'D-READING ROOM FBI MAY 7 3 36 PM '69'. Two punch holes at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific verbatim text for multiple stamps that Description A does not mention at all, indicating one side is fabricating detailed text that the other side does not see.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:38"
+}

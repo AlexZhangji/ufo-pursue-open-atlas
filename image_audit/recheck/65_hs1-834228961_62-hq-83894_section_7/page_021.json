@@ -1,0 +1,36 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 21,
+  "original_image_tags": [
+    "Stamped \"MAILED 4 / AUG 21 1952 / COMM.-FBI\".",
+    "Stamped \"RECEIVED / AUG 20 / 7 OU 5572 / U.S. DEPT. OF JUSTICE / F.B.I.\".",
+    "Stamped upside down \"U.S. DEPT. OF JUSTICE / FBI / EX-18 / DIRECTOR\".",
+    "Stamped \"RECORDED - 161 / 62-HQ-83860 / AUG 25 1952 / REFERENCE FILE ROOM\".",
+    "Stamped \"66 SEP 3 1952\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed memorandum on yellowed paper with various stamps and handwritten annotations. The typed text includes 'Date: August 20, 1952', 'To: Director of Special Investigations', 'From: John Edgar Hoover', 'Subject: FLYING SAUCERS', and body text referencing a communication from Mr. John Calloway."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Multiple stamps and labels are present: a red stamp reading 'MAILED 4 AUG 2 1 1952 COMM - FBI', a stamped date 'AUG 21 1952', a red stamped date '66 SEP 3 1952', and various other administrative stamps and handwritten notations."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the same set of stamps and their content, with B adding detail about a typed memorandum background that A omits, but no direct contradictions on quoted text.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "typed_text_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 18:48:18"
+}

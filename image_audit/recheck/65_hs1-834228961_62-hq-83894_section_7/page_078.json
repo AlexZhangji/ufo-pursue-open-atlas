@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 78,
+  "original_image_tags": [
+    "A black-and-white photograph of a textured carpet. The carpet appears to have a looped or ribbed surface with a subtle, wavy pattern. The lighting highlights the texture and depth of the material. A dark shadow or fold is visible across the upper portion."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A black and white illustration depicting a textured, possibly fabric-like object, likely an ad illustration for a carpet. Below the image, text includes 'Incomplete Nye-Wait' and describes a carpet creating an unusual texture. Further text mentions 'Nye-Wait' and a New York address, along with '*Illustrated is NYE-WAIT'S COR... visible depth, translucent color and'. The page numbers 'page 69, 70' are visible to the right of the illustration."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The two descriptions categorize the visual element differently (Description A: photograph, Description B: illustration/newspaper clipping), and Description B quotes specific text ('Incomplete Nye-Wait', 'Nye-Wait', 'NYE-WAIT'S COR...') that is entirely absent from Description A, indicating a fundamental disagreement on the visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 18:50:47"
+}

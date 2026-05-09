@@ -1,0 +1,694 @@
+{
+  "file": "65_hs1-834228961_62-hq-83894_serial_130.pdf",
+  "stem": "65_hs1-834228961_62-hq-83894_serial_130",
+  "source_url_pattern": "https://www.war.gov/medialink/ufo/release_1/{filename}",
+  "sha256": "6446322736ff970386c35f5d305a9d245e632e80f53594ca948718cefd8669a9",
+  "size_bytes": 106690293,
+  "total_pages": 126,
+  "pages_processed_in_run": 126,
+  "status": "complete",
+  "elapsed_sec": 390.8,
+  "completed_at": "2026-05-08 15:44:41",
+  "vlm_model": "mimo-v2.5",
+  "vlm_endpoint": "https://token-plan-sgp.xiaomimimo.com/v1",
+  "vlm_prompt_version": "v3.1-uap-archive",
+  "vlm_dpi": 200,
+  "page_results": [
+    {
+      "page": 1,
+      "status": "skip"
+    },
+    {
+      "page": 2,
+      "status": "skip"
+    },
+    {
+      "page": 3,
+      "status": "skip"
+    },
+    {
+      "page": 4,
+      "status": "skip"
+    },
+    {
+      "page": 5,
+      "status": "skip"
+    },
+    {
+      "page": 6,
+      "status": "skip"
+    },
+    {
+      "page": 7,
+      "status": "skip"
+    },
+    {
+      "page": 8,
+      "status": "skip"
+    },
+    {
+      "page": 9,
+      "status": "skip"
+    },
+    {
+      "page": 10,
+      "status": "skip"
+    },
+    {
+      "page": 11,
+      "status": "skip"
+    },
+    {
+      "page": 12,
+      "status": "skip"
+    },
+    {
+      "page": 13,
+      "status": "skip"
+    },
+    {
+      "page": 14,
+      "status": "skip"
+    },
+    {
+      "page": 15,
+      "status": "skip"
+    },
+    {
+      "page": 16,
+      "status": "skip"
+    },
+    {
+      "page": 17,
+      "status": "skip"
+    },
+    {
+      "page": 18,
+      "status": "skip"
+    },
+    {
+      "page": 19,
+      "status": "skip"
+    },
+    {
+      "page": 20,
+      "status": "skip"
+    },
+    {
+      "page": 21,
+      "status": "skip"
+    },
+    {
+      "page": 22,
+      "status": "skip"
+    },
+    {
+      "page": 23,
+      "status": "skip"
+    },
+    {
+      "page": 24,
+      "status": "skip"
+    },
+    {
+      "page": 25,
+      "status": "skip"
+    },
+    {
+      "page": 26,
+      "status": "skip"
+    },
+    {
+      "page": 27,
+      "status": "skip"
+    },
+    {
+      "page": 28,
+      "status": "skip"
+    },
+    {
+      "page": 29,
+      "status": "skip"
+    },
+    {
+      "page": 30,
+      "status": "skip"
+    },
+    {
+      "page": 31,
+      "status": "skip"
+    },
+    {
+      "page": 32,
+      "status": "skip"
+    },
+    {
+      "page": 33,
+      "status": "skip"
+    },
+    {
+      "page": 34,
+      "status": "skip"
+    },
+    {
+      "page": 35,
+      "status": "skip"
+    },
+    {
+      "page": 36,
+      "status": "skip"
+    },
+    {
+      "page": 37,
+      "status": "skip"
+    },
+    {
+      "page": 38,
+      "status": "skip"
+    },
+    {
+      "page": 39,
+      "status": "skip"
+    },
+    {
+      "page": 40,
+      "status": "skip"
+    },
+    {
+      "page": 41,
+      "status": "skip"
+    },
+    {
+      "page": 42,
+      "status": "skip"
+    },
+    {
+      "page": 43,
+      "status": "skip"
+    },
+    {
+      "page": 44,
+      "status": "skip"
+    },
+    {
+      "page": 45,
+      "status": "skip"
+    },
+    {
+      "page": 46,
+      "status": "skip"
+    },
+    {
+      "page": 47,
+      "status": "skip"
+    },
+    {
+      "page": 48,
+      "status": "skip"
+    },
+    {
+      "page": 49,
+      "status": "skip"
+    },
+    {
+      "page": 50,
+      "status": "skip"
+    },
+    {
+      "page": 51,
+      "status": "skip"
+    },
+    {
+      "page": 52,
+      "status": "skip"
+    },
+    {
+      "page": 53,
+      "status": "skip"
+    },
+    {
+      "page": 54,
+      "status": "skip"
+    },
+    {
+      "page": 55,
+      "status": "skip"
+    },
+    {
+      "page": 56,
+      "status": "skip"
+    },
+    {
+      "page": 57,
+      "status": "skip"
+    },
+    {
+      "page": 58,
+      "status": "skip"
+    },
+    {
+      "page": 59,
+      "status": "skip"
+    },
+    {
+      "page": 60,
+      "status": "skip"
+    },
+    {
+      "page": 61,
+      "status": "skip"
+    },
+    {
+      "page": 62,
+      "status": "skip"
+    },
+    {
+      "page": 63,
+      "status": "skip"
+    },
+    {
+      "page": 64,
+      "status": "skip"
+    },
+    {
+      "page": 65,
+      "status": "skip"
+    },
+    {
+      "page": 66,
+      "status": "skip"
+    },
+    {
+      "page": 67,
+      "status": "skip"
+    },
+    {
+      "page": 68,
+      "status": "skip"
+    },
+    {
+      "page": 69,
+      "status": "skip"
+    },
+    {
+      "page": 70,
+      "status": "skip"
+    },
+    {
+      "page": 71,
+      "status": "skip"
+    },
+    {
+      "page": 72,
+      "status": "skip"
+    },
+    {
+      "page": 73,
+      "status": "skip"
+    },
+    {
+      "page": 74,
+      "status": "skip"
+    },
+    {
+      "page": 75,
+      "status": "skip"
+    },
+    {
+      "page": 76,
+      "status": "skip"
+    },
+    {
+      "page": 77,
+      "status": "skip"
+    },
+    {
+      "page": 78,
+      "status": "skip"
+    },
+    {
+      "page": 79,
+      "status": "skip"
+    },
+    {
+      "page": 80,
+      "status": "skip"
+    },
+    {
+      "page": 81,
+      "status": "skip"
+    },
+    {
+      "page": 82,
+      "status": "skip"
+    },
+    {
+      "page": 83,
+      "status": "skip"
+    },
+    {
+      "page": 84,
+      "status": "ok",
+      "chars": 1151,
+      "input_tokens": 4363,
+      "output_tokens": 358,
+      "completed_at": "2026-05-08 15:38:18"
+    },
+    {
+      "page": 85,
+      "status": "ok",
+      "chars": 2820,
+      "input_tokens": 4425,
+      "output_tokens": 661,
+      "completed_at": "2026-05-08 15:38:30"
+    },
+    {
+      "page": 86,
+      "status": "ok",
+      "chars": 1864,
+      "input_tokens": 4425,
+      "output_tokens": 455,
+      "completed_at": "2026-05-08 15:38:39"
+    },
+    {
+      "page": 87,
+      "status": "ok",
+      "chars": 1860,
+      "input_tokens": 4425,
+      "output_tokens": 415,
+      "completed_at": "2026-05-08 15:38:49"
+    },
+    {
+      "page": 88,
+      "status": "ok",
+      "chars": 2019,
+      "input_tokens": 4487,
+      "output_tokens": 452,
+      "completed_at": "2026-05-08 15:38:58"
+    },
+    {
+      "page": 89,
+      "status": "ok",
+      "chars": 1898,
+      "input_tokens": 4487,
+      "output_tokens": 460,
+      "completed_at": "2026-05-08 15:39:07"
+    },
+    {
+      "page": 90,
+      "status": "ok",
+      "chars": 1881,
+      "input_tokens": 4425,
+      "output_tokens": 404,
+      "completed_at": "2026-05-08 15:39:19"
+    },
+    {
+      "page": 91,
+      "status": "ok",
+      "chars": 1544,
+      "input_tokens": 4425,
+      "output_tokens": 371,
+      "completed_at": "2026-05-08 15:39:34"
+    },
+    {
+      "page": 92,
+      "status": "ok",
+      "chars": 1146,
+      "input_tokens": 4363,
+      "output_tokens": 265,
+      "completed_at": "2026-05-08 15:39:42"
+    },
+    {
+      "page": 93,
+      "status": "ok",
+      "chars": 2948,
+      "input_tokens": 4487,
+      "output_tokens": 687,
+      "completed_at": "2026-05-08 15:39:54"
+    },
+    {
+      "page": 94,
+      "status": "ok",
+      "chars": 490,
+      "input_tokens": 4301,
+      "output_tokens": 143,
+      "completed_at": "2026-05-08 15:40:02"
+    },
+    {
+      "page": 95,
+      "status": "ok",
+      "chars": 2051,
+      "input_tokens": 4363,
+      "output_tokens": 521,
+      "completed_at": "2026-05-08 15:40:11"
+    },
+    {
+      "page": 96,
+      "status": "ok",
+      "chars": 1542,
+      "input_tokens": 4363,
+      "output_tokens": 342,
+      "completed_at": "2026-05-08 15:40:20"
+    },
+    {
+      "page": 97,
+      "status": "ok",
+      "chars": 1978,
+      "input_tokens": 4487,
+      "output_tokens": 462,
+      "completed_at": "2026-05-08 15:40:28"
+    },
+    {
+      "page": 98,
+      "status": "ok",
+      "chars": 1934,
+      "input_tokens": 4239,
+      "output_tokens": 424,
+      "completed_at": "2026-05-08 15:40:37"
+    },
+    {
+      "page": 99,
+      "status": "ok",
+      "chars": 1905,
+      "input_tokens": 4363,
+      "output_tokens": 420,
+      "completed_at": "2026-05-08 15:40:44"
+    },
+    {
+      "page": 100,
+      "status": "ok",
+      "chars": 1949,
+      "input_tokens": 4363,
+      "output_tokens": 404,
+      "completed_at": "2026-05-08 15:40:53"
+    },
+    {
+      "page": 101,
+      "status": "ok",
+      "chars": 2175,
+      "input_tokens": 4487,
+      "output_tokens": 448,
+      "completed_at": "2026-05-08 15:41:00"
+    },
+    {
+      "page": 102,
+      "status": "ok",
+      "chars": 2009,
+      "input_tokens": 4425,
+      "output_tokens": 430,
+      "completed_at": "2026-05-08 15:41:09"
+    },
+    {
+      "page": 103,
+      "status": "ok",
+      "chars": 2043,
+      "input_tokens": 4487,
+      "output_tokens": 479,
+      "completed_at": "2026-05-08 15:41:17"
+    },
+    {
+      "page": 104,
+      "status": "ok",
+      "chars": 2815,
+      "input_tokens": 4487,
+      "output_tokens": 724,
+      "completed_at": "2026-05-08 15:41:28"
+    },
+    {
+      "page": 105,
+      "status": "ok",
+      "chars": 1417,
+      "input_tokens": 4425,
+      "output_tokens": 349,
+      "completed_at": "2026-05-08 15:41:36"
+    },
+    {
+      "page": 106,
+      "status": "ok",
+      "chars": 2835,
+      "input_tokens": 4363,
+      "output_tokens": 707,
+      "completed_at": "2026-05-08 15:41:47"
+    },
+    {
+      "page": 107,
+      "status": "ok",
+      "chars": 552,
+      "input_tokens": 4425,
+      "output_tokens": 146,
+      "completed_at": "2026-05-08 15:41:52"
+    },
+    {
+      "page": 108,
+      "status": "ok",
+      "chars": 3164,
+      "input_tokens": 4363,
+      "output_tokens": 725,
+      "completed_at": "2026-05-08 15:42:02"
+    },
+    {
+      "page": 109,
+      "status": "ok",
+      "chars": 3096,
+      "input_tokens": 4425,
+      "output_tokens": 729,
+      "completed_at": "2026-05-08 15:42:13"
+    },
+    {
+      "page": 110,
+      "status": "ok",
+      "chars": 2492,
+      "input_tokens": 4425,
+      "output_tokens": 570,
+      "completed_at": "2026-05-08 15:42:22"
+    },
+    {
+      "page": 111,
+      "status": "ok",
+      "chars": 840,
+      "input_tokens": 4487,
+      "output_tokens": 214,
+      "completed_at": "2026-05-08 15:42:28"
+    },
+    {
+      "page": 112,
+      "status": "ok",
+      "chars": 1401,
+      "input_tokens": 4487,
+      "output_tokens": 413,
+      "completed_at": "2026-05-08 15:42:37"
+    },
+    {
+      "page": 113,
+      "status": "ok",
+      "chars": 1355,
+      "input_tokens": 4425,
+      "output_tokens": 331,
+      "completed_at": "2026-05-08 15:42:44"
+    },
+    {
+      "page": 114,
+      "status": "ok",
+      "chars": 2519,
+      "input_tokens": 4425,
+      "output_tokens": 578,
+      "completed_at": "2026-05-08 15:42:55"
+    },
+    {
+      "page": 115,
+      "status": "ok",
+      "chars": 2410,
+      "input_tokens": 4487,
+      "output_tokens": 659,
+      "completed_at": "2026-05-08 15:43:05"
+    },
+    {
+      "page": 116,
+      "status": "ok",
+      "chars": 1698,
+      "input_tokens": 4549,
+      "output_tokens": 520,
+      "completed_at": "2026-05-08 15:43:14"
+    },
+    {
+      "page": 117,
+      "status": "ok",
+      "chars": 1145,
+      "input_tokens": 4301,
+      "output_tokens": 295,
+      "completed_at": "2026-05-08 15:43:22"
+    },
+    {
+      "page": 118,
+      "status": "ok",
+      "chars": 1439,
+      "input_tokens": 4487,
+      "output_tokens": 433,
+      "completed_at": "2026-05-08 15:43:31"
+    },
+    {
+      "page": 119,
+      "status": "ok",
+      "chars": 1309,
+      "input_tokens": 4425,
+      "output_tokens": 477,
+      "completed_at": "2026-05-08 15:43:41"
+    },
+    {
+      "page": 120,
+      "status": "ok",
+      "chars": 2119,
+      "input_tokens": 4363,
+      "output_tokens": 717,
+      "completed_at": "2026-05-08 15:43:51"
+    },
+    {
+      "page": 121,
+      "status": "ok",
+      "chars": 1762,
+      "input_tokens": 4301,
+      "output_tokens": 591,
+      "completed_at": "2026-05-08 15:44:01"
+    },
+    {
+      "page": 122,
+      "status": "ok",
+      "chars": 1645,
+      "input_tokens": 3991,
+      "output_tokens": 440,
+      "completed_at": "2026-05-08 15:44:10"
+    },
+    {
+      "page": 123,
+      "status": "ok",
+      "chars": 1129,
+      "input_tokens": 3929,
+      "output_tokens": 266,
+      "completed_at": "2026-05-08 15:44:16"
+    },
+    {
+      "page": 124,
+      "status": "ok",
+      "chars": 571,
+      "input_tokens": 3929,
+      "output_tokens": 139,
+      "completed_at": "2026-05-08 15:44:23"
+    },
+    {
+      "page": 125,
+      "status": "ok",
+      "chars": 1516,
+      "input_tokens": 4301,
+      "output_tokens": 393,
+      "completed_at": "2026-05-08 15:44:31"
+    },
+    {
+      "page": 126,
+      "status": "ok",
+      "chars": 2337,
+      "input_tokens": 3867,
+      "output_tokens": 597,
+      "completed_at": "2026-05-08 15:44:41"
+    }
+  ]
+}

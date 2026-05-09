@@ -1,0 +1,37 @@
+release_1_pdfs/
+release_1_renders/
+pages/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+!docs/screenshots/*.jpg
+!docs/screenshots/*.jpeg
+!docs/screenshots/*.png
+*.mp4
+*.html
+!web/index.html
+!web/dataset.html
+*.csv
+!web/data.json
+ufo_page.html
+testing-doc.csv
+testing-doc-jina.txt
+testing-archive.csv
+cookies.txt
+dvids_test.html
+dvids_search.html
+release_1/
+mimo_processed.bak.*/
+scripts/__pycache__/
+pipeline/__pycache__/
+__pycache__/
+*.pyc
+
+# uv / virtualenv
+.venv/
+
+# Secrets — only .env.example is checked in
+.env
+.env.local
+.env.*.local

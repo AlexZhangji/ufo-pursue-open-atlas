@@ -1,0 +1,1 @@
+*Image: Black-and-white photograph of a circular mechanical device or component, viewed from above, with a central round opening and several attached parts, including a dark upper piece labeled “VISSN,” a rectangular piece on the right, and a coiled spring-like attachment at the bottom.*

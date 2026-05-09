@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 271,
+  "original_image_tags": [
+    "A faded, light blue, thin paper form, possibly a routing slip or transmittal document. The paper has visible texture and two hole-punch marks at the top, each reinforced with a yellowish adhesive patch. The top portion of the page is largely blank or contains very faint, illegible text. The bottom third contains several stamped ink markings in red and blue, mostly oriented upside-down relative to the page orientation. The text appears to be routing information between government offices."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A scan of the back of a typed document on yellowed paper. Faint reversed text from the front side is visible through the paper. Two holes with white reinforced rings are visible at the top edge. Several ink stamps are visible at the bottom, including a red 'RECD 20161' stamp and multiple blue 'RECEIVED' stamps with dates and department names such as 'U.S. DEPT. OF JUSTICE' and 'F.B.I.'. No photographs, sketches, diagrams, or other graphical elements are present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific verbatim text from stamps (e.g., 'RECD 20161', 'U.S. DEPT. OF JUSTICE', 'F.B.I.') while Description A describes the stamps as mostly upside-down and illegible, creating a contradiction on the readability and content of the visual markings.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:08:30"
+}

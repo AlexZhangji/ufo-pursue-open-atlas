@@ -1,0 +1,32 @@
+{
+  "pdf_stem": "059uap00013",
+  "page_num": 6,
+  "original_image_tags": [
+    "black-and-white photograph of three small, mummified humanoid figures with elongated heads and bodies wrapped in white cloth, displayed on a white surface."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "photograph",
+        "description": "One mummified, humanoid figure with an elongated head lying on a white surface. Caption reads: '(U) Figure 1: Mexican journalist Jaime Maussan presented the alleged remains of non-human beings to Congress. (Photo credit: Reuters)'"
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "A rectangular stamp containing the text 'Released in Full'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A states there are three mummified figures while Description B states there is only one figure, which is a direct contradiction on object count.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "photograph",
+    "stamp_or_label_only"
+  ],
+  "has_visual": true,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:52:17"
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" role="img" aria-label="PURSUE Open Atlas logo">
+  <g stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round">
+    <ellipse cx="40" cy="98" rx="34" ry="6.8"/>
+    <ellipse cx="58" cy="62" rx="23" ry="4.6"/>
+    <ellipse cx="80" cy="32" rx="13" ry="3"/>
+  </g>
+  <path d="M 0 124 Q 260 138 520 124" stroke="currentColor" stroke-width="1" fill="none" opacity="0.32"/>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="currentColor">
+    <text x="128" y="68" font-size="40" font-weight="700">PURSUE</text>
+    <text x="129" y="100" font-size="20" font-weight="400" letter-spacing="3.5">OPEN ATLAS</text>
+  </g>
+</svg>

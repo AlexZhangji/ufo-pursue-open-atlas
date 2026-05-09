@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_5",
+  "page_num": 97,
+  "original_image_tags": [
+    "Black-and-white photograph of a man's face (likely Speaker Sam Rayburn), front-facing portrait, showing intense eyes and serious expression. Appears to be a standard editorial headshot for the cover story.",
+    "In bottom right corner, a small black rectangular label with white reversed text:"
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "Cover page of 'U.S. News & World Report' dated April 7, 1950. Features a black-and-white photograph of one man in a suit and tie, identified as 'SPEAKER SAM RAYBURN'. Main headline reads 'FLYING SAUCERS: THE REAL STORY'. A smaller headline reads 'Congress at the Halfway Mark'. The page includes a price of '15 CENTS', a postage permit, and a routing label addressed to 'HON J EDGAR HOOVER' at 'WASHINGTON & D C'. There are handwritten annotations and a list of names (Mr. Tolson, Mr. Ladd, etc.) on the right side."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B claims the image is a full magazine cover with specific text, a price, and a list of names, while Description A describes only a simple headshot, indicating they are describing completely different visual content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:25"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 16,
+  "original_image_tags": [
+    "A purple date stamp reading \"59 OCT 23 1950\" with a handwritten number \"139\" below the \"dc\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A typed government memorandum with two dark circular holes at the top. It includes a date, recipient, subject, and body text with faint handwriting and a date stamp at the bottom left."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A claims a specific date stamp '59 OCT 23 1950' and handwritten '139' are present, while Description B does not mention these visual elements, indicating a fundamental disagreement on the image content.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:59:33"
+}

@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 51,
+  "original_image_tags": [
+    "A black-and-white newspaper clipping from the Seattle Post-Intelligencer, dated 1952, featuring a photograph of an industrial complex with two large silos and a building with a pitched roof. Above the complex, a dark, elongated, saucer-shaped object is visible in the sky against a backdrop of clouds. The caption reads \"What Is It?\"."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping featuring a black-and-white photograph titled 'What Is It?'. The photograph depicts an industrial complex with two large silos in the foreground and a small, dark, elongated object in the sky above it. Text within the clipping includes the title and a caption beginning with 'FLYING SAUCER MAYBE?—The unknown object over the building...' and ending with '(Associated Press Wirephoto.)'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content: a black-and-white newspaper clipping with a photograph of an industrial complex, silos, and an object in the sky, with the quoted title 'What Is It?'; however, Description A adds specific details (newspaper name, date) and omits caption text that Description B provides, without contradicting the quoted title.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:18"
+}

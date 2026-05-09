@@ -1,0 +1,37 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 132,
+  "original_image_tags": [
+    "A single sheet of off-white paper with two punch holes at the top. The majority of the page contains faint, mirrored text that appears to be bleed-through from the reverse side. The paper has a slight curve or crease on the left side. At the bottom right, there is a clear, upright blue ink stamp."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A faint, blue ink stamp near the bottom center containing the text 'RECEIVED', 'ATOMIC ENERGY LIAISON SECTION', 'U.S. DEPT. OF JUSTICE F.B.I.', and the date 'APR 19 9 14 AM '49'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint, inverted blue ink text near the top center reading 'OFFICE OF THE DEPUTY DIRECTOR' and 'OPERATIONS FOR POLITICAL AFFAIRS'."
+      },
+      {
+        "category": "stamp_or_label_only",
+        "description": "Faint, inverted blue ink text near the bottom center reading 'SECRET' and '20'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed text from stamps ('RECEIVED', 'ATOMIC ENERGY LIAISON SECTION', 'SECRET', etc.) that Description A does not mention at all, creating a direct contradiction on the presence and content of key visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:32:13"
+}

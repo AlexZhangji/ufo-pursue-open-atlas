@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 93,
+  "original_image_tags": [
+    "A single, blank page from a document file. It appears to be the back of a cover sheet or a heavy stock divider page. The page is a uniform tan or light brown color, showing signs of age and wear. There is some minor creasing and a small dark spot near the top center. The page is slightly textured. There are two standard hole-punch marks near the bottom edge. Along the right edge, there is visible wear and a vertical crease or fold line, with what appears to be a piece of clear adhesive tape applied near the bottom corner, partially covering the edge. There is no text, stamps, handwritten notes, or other markings visible on the page itself. The page is presented against a black background.",
+    "Back of the previously described page, now viewed from the reverse side. It shows the same tan-colored cardstock material. The two hole-punch marks are visible near the bottom edge. The right edge shows the reverse side of the wear, crease, and adhesive tape noted on the front. There are no other markings, text, or stamps visible. The page is presented against a black background."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "blank_or_back_of_page",
+        "description": "A plain, aged, yellowish-brown piece of paper. The top and right edges are ragged and torn. There are two hole-punch marks at the bottom edge. Clear tape is visible along the right edge, slightly overlapping the paper and the torn corner. No text or other visual content is present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the main visual content: a blank, aged, yellowish-brown page with two hole-punch marks and clear tape on the right edge, but they differ on minor details like raggedness and creasing.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "blank_or_back_of_page"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:31:49"
+}

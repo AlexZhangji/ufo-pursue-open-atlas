@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_10",
+  "page_num": 156,
+  "original_image_tags": [
+    "A single sheet of lined paper with faint handwritten text in blue ink, much of it illegible. Two hole-punch marks are at the top. A vertical red margin line is on the left. The page shows signs of age and slight discoloration."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "typed_text_only",
+        "description": "A lined sheet of paper with faint handwritten text and two ink blots near the top. A red stamp at the bottom left reads 'FEB 18 72'. A blue stamp at the bottom right reads 'REC'D CORR & TOURS' and 'FEB 10 10 50 AM 1972'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B invents specific stamps ('FEB 18 72', 'REC'D CORR & TOURS') and ink blots that Description A does not mention, creating a direct contradiction on the presence and text of visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "typed_text_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:28:56"
+}

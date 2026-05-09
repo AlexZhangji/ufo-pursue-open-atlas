@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 7,
+  "original_image_tags": [
+    "A single piece of aged, off-white paper with a slightly torn top edge. The paper contains handwritten text in cursive script with black ink. There are three distinct, dark circular punch holes along the top edge. The background is plain and shows minor discoloration consistent with age."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "other",
+        "description": "Handwritten text in cursive ink on aged paper. Three distinct black redaction marks are visible over words in the first line. The text reads: 'lots [redacted] disinfectant on hand. Or else something might happen to us in the United States. From a friend'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed text from the image ('lots [redacted] disinfectant...') that Description A does not mention at all, and introduces a visual element (three black redaction marks) not present in Description A.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "other"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:28"
+}

@@ -1,0 +1,17 @@
+## CONFIDENTIAL
+## RESTRICTED
+
+Final Report of Sighting:
+
+General cont'd : SSW. The Captain also told the four gentlemen that he was willing to make a complete report if the information is desired for official purposes.
+
+*[signed: William H. Smith]*
+
+WILLIAM H. SMITH
+Captain, Air Corps
+Intelligence Officer.
+
+---
+- 2 -
+RESTRICTED
+CONFIDENTIAL

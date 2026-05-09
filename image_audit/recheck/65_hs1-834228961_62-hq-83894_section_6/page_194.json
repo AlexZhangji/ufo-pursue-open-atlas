@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_6",
+  "page_num": 194,
+  "original_image_tags": [
+    "The page shows the reverse side of a typewritten document. The main body text from the other side is visible through the thin paper, but is largely illegible and reversed. Several official stamps are applied to this side.",
+    "A rectangular pink/reddish ink stamp with text oriented vertically."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page appears to be the back of a document. A faint red rectangular stamp in the lower right reads 'MAILED 30'. Near the bottom center, an upside-down blue ink stamp reads 'RECEIVED MAIL RM U.S. DEPT OF JUSTICE FBI Aug 11 6 10 PM '52'. A faint red upside-down stamp near the top right reads 'RECORDED-80'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed stamp text that Description A does not mention at all, indicating a clear contradiction where one side sees detailed content the other side does not.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:34:07"
+}

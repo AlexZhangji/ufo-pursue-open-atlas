@@ -1,0 +1,33 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_sub_a",
+  "page_num": 80,
+  "original_image_tags": [
+    "A newspaper clipping from the \"TIMES-HERALD\", Washington, D.C., dated Wednesday, April 5, 1950. The clipping is pasted onto the page and has a large red \"10\" handwritten over the newspaper name.",
+    "Handwritten notes in blue pencil reading \"file\" and an illegible signature next to the index numbers."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A newspaper clipping from the Times-Herald, Washington, D.C., dated Wednesday, April 5, 1950. The headline reads 'House Member Swears He Saw Flying Saucer'. The clipping contains typed body text and a sub-headline 'He Saw One'."
+      },
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A partial newspaper clipping with the sub-headline 'Not Informed' and 'Denials Repeated'. It contains typed body text discussing military and Air Force statements regarding flying saucers."
+      }
+    ]
+  },
+  "judge": {
+    "score": 2,
+    "reason": "Both descriptions agree on the existence and basic metadata of the newspaper clipping but disagree on the specific headline text quoted within it, with Description B providing a detailed headline that Description A omits rather than contradicts.",
+    "hallucination_suspected": false,
+    "fallback_recommended": false
+  },
+  "categories": [
+    "newspaper_clipping_illustration",
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": false,
+  "ts": "2026-05-08 19:15:40"
+}

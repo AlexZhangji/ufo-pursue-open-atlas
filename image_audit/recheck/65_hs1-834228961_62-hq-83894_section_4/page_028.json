@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_4",
+  "page_num": 28,
+  "original_image_tags": [
+    "The document is a typewritten letter on aged, greenish-beige paper with three hole-punches at the top. A red \"RECORDED\" stamp and a handwritten red case number \"62-83894-138\" are near the top left. A large red \"COMMUNICATIONS SECTION\" stamp in the bottom left corner indicates it was \"MAILED 8 JAN 15 1948 P.M.\" and includes the \"FEDERAL BUREAU OF INVESTIGATION U.S. DEPARTMENT OF JUSTICE\" seal. A vertical purple stamp on the right edge reads \"JAN 15 12:43 PM '48 RECEIVED READING ROOM\". A faded stamp at the bottom left reads \"FEB 5 - 1948\". There are several handwritten initials and checkmarks scattered across the page, including what appears to be \"JMH\" in the bottom right. A distribution list of names (Mr. Tolson, Mr. E. A. Tamm, Mr. Clegg, etc.) is visible along the bottom left edge."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A red rectangular 'Communications Section' stamp in the bottom left corner with the text 'MAILED 8', 'JAN 15 1948 P.M.', and 'FEDERAL BUREAU OF INVESTIGATION U. S. DEPARTMENT OF JUSTICE'. A vertical black 'RECORDED' stamp is visible on the left side, and a vertical 'RECEIVED READING ROOM' stamp is on the right side. Several handwritten initials and annotations in pencil and red ink are also present."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes a vertical purple stamp with specific text ('JAN 15 12:43 PM '48 RECEIVED READING ROOM'), while Description B describes a vertical black stamp with different implied text; also, Description A specifies a red 'RECORDED' stamp and a handwritten case number that Description B does not mention, creating a direct contradiction on the color and specific content of stamped visual elements.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:31:03"
+}

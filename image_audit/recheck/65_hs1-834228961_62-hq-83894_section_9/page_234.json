@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_9",
+  "page_num": 234,
+  "original_image_tags": [
+    "Two black circular holes punched through the top of the document, likely from a two-hole punch for filing."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "Page contains multiple blue and red ink reception stamps. A blue stamp on the left reads 'RECEIVED MAY 1 3:56 PM '64 PHYSICS & CHEMISTRY FBI LABORATORY'. Another blue stamp below it reads 'RECEIVED-CONRAD MAY 1 2:20 PM '64 FBI LABORATORY DIV/SWAT H'. A blue stamp at the bottom center reads 'RECEIVED FBI-LABORATORY MAY 1 3:32 PM '64'. A blue stamp at the bottom right reads 'REC'D DOM INTELL DIV APR 30 4:25 PM'. A red stamp at the bottom left reads 'MAY 4 1964'. The background is a light blue-gray paper with four hole-punch marks at the top."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description A describes only hole-punch marks while Description B describes specific reception stamps with quoted text, indicating they are describing fundamentally different visual content on the page.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 19:12:11"
+}

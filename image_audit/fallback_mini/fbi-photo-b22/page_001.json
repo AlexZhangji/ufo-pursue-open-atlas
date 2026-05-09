@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "pdf_stem": "fbi-photo-b22",
+  "page_num": 1,
+  "categories": [
+    "photograph",
+    "redacted_only"
+  ],
+  "judge_score": 2,
+  "judge_reason": "Both descriptions agree on the main visual content: a grayscale sensor capture with a white crosshair, a central dark object, axis marks labeled '3', a timestamp, and redaction bars; they only disagree on the count of object blobs and the number of redaction bars.",
+  "original_image_tags": [
+    "Grayscale infrared sensor still with a white crosshair reticle. The vertical line is solid; the horizontal line has tick marks labeled \"3\" on the left and right. Near the center, slightly above the horizontal line, is a dark, blob-like object with a smaller companion blob immediately to its right, resembling a dumbbell or two objects in close proximity. The background is uniform gray with visible sensor noise. Multiple black redaction bars cover the top, left, and right margins. A timestamp in the bottom-left corner reads \"12/31/99 18:19:19\"."
+  ],
+  "gpt_mini_desc": "*Image: Grainy grayscale night-vision-style image with a central crosshair reticle and scale marks labeled “3” on both left and right; one small dark paired object appears near the upper-right of center, and a timestamp “12/31/99 18:19:19” is visible at bottom left.*",
+  "gpt_mini_desc_len": 267,
+  "usage": {
+    "prompt_tokens": 54643,
+    "completion_tokens": 69,
+    "total_tokens": 54712,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:02:49"
+}

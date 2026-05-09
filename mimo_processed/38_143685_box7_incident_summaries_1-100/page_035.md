@@ -1,0 +1,37 @@
+## RESTRICTED
+
+### CHECK-LIST - UNIDENTIFIED FLYING OBJECTS
+
+**Incident # 16**
+
+1.  **Date** 4 July 1947
+2.  **Time** 1100
+3.  **Location** Mt Jefferson, Oregon
+4.  **Name of observer** C. J. Bogue
+5.  **Occupation of observer** N/S
+6.  **Address of observer** Tigard, Oregon
+7.  **Place of observation** Near Redmond - ground
+8.  **Number of objects** 4
+9.  **Distance of object from observer** N/S
+10. **Time in sight** N/S
+11. **Altitude** N/S
+12. **Speed** N/S
+13. **Direction of flight** N/S
+14. **Tactics** N/S
+15. **Sound** N/S
+16. **Size** N/S
+17. **Color** N/S
+18. **Shape** disc
+19. **Odor detected** N/S
+20. **Apparent construction** N/S
+21. **Exhaust trails** N/S
+22. **Weather conditions** N/S
+23. **Effect on clouds** N/S
+24. **Sketches or photographs** ~~N/S~~ None
+25. **Manner of disappearance** N/S
+
+## RESTRICTED
+
+26. **Remarks:** C. J. Bogue, Tigard reported that four discs flew past Mt Jefferson at about 11 a.m., while he was driving near Redmond.
+
+*34* *[handwritten]: 16*

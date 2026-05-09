@@ -1,0 +1,28 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_1",
+  "page_num": 37,
+  "original_image_tags": [
+    "A torn newspaper clipping containing a political cartoon and text columns. The clipping is aged and slightly discolored.",
+    "A black-and-white cartoon. A man with a large mustache, resembling Joseph Stalin, stands playing a violin. In front of him is a large, ornate container or basket labeled \"WORLD UNREST\". A small, naked, bald infant sits inside the container, crying with its mouth wide open and arms raised. Wavy lines emanate from the infant, suggesting sound or distress."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "newspaper_clipping_illustration",
+        "description": "A political cartoon showing one man with a mustache playing a violin. He stands next to a large barrel labeled 'WORLD UNREST' which contains a crying baby. The barrel is on fire. The cartoon is surrounded by columns of typed newspaper text."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "The descriptions contradict on key visual elements: Description A mentions a 'large, ornate container or basket' and an infant with 'wavy lines' suggesting sound, while Description B claims the barrel is 'on fire' and omits the wavy lines; additionally, Description B states the barrel is 'on fire', which is a major, unsupported detail not present in Description A, indicating hallucination.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "newspaper_clipping_illustration"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:54:37"
+}

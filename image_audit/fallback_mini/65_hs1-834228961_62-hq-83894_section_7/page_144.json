@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_7",
+  "page_num": 144,
+  "categories": [
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only",
+    "stamp_or_label_only"
+  ],
+  "judge_score": 1,
+  "judge_reason": "Description B lists specific stamps with distinct quoted text (e.g., 'RECD BELMONT', 'MAY 19 1956') that Description A does not mention or reads differently (A describes 'RECEIVED' stamps from May 1953/1958 and an L.A.O. stamp, while B lists multiple other stamps including a Belmont stamp and different dates), indicating contradictory claims about the visual content's specific text.",
+  "original_image_tags": [
+    "Aged, off-white archival paper page, likely the reverse of a document. It has a visible texture and two punch holes reinforced with tape at the top. The page features several blue ink \"RECEIVED\" stamps from the FBI and the U.S. Department of Justice, with dates in May 1953 and May 1958. The text of the stamps is oriented in different directions, indicating the page was stamped multiple times as it was handled and routed.",
+    "In the background, visible as a faint, ghostly bleed-through from the opposite side of the page, is typewritten text. The text appears to be a formal memorandum or report. While mostly illegible due to the bleed-through effect, some words and phrases can be discerned in reverse, such as references to \"UFO,\" \"intelligence,\" and \"SAC.\"",
+    "In the bottom right corner, there is a partially visible, reddish-orange stamp, oriented upside down relative to the main stamps. The visible text includes \"L.A.O. 4-21-12\" and what appears to be \"FBI.\"",
+    "A faint, curved, handwritten notation in pencil or light ink is visible near the top right punch hole. The text is illegible but appears to be a filing code or initials."
+  ],
+  "gpt_mini_desc": "*Image: A scanned, mostly blank yellowed document page with two binder-hole punches at the top and several faint blue/red rubber-stamp impressions near the lower right, including a boxed “MAY 8 1958” stamp and partially legible military record notation.*",
+  "gpt_mini_desc_len": 254,
+  "usage": {
+    "prompt_tokens": 14892,
+    "completion_tokens": 58,
+    "total_tokens": 14950,
+    "cached_tokens": 0
+  },
+  "ts": "2026-05-08 20:53:00"
+}

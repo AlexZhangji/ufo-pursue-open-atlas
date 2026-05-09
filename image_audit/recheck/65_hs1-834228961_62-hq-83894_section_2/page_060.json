@@ -1,0 +1,27 @@
+{
+  "pdf_stem": "65_hs1-834228961_62-hq-83894_section_2",
+  "page_num": 60,
+  "original_image_tags": [
+    "A salmon-pink or light orange paper document page, likely the reverse side of a sheet or a file folder divider. The page is blank except for several ink stamps near the bottom center. The paper shows two hole-punches at the top edge. There is a faint, mirrored/bleed-through text impression visible across the page, appearing backwards as if from the other side of the paper."
+  ],
+  "rerun_extract": {
+    "elements": [
+      {
+        "category": "stamp_or_label_only",
+        "description": "A pinkish piece of paper, likely the back of a document, with two punch holes at the top. Two faded, blue, upside-down ink stamps are visible near the bottom. The clearer stamp reads 'RECEIVED / INTERNAL SECURITY / F.B.I.' and 'RECEIVED ... p 29 3 16 PM'. The second, fainter stamp reads 'RECEIVED / (INTERNAL SECURITY) ... 17 11 02 AM'."
+      }
+    ]
+  },
+  "judge": {
+    "score": 1,
+    "reason": "Description B quotes specific, detailed text from two stamps ('RECEIVED / INTERNAL SECURITY / F.B.I.' and timestamps) that Description A describes only as faint, mirrored text, directly contradicting the legibility and content of the visual stamps.",
+    "hallucination_suspected": true,
+    "fallback_recommended": true
+  },
+  "categories": [
+    "stamp_or_label_only"
+  ],
+  "has_visual": false,
+  "fallback_to_gpt": true,
+  "ts": "2026-05-08 17:56:30"
+}
