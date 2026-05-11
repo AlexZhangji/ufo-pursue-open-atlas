@@ -1,0 +1,1658 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PURSUE · Search Archive</title>
+<meta name="description" content="Keyword + AI search over the 4153 pages of the PURSUE Release 01 UAP declassification. Runs entirely in your browser — no telemetry, no server.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="PURSUE · Search Archive">
+<meta property="og:description" content="Keyword + AI search over 4153 declassified UAP pages — fully in your browser, no server.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Special+Elite&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@13.0.3/marked.min.js"></script>
+<style>
+  :root {
+    /* Paper / dossier palette — matches dataset.html. */
+    --bg-page: #f4f1ec;
+    --bg-card: #ffffff;
+    --bg-card-2: #f8f6f2;
+    --bg-sidebar: #ebe6df;
+    --bg-hover: #e3ddd2;
+    --bg-active: #d8d0c2;
+    --line: rgba(0, 0, 0, 0.08);
+    --line-strong: rgba(0, 0, 0, 0.18);
+    --text-0: #1a1815;
+    --text-1: #44403a;
+    --text-2: #6b665e;
+    --text-3: #9a948a;
+    --accent: #2a5a8a;
+    --accent-soft: #e6eef5;
+    --warn: #b06b1a;
+    --good: #1f7a55;
+    --bad: #a83232;
+    --redact: #1a1815;
+
+    /* Agency tints — same hues as the globe page so the visual link
+       carries across the atlas → search → dataset flow. */
+    --c-dow:   #b07a30;
+    --c-fbi:   #2a5a8a;
+    --c-nasa:  #237b62;
+    --c-state: #a36868;
+    --c-dow-bg:   #f3e8d4;
+    --c-fbi-bg:   #dde9f4;
+    --c-nasa-bg:  #d8ece5;
+    --c-state-bg: #efdcdc;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; }
+  body {
+    background: var(--bg-page);
+    color: var(--text-0);
+    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    font-size: 13.5px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .mono { font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+  .serif    { font-family: 'Cormorant Garamond', 'IBM Plex Serif', Georgia, serif; }
+  .stencil  { font-family: 'Special Elite', 'IBM Plex Mono', ui-monospace, monospace; }
+
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.3); }
+
+  a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; }
+  a:hover { border-bottom-color: var(--accent); }
+
+  input, button, select { font: inherit; color: inherit; }
+
+  /* ─── Top classification banner ────────────────────────────────────── */
+  .classbar {
+    background: var(--text-0);
+    color: var(--bg-page);
+    text-align: center;
+    padding: 4px 12px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+  }
+  .classbar .sep { opacity: 0.45; margin: 0 14px; }
+
+  /* ─── Top bar ──────────────────────────────────────────────────────── */
+  .topbar {
+    display: flex; align-items: center; gap: 16px;
+    padding: 0 18px; height: 48px;
+    border-bottom: 1px solid var(--line);
+    background: var(--bg-card);
+  }
+  .brand { font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-2); }
+  .brand .accent { color: var(--accent); font-weight: 600; }
+  .brand .sep { margin: 0 9px; color: var(--text-3); }
+  .topbar-right { margin-left: auto; display: flex; gap: 14px; align-items: center; font-size: 11px; color: var(--text-2); letter-spacing: 0.04em; }
+  .topbar-right a { color: var(--text-1); border-bottom: none; }
+  .topbar-right a:hover { color: var(--accent); }
+  .topbar-right .sep { color: var(--text-3); }
+
+  /* ─── Page heading ─────────────────────────────────────────────────── */
+  /* Title text hugs the left page-padding so it aligns with the QUERY
+     bar below; emblem floats to the right of the row like a wax seal
+     next to a document title. */
+  .heading {
+    max-width: 1200px; margin: 0 auto;
+    padding: 36px 24px 14px;
+    display: flex; align-items: flex-start;
+    gap: 32px;
+  }
+  .heading .copy { flex: 1; min-width: 0; }
+  .heading .emblem-wrap {
+    flex-shrink: 0;
+    padding-top: 14px;
+  }
+  .emblem {
+    width: 86px; height: 86px;
+    color: var(--text-0);
+    /* Faint paper-stamp imperfection: dropshadow + slight rotation reads
+       like an ink stamp on an aged document, not a digital logo. */
+    filter: drop-shadow(0 0 0.4px var(--text-0));
+    transform: rotate(-3.5deg);
+    transition: transform 0.4s ease;
+    flex-shrink: 0;
+  }
+  .emblem:hover { transform: rotate(0deg) scale(1.04); }
+
+  .heading .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--text-2);
+    margin-bottom: 4px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .heading .eyebrow .rule {
+    flex: 1; height: 1px; background: var(--line-strong);
+    max-width: 80px;
+  }
+  .heading h1 {
+    font-family: 'Cormorant Garamond', 'IBM Plex Serif', Georgia, serif;
+    font-size: 44px;
+    font-weight: 600;
+    letter-spacing: -0.005em;
+    line-height: 1.02;
+    color: var(--text-0);
+    margin-bottom: 10px;
+  }
+  .heading h1 em {
+    font-style: italic;
+    font-weight: 500;
+    color: var(--accent);
+  }
+  .heading .subtitle {
+    font-size: 13.5px; color: var(--text-1); max-width: 680px;
+    line-height: 1.55;
+  }
+
+  /* ─── Head-status one-liner ────────────────────────────────────────── */
+  /* Single line under the subtitle. Updated in place as load progresses;
+     no typewriter, no blinking cursor. Reads like a quiet system message. */
+  .headstatus {
+    max-width: 1200px; margin: 6px auto 0;
+    padding: 0 24px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    color: var(--text-3);
+    min-height: 16px;
+    transition: color 0.2s;
+  }
+  .headstatus.ready { color: var(--good); }
+  .headstatus.warn  { color: var(--warn); }
+  .headstatus.error { color: var(--bad); }
+  .headstatus .dot {
+    display: inline-block;
+    width: 5px; height: 5px;
+    border-radius: 50%;
+    background: currentColor;
+    margin-right: 7px;
+    vertical-align: 2px;
+  }
+
+  /* ─── Query bar ─────────────────────────────────────────────────────── */
+  .qbar-wrap {
+    max-width: 1200px; margin: 0 auto;
+    padding: 0 24px;
+    position: sticky; top: 0; z-index: 5;
+    background: var(--bg-page);
+    padding-top: 8px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .qbar-wrap.stuck {
+    border-color: var(--line);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+  }
+  .qbar {
+    display: flex; align-items: center;
+    background: var(--bg-card);
+    border: 1px solid var(--line-strong);
+    border-radius: 4px;
+    padding: 0 12px;
+    height: 44px;
+  }
+  .qbar .prompt {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 16px;
+    color: var(--accent);
+    margin-right: 10px;
+    font-weight: 500;
+  }
+  .qbar input {
+    flex: 1;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 15px;
+    border: none; outline: none;
+    background: transparent;
+    color: var(--text-0);
+  }
+  .qbar input::placeholder { color: var(--text-3); }
+  .qbar .clear {
+    cursor: pointer;
+    color: var(--text-3);
+    padding: 0 6px;
+    font-size: 16px;
+    user-select: none;
+  }
+  .qbar .clear:hover { color: var(--text-1); }
+
+  /* ─── Example query chips (under the search box) ────────────────────── */
+  /* Click-to-fill prompts. Half lean semantic so AI retrieval gets a fair
+     showcase, half are keyword-classic. Reads as "Try:" + dotted-underline
+     phrases. */
+  .examples {
+    display: flex; flex-wrap: wrap; align-items: center;
+    gap: 14px;
+    padding-top: 9px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-3);
+    letter-spacing: 0.03em;
+  }
+  .examples .label {
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--text-3);
+    margin-right: -4px;
+  }
+  .examples .ex {
+    cursor: pointer;
+    color: var(--text-2);
+    border-bottom: 1px dotted var(--text-3);
+    padding-bottom: 1px;
+    user-select: none;
+    transition: color 0.12s, border-color 0.12s;
+  }
+  .examples .ex:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+    border-bottom-style: solid;
+  }
+
+  /* ─── Advanced options (collapsed by default) ──────────────────────── */
+  /* Click "Advanced" to expose the fusion slider. Hidden behind a
+     <details> so the default UI stays uncluttered; power users can dial
+     keyword vs AI on the fly. */
+  .advanced {
+    margin-top: 8px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-3);
+  }
+  .advanced > summary {
+    cursor: pointer;
+    list-style: none;
+    color: var(--text-2);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    user-select: none;
+    padding: 4px 0;
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .advanced > summary::-webkit-details-marker { display: none; }
+  .advanced > summary::before {
+    content: '▸';
+    transition: transform 0.18s;
+    font-size: 9px;
+  }
+  .advanced[open] > summary::before { transform: rotate(90deg); }
+  .advanced-body {
+    display: flex; align-items: center; flex-wrap: wrap; gap: 14px;
+    padding: 10px 14px;
+    margin-top: 6px;
+    background: var(--bg-card-2);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+  }
+  .advanced-body .label {
+    font-size: 10.5px; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--text-3);
+  }
+  .advanced-body .slider {
+    display: flex; align-items: center; gap: 10px;
+    flex: 1; min-width: 220px;
+  }
+  .advanced-body .slider .side {
+    font-size: 10.5px; letter-spacing: 0.05em;
+    color: var(--text-2);
+  }
+  .advanced-body input[type=range] {
+    flex: 1; cursor: pointer;
+    accent-color: var(--accent);
+  }
+  .advanced-body .readout {
+    font-size: 11px;
+    color: var(--text-1);
+    font-variant-numeric: tabular-nums;
+    min-width: 130px;
+    text-align: right;
+  }
+  .advanced-body .reset {
+    cursor: pointer;
+    color: var(--text-3);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+  }
+  .advanced-body .reset:hover { color: var(--accent); }
+
+  /* ─── Filter chips ──────────────────────────────────────────────────── */
+  .filters {
+    max-width: 1200px; margin: 0 auto;
+    padding: 8px 24px;
+    display: flex; flex-wrap: wrap; gap: 14px;
+    align-items: center;
+  }
+  .filter-group {
+    display: flex; align-items: center; gap: 6px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-2);
+    letter-spacing: 0.06em;
+  }
+  .filter-group .label { text-transform: uppercase; color: var(--text-3); margin-right: 4px; }
+  .chip {
+    display: inline-flex; align-items: center;
+    padding: 3px 9px;
+    border: 1px solid var(--line-strong);
+    border-radius: 100px;
+    background: var(--bg-card);
+    color: var(--text-1);
+    cursor: pointer;
+    font-size: 11px;
+    font-family: 'IBM Plex Mono', monospace;
+    letter-spacing: 0.04em;
+    user-select: none;
+    transition: all 0.12s;
+  }
+  .chip:hover { background: var(--bg-hover); }
+  .chip.active {
+    background: var(--text-0);
+    color: var(--bg-page);
+    border-color: var(--text-0);
+  }
+  .chip.agency-dow.active   { background: var(--c-dow);   border-color: var(--c-dow);   color: #fff; }
+  .chip.agency-fbi.active   { background: var(--c-fbi);   border-color: var(--c-fbi);   color: #fff; }
+  .chip.agency-nasa.active  { background: var(--c-nasa);  border-color: var(--c-nasa);  color: #fff; }
+  .chip.agency-state.active { background: var(--c-state); border-color: var(--c-state); color: #fff; }
+  /* Per-chip count — appended after the label in tiny dim type. Reads as
+     "DOW 892" / "pre-1960 412" at a glance, telling the user how big the
+     bucket is before they even click. Static counts; clicking the chip
+     doesn't dynamically rescope these. */
+  .chip .ct {
+    margin-left: 5px;
+    padding-left: 5px;
+    border-left: 1px solid var(--line);
+    color: var(--text-3);
+    font-size: 10px;
+    letter-spacing: 0.02em;
+    font-variant-numeric: tabular-nums;
+  }
+  .chip.active .ct {
+    color: rgba(255, 255, 255, 0.75);
+    border-left-color: rgba(255, 255, 255, 0.25);
+  }
+  .chip.zero {
+    opacity: 0.4;
+    pointer-events: none;
+  }
+
+  /* ─── Status line ───────────────────────────────────────────────────── */
+  .status {
+    max-width: 1200px; margin: 0 auto;
+    padding: 6px 24px 0;
+    display: flex; gap: 16px; align-items: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--text-2);
+    letter-spacing: 0.04em;
+  }
+  .status .timing { color: var(--text-3); }
+  .status .reset-link {
+    margin-left: auto;
+    cursor: pointer;
+    color: var(--text-2);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+  .status .reset-link:hover { color: var(--accent); }
+
+  /* ─── Results grid ──────────────────────────────────────────────────── */
+  /* Auto-fill responsive grid — 300px minimum card width gives:
+     1 col @ <640px, 2 col @ 720, 3 col @ 1024, 4 col @ 1400+. */
+  .results {
+    /* Match heading/qbar/footer width so the grid lines up flush with the
+       title block — the most visible alignment issue at wider viewports. */
+    max-width: 1200px; margin: 0 auto;
+    padding: 12px 24px 80px;
+    display: grid;
+    gap: 14px;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  }
+
+  .card {
+    display: flex; flex-direction: column;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    /* Agency tint moved from left edge to top — reads better in a grid. */
+    border-top: 3px solid var(--text-3);
+    border-radius: 3px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: border-color 0.12s, box-shadow 0.12s, transform 0.12s;
+  }
+  .card:hover {
+    border-color: var(--line-strong);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    transform: translateY(-1px);
+  }
+  .card.agency-dow   { border-top-color: var(--c-dow);   }
+  .card.agency-fbi   { border-top-color: var(--c-fbi);   }
+  .card.agency-nasa  { border-top-color: var(--c-nasa);  }
+  .card.agency-state { border-top-color: var(--c-state); }
+
+  .card .thumb {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    background: var(--bg-sidebar);
+    border-bottom: 1px solid var(--line);
+    overflow: hidden;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .card .thumb img {
+    width: 100%; height: 100%; object-fit: cover;
+    /* Most page headers sit at the top of the scan — show that part. */
+    object-position: top;
+    display: block;
+  }
+  .card .thumb.missing {
+    color: var(--text-3);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+  }
+
+  .card .body {
+    padding: 12px 14px 14px;
+    flex: 1; min-width: 0;
+    display: flex; flex-direction: column;
+  }
+  .card .case-id {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    color: var(--text-2);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .card .case-id .badge {
+    display: inline-block;
+    padding: 1px 6px;
+    margin-right: 6px;
+    border-radius: 2px;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+  }
+  .badge.agency-dow   { background: var(--c-dow-bg);   color: var(--c-dow);   }
+  .badge.agency-fbi   { background: var(--c-fbi-bg);   color: var(--c-fbi);   }
+  .badge.agency-nasa  { background: var(--c-nasa-bg);  color: var(--c-nasa);  }
+  .badge.agency-state { background: var(--c-state-bg); color: var(--c-state); }
+
+  /* Per-card retriever-source pip was tried and pulled — colored AI
+     labels overlaying scanned documents read as debug UI, not dossier.
+     The aggregate "X both · Y AI · Z keyword" line in the status bar
+     conveys the same info without polluting each card. */
+
+  .card h3 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.3;
+    color: var(--text-0);
+    margin: 0 0 6px;
+  }
+
+  .card .meta {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    color: var(--text-2);
+    letter-spacing: 0.04em;
+    margin-bottom: 8px;
+  }
+  .card .meta .sep { color: var(--text-3); margin: 0 6px; }
+
+  .card .snippet {
+    font-size: 12px;
+    line-height: 1.5;
+    color: var(--text-1);
+    /* Clamp to ~4 lines so the cards stay even-height in the grid. */
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 10px;
+    flex: 1;
+  }
+  .card .snippet mark {
+    /* Quieter than the yellow-highlighter default — a subtle underline
+       in the accent blue reads as "these are the matched terms" without
+       shouting. text-decoration handles line wraps cleanly. */
+    background: transparent;
+    color: var(--text-0);
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 2px;
+  }
+
+  .card .footer {
+    display: flex; align-items: center; gap: 12px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    color: var(--text-3);
+    letter-spacing: 0.06em;
+  }
+  .card .footer .score { color: var(--text-3); }
+  .card .footer .open {
+    margin-left: auto;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  .empty {
+    text-align: center;
+    color: var(--text-3);
+    padding: 60px 20px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+  }
+  .empty .big { font-size: 14px; color: var(--text-2); margin-bottom: 6px; letter-spacing: 0.15em; }
+
+  /* ─── Detail modal ──────────────────────────────────────────────────── */
+  .modal-back {
+    position: fixed; inset: 0;
+    background: rgba(20, 18, 15, 0.55);
+    backdrop-filter: blur(2px);
+    z-index: 100;
+    display: none;
+    align-items: flex-start; justify-content: center;
+    overflow-y: auto;
+    padding: 40px 24px;
+  }
+  .modal-back.open { display: flex; }
+  .modal {
+    background: var(--bg-card);
+    border: 1px solid var(--line-strong);
+    border-radius: 4px;
+    width: 100%;
+    max-width: 1000px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+  }
+  .modal-head {
+    padding: 16px 22px;
+    border-bottom: 1px solid var(--line);
+    display: flex; align-items: center; gap: 14px;
+  }
+  .modal-head .label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text-2);
+  }
+  .modal-head h2 {
+    font-family: 'IBM Plex Serif', Georgia, serif;
+    font-size: 19px;
+    font-weight: 500;
+    color: var(--text-0);
+    flex: 1; min-width: 0;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .modal-head .close {
+    cursor: pointer;
+    color: var(--text-2);
+    font-size: 22px;
+    line-height: 1;
+    user-select: none;
+    padding: 0 6px;
+  }
+  .modal-head .close:hover { color: var(--text-0); }
+  .modal-body {
+    display: grid;
+    grid-template-columns: 380px 1fr;
+    gap: 24px;
+    padding: 22px;
+  }
+  .modal-body .left { font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; color: var(--text-1); }
+  .modal-body .left img {
+    width: 100%; border: 1px solid var(--line);
+    background: var(--bg-sidebar);
+    margin-bottom: 14px;
+  }
+  .modal-body .left dl { display: grid; grid-template-columns: 110px 1fr; gap: 4px 12px; }
+  .modal-body .left dt { color: var(--text-3); text-transform: uppercase; letter-spacing: 0.08em; font-size: 10.5px; align-self: center; }
+  .modal-body .left dd { color: var(--text-0); word-break: break-word; }
+  .modal-body .left dd.long { font-size: 10.5px; color: var(--text-1); }
+  .modal-body .left .actions { margin-top: 14px; display: flex; flex-direction: column; gap: 6px; }
+  .modal-body .left .actions a {
+    display: block;
+    padding: 7px 12px;
+    background: var(--bg-card-2);
+    border: 1px solid var(--line);
+    color: var(--text-0);
+    font-size: 11px;
+    text-align: center;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .modal-body .left .actions a:hover { border-color: var(--accent); color: var(--accent); border-bottom-color: var(--accent); }
+
+  .modal-body .right .image-tags {
+    display: flex; flex-wrap: wrap; gap: 6px;
+    margin-bottom: 16px;
+  }
+  .modal-body .right .image-tags .tag {
+    display: inline-block;
+    padding: 3px 8px;
+    background: var(--bg-card-2);
+    border: 1px solid var(--line);
+    border-radius: 100px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    color: var(--text-1);
+    max-width: 100%;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .modal-body .right h4 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text-2);
+    margin: 14px 0 8px;
+  }
+  .modal-body .right .body-text {
+    font-size: 13px;
+    line-height: 1.65;
+    color: var(--text-1);
+    background: var(--bg-card-2);
+    border-left: 2px solid var(--line-strong);
+    padding: 14px 16px;
+    border-radius: 0 3px 3px 0;
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+  .modal-body .right .body-text h1,
+  .modal-body .right .body-text h2,
+  .modal-body .right .body-text h3 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 500;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    color: var(--text-0);
+  }
+  .modal-body .right .body-text em { color: var(--accent); font-style: italic; }
+  .modal-body .right .body-text mark {
+    background: transparent;
+    color: var(--text-0);
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 2px;
+  }
+
+  /* ─── Footnote ──────────────────────────────────────────────────────── */
+  .footer-note {
+    max-width: 1200px; margin: 0 auto;
+    padding: 22px 24px 80px;
+    color: var(--text-3);
+    font-size: 11.5px;
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 1.7;
+  }
+  .footer-note a { color: var(--text-2); }
+  .footer-note a:hover { color: var(--accent); }
+
+  @media (max-width: 720px) {
+    .heading {
+      padding: 22px 18px 8px;
+      gap: 14px;
+    }
+    .heading .emblem-wrap { padding-top: 0; }
+    .emblem { width: 56px; height: 56px; }
+    .heading h1 { font-size: 30px; }
+    .headstatus { padding-left: 18px; padding-right: 18px; }
+    .filters, .status, .results { padding-left: 16px; padding-right: 16px; }
+    .results { gap: 10px; }
+    .card .thumb { aspect-ratio: 16 / 11; }
+    .modal-body { grid-template-columns: 1fr; }
+    .modal-body .left img { max-width: 280px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="classbar mono">
+  Unclassified <span class="sep">//</span> For Public Release
+  <span class="sep">//</span> PURSUE Release 01
+  <span class="sep">//</span> Search runs locally · no telemetry
+</div>
+
+<div class="topbar">
+  <div class="brand">
+    <span class="accent">PURSUE</span><span class="sep">·</span>Search Archive
+  </div>
+  <div class="topbar-right">
+    <a href="./index.html">Globe</a>
+    <span class="sep">·</span>
+    <a href="./dataset.html">Dataset Viewer</a>
+    <span class="sep">·</span>
+    <a href="https://huggingface.co/datasets/alex-zhang42/ufo-pursue-open-atlas" target="_blank" rel="noopener">HF</a>
+    <span class="sep">·</span>
+    <a href="https://github.com/AlexZhangji/ufo-pursue-open-atlas" target="_blank" rel="noopener">GitHub</a>
+  </div>
+</div>
+
+<div class="heading">
+  <div class="emblem-wrap">
+    <!-- Stamp-style emblem. currentColor + the page text color so it auto-themes;
+         the slight rotation + drop-shadow read as an ink stamp on paper, not a logo. -->
+    <svg class="emblem" viewBox="0 0 100 100" aria-hidden="true">
+      <!-- Two-tone stamp: black ink for ring + monogram, archival red for
+           the seal star + year band. Mimics two-pass government printing. -->
+      <circle cx="50" cy="50" r="47.5" fill="none" stroke="currentColor" stroke-width="1.1"/>
+      <circle cx="50" cy="50" r="43"   fill="none" stroke="currentColor" stroke-width="0.45"/>
+      <!-- Top star — red seal accent -->
+      <polygon points="50,15.5 52,21 57.5,21 53,24.3 54.7,29.5 50,26.3 45.3,29.5 47,24.3 42.5,21 48,21"
+               fill="#a83232"/>
+      <!-- Side dots — black -->
+      <circle cx="13.5" cy="50" r="1.1" fill="currentColor"/>
+      <circle cx="86.5" cy="50" r="1.1" fill="currentColor"/>
+      <!-- Inner monogram — black -->
+      <text x="50" y="46" text-anchor="middle"
+            font-family="'IBM Plex Mono', monospace" font-size="9.5" font-weight="600"
+            letter-spacing="1.5" fill="currentColor">PURSUE</text>
+      <text x="50" y="58" text-anchor="middle"
+            font-family="'IBM Plex Mono', monospace" font-size="6.5"
+            letter-spacing="2.5" fill="currentColor">OPEN · ATLAS</text>
+      <!-- Bottom rule + year — red. font/letter-spacing trimmed so the
+           year band sits cleanly inside the inner ring (was overflowing
+           ~7% at Consolas glyph widths in the PNG renders). -->
+      <line x1="34" y1="68" x2="66" y2="68" stroke="#a83232" stroke-width="0.5"/>
+      <text x="50" y="78" text-anchor="middle"
+            font-family="'IBM Plex Mono', monospace" font-size="4.4"
+            letter-spacing="1.3" fill="#a83232">MMXXVI · REL 01</text>
+    </svg>
+  </div>
+
+  <div class="copy">
+    <div class="eyebrow">
+      <span>Open Archive · v0.1</span>
+      <span class="rule"></span>
+      <span>Declassified · 2026-05-08</span>
+    </div>
+    <h1 class="serif">Search the <em>Declassified</em> Archive</h1>
+    <p class="subtitle">
+      Keyword + AI search across every page of the U.S. Department of War
+      PURSUE Release 01. Matches what you type, what you mean, and what the
+      scanned images show — runs entirely in your browser, so your queries
+      never leave this machine.
+    </p>
+  </div>
+</div>
+<div class="headstatus" id="headstatus"><span class="dot"></span>Loading archive…</div>
+
+<div class="qbar-wrap" id="qbar-wrap">
+  <div class="qbar">
+    <span class="prompt mono">QUERY:</span>
+    <input id="q" type="text" placeholder="ask a question or drop keywords — both work" autocomplete="off" spellcheck="false" disabled>
+    <span class="clear" id="clear" title="Clear">×</span>
+  </div>
+  <div class="examples" id="examples"></div>
+  <details class="advanced" id="advanced">
+    <summary>Advanced</summary>
+    <div class="advanced-body">
+      <span class="label">Mix</span>
+      <div class="slider">
+        <span class="side">Keyword</span>
+        <input type="range" id="alpha" min="0" max="1" step="0.05" value="0.4">
+        <span class="side">AI</span>
+      </div>
+      <span class="readout" id="alpha-readout">keyword 0.60 · AI 0.40</span>
+      <span class="reset" id="alpha-reset">reset</span>
+    </div>
+  </details>
+</div>
+
+<div class="filters" id="filters" style="display:none;">
+  <div class="filter-group">
+    <span class="label">Agency</span>
+    <span class="chip agency-dow"   data-filter="agency" data-value="Department of War">DOW</span>
+    <span class="chip agency-fbi"   data-filter="agency" data-value="FBI">FBI</span>
+    <span class="chip agency-nasa"  data-filter="agency" data-value="NASA">NASA</span>
+    <span class="chip agency-state" data-filter="agency" data-value="Department of State">State</span>
+  </div>
+  <div class="filter-group">
+    <span class="label">Era</span>
+    <span class="chip" data-filter="era" data-value="pre-1960">pre-1960</span>
+    <span class="chip" data-filter="era" data-value="1960-1979">1960-79</span>
+    <span class="chip" data-filter="era" data-value="1980-1999">1980-99</span>
+    <span class="chip" data-filter="era" data-value="2000-2019">2000-19</span>
+    <span class="chip" data-filter="era" data-value="2020+">2020+</span>
+  </div>
+  <div class="filter-group">
+    <span class="label">Type</span>
+    <span class="chip" data-filter="record_type" data-value="case_file">case_file</span>
+    <span class="chip" data-filter="record_type" data-value="mission_report">mission_report</span>
+    <span class="chip" data-filter="record_type" data-value="photo">photo</span>
+    <span class="chip" data-filter="record_type" data-value="transcript">transcript</span>
+    <span class="chip" data-filter="record_type" data-value="report">report</span>
+    <span class="chip" data-filter="record_type" data-value="other">other</span>
+  </div>
+</div>
+
+<div class="status" id="status" style="display:none;">
+  <span id="status-count">—</span>
+  <span class="timing" id="status-timing"></span>
+  <span class="reset-link" id="reset-filters">Reset filters</span>
+</div>
+
+<div class="results" id="results"></div>
+
+<div class="footer-note mono">
+  How it works · keyword matching (<span style="color:var(--text-2)">MiniSearch / BM25</span>)
+  combined with AI semantic matching using
+  <a href="https://huggingface.co/BAAI/bge-small-en-v1.5" target="_blank" rel="noopener">bge-small-en-v1.5</a>
+  embeddings. Page vectors were precomputed offline; your query is embedded in-browser via
+  <a href="https://huggingface.co/docs/transformers.js" target="_blank" rel="noopener">transformers.js</a>
+  and the two scores are min-max normalized per query, then weighted 50/50 — nothing leaves your machine.<br>
+  Dataset: <a href="https://huggingface.co/datasets/alex-zhang42/ufo-pursue-open-atlas" target="_blank" rel="noopener">alex-zhang42/ufo-pursue-open-atlas</a>
+  · License CC0 1.0 · Source documents: <a href="https://www.war.gov/UAP" target="_blank" rel="noopener">war.gov/UAP</a>
+</div>
+
+<div class="modal-back" id="modal-back">
+  <div class="modal" id="modal" role="dialog" aria-modal="true">
+    <div class="modal-head">
+      <span class="label mono">Case File</span>
+      <h2 id="m-title">—</h2>
+      <span class="close" id="m-close" title="Close">×</span>
+    </div>
+    <div class="modal-body">
+      <div class="left">
+        <img id="m-img" alt="">
+        <dl>
+          <dt>Record</dt>     <dd id="m-record" class="long"></dd>
+          <dt>Page</dt>       <dd id="m-page"></dd>
+          <dt>Agency</dt>     <dd id="m-agency"></dd>
+          <dt>Type</dt>       <dd id="m-type"></dd>
+          <dt>Date</dt>       <dd id="m-date"></dd>
+          <dt>Location</dt>   <dd id="m-loc"></dd>
+        </dl>
+        <div class="actions">
+          <a id="m-pdf"  target="_blank" rel="noopener">Open original PDF ▸</a>
+          <a id="m-thumb" target="_blank" rel="noopener">View page render ▸</a>
+        </div>
+      </div>
+      <div class="right">
+        <h4>Visual Tags</h4>
+        <div class="image-tags" id="m-tags"></div>
+        <h4>Extracted Text</h4>
+        <div class="body-text" id="m-text"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="module">
+/* ─────────────────────────────────────────────────────────────────────────
+ * Hybrid search runtime.
+ *
+ * Pipeline:
+ *   1. Load meta.json + documents.json + embeddings.f16.bin in parallel.
+ *      The fp16 buffer is decoded to a Float32Array once at load time so
+ *      we don't depend on the still-shipping Float16Array API.
+ *   2. Build a MiniSearch index over title / text / image_tags / agency
+ *      with field weights tuned for this corpus.
+ *   3. Lazy-load transformers.js + Xenova/bge-small-en-v1.5 only when the
+ *      first query fires. Subsequent queries reuse the warmed pipeline.
+ *   4. For each query:
+ *        a. Pre-filter doc-ids by the active chip filters.
+ *        b. BM25: MiniSearch top-K against full corpus, then intersect.
+ *        c. Cosine: query vector ⋅ doc-vector for filtered ids, top-K.
+ *        d. Reciprocal rank fusion (k=60) over the two ranked lists.
+ *   5. Render the top 40 as case-file cards.
+ *
+ * Nothing leaves the browser — no fetch except to static assets on this
+ * origin and the transformers.js model weights on jsdelivr.
+ * ──────────────────────────────────────────────────────────────────── */
+
+import { pipeline, env } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.2/dist/transformers.min.js';
+// Pin to local model cache so we don't hit the HF Hub for every reload —
+// transformers.js handles ./.transformers-cache implicitly when
+// localModelPath is unset, browser cache + IndexedDB keep it warm.
+env.allowLocalModels = false;
+env.useBrowserCache  = true;
+
+const $ = (id) => document.getElementById(id);
+
+// Single-line status under the heading. Replaces the multi-line typewriter
+// console — gets updated in place as load progresses, settles on a quiet
+// "ready" message, never accumulates lines.
+function setHeadStatus(text, opts = {}) {
+  const el = $('headstatus');
+  if (!el) return;
+  const cls = opts.error ? 'error' : opts.warn ? 'warn' : opts.ready ? 'ready' : '';
+  el.className = 'headstatus' + (cls ? ' ' + cls : '');
+  el.innerHTML = '<span class="dot"></span>' + text;
+}
+function headStatusReady() {
+  setHeadStatus(
+    `${STATE.docs.length.toLocaleString()} pages · keyword + AI search ready`,
+    { ready: true },
+  );
+}
+
+// ─── fp16 → fp32 decode ────────────────────────────────────────────────
+// Float16Array isn't universally shipped yet, so we do a one-time decode
+// from the raw Uint16Array into a Float32Array on load. ~1.6M values
+// completes in a few ms.
+function f16ToF32(h) {
+  const s = (h & 0x8000) >> 15;
+  const e = (h & 0x7C00) >> 10;
+  const f = h & 0x03FF;
+  if (e === 0)    return (s ? -1 : 1) * Math.pow(2, -14) * (f / 1024);
+  if (e === 0x1F) return f ? NaN : ((s ? -1 : 1) * Infinity);
+  return (s ? -1 : 1) * Math.pow(2, e - 15) * (1 + f / 1024);
+}
+function decodeF16Buffer(arrayBuffer, dim) {
+  const u16 = new Uint16Array(arrayBuffer);
+  const out = new Float32Array(u16.length);
+  for (let i = 0; i < u16.length; i++) out[i] = f16ToF32(u16[i]);
+  return { vecs: out, dim, n: u16.length / dim };
+}
+
+// ─── State ─────────────────────────────────────────────────────────────
+const STATE = {
+  meta: null,
+  docs: [],
+  embeddings: null,   // Float32Array (n * dim)
+  dim: 384,
+  miniSearch: null,
+  embedder: null,     // transformers.js pipeline (lazy)
+  filters: { agency: new Set(), era: new Set(), record_type: new Set() },
+  alpha: null,        // dense weight in fusion; null → use FUSION_ALPHA
+  lastQuery: '',      // for modal text highlighting
+};
+
+// ─── Field weights for MiniSearch ──────────────────────────────────────
+// Title is the strongest lexical signal — "Apollo 17" matches title cleanly.
+// image_tags get a 2x lift because visual-style queries
+// ("flying saucer", "newspaper clipping") usually only match the VLM-written
+// image descriptions, not the surrounding OCR text.
+const MS_FIELDS  = ['title', 'text', 'image_tags', 'agency', 'incident_location'];
+const MS_WEIGHTS = { title: 3, text: 1, image_tags: 2, agency: 1.5, incident_location: 1.5 };
+
+// ─── Era → year range ──────────────────────────────────────────────────
+function inEra(year, era) {
+  if (year == null) return false;
+  switch (era) {
+    case 'pre-1960':  return year <  1960;
+    case '1960-1979': return year >= 1960 && year <= 1979;
+    case '1980-1999': return year >= 1980 && year <= 1999;
+    case '2000-2019': return year >= 2000 && year <= 2019;
+    case '2020+':     return year >= 2020;
+  }
+  return false;
+}
+
+function passesFilters(doc) {
+  const { agency, era, record_type } = STATE.filters;
+  if (agency.size && !agency.has(doc.agency)) return false;
+  if (era.size) {
+    let ok = false;
+    for (const e of era) if (inEra(doc.year, e)) { ok = true; break; }
+    if (!ok) return false;
+  }
+  if (record_type.size && !record_type.has(doc.record_type)) return false;
+  return true;
+}
+
+// ─── Per-filter counts ─────────────────────────────────────────────────
+// Static distribution across the whole corpus — shown after each chip
+// label so users see how big a bucket is before clicking. Computed once
+// after loadAll; doesn't rescope with active filters (keeping it static
+// avoids confusing "click DOW → other chips suddenly show 0" surprises).
+function computeFilterCounts(docs) {
+  const counts = {
+    agency:      {},
+    record_type: {},
+    era:         { 'pre-1960': 0, '1960-1979': 0, '1980-1999': 0, '2000-2019': 0, '2020+': 0 },
+  };
+  for (const d of docs) {
+    if (d.agency)      counts.agency[d.agency]           = (counts.agency[d.agency] || 0) + 1;
+    if (d.record_type) counts.record_type[d.record_type] = (counts.record_type[d.record_type] || 0) + 1;
+    if (d.year != null) {
+      for (const era of Object.keys(counts.era)) {
+        if (inEra(d.year, era)) counts.era[era]++;
+      }
+    }
+  }
+  return counts;
+}
+function applyFilterCounts(counts) {
+  for (const chip of document.querySelectorAll('.chip')) {
+    const f = chip.dataset.filter, v = chip.dataset.value;
+    const n = (counts[f] && counts[f][v]) || 0;
+    // Cache the original label once so we can re-render without losing it.
+    if (!chip.dataset.label) chip.dataset.label = chip.textContent.trim();
+    chip.innerHTML = `${chip.dataset.label}<span class="ct">${n.toLocaleString()}</span>`;
+    chip.classList.toggle('zero', n === 0);
+  }
+}
+
+// ─── Cosine via dot product (vectors are pre-L2-normalized) ────────────
+function cosineRanked(queryVec, candidateIds, topK) {
+  const dim = STATE.dim;
+  const E = STATE.embeddings;
+  const scored = new Array(candidateIds.length);
+  for (let i = 0; i < candidateIds.length; i++) {
+    const id = candidateIds[i];
+    const off = id * dim;
+    let s = 0;
+    for (let d = 0; d < dim; d++) s += E[off + d] * queryVec[d];
+    scored[i] = [id, s];
+  }
+  scored.sort((a, b) => b[1] - a[1]);
+  return scored.slice(0, topK);
+}
+
+// ─── Score fusion ──────────────────────────────────────────────────────
+// Per-query min-max normalize each retriever's scores into [0,1], then a
+// weighted sum. Default alpha=0.5 splits evenly between AI and keyword;
+// the slider is wired so a future UI knob can tilt either way. RRF (the
+// rank-only alternative) is left here as a fallback for very-short
+// queries where normalization is degenerate.
+// Default 0.4 — keyword weight 0.6 / AI weight 0.4. Reasoning: when the
+// query has solid lexical hits, they're usually the right answer (exact
+// match beats fuzzy semantics); the AI tilt helps when keyword finds
+// nothing. The advanced-options slider lets users override per-session.
+const FUSION_ALPHA = 0.4;
+
+function weightedFuse(bm25, dense, alpha = FUSION_ALPHA) {
+  const bmMap = new Map(bm25);
+  const dnMap = new Map(dense);
+  const bmVals = [...bmMap.values()];
+  const dnVals = [...dnMap.values()];
+  if (bmMap.size === 0 && dnMap.size === 0) return [];
+
+  const bmMin = bmVals.length ? Math.min(...bmVals) : 0;
+  const bmMax = bmVals.length ? Math.max(...bmVals) : 1;
+  const dnMin = dnVals.length ? Math.min(...dnVals) : 0;
+  const dnMax = dnVals.length ? Math.max(...dnVals) : 1;
+  const bmRange = bmMax - bmMin || 1;
+  const dnRange = dnMax - dnMin || 1;
+
+  const ids = new Set([...bmMap.keys(), ...dnMap.keys()]);
+  const out = [];
+  for (const id of ids) {
+    const bm = bmMap.has(id) ? (bmMap.get(id) - bmMin) / bmRange : 0;
+    const dn = dnMap.has(id) ? (dnMap.get(id) - dnMin) / dnRange : 0;
+    out.push([id, alpha * dn + (1 - alpha) * bm]);
+  }
+  return out.sort((a, b) => b[1] - a[1]);
+}
+
+// Rank-based fallback for the lexical-only first render — pure rank
+// because we don't yet have dense scores to normalize against.
+function rrf(rankedLists, k = 60) {
+  const scores = new Map();
+  for (const list of rankedLists) {
+    list.forEach(([id], rank) => {
+      scores.set(id, (scores.get(id) || 0) + 1 / (k + rank + 1));
+    });
+  }
+  return [...scores.entries()].sort((a, b) => b[1] - a[1]);
+}
+
+// ─── Query embedding (lazy load transformers.js model) ─────────────────
+async function ensureEmbedder() {
+  if (STATE.embedder) return STATE.embedder;
+  setHeadStatus('Warming AI encoder (one-time ~25 MB)…', { warn: true });
+  try {
+    STATE.embedder = await pipeline('feature-extraction', 'Xenova/bge-small-en-v1.5');
+  } finally {
+    headStatusReady();
+  }
+  return STATE.embedder;
+}
+
+async function embedQuery(text) {
+  const embedder = await ensureEmbedder();
+  // BGE protocol: mean-pool, then L2-normalize.
+  const out = await embedder(text, { pooling: 'mean', normalize: true });
+  return out.data; // Float32Array length=384
+}
+
+// ─── Load assets ───────────────────────────────────────────────────────
+async function loadAll() {
+  setHeadStatus('Loading archive…');
+  const [meta, docs, embBuf] = await Promise.all([
+    fetch('search_index/meta.json').then(r => r.json()),
+    fetch('search_index/documents.json').then(r => r.json()),
+    fetch('search_index/embeddings.f16.bin').then(r => r.arrayBuffer()),
+  ]);
+  STATE.meta = meta;
+  STATE.docs = docs;
+  STATE.dim = meta.embed_dim;
+
+  const { vecs } = decodeF16Buffer(embBuf, meta.embed_dim);
+  STATE.embeddings = vecs;
+
+  setHeadStatus(`${docs.length.toLocaleString()} pages · building index…`);
+
+  const ms = new MiniSearch({
+    idField: 'id',
+    fields: MS_FIELDS,
+    storeFields: ['id'],
+    extractField: (doc, field) => {
+      const v = doc[field];
+      if (v == null) return '';
+      if (Array.isArray(v)) return v.join(' ');
+      return v;
+    },
+    searchOptions: {
+      boost: MS_WEIGHTS,
+      prefix: true,
+      fuzzy: 0.2,
+      combineWith: 'AND',
+    },
+  });
+  ms.addAll(docs);
+  STATE.miniSearch = ms;
+
+  headStatusReady();
+}
+
+// ─── Search ────────────────────────────────────────────────────────────
+// Race-token guards against out-of-order completion: if the user keeps
+// typing while a slow first-query is still embedding, the stale dense
+// result must not overwrite the newer query's render.
+let QUERY_TOKEN = 0;
+
+async function runSearch(query) {
+  const myToken = ++QUERY_TOKEN;
+  STATE.lastQuery = query || '';
+
+  if (!query || query.trim().length < 2) {
+    renderResults([]);
+    setStatus(`${STATE.docs.length.toLocaleString()} pages indexed`, '');
+    return;
+  }
+
+  const t0 = performance.now();
+
+  // Pre-filter candidates.
+  const candidateIds = [];
+  for (let i = 0; i < STATE.docs.length; i++) {
+    if (passesFilters(STATE.docs[i])) candidateIds.push(i);
+  }
+  if (candidateIds.length === 0) {
+    if (myToken !== QUERY_TOKEN) return;
+    renderResults([]);
+    setStatus('0 matches · no pages pass filters', '');
+    return;
+  }
+  const filterSet = new Set(candidateIds);
+
+  // ── 1) Lexical first ── ms-scale, gives the grid something to show ──
+  const bm25 = STATE.miniSearch.search(query)
+    .filter(r => filterSet.has(r.id))
+    .slice(0, 60)
+    .map(r => [r.id, r.score]);
+
+  if (myToken !== QUERY_TOKEN) return;
+
+  // Render lexical-only first so the page doesn't sit empty while
+  // transformers.js warms up on the first query of the session. We use
+  // RRF on bm25 alone (rank-based; min-max degenerate on single list).
+  const fusedLex = rrf([bm25], 60).slice(0, 40);
+  renderResults(fusedLex.map(([id]) => STATE.docs[id]), query);
+  const dtBm = (performance.now() - t0).toFixed(0);
+  const denseWarming = !STATE.embedder;
+  setStatus(
+    `${fusedLex.length} of ${STATE.docs.length.toLocaleString()} pages`,
+    denseWarming ? `keyword ${bm25.length} · ${dtBm}ms · AI warming…`
+                 : `keyword ${bm25.length} · ${dtBm}ms · AI pending`,
+  );
+
+  // ── 2) Dense retrieval (may warm the encoder on first query) ──
+  let dense = [];
+  try {
+    const qVec = await embedQuery(query);
+    if (myToken !== QUERY_TOKEN) return;   // stale — abandon
+    dense = cosineRanked(qVec, candidateIds, 60);
+  } catch (e) {
+    console.warn('embedder failed', e);
+    setHeadStatus(`AI encoder error: ${e.message || e}`, { error: true });
+  }
+
+  if (myToken !== QUERY_TOKEN) return;
+
+  // ── 3) Final fuse + re-render ──
+  // Weighted score fusion (per-query min-max normalize then α-weighted
+  // sum). Replaces RRF — for our single-domain 4k-doc corpus we'd
+  // rather preserve score magnitudes than rank-only.
+  const alpha = (STATE.alpha != null) ? STATE.alpha : FUSION_ALPHA;
+  const fused = weightedFuse(bm25, dense, alpha).slice(0, 40);
+
+  // Aggregate breakdown for the status line — tells the user how much
+  // each retriever contributed to this query's top-K. We define
+  // "surfaced by X" as appearing in X's top-20 results.
+  const KTAG = 20;
+  const bmTop    = new Set(bm25.slice(0, KTAG).map(([id]) => id));
+  const denseTop = new Set(dense.slice(0, KTAG).map(([id]) => id));
+  let nBoth = 0, nAi = 0, nKey = 0;
+  for (const [id] of fused) {
+    const inBm = bmTop.has(id), inAi = denseTop.has(id);
+    if (inBm && inAi)      nBoth++;
+    else if (inAi)         nAi++;
+    else if (inBm)         nKey++;
+  }
+  const dt = (performance.now() - t0).toFixed(0);
+  setStatus(
+    `${fused.length} of ${STATE.docs.length.toLocaleString()} pages`,
+    `${nBoth} both · ${nAi} AI · ${nKey} keyword · ${dt}ms`,
+  );
+  renderResults(fused.map(([id]) => STATE.docs[id]), query);
+}
+
+// ─── Render ────────────────────────────────────────────────────────────
+function escapeHTML(s) {
+  return String(s).replace(/[&<>"']/g, (c) => (
+    { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
+  ));
+}
+
+// Strip markdown markup down to plain prose for the card-snippet preview.
+// We can't full-render markdown in a 280-char window — the snippet starts
+// mid-paragraph so a partial parse would mangle structure. Removing the
+// sigils + keeping content gives readable text without "## UNCLASSIFIED
+// **MRN:** *Image: ...*" sitting raw in the card. Full markdown still
+// renders in the modal dossier view.
+function stripMarkdown(text) {
+  if (!text) return '';
+  return text
+    // ATX headings: ## CONFIDENTIAL → CONFIDENTIAL
+    .replace(/^#{1,6}\s+/gm, '')
+    // setext underline rules (=== / ---)
+    .replace(/^[=-]{3,}\s*$/gm, '')
+    // Blockquote markers at line start
+    .replace(/^\s*>\s?/gm, '')
+    // Strikethrough
+    .replace(/~~([^~]+)~~/g, '$1')
+    // Inline code backticks
+    .replace(/`+([^`]+)`+/g, '$1')
+    // Links [text](url) → text
+    .replace(/!?\[([^\]]+)\]\([^)]+\)/g, '$1')
+    // Bold/italic — strip the wrapping * or _ but keep content.
+    // Order matters: ** before *.
+    .replace(/\*\*([^*]+)\*\*/g, '$1')
+    .replace(/__([^_]+)__/g, '$1')
+    .replace(/\*([^*\n]+)\*/g, '$1')
+    .replace(/(^|[\s(])_([^_\n]+)_(?=[\s).,!?]|$)/g, '$1$2')
+    // List markers at line start
+    .replace(/^\s*[-*+]\s+/gm, '')
+    .replace(/^\s*\d+\.\s+/gm, '')
+    // Collapse any remaining whitespace (newlines, tabs, etc.) to single space.
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function highlightSnippet(text, query, ctxChars = 280) {
+  if (!text) return '';
+  const cleaned = stripMarkdown(text);
+  const terms = query.toLowerCase().split(/\s+/).filter(t => t.length >= 2);
+  if (terms.length === 0) return escapeHTML(cleaned.slice(0, ctxChars)) + '…';
+
+  // Find the first occurrence of any term; center the snippet on it.
+  const low = cleaned.toLowerCase();
+  let bestPos = -1;
+  for (const t of terms) {
+    const p = low.indexOf(t);
+    if (p >= 0 && (bestPos < 0 || p < bestPos)) bestPos = p;
+  }
+  let start, end;
+  if (bestPos < 0) { start = 0; end = ctxChars; }
+  else {
+    start = Math.max(0, bestPos - 80);
+    end   = Math.min(cleaned.length, start + ctxChars);
+  }
+  let frag = cleaned.slice(start, end);
+  if (start > 0) frag = '…' + frag;
+  if (end < cleaned.length) frag = frag + '…';
+
+  let html = escapeHTML(frag);
+  // Wrap each term in <mark> — case-insensitive, word-aware enough for our scans.
+  for (const t of terms) {
+    const re = new RegExp('(' + t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+    html = html.replace(re, '<mark>$1</mark>');
+  }
+  return html;
+}
+
+function agencyClass(agency) {
+  if (!agency) return '';
+  if (agency.includes('War'))   return 'agency-dow';
+  if (agency.includes('FBI'))   return 'agency-fbi';
+  if (agency.includes('NASA'))  return 'agency-nasa';
+  if (agency.includes('State')) return 'agency-state';
+  return '';
+}
+function agencyShort(agency) {
+  if (!agency) return '—';
+  if (agency.includes('War'))   return 'DOW';
+  if (agency.includes('FBI'))   return 'FBI';
+  if (agency.includes('NASA'))  return 'NASA';
+  if (agency.includes('State')) return 'STATE';
+  return agency;
+}
+
+function renderResults(docs, query = '') {
+  const root = $('results');
+  if (!docs || docs.length === 0) {
+    if (!query) {
+      root.innerHTML = `
+        <div class="empty">
+          <div class="big">ARCHIVE READY</div>
+          ${STATE.docs.length.toLocaleString()} pages indexed · type a query above to begin
+        </div>`;
+    } else {
+      root.innerHTML = `
+        <div class="empty">
+          <div class="big">NO MATCHING RECORDS</div>
+          try fewer terms, drop a filter chip, or check spelling
+        </div>`;
+    }
+    return;
+  }
+
+  const cards = docs.map((d) => {
+    const ac = agencyClass(d.agency);
+    const date = d.incident_date_iso || (d.year ? String(d.year) : '—');
+    const loc  = d.incident_location || '—';
+    const thumb = d.thumb_path
+      ? `<div class="thumb"><img loading="lazy" src="${escapeHTML(d.thumb_path)}" alt=""></div>`
+      : `<div class="thumb missing">NO RENDER</div>`;
+    const snippet = highlightSnippet(d.text || '', query);
+    return `
+      <div class="card ${ac}" data-id="${d.id}">
+        ${thumb}
+        <div class="body">
+          <div class="case-id">
+            <span class="badge ${ac}">${agencyShort(d.agency)}</span>
+            ${escapeHTML(d.record_id || '')}
+          </div>
+          <h3>${escapeHTML(d.title || '(untitled)')}</h3>
+          <div class="meta">
+            ${escapeHTML(date)} <span class="sep">·</span>
+            ${escapeHTML(loc)} <span class="sep">·</span>
+            ${escapeHTML(d.record_type || 'other')}
+          </div>
+          <div class="snippet">${snippet}</div>
+          <div class="footer">
+            <span class="score">PAGE ${d.page_num} / ${d.total_pages || '?'}</span>
+            <span class="open">View dossier ▸</span>
+          </div>
+        </div>
+      </div>`;
+  });
+  root.innerHTML = cards.join('');
+}
+
+// ─── Modal ─────────────────────────────────────────────────────────────
+function openDossier(id) {
+  const d = STATE.docs[id];
+  if (!d) return;
+  $('m-title').textContent  = d.title || '(untitled)';
+  $('m-record').textContent = d.record_id || '—';
+  $('m-page').textContent   = `${d.page_num} / ${d.total_pages || '?'}`;
+  $('m-agency').textContent = d.agency || '—';
+  $('m-type').textContent   = d.record_type || '—';
+  $('m-date').textContent   = d.incident_date_iso || (d.year ? String(d.year) : '—');
+  $('m-loc').textContent    = d.incident_location || '—';
+  const img = $('m-img');
+  if (d.thumb_path) { img.src = d.thumb_path; img.style.display = ''; }
+  else { img.removeAttribute('src'); img.style.display = 'none'; }
+  $('m-pdf').href   = d.source_url || '#';
+  $('m-thumb').href = d.thumb_path || '#';
+
+  const tagsEl = $('m-tags');
+  tagsEl.innerHTML = (d.image_tags && d.image_tags.length)
+    ? d.image_tags.map(t => `<span class="tag" title="${escapeHTML(t)}">${escapeHTML(t.slice(0, 80))}</span>`).join('')
+    : '<span class="tag" style="opacity:0.5">no image tags on this page</span>';
+
+  // Use marked for the body. The corpus text is markdown already.
+  const text = d.text || '';
+  try { $('m-text').innerHTML = marked.parse(text); }
+  catch { $('m-text').textContent = text; }
+  // Light up the same query terms inside the rendered dossier — DOM walk
+  // so we wrap <mark> only in text nodes, never inside link/code tags.
+  if (STATE.lastQuery) highlightInElement($('m-text'), STATE.lastQuery);
+
+  $('modal-back').classList.add('open');
+}
+
+// Walk text nodes of `rootEl` and wrap any occurrence of a query term in
+// <mark>. Used for the modal markdown view so user sees their query hit
+// inside the full page text, not just in the card snippet.
+function highlightInElement(rootEl, query) {
+  if (!rootEl || !query) return;
+  const terms = query.toLowerCase().split(/\s+/).filter(t => t.length >= 2);
+  if (!terms.length) return;
+  const pattern = terms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+  const replaceRe = new RegExp('(' + pattern + ')', 'gi');
+
+  // Skip text already inside <mark>, <code>, <a> — avoid double-wrap and
+  // accidentally hyperlinking inside hrefs.
+  const SKIP = new Set(['MARK', 'CODE', 'A']);
+  const walker = document.createTreeWalker(rootEl, NodeFilter.SHOW_TEXT, null);
+  const targets = [];
+  let n;
+  while ((n = walker.nextNode())) {
+    if (n.parentElement && SKIP.has(n.parentElement.tagName)) continue;
+    if (n.nodeValue && new RegExp(pattern, 'i').test(n.nodeValue)) targets.push(n);
+  }
+  for (const node of targets) {
+    const html = escapeHTML(node.nodeValue).replace(replaceRe, '<mark>$1</mark>');
+    const wrap = document.createElement('span');
+    wrap.innerHTML = html;
+    node.replaceWith(...wrap.childNodes);
+  }
+}
+function closeDossier() { $('modal-back').classList.remove('open'); }
+
+// ─── Status line ───────────────────────────────────────────────────────
+function setStatus(count, timing) {
+  $('status').style.display = '';
+  $('status-count').textContent  = count;
+  $('status-timing').textContent = timing ? ` · ${timing}` : '';
+}
+
+// ─── URL state sync ────────────────────────────────────────────────────
+// Reflect the active query into the address bar so links are shareable
+// without reloading state. history.replaceState avoids piling up history.
+function syncUrl(query) {
+  const url = new URL(location.href);
+  if (query) url.searchParams.set('q', query);
+  else       url.searchParams.delete('q');
+  history.replaceState(null, '', url.toString());
+}
+function readQueryFromUrl() {
+  return (new URL(location.href)).searchParams.get('q') || '';
+}
+
+// First-load lands here. "newspaper clipping flying saucer" is the
+// iconic UAP-archive query — top result is a 1947 FBI Oak Ridge clip
+// with strong visual hook, both retrievers agree, sets the tone for
+// what the corpus actually contains.
+const DEFAULT_QUERY = 'newspaper clipping flying saucer';
+
+// Click-to-fill query examples shown under the search bar. Mix of
+// semantic-friendly (AI shines) and keyword-friendly (BM25 shines) so
+// users can A/B the two regimes by clicking.
+const EXAMPLE_QUERIES = [
+  'how fast did the object move',
+  'silent hovering craft witness',
+  'low-altitude metallic disc',
+  'soviet intelligence assessment',
+  'newspaper clipping flying saucer',
+  'apollo astronaut debriefing',
+];
+
+// ─── UI wiring ─────────────────────────────────────────────────────────
+let searchTimer = null;
+function debounceSearch() {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    const q = $('q').value;
+    syncUrl(q);
+    runSearch(q);
+  }, 180);
+}
+
+function renderExampleChips() {
+  const el = $('examples');
+  if (!el) return;
+  const parts = ['<span class="label">Try</span>'];
+  for (const q of EXAMPLE_QUERIES) {
+    parts.push(`<span class="ex" data-q="${escapeHTML(q)}">${escapeHTML(q)}</span>`);
+  }
+  el.innerHTML = parts.join('');
+  el.addEventListener('click', (e) => {
+    const ex = e.target.closest('.ex');
+    if (!ex) return;
+    const q = ex.dataset.q;
+    $('q').value = q;
+    syncUrl(q);
+    runSearch(q);
+  });
+}
+
+function bindAdvanced() {
+  const slider  = $('alpha');
+  const readout = $('alpha-readout');
+  const reset   = $('alpha-reset');
+  if (!slider) return;
+  const update = () => {
+    const a = parseFloat(slider.value);
+    STATE.alpha = a;
+    if (readout) readout.textContent = `keyword ${(1 - a).toFixed(2)} · AI ${a.toFixed(2)}`;
+  };
+  slider.addEventListener('input', () => {
+    update();
+    // Re-fuse with new alpha — bm25/dense scores are query-dependent
+    // so we re-run search rather than caching them.
+    runSearch($('q').value);
+  });
+  if (reset) reset.addEventListener('click', (e) => {
+    e.preventDefault();
+    slider.value = String(FUSION_ALPHA);
+    update();
+    runSearch($('q').value);
+  });
+  update();   // initial readout sync
+}
+
+function bindUI() {
+  $('q').addEventListener('input', debounceSearch);
+  $('clear').addEventListener('click', () => {
+    $('q').value = ''; syncUrl(''); runSearch(''); $('q').focus();
+  });
+  renderExampleChips();
+  bindAdvanced();
+
+  for (const chip of document.querySelectorAll('.chip')) {
+    chip.addEventListener('click', () => {
+      const f = chip.dataset.filter, v = chip.dataset.value;
+      const set = STATE.filters[f];
+      if (set.has(v)) { set.delete(v); chip.classList.remove('active'); }
+      else { set.add(v); chip.classList.add('active'); }
+      runSearch($('q').value);
+    });
+  }
+  $('reset-filters').addEventListener('click', () => {
+    for (const k of Object.keys(STATE.filters)) STATE.filters[k].clear();
+    for (const c of document.querySelectorAll('.chip.active')) c.classList.remove('active');
+    runSearch($('q').value);
+  });
+
+  // Card click → modal
+  $('results').addEventListener('click', (e) => {
+    const card = e.target.closest('.card');
+    if (!card) return;
+    openDossier(parseInt(card.dataset.id, 10));
+  });
+  $('m-close').addEventListener('click', closeDossier);
+  $('modal-back').addEventListener('click', (e) => {
+    if (e.target === $('modal-back')) closeDossier();
+  });
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeDossier();
+    // '/' focuses the search box, dataset-viewer convention.
+    if (e.key === '/' && document.activeElement !== $('q')) { e.preventDefault(); $('q').focus(); }
+  });
+
+  // Sticky border treatment for the query bar.
+  const qbar = $('qbar-wrap');
+  const sentinel = document.createElement('div');
+  sentinel.style.cssText = 'position:absolute;top:0;height:1px;width:1px;';
+  qbar.parentNode.insertBefore(sentinel, qbar);
+  new IntersectionObserver(([ent]) => {
+    qbar.classList.toggle('stuck', !ent.isIntersecting);
+  }, { rootMargin: '0px 0px 0px 0px' }).observe(sentinel);
+}
+
+// ─── Service worker registration ───────────────────────────────────────
+// Caches search_index/* + thumbnails + CDN deps so reloads are instant.
+// Skipped on file:// origins (no SW support) and dev hot-reload edge cases.
+async function registerSW() {
+  if (!('serviceWorker' in navigator)) return;
+  if (location.protocol === 'file:')   return;
+  try {
+    await navigator.serviceWorker.register('./search-sw.js');
+  } catch (e) {
+    console.warn('SW registration failed', e);
+  }
+}
+
+// ─── Init ──────────────────────────────────────────────────────────────
+(async function init() {
+  bindUI();
+  try {
+    await loadAll();
+    await registerSW();
+    applyFilterCounts(computeFilterCounts(STATE.docs));
+    $('q').disabled = false;
+    $('filters').style.display = '';
+    $('status').style.display = '';
+    setStatus(`${STATE.docs.length.toLocaleString()} pages indexed`, '');
+
+    // Seed: URL ?q=… wins, otherwise show a populated grid out of the box
+    // so the page isn't an empty void on first land.
+    const initial = readQueryFromUrl() || DEFAULT_QUERY;
+    $('q').value = initial;
+    $('q').focus();
+    $('q').setSelectionRange(initial.length, initial.length);
+    syncUrl(initial);
+    await runSearch(initial);
+  } catch (e) {
+    console.error(e);
+    setHeadStatus(`Load failed: ${e.message || e}`, { error: true });
+  }
+})();
+</script>
+</body>
+</html>

@@ -8,10 +8,15 @@ pages/
 !docs/screenshots/*.jpg
 !docs/screenshots/*.jpeg
 !docs/screenshots/*.png
+# v0.2 — branding assets + per-page thumbnails for search UI
+!docs/branding/*.png
+!docs/branding/*.svg
+!web/thumbs/**/*.jpg
 *.mp4
 *.html
 !web/index.html
 !web/dataset.html
+!web/search.html
 *.csv
 !web/data.json
 ufo_page.html

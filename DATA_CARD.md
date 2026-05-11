@@ -1,10 +1,17 @@
-# Data Card - PURSUE Open Atlas v0.1
+# Data Card - PURSUE Open Atlas v0.2
 
 This card documents how the dataset was built, what we know about its
 quality, and where users should be careful. We aim for radical
 transparency: every step that touches the data is described here, and
 every artifact (recheck logs, GPT outputs, original mimo extractions) is
 preserved alongside the corpus so anyone can audit the pipeline.
+
+> **v0.2 update.** Added a fully client-side keyword + AI hybrid search
+> (MiniSearch BM25 + `bge-small-en-v1.5` dense, fused with per-query
+> min-max normalize). Live at <https://ufo.gpt2077.com/search.html>.
+> Source code, schema, and rebuild scripts at
+> <https://github.com/AlexZhangji/ufo-pursue-open-atlas>. No changes to
+> the corpus contents — same 4,153 pages, same fields, same license.
 
 ---
 
@@ -41,8 +48,10 @@ browser headers to bypass.
 | Single-file corpus.jsonl with `page_image_path` | scripted; build with one command |
 | Metadata atlas (CSV → cleaned + geocoded JSON) | done |
 | PDF / IMG download (130 files) | done |
-| Video transcription | deferred to v2 |
-| NASA audio transcription | deferred to v2 |
+| **Hybrid keyword + AI search UI** (BM25 + bge-small-en-v1.5, browser-side) | done (v0.2) |
+| **400 px page thumbnails for search previews** (4,153 JPEGs · ~125 MB) | done (v0.2) |
+| Video transcription | deferred to v3 |
+| NASA audio transcription | deferred to v3 |
 
 The viewer is listed first deliberately. It is the most important
 quality gate this release provides over the raw government dump:

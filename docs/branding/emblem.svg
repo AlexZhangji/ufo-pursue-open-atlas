@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- PURSUE Open Atlas project emblem.
+     Two-tone stamp: archival ink + oxidized red seal accents.
+     Transparent background — best for inline embedding on light pages. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512">
+  <circle cx="50" cy="50" r="47.5" fill="none" stroke="#1a1815" stroke-width="1.1"/>
+  <circle cx="50" cy="50" r="43"   fill="none" stroke="#1a1815" stroke-width="0.45"/>
+  <polygon points="50,15.5 52,21 57.5,21 53,24.3 54.7,29.5 50,26.3 45.3,29.5 47,24.3 42.5,21 48,21"
+           fill="#a83232"/>
+  <circle cx="13.5" cy="50" r="1.1" fill="#1a1815"/>
+  <circle cx="86.5" cy="50" r="1.1" fill="#1a1815"/>
+  <text x="50" y="46" text-anchor="middle"
+        font-family="'IBM Plex Mono', 'Courier New', monospace"
+        font-size="9.5" font-weight="600" letter-spacing="1.5"
+        fill="#1a1815">PURSUE</text>
+  <text x="50" y="58" text-anchor="middle"
+        font-family="'IBM Plex Mono', 'Courier New', monospace"
+        font-size="6.5" letter-spacing="2.5"
+        fill="#1a1815">OPEN · ATLAS</text>
+  <line x1="34" y1="68" x2="66" y2="68" stroke="#a83232" stroke-width="0.5"/>
+  <text x="50" y="78" text-anchor="middle"
+        font-family="'IBM Plex Mono', 'Courier New', monospace"
+        font-size="4.4" letter-spacing="1.3"
+        fill="#a83232">MMXXVI · REL 01</text>
+</svg>

@@ -1,0 +1,26 @@
+{
+  "model_name": "BAAI/bge-small-en-v1.5",
+  "embed_dim": 384,
+  "n_docs": 4153,
+  "built_at": "2026-05-10T23:55:54",
+  "max_text_chars_in_embed": 1500,
+  "embedding_dtype": "float16",
+  "embedding_layout": "row-major (n_docs, embed_dim), L2-normalized",
+  "doc_fields": [
+    "id",
+    "record_id",
+    "pdf_stem",
+    "page_num",
+    "total_pages",
+    "title",
+    "agency",
+    "record_type",
+    "year",
+    "incident_location",
+    "incident_date_iso",
+    "text",
+    "image_tags",
+    "source_url",
+    "thumb_path"
+  ]
+}

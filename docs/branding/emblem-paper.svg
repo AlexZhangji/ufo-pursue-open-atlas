@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- PURSUE Open Atlas emblem on archival-paper square — for repo avatars
+     (GitHub/HF profile + social preview) where transparent backgrounds
+     would vanish on dark themes. Same emblem geometry; paper cream tile
+     baked in so it reads on any host theme. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512">
+  <!-- Paper tile background -->
+  <rect x="0" y="0" width="100" height="100" fill="#f4f1ec"/>
+  <!-- Very faint corner registration marks (archival document feel) -->
+  <g stroke="#d8d0c2" stroke-width="0.3" fill="none">
+    <path d="M 4 8 L 4 4 L 8 4"/>
+    <path d="M 92 4 L 96 4 L 96 8"/>
+    <path d="M 4 92 L 4 96 L 8 96"/>
+    <path d="M 92 96 L 96 96 L 96 92"/>
+  </g>
+  <!-- Emblem -->
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#1a1815" stroke-width="0.9"/>
+  <circle cx="50" cy="50" r="34.5" fill="none" stroke="#1a1815" stroke-width="0.35"/>
+  <polygon points="50,21 51.6,25.4 56.1,25.4 52.5,28 53.9,32.2 50,29.6 46.1,32.2 47.5,28 43.9,25.4 48.4,25.4"
+           fill="#a83232"/>
+  <circle cx="20.5" cy="50" r="0.9" fill="#1a1815"/>
+  <circle cx="79.5" cy="50" r="0.9" fill="#1a1815"/>
+  <text x="50" y="45" text-anchor="middle"
+        font-family="'IBM Plex Mono', 'Courier New', monospace"
+        font-size="7.7" font-weight="600" letter-spacing="1.2"
+        fill="#1a1815">PURSUE</text>
+  <text x="50" y="54.5" text-anchor="middle"
+        font-family="'IBM Plex Mono', 'Courier New', monospace"
+        font-size="5.3" letter-spacing="2.1"
+        fill="#1a1815">OPEN · ATLAS</text>
+  <line x1="38.5" y1="62.5" x2="61.5" y2="62.5" stroke="#a83232" stroke-width="0.4"/>
+  <text x="50" y="71" text-anchor="middle"
+        font-family="'IBM Plex Mono', 'Courier New', monospace"
+        font-size="4" letter-spacing="1.7"
+        fill="#a83232">MMXXVI · REL 01</text>
+</svg>

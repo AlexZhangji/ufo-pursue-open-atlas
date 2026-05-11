@@ -97,6 +97,28 @@
     font-family: 'IBM Plex Mono', ui-monospace, monospace;
     margin-top: 2px;
   }
+  #brand .nav {
+    font-size: 11px; margin-top: 6px;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    letter-spacing: 0.04em;
+    color: var(--text-2);
+  }
+  #brand .nav a {
+    color: var(--text-1); text-decoration: none;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 1px;
+  }
+  #brand .nav a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+  #brand .nav .sep { margin: 0 8px; color: var(--text-3); }
+  #brand .nav .pulse {
+    display: inline-block; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--accent); margin-right: 5px; vertical-align: 1px;
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 0.4; }
+    50%      { opacity: 1; box-shadow: 0 0 6px var(--accent); }
+  }
 
   #stats {
     display: flex; gap: 16px; align-items: flex-start;
@@ -503,6 +525,15 @@
     <div class="eyebrow">Department of War · PURSUE Release 01</div>
     <div class="title">Unidentified Anomalous Phenomena</div>
     <div class="subtitle">2026-05-08 · 161 declassified records · global atlas</div>
+    <div class="nav">
+      <a href="./search.html"><span class="pulse"></span>Search archive</a>
+      <span class="sep">·</span>
+      <a href="./dataset.html">Dataset viewer</a>
+      <span class="sep">·</span>
+      <a href="https://huggingface.co/datasets/alex-zhang42/ufo-pursue-open-atlas" target="_blank" rel="noopener">HF</a>
+      <span class="sep">·</span>
+      <a href="https://github.com/AlexZhangji/ufo-pursue-open-atlas" target="_blank" rel="noopener">GitHub</a>
+    </div>
   </div>
   <div id="stats"></div>
 </div>

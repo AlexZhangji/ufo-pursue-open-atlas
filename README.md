@@ -60,16 +60,19 @@ configs:
 </p>
 
 <p align="center">
-  <em>The U.S. Department of War <strong>PURSUE Release 01</strong> UFO / UAP declassification, re-extracted into <strong>cleaned Markdown with inline image captions</strong> — every photograph, sketch, rubber stamp, and handwritten margin note becomes an <code>*Image: ...*</code> block in the same text stream. Interleaved image-text data derived from 80 years of declassified gov documents, with per-page JPEG renders + interactive 3D atlas. All CC0.</em><br>
-  <sub>161 records · 4,153 pages · ~2 GB image data · 2026-05-08 · v0.1</sub>
+  <em>The U.S. Department of War <strong>PURSUE Release 01</strong> UFO / UAP declassification, re-extracted into <strong>cleaned Markdown with inline image captions</strong> — every photograph, sketch, rubber stamp, and handwritten margin note becomes an <code>*Image: ...*</code> block in the same text stream. Interleaved image-text data derived from 80 years of declassified gov documents, with per-page JPEG renders, interactive 3D atlas, and a fully client-side <strong>keyword + AI hybrid search</strong>. All CC0.</em><br>
+  <sub>161 records · 4,153 pages · ~2 GB image data · 2026-05-11 · v0.2</sub>
 </p>
 
 <p align="center">
   <a href="https://huggingface.co/datasets/alex-zhang42/ufo-pursue-open-atlas">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hub-Dataset-yellow?style=flat-square" alt="HuggingFace Dataset">
   </a>
+  <a href="https://ufo.gpt2077.com/search.html">
+    <img src="https://img.shields.io/badge/Search-Live%20Demo-a83232?style=flat-square" alt="Search Live Demo">
+  </a>
   <a href="https://ufo.gpt2077.com/">
-    <img src="https://img.shields.io/badge/Atlas-Live%20Demo-2ea043?style=flat-square" alt="Live Atlas">
+    <img src="https://img.shields.io/badge/Atlas-Live%20Demo-2ea043?style=flat-square" alt="Atlas Live Demo">
   </a>
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/License-CC0%201.0-0b7dbb?style=flat-square" alt="License: CC0 1.0">
@@ -78,6 +81,7 @@ configs:
 
 <p align="center">
   <a href="#get-started">Get started</a> ·
+  <a href="#search-interface-v02">Search</a> ·
   <a href="#what-it-looks-like">Screenshots</a> ·
   <a href="#schema-one-record-per-page">Schema</a> ·
   <a href="#why-not-just-use-the-embedded-pdf-text">Why VLM</a> ·
@@ -95,8 +99,8 @@ configs:
 | **`pages/train-*-of-00005.parquet`** (5 shards, **on HF only**) | ~2.0 GB | Same per-record fields as `corpus.jsonl` plus an `image` column carrying the 200 DPI JPEG bytes inline as the leftmost column. Built locally by `scripts/build_parquet_shards.py`; published on the [🤗 Hub](https://huggingface.co/datasets/alex-zhang42/ufo-pursue-open-atlas) as the `pages` config (gitignored on GitHub — too large for git). `load_dataset(..., "pages")` returns decoded PIL.Image objects directly. |
 | **`mimo_processed/`** | 25 MB | Per-page Markdown sources (one directory per PDF, with `_meta.json` provenance). |
 | **`image_audit/`** | 8 MB | Per-page audit JSON — mimo judge scores plus GPT-mini outputs. |
-| **`web/`** | <1 MB | Plain HTML + JS source for the **side-by-side dataset viewer** and the **3D globe atlas**. No build step, runs on any static server. |
-| **`pipeline/` + `scripts/`** | source | Full extract → audit → fallback → render → build → validate pipeline. |
+| **`web/`** | ~140 MB | Plain HTML + JS for the **3D globe atlas**, the **side-by-side dataset viewer**, and the v0.2 **keyword + AI search**. Includes precomputed search index (`web/search_index/`, ~13 MB) and 400 px page thumbnails (`web/thumbs/`, ~125 MB) so first-load works offline. No build step, runs on any static server. |
+| **`pipeline/` + `scripts/`** | source | Full extract → audit → fallback → render → build → validate pipeline, plus `build_search_index.py` / `build_thumbnails.py` for the v0.2 search artifacts and `search_cli.py` for offline retrieval QA. |
 | **`corrections.json`** | 20 KB | Every metadata correction (4 location fixes, 1 date fix, 56 inferred N/A dates) with rationale. |
 
 License: [CC0 1.0](./LICENSE). Source documents are works of the U.S.
@@ -124,7 +128,7 @@ print(ds[0]["image"])  # PIL.Image, already decoded
 
 Field map is in [Schema](#schema-one-record-per-page) below; full reference in [`schema.md`](./schema.md).
 
-### Run the atlas + side-by-side viewer locally
+### Run the atlas + viewer + search locally
 The `web/` directory is plain HTML + JS — no build, no Node, no install.
 ```bash
 git clone https://github.com/AlexZhangji/ufo-pursue-open-atlas
@@ -134,11 +138,13 @@ python3 -m http.server 8000 --directory web/
 Then open:
 - `http://localhost:8000/` — **3D globe atlas** (all 161 records by agency × time × location)
 - `http://localhost:8000/dataset.html` — **side-by-side viewer** (every PDF page next to its VLM Markdown)
+- `http://localhost:8000/search.html` — **keyword + AI hybrid search** (v0.2; details [below](#search-interface-v02))
 
 ### Or browse online
 Hosted mirror of the same `web/` directory at:
 - <https://ufo.gpt2077.com/> — atlas
 - <https://ufo.gpt2077.com/dataset.html> — side-by-side viewer
+- <https://ufo.gpt2077.com/search.html> — search (v0.2)
 
 ### Walk per-PDF (if you cloned the repo)
 ```python
@@ -200,6 +206,43 @@ empirical sweep.
 <p align="center">
   <em>1947 FBI archival page mounting a newspaper clipping ("Priest Finds 'Whirring' Disc..."), with a handwritten FBI distribution list down the right margin. The Markdown layer preserves: full article body transcribed verbatim under a "More About Saucers" heading; the distribution list rendered as a bulleted list; date stamps captured inline; and an `*Image:*` block describing the page surface. <strong>Native PDF text on this page: 0 chars.</strong></em>
 </p>
+
+---
+
+## Search interface (v0.2)
+
+**Live:** <https://ufo.gpt2077.com/search.html>
+
+Hybrid <strong>keyword + AI</strong> search across every page of every PDF. Both retrievers run in the browser — no server, no telemetry, query string never leaves your machine.
+
+| Layer | What it does | Tech |
+|---|---|---|
+| Keyword (BM25) | Exact + prefix + fuzzy match over `title`, `text`, `image_tags`, `agency`, `incident_location` with field-weighted boosts. Catches named entities ("Apollo 17", "Section 4"). | [MiniSearch](https://lucaong.github.io/minisearch/) |
+| AI (dense vector) | 384-dim semantic match using <a href="https://huggingface.co/BAAI/bge-small-en-v1.5">bge-small-en-v1.5</a> embeddings. Query is encoded in-browser via transformers.js; page vectors are precomputed offline. Catches paraphrased queries ("how fast did the object move" → 1350 MPH page with zero word overlap). | [transformers.js](https://huggingface.co/docs/transformers.js) |
+| Fusion | Per-query min-max normalize both score lists, weighted sum (default <code>keyword 0.6 / AI 0.4</code>). Slider in **Advanced** to retune live. | — |
+
+**Other niceties**: page thumbnails inline · markdown-stripped readable snippets with query-term highlighting · `?q=...` URL state · agency / era / record-type filter chips with bucket counts · service-worker offline cache (~13 MB index + ~25 MB ONNX model, both cached after first load).
+
+### Rebuild the search index
+Only needed if you change `corpus.jsonl` or want to retune the embedding model.
+
+```bash
+uv sync                                  # installs fastembed + numpy + the rest
+python scripts/build_thumbnails.py       # → web/thumbs/  (~125 MB · 4153 JPEGs)
+python scripts/build_search_index.py     # → web/search_index/  (~13 MB total)
+```
+
+Total runtime ~6 min on a 2024 laptop CPU (no GPU needed; fastembed uses ONNX). Sanity-check retrieval quality before deploying:
+
+```bash
+python scripts/search_cli.py "how fast did the object move"
+python scripts/search_batch.py    # batch eval of 12 candidate UI queries
+```
+
+### Retrieval honesty
+- Tested at **page granularity** — median page is 369 tokens, comfortably within BGE's 512-token window; ~15% of long pages (NASA debriefings, FBI thick volumes) get tail-truncated by the encoder.
+- BM25 here is **bag-of-words**: phrasal queries like "intelligence assessment" don't score for adjacency. Dense retrieval covers most of that gap; if you need true phrase matching, the easiest path is bigram tokenization on the MiniSearch side (~30 min).
+- English only — the corpus and embedding model are both English.
 
 ---
 
