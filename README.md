@@ -56,7 +56,7 @@ configs:
 ---
 
 <p align="center">
-  <img src="./docs/logo.svg" width="520" alt="PURSUE Open Atlas">
+  <img src="./docs/branding/banner.svg" width="560" alt="PURSUE Open Atlas — UAP Declassification, Release 01">
 </p>
 
 <p align="center">
@@ -211,7 +211,13 @@ empirical sweep.
 
 ## Search interface (v0.2)
 
-**Live:** <https://ufo.gpt2077.com/search.html>
+<p align="center">
+  <img src="./docs/screenshots/search-archive-newspaper-clipping.jpg" width="900" alt="Browser screenshot of the PURSUE Open Atlas hybrid search at ufo.gpt2077.com/search.html: dossier-style UI showing a search for ‘newspaper with comments’ across 4153 declassified pages, with filter chips for agency / era / record type each annotated with bucket counts, and a three-up grid of result cards showing 1957 FBI newspaper clippings about flying saucers with markdown-stripped snippets and query-term underlines">
+</p>
+
+<p align="center">
+  <em>Live at <a href="https://ufo.gpt2077.com/search.html">ufo.gpt2077.com/search.html</a>. Stamp-style header with the same wax-seal emblem on this README, query bar with a row of click-to-fill examples, filter chips annotated with bucket counts (DOW 1,346 · FBI 2,417 · ...), and a multi-column grid of result cards. Default query ships as <code>newspaper clipping flying saucer</code> so first-load shows the corpus's most visually distinctive pages.</em>
+</p>
 
 Hybrid <strong>keyword + AI</strong> search across every page of every PDF. Both retrievers run in the browser — no server, no telemetry, query string never leaves your machine.
 
