@@ -20,6 +20,14 @@
 <meta name="twitter:title" content="PURSUE · UAP Release 01 · Global Atlas">
 <meta name="twitter:description" content="161 UAP records declassified by the U.S. Department of War, plotted across a 3D globe and an 80-year timeline.">
 <meta name="twitter:image" content="https://lab.gpt2077.com/ufo/og-card.jpg">
+<script>
+  // Tag prod loads early (before CSS parse) so .local-only nav items
+  // hide without flicker. Local dev (localhost / 127.* / file:) shows
+  // them — that's the only place the dataset viewer actually works.
+  if (location.protocol !== 'file:' && !/^(localhost|127\.|\[::1\])/.test(location.hostname)) {
+    document.documentElement.classList.add('is-prod');
+  }
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -110,6 +118,10 @@
   }
   #brand .nav a:hover { color: var(--accent); border-bottom-color: var(--accent); }
   #brand .nav .sep { margin: 0 8px; color: var(--text-3); }
+  /* Dataset viewer needs raw PDFs (war.gov, CORS-locked) + mimo_processed
+     (gitignored on prod). Promote it locally only — clone the repo + run
+     python -m http.server to use it. */
+  html.is-prod .local-only { display: none !important; }
   #brand .nav .pulse {
     display: inline-block; width: 6px; height: 6px; border-radius: 50%;
     background: var(--accent); margin-right: 5px; vertical-align: 1px;
@@ -527,8 +539,8 @@
     <div class="subtitle">2026-05-08 · 161 declassified records · global atlas</div>
     <div class="nav">
       <a href="./search.html"><span class="pulse"></span>Search archive</a>
-      <span class="sep">·</span>
-      <a href="./dataset.html">Dataset viewer</a>
+      <span class="sep local-only">·</span>
+      <a href="./dataset.html" class="local-only">Dataset viewer</a>
       <span class="sep">·</span>
       <a href="https://huggingface.co/datasets/alex-zhang42/ufo-pursue-open-atlas" target="_blank" rel="noopener">HF</a>
       <span class="sep">·</span>

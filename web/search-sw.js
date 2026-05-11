@@ -16,7 +16,7 @@
  * indexes get garbage-collected on the next reload.
  */
 
-const CACHE_VERSION = 'pursue-search-v8';
+const CACHE_VERSION = 'pursue-search-v9';
 
 // Listed for documentation, not for install-time prefetch — we let the
 // first page load drive the cache populate so the user doesn't pay 13 MB

@@ -8,6 +8,12 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="PURSUE · Search Archive">
 <meta property="og:description" content="Keyword + AI search over 4153 declassified UAP pages — fully in your browser, no server.">
+<script>
+  // Tag prod loads early so .local-only nav items hide without flicker.
+  if (location.protocol !== 'file:' && !/^(localhost|127\.|\[::1\])/.test(location.hostname)) {
+    document.documentElement.classList.add('is-prod');
+  }
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Special+Elite&display=swap" rel="stylesheet">
@@ -97,6 +103,9 @@
   .topbar-right a { color: var(--text-1); border-bottom: none; }
   .topbar-right a:hover { color: var(--accent); }
   .topbar-right .sep { color: var(--text-3); }
+  /* Dataset viewer link hidden in prod (raw PDFs on war.gov are
+     CORS-locked, mimo_processed/ isn't deployed). Local clones see it. */
+  html.is-prod .local-only { display: none !important; }
 
   /* ─── Page heading ─────────────────────────────────────────────────── */
   /* Title text hugs the left page-padding so it aligns with the QUERY
@@ -747,8 +756,8 @@
   </div>
   <div class="topbar-right">
     <a href="./index.html">Globe</a>
-    <span class="sep">·</span>
-    <a href="./dataset.html">Dataset Viewer</a>
+    <span class="sep local-only">·</span>
+    <a href="./dataset.html" class="local-only">Dataset Viewer</a>
     <span class="sep">·</span>
     <a href="https://huggingface.co/datasets/alex-zhang42/ufo-pursue-open-atlas" target="_blank" rel="noopener">HF</a>
     <span class="sep">·</span>
